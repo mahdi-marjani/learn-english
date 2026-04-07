@@ -2,6 +2,7 @@
 
 ## 📑 Table of Contents
 
+- [foreword](#foreword)
 - [Part 1: Fundamentals](#part-1-fundamentals)
   - [Chapter 1: Introduction](#chapter-1-introduction)
   - [Chapter 2: PyTorch Basics](#chapter-2-pytorch-basics)
@@ -9,6 +10,22 @@
 - [Part 2: Deep Learning](#part-2-deep-learning)
   - [Chapter 4: Neural Networks](#chapter-4-neural-networks)
   - [Chapter 5: Training](#chapter-5-training)
+
+---
+
+## foreword
+
+- **deep learning** /diːp ˈlɜː.nɪŋ/ - a subset of machine learning
+  یادگیری عمیق – شاخه‌ای از یادگیری ماشین با شبکه‌های عصبی چندلایه
+
+- **prerequisite** /ˌpriːˈrek.wə.zɪt/ - required prior knowledge
+  پیش‌نیاز – دانش مورد نیاز قبل از مطالعه
+
+- **motivation** /ˌməʊ.tɪˈveɪ.ʃən/ - reason for writing the book
+  انگیزه – دلیل نگارش کتاب و اهمیت موضوع
+
+- **audience** /ˈɔː.di.əns/ - target readers
+  مخاطب – خوانندگانی که کتاب برای آنها نوشته شده است
 
 ---
 
