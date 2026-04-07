@@ -3,11 +3,17 @@ import sys
 import re
 
 PERSIAN_PATTERN = re.compile(r'[\u0600-\u06FF\uFB50-\uFDFF\uFE70-\uFEFF]')
+ENGLISH_PATTERN = re.compile(r'[A-Za-z]')
 
 def has_persian(text):
     if not isinstance(text, str):
         return False
     return bool(PERSIAN_PATTERN.search(text))
+
+def has_english(text):
+    if not isinstance(text, str):
+        return False
+    return bool(ENGLISH_PATTERN.search(text))
 
 def slugify(text):
     text = text.lower()
@@ -66,6 +72,10 @@ def write_section(section, level):
             mean_fa_val = w.get('mean_fa')
             if mean_fa_val and not has_persian(mean_fa_val):
                 print(f"⚠️ Warning: No Persian characters in 'mean_fa' for word '{w['word']}' (section: {heading})", file=sys.stderr)
+            
+            mean_en_val = w.get('mean_en')
+            if mean_en_val and not has_english(mean_en_val):
+                print(f"⚠️ Warning: No English characters in 'mean_en' for word '{w['word']}' (section: {heading})", file=sys.stderr)
     
     if 'subsections' in section:
         for sub in section['subsections']:
