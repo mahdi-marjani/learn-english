@@ -7,25 +7,25 @@
         {
           "word": "deep learning",
           "phonetic": "/diːp ˈlɜː.nɪŋ/",
-          "mean_fa": "یادگیری عمیق – شاخه‌ای از یادگیری ماشین با شبکه‌های عصبی چندلایه",
+          "mean_fa": "",
           "mean_en": "a subset of machine learning"
         },
         {
           "word": "prerequisite",
           "phonetic": "/ˌpriːˈrek.wə.zɪt/",
-          "mean_fa": "پیش‌نیاز – دانش مورد نیاز قبل از مطالعه",
-          "mean_en": "required prior knowledge"
+          "mean_fa": "پیش‌نیاز",
+          "mean_en": ""
         },
         {
           "word": "motivation",
-          "phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
+          "phonetic": "",
           "mean_fa": "انگیزه – دلیل نگارش کتاب و اهمیت موضوع",
           "mean_en": "reason for writing the book"
         },
         {
           "word": "audience",
-          "phonetic": "/ˈɔː.di.əns/",
-          "mean_fa": "مخاطب – خوانندگانی که کتاب برای آنها نوشته شده است",
+          "phonetic": "",
+          "mean_fa": "",
           "mean_en": "target readers"
         }
       ]

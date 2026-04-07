@@ -19,8 +19,10 @@ def write_section(section, level):
     toc.append('  ' * level + f"- [{heading}](#{anchor})")
     if 'words' in section:
         for w in section['words']:
-            lines.append(f"- **{w['word']}** {w['phonetic']} - {w['mean_en']}")
-            lines.append(f"  {w['mean_fa']}\n")
+            phonetic = f' {w['phonetic']}' if w['phonetic'] else ''
+            mean_separator = ' - ' if w['mean_en'] and w['mean_fa'] else ''
+            lines.append(f"- **{w['word']}**{phonetic} : {w['mean_en']}")
+            lines.append(f"{mean_separator}{w['mean_fa']}\n")
     if 'subsections' in section:
         for sub in section['subsections']:
             write_section(sub, level + 1)
