@@ -1,0 +1,147 @@
+{
+  "title": "Deep Learning with PyTorch - Vocabulary",
+  "sections": [
+    {
+      "heading": "foreword",
+      "words": [
+        {
+          "word": "deep learning",
+          "phonetic": "/diːp ˈlɜː.nɪŋ/",
+          "mean_fa": "یادگیری عمیق – شاخه‌ای از یادگیری ماشین با شبکه‌های عصبی چندلایه",
+          "mean_en": "a subset of machine learning"
+        },
+        {
+          "word": "prerequisite",
+          "phonetic": "/ˌpriːˈrek.wə.zɪt/",
+          "mean_fa": "پیش‌نیاز – دانش مورد نیاز قبل از مطالعه",
+          "mean_en": "required prior knowledge"
+        },
+        {
+          "word": "motivation",
+          "phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
+          "mean_fa": "انگیزه – دلیل نگارش کتاب و اهمیت موضوع",
+          "mean_en": "reason for writing the book"
+        },
+        {
+          "word": "audience",
+          "phonetic": "/ˈɔː.di.əns/",
+          "mean_fa": "مخاطب – خوانندگانی که کتاب برای آنها نوشته شده است",
+          "mean_en": "target readers"
+        }
+      ]
+    },
+    {
+      "heading": "Part 1: Fundamentals",
+      "subsections": [
+        {
+          "heading": "Chapter 1: Introduction",
+          "words": [
+            {
+              "word": "tensor",
+              "phonetic": "/ˈten.sər/",
+              "mean_fa": "آرایه چندبعدی – پایه داده‌ها در PyTorch",
+              "mean_en": "a multi-dimensional array"
+            },
+            {
+              "word": "scalar",
+              "phonetic": "/ˈskeɪ.lər/",
+              "mean_fa": "عدد مفرد – تانسور با بعد صفر",
+              "mean_en": "a single number"
+            },
+            {
+              "word": "vector",
+              "phonetic": "/ˈvek.tər/",
+              "mean_fa": "تانسور یک‌بعدی – لیستی از اعداد",
+              "mean_en": "1D tensor"
+            }
+          ]
+        },
+        {
+          "heading": "Chapter 2: PyTorch Basics",
+          "words": [
+            {
+              "word": "gradient",
+              "phonetic": "/ˈɡreɪ.di.ənt/",
+              "mean_fa": "مشتق تابع – میزان تغییر خروجی نسبت به ورودی",
+              "mean_en": "derivative of function"
+            },
+            {
+              "word": "parameter",
+              "phonetic": "/pəˈræm.ɪ.tər/",
+              "mean_fa": "متغیر قابل آموزش – مقداری که مدل یاد می‌گیرد",
+              "mean_en": "trainable variable"
+            }
+          ]
+        },
+        {
+          "heading": "Chapter 3: Gradients",
+          "words": [
+            {
+              "word": "backpropagation",
+              "phonetic": "/ˌbæk.prɒp.əˈɡeɪ.ʃən/",
+              "mean_fa": "الگوریتم محاسبه گرادیان – قلب یادگیری عمیق",
+              "mean_en": "algorithm for computing gradients"
+            },
+            {
+              "word": "optimizer",
+              "phonetic": "/ˈɒp.tɪ.maɪ.zər/",
+              "mean_fa": "الگوریتم به‌روزرسانی پارامترها – مثل SGD یا Adam",
+              "mean_en": "algorithm that updates parameters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part 2: Deep Learning",
+      "subsections": [
+        {
+          "heading": "Chapter 4: Neural Networks",
+          "words": [
+            {
+              "word": "neuron",
+              "phonetic": "/ˈnjʊə.rɒn/",
+              "mean_fa": "نورون – واحد پایه شبکه عصبی",
+              "mean_en": "basic unit of neural network"
+            },
+            {
+              "word": "layer",
+              "phonetic": "/ˈleɪ.ər/",
+              "mean_fa": "لایه – مجموعه‌ای از نورون‌ها",
+              "mean_en": "collection of neurons"
+            },
+            {
+              "word": "activation function",
+              "phonetic": "/ˌæk.tɪˈveɪ.ʃən ˈfʌŋk.ʃən/",
+              "mean_fa": "تابع فعال‌سازی – تبدیل غیرخطی برای معرفی پیچیدگی",
+              "mean_en": "non-linear transformation"
+            }
+          ]
+        },
+        {
+          "heading": "Chapter 5: Training",
+          "words": [
+            {
+              "word": "epoch",
+              "phonetic": "/ˈiː.pɒk/",
+              "mean_fa": "دوره – یک بار کامل دیدن کل داده‌های آموزش",
+              "mean_en": "one complete pass through training data"
+            },
+            {
+              "word": "batch",
+              "phonetic": "/bætʃ/",
+              "mean_fa": "دسته – زیرمجموعه‌ای از داده‌ها که با هم پردازش می‌شوند",
+              "mean_en": "subset of training data"
+            },
+            {
+              "word": "loss function",
+              "phonetic": "/lɒs ˈfʌŋk.ʃən/",
+              "mean_fa": "تابع ضرر – خطای مدل را اندازه می‌گیرد",
+              "mean_en": "measures model error"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
