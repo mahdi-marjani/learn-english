@@ -13,7 +13,7 @@
 ---
 
 ## Deep Learning with PyTorch (39 words)
-- **foreword** : پیش گفتار
+- **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
 - **distributed** : توزیع شده
 - **order** : سفارش
 - **offers** : ارائه می‌دهد
