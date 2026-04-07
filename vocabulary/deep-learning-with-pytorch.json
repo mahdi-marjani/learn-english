@@ -1,0 +1,1872 @@
+{
+  "title": "Deep Learning with PyTorch - Vocabulary",
+  "sections": [
+    {
+      "heading": "Deep Learning with PyTorch",
+      "words": [
+        {
+          "word": "foreword",
+          "phonetic": "",
+          "mean_fa": "پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)",
+          "mean_en": ""
+        },
+        {
+          "word": "distributed",
+          "phonetic": "",
+          "mean_fa": "توزیع شده",
+          "mean_en": ""
+        },
+        {
+          "word": "order",
+          "phonetic": "",
+          "mean_fa": "سفارش",
+          "mean_en": ""
+        },
+        {
+          "word": "offers",
+          "phonetic": "",
+          "mean_fa": "ارائه می‌دهد",
+          "mean_en": ""
+        },
+        {
+          "word": "discounts",
+          "phonetic": "",
+          "mean_fa": "تخفیف ها",
+          "mean_en": ""
+        },
+        {
+          "word": "quantity",
+          "phonetic": "",
+          "mean_fa": "تعداد یا حجم (سفارش عمده)",
+          "mean_en": ""
+        },
+        {
+          "word": "all rights reserved",
+          "phonetic": "",
+          "mean_fa": "کلیه حقوق محفوظ است",
+          "mean_en": ""
+        },
+        {
+          "word": "publication",
+          "phonetic": "",
+          "mean_fa": "انتشار",
+          "mean_en": ""
+        },
+        {
+          "word": "reproduced",
+          "phonetic": "",
+          "mean_fa": "بازتولید شده (کپی کردن)",
+          "mean_en": ""
+        },
+        {
+          "word": "retrieval system",
+          "phonetic": "",
+          "mean_fa": "سیستم بازیابی",
+          "mean_en": ""
+        },
+        {
+          "word": "transmitted",
+          "phonetic": "",
+          "mean_fa": "منتقل شده",
+          "mean_en": ""
+        },
+        {
+          "word": "in any form or by means",
+          "phonetic": "",
+          "mean_fa": "به هیچ شکل یا از هیچ وسیله‌ای",
+          "mean_en": ""
+        },
+        {
+          "word": "otherwise",
+          "phonetic": "",
+          "mean_fa": "غیره",
+          "mean_en": ""
+        },
+        {
+          "word": "prior",
+          "phonetic": "",
+          "mean_fa": "قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد",
+          "mean_en": ""
+        },
+        {
+          "word": "designations",
+          "phonetic": "",
+          "mean_fa": "اصطلاحات",
+          "mean_en": ""
+        },
+        {
+          "word": "distinguish",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "set apart"
+        },
+        {
+          "word": "trademarks",
+          "phonetic": "",
+          "mean_fa": "علامت‌های تجاری",
+          "mean_en": ""
+        },
+        {
+          "word": "appear",
+          "phonetic": "",
+          "mean_fa": "ظاهر شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "aware",
+          "phonetic": "",
+          "mean_fa": "آگاه",
+          "mean_en": ""
+        },
+        {
+          "word": "caps",
+          "phonetic": "",
+          "mean_fa": "مخفف Capital letters",
+          "mean_en": ""
+        },
+        {
+          "word": "recognizing",
+          "phonetic": "",
+          "mean_fa": "درک کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "importance",
+          "phonetic": "",
+          "mean_fa": "اهمیت",
+          "mean_en": ""
+        },
+        {
+          "word": "preserving",
+          "phonetic": "",
+          "mean_fa": "حفظ کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "policy",
+          "phonetic": "",
+          "mean_fa": "سیاست",
+          "mean_en": ""
+        },
+        {
+          "word": "acid-free",
+          "phonetic": "",
+          "mean_fa": "بدون اسید",
+          "mean_en": ""
+        },
+        {
+          "word": "exert",
+          "phonetic": "",
+          "mean_fa": "اعمال کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "efforts",
+          "phonetic": "",
+          "mean_fa": "تلاش‌ها",
+          "mean_en": ""
+        },
+        {
+          "word": "responsibility",
+          "phonetic": "",
+          "mean_fa": "مسئولیت",
+          "mean_en": ""
+        },
+        {
+          "word": "planet",
+          "phonetic": "",
+          "mean_fa": "سیاره",
+          "mean_en": ""
+        },
+        {
+          "word": "least",
+          "phonetic": "",
+          "mean_fa": "حداقل",
+          "mean_en": ""
+        },
+        {
+          "word": "recycled",
+          "phonetic": "",
+          "mean_fa": "بازیافتی",
+          "mean_en": ""
+        },
+        {
+          "word": "processed",
+          "phonetic": "",
+          "mean_fa": "فرآوری شده",
+          "mean_en": ""
+        },
+        {
+          "word": "elemental chlorine",
+          "phonetic": "",
+          "mean_fa": "کلر عنصری",
+          "mean_en": ""
+        },
+        {
+          "word": "happened",
+          "phonetic": "",
+          "mean_fa": "اتفاق افتاد",
+          "mean_en": ""
+        },
+        {
+          "word": "invaluable",
+          "phonetic": "",
+          "mean_fa": "فوق العاده ارزشمند",
+          "mean_en": ""
+        },
+        {
+          "word": "partnership",
+          "phonetic": "",
+          "mean_fa": "مشارکت",
+          "mean_en": ""
+        },
+        {
+          "word": "being",
+          "phonetic": "",
+          "mean_fa": "بودن",
+          "mean_en": ""
+        },
+        {
+          "word": "joy",
+          "phonetic": "",
+          "mean_fa": "لذت",
+          "mean_en": ""
+        },
+        {
+          "word": "same",
+          "phonetic": "",
+          "mean_fa": "مشابه، همینطور",
+          "mean_en": ""
+        }
+      ]
+    },
+    {
+      "heading": "foreword",
+      "words": [
+        {
+          "word": "author",
+          "phonetic": "",
+          "mean_fa": "نویسنده",
+          "mean_en": ""
+        },
+        {
+          "word": "instrumental",
+          "phonetic": "",
+          "mean_fa": "تأثیرگذار",
+          "mean_en": ""
+        },
+        {
+          "word": "flexible",
+          "phonetic": "",
+          "mean_fa": "انعطاف پذیر",
+          "mean_en": ""
+        },
+        {
+          "word": "express",
+          "phonetic": "",
+          "mean_fa": "بیان کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "executed",
+          "phonetic": "",
+          "mean_fa": "اجرا کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "relatively",
+          "phonetic": "",
+          "mean_fa": "نسبتاً",
+          "mean_en": ""
+        },
+        {
+          "word": "polished",
+          "phonetic": "",
+          "mean_fa": "صیقل داده‌شده",
+          "mean_en": ""
+        },
+        {
+          "word": "standing on the shoulders of giants",
+          "phonetic": "",
+          "mean_fa": "استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته",
+          "mean_en": ""
+        },
+        {
+          "word": "shoulder",
+          "phonetic": "",
+          "mean_fa": "شانه",
+          "mean_en": ""
+        },
+        {
+          "word": "derives",
+          "phonetic": "",
+          "mean_fa": "منبع گرفتن از",
+          "mean_en": ""
+        },
+        {
+          "word": "significant",
+          "phonetic": "",
+          "mean_fa": "مهم",
+          "mean_en": ""
+        },
+        {
+          "word": "pioneered",
+          "phonetic": "",
+          "mean_fa": "پیشگام بودن",
+          "mean_en": ""
+        },
+        {
+          "word": "rich",
+          "phonetic": "",
+          "mean_fa": "غنی",
+          "mean_en": ""
+        },
+        {
+          "word": "rather",
+          "phonetic": "",
+          "mean_fa": "ترجیحاً",
+          "mean_en": ""
+        },
+        {
+          "word": "conceptually",
+          "phonetic": "",
+          "mean_fa": "از نظر مفهومی",
+          "mean_en": ""
+        },
+        {
+          "word": "scratch",
+          "phonetic": "",
+          "mean_fa": "شروع از صفر",
+          "mean_en": ""
+        },
+        {
+          "word": "attribute",
+          "phonetic": "",
+          "mean_fa": "عامل دانستن",
+          "mean_en": ""
+        },
+        {
+          "word": "enhanced",
+          "phonetic": "",
+          "mean_fa": "تقویت‌شده",
+          "mean_en": ""
+        },
+        {
+          "word": "debuggability",
+          "phonetic": "",
+          "mean_fa": "قابلیت اشکال‌زدایی",
+          "mean_en": ""
+        },
+        {
+          "word": "flexibility",
+          "phonetic": "",
+          "mean_fa": "انعطاف‌پذیری",
+          "mean_en": ""
+        },
+        {
+          "word": "ultimately",
+          "phonetic": "",
+          "mean_fa": "در نهایت",
+          "mean_en": ""
+        },
+        {
+          "word": "productive",
+          "phonetic": "",
+          "mean_fa": "کارآمد",
+          "mean_en": ""
+        },
+        {
+          "word": "huge",
+          "phonetic": "",
+          "mean_fa": "عظیم",
+          "mean_en": ""
+        },
+        {
+          "word": "adoption",
+          "phonetic": "",
+          "mean_fa": "پذیرش",
+          "mean_en": ""
+        },
+        {
+          "word": "research",
+          "phonetic": "",
+          "mean_fa": "تحقیق",
+          "mean_en": ""
+        },
+        {
+          "word": "built on",
+          "phonetic": "",
+          "mean_fa": "بنا شده بر",
+          "mean_en": ""
+        },
+        {
+          "word": "curricula",
+          "phonetic": "",
+          "mean_fa": "برنامه‌های درسی",
+          "mean_en": ""
+        },
+        {
+          "word": "tutorials",
+          "phonetic": "",
+          "mean_fa": "آموزش‌های گام‌به‌گام",
+          "mean_en": ""
+        },
+        {
+          "word": "offered",
+          "phonetic": "",
+          "mean_fa": "ارائه شده",
+          "mean_en": ""
+        },
+        {
+          "word": "guarantee",
+          "phonetic": "",
+          "mean_fa": "تضمین کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "outdated",
+          "phonetic": "",
+          "mean_fa": "از رده خارج شده",
+          "mean_en": ""
+        },
+        {
+          "word": "definitive",
+          "phonetic": "",
+          "mean_fa": "قطعی",
+          "mean_en": ""
+        },
+        {
+          "word": "treatise",
+          "phonetic": "",
+          "mean_fa": "مقاله",
+          "mean_en": ""
+        },
+        {
+          "word": "abstractions",
+          "phonetic": "",
+          "mean_fa": "چکیده مفاهیم",
+          "mean_en": ""
+        },
+        {
+          "word": "tearing apart",
+          "phonetic": "",
+          "mean_fa": "از هم باز کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "underpinnings",
+          "phonetic": "",
+          "mean_fa": "زیربناها",
+          "mean_en": ""
+        },
+        {
+          "word": "implementation",
+          "phonetic": "",
+          "mean_fa": "پیاده‌سازی",
+          "mean_en": ""
+        },
+        {
+          "word": "additionally",
+          "phonetic": "",
+          "mean_fa": "علاوه بر این",
+          "mean_en": ""
+        },
+        {
+          "word": "subjects",
+          "phonetic": "",
+          "mean_fa": "موضوعات",
+          "mean_en": ""
+        },
+        {
+          "word": "jit",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "Just-In-Time"
+        },
+        {
+          "word": "aspect",
+          "phonetic": "",
+          "mean_fa": "وجه",
+          "mean_en": ""
+        },
+        {
+          "word": "through",
+          "phonetic": "",
+          "mean_fa": "از طریق",
+          "mean_en": ""
+        },
+        {
+          "word": "expertise",
+          "phonetic": "",
+          "mean_fa": "تخصص",
+          "mean_en": ""
+        },
+        {
+          "word": "bioengineering",
+          "phonetic": "",
+          "mean_fa": "مهندسی زیستی",
+          "mean_en": ""
+        },
+        {
+          "word": "imaging",
+          "phonetic": "",
+          "mean_fa": "تصویربرداری",
+          "mean_en": ""
+        },
+        {
+          "word": "practical",
+          "phonetic": "",
+          "mean_fa": "عملی",
+          "mean_en": ""
+        },
+        {
+          "word": "journey",
+          "phonetic": "",
+          "mean_fa": "مسیری که طی می‌شود",
+          "mean_en": ""
+        },
+        {
+          "word": "treated",
+          "phonetic": "",
+          "mean_fa": "مورد بررسی قرار گرفته",
+          "mean_en": ""
+        },
+        {
+          "word": "all in all",
+          "phonetic": "",
+          "mean_fa": "در مجموع",
+          "mean_en": ""
+        },
+        {
+          "word": "becomes",
+          "phonetic": "",
+          "mean_fa": "“تبدیل شدن” یا “شدن”",
+          "mean_en": ""
+        },
+        {
+          "word": "extended”",
+          "phonetic": "",
+          "mean_fa": "گسترش یافته",
+          "mean_en": ""
+        },
+        {
+          "word": "workshop",
+          "phonetic": "",
+          "mean_fa": "کارگاه (آموزشی)",
+          "mean_en": ""
+        }
+      ]
+    },
+    {
+      "heading": "preface",
+      "words": [
+        {
+          "word": "preface",
+          "phonetic": "",
+          "mean_fa": "مقدمه",
+          "mean_en": ""
+        },
+        {
+          "word": "as kids",
+          "phonetic": "",
+          "mean_fa": "وقتی بچه بودیم",
+          "mean_en": ""
+        },
+        {
+          "word": "sinclair spectrum 48k (luca)",
+          "phonetic": "",
+          "mean_fa": "نام چند کامپیوتر قدیمی",
+          "mean_en": ""
+        },
+        {
+          "word": "commodore vic 20 (eli)",
+          "phonetic": "",
+          "mean_fa": "نام چند کامپیوتر قدیمی",
+          "mean_en": ""
+        },
+        {
+          "word": "commodore c16 (thomas)",
+          "phonetic": "",
+          "mean_fa": "نام چند کامپیوتر قدیمی",
+          "mean_en": ""
+        },
+        {
+          "word": "dawn",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "start (of something big or new)"
+        },
+        {
+          "word": "dreamed",
+          "phonetic": "",
+          "mean_fa": "رؤیا دیدیم",
+          "mean_en": ""
+        },
+        {
+          "word": "take",
+          "phonetic": "",
+          "mean_fa": "بردن",
+          "mean_en": ""
+        },
+        {
+          "word": "collective",
+          "phonetic": "",
+          "mean_fa": "دسته‌جمعی",
+          "mean_en": ""
+        },
+        {
+          "word": "rolling our eyes",
+          "phonetic": "",
+          "mean_fa": "چشم‌ها را چرخاندن در واکنش به چیزی احمقانه",
+          "mean_en": ""
+        },
+        {
+          "word": "spy",
+          "phonetic": "",
+          "mean_fa": "جاسوس",
+          "mean_en": ""
+        },
+        {
+          "word": "later on",
+          "phonetic": "",
+          "mean_fa": "بعدها",
+          "mean_en": ""
+        },
+        {
+          "word": "during",
+          "phonetic": "",
+          "mean_fa": "حین",
+          "mean_en": ""
+        },
+        {
+          "word": "independently",
+          "phonetic": "",
+          "mean_fa": "به‌صورت مستقل",
+          "mean_en": ""
+        },
+        {
+          "word": "ourselves",
+          "phonetic": "",
+          "mean_fa": "خودمون",
+          "mean_en": ""
+        },
+        {
+          "word": "facing",
+          "phonetic": "",
+          "mean_fa": "رو به رو شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "kind",
+          "phonetic": "",
+          "mean_fa": "نوع",
+          "mean_en": ""
+        },
+        {
+          "word": "struggle",
+          "phonetic": "",
+          "mean_fa": "تلاش سخت",
+          "mean_en": ""
+        },
+        {
+          "word": "variability",
+          "phonetic": "",
+          "mean_fa": "تغییرپذیری",
+          "mean_en": ""
+        },
+        {
+          "word": "heuristics",
+          "phonetic": "",
+          "mean_fa": "روش‌های اکتشافی",
+          "mean_en": ""
+        },
+        {
+          "word": "involved",
+          "phonetic": "",
+          "mean_fa": "شامل",
+          "mean_en": ""
+        },
+        {
+          "word": "went",
+          "phonetic": "",
+          "mean_fa": "رفت (past of go)",
+          "mean_en": ""
+        },
+        {
+          "word": "came about",
+          "phonetic": "",
+          "mean_fa": "به وجود آمد",
+          "mean_en": ""
+        },
+        {
+          "word": "appearance",
+          "phonetic": "",
+          "mean_fa": "ظاهر شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "being applied",
+          "phonetic": "",
+          "mean_fa": "در حال اعمال شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "identification",
+          "phonetic": "",
+          "mean_fa": "شناسایی",
+          "mean_en": ""
+        },
+        {
+          "word": "lesions",
+          "phonetic": "",
+          "mean_fa": "آسیب موضعی",
+          "mean_en": ""
+        },
+        {
+          "word": "decade",
+          "phonetic": "",
+          "mean_fa": "دهه",
+          "mean_en": ""
+        },
+        {
+          "word": "appeared",
+          "phonetic": "",
+          "mean_fa": "ظاهر شد",
+          "mean_en": ""
+        },
+        {
+          "word": "individual",
+          "phonetic": "",
+          "mean_fa": "شخصی",
+          "mean_en": ""
+        },
+        {
+          "word": "took a bit",
+          "phonetic": "",
+          "mean_fa": "کمی طول کشید",
+          "mean_en": ""
+        },
+        {
+          "word": "realize",
+          "phonetic": "",
+          "mean_fa": "فهمیدن",
+          "mean_en": ""
+        },
+        {
+          "word": "represented",
+          "phonetic": "",
+          "mean_fa": "نشان می‌داد",
+          "mean_en": ""
+        },
+        {
+          "word": "whole",
+          "phonetic": "",
+          "mean_fa": "کل",
+          "mean_en": ""
+        },
+        {
+          "word": "multipurpose",
+          "phonetic": "",
+          "mean_fa": "دارای کاربردهای متعدد",
+          "mean_en": ""
+        },
+        {
+          "word": "complicated",
+          "phonetic": "",
+          "mean_fa": "پیچیده",
+          "mean_en": ""
+        },
+        {
+          "word": "observation",
+          "phonetic": "",
+          "mean_fa": "مشاهده",
+          "mean_en": ""
+        },
+        {
+          "word": "kids-of-the-80s",
+          "phonetic": "",
+          "mean_fa": "کودکان دهه ۸۰ میلادی",
+          "mean_en": ""
+        },
+        {
+          "word": "minds",
+          "phonetic": "",
+          "mean_fa": "فکرها",
+          "mean_en": ""
+        },
+        {
+          "word": "horizon",
+          "phonetic": "",
+          "mean_fa": "افق",
+          "mean_en": ""
+        },
+        {
+          "word": "overnight",
+          "phonetic": "",
+          "mean_fa": "یک شبه",
+          "mean_en": ""
+        },
+        {
+          "word": "getting our hands dirty",
+          "phonetic": "",
+          "mean_fa": "کار عملی کردن ، به‌جای فقط مطالعه تئوری",
+          "mean_en": ""
+        },
+        {
+          "word": "venerable",
+          "phonetic": "",
+          "mean_fa": "محترم",
+          "mean_en": ""
+        },
+        {
+          "word": "precursor",
+          "phonetic": "",
+          "mean_fa": "پیش‌کسوت",
+          "mean_en": ""
+        },
+        {
+          "word": "nimble",
+          "phonetic": "",
+          "mean_fa": "سریع در عملکرد یا واکنش",
+          "mean_en": ""
+        },
+        {
+          "word": "lightweight",
+          "phonetic": "",
+          "mean_fa": "سبک",
+          "mean_en": ""
+        },
+        {
+          "word": "approachable",
+          "phonetic": "",
+          "mean_fa": "قابل‌درک",
+          "mean_en": ""
+        },
+        {
+          "word": "plain",
+          "phonetic": "",
+          "mean_fa": "ساده",
+          "mean_en": ""
+        },
+        {
+          "word": "supportive",
+          "phonetic": "",
+          "mean_fa": "پشتیبان",
+          "mean_en": ""
+        },
+        {
+          "word": "history behind it",
+          "phonetic": "",
+          "mean_fa": "تاریخچه‌ای پشت آن",
+          "mean_en": ""
+        },
+        {
+          "word": "love at first sight",
+          "phonetic": "",
+          "mean_fa": "عشق در نگاه اول",
+          "mean_en": ""
+        },
+        {
+          "word": "drawback",
+          "phonetic": "",
+          "mean_fa": "نقطه‌ضعف",
+          "mean_en": ""
+        },
+        {
+          "word": "detached",
+          "phonetic": "",
+          "mean_fa": "جدا",
+          "mean_en": ""
+        },
+        {
+          "word": "career pointed him in other directions",
+          "phonetic": "",
+          "mean_fa": "مسیر شغلی‌اش او را به سمت دیگری هدایت کرد",
+          "mean_en": ""
+        },
+        {
+          "word": "earlier",
+          "phonetic": "",
+          "mean_fa": "زودتر",
+          "mean_en": ""
+        },
+        {
+          "word": "laborious",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "hard"
+        },
+        {
+          "word": "enthusiastic",
+          "phonetic": "",
+          "mean_fa": "مشتاق",
+          "mean_en": ""
+        },
+        {
+          "word": "hobby",
+          "phonetic": "",
+          "mean_fa": "سرگرمی",
+          "mean_en": ""
+        },
+        {
+          "word": "excited",
+          "phonetic": "",
+          "mean_fa": "هیجان‌زده",
+          "mean_en": ""
+        },
+        {
+          "word": "odd",
+          "phonetic": "",
+          "mean_fa": "گاهی",
+          "mean_en": ""
+        },
+        {
+          "word": "eventually",
+          "phonetic": "",
+          "mean_fa": "در نهایت",
+          "mean_en": ""
+        },
+        {
+          "word": "complexity",
+          "phonetic": "",
+          "mean_fa": "پیچیدگی",
+          "mean_en": ""
+        },
+        {
+          "word": "amount",
+          "phonetic": "",
+          "mean_fa": "مقدار",
+          "mean_en": ""
+        },
+        {
+          "word": "cognitive overhead",
+          "phonetic": "",
+          "mean_fa": "بار ذهنی اضافی",
+          "mean_en": ""
+        },
+        {
+          "word": "lean",
+          "phonetic": "",
+          "mean_fa": "بهینه، سبک، کم حجم",
+          "mean_en": ""
+        },
+        {
+          "word": "differentiation",
+          "phonetic": "",
+          "mean_fa": "مشتق گرفتن",
+          "mean_en": ""
+        },
+        {
+          "word": "computation",
+          "phonetic": "",
+          "mean_fa": "محاسبه",
+          "mean_en": ""
+        },
+        {
+          "word": "graphs",
+          "phonetic": "",
+          "mean_fa": "نمودار",
+          "mean_en": ""
+        },
+        {
+          "word": "numpy integration",
+          "phonetic": "",
+          "mean_fa": "NumPy یکپارچه‌سازی با",
+          "mean_en": ""
+        },
+        {
+          "word": "given",
+          "phonetic": "",
+          "mean_fa": "با توجه به",
+          "mean_en": ""
+        },
+        {
+          "word": "involvement",
+          "phonetic": "",
+          "mean_fa": "مشارکت",
+          "mean_en": ""
+        },
+        {
+          "word": "enthusiasm",
+          "phonetic": "",
+          "mean_fa": "اشتیاق",
+          "mean_en": ""
+        },
+        {
+          "word": "organizing",
+          "phonetic": "",
+          "mean_fa": "سازمان‌دهی",
+          "mean_en": ""
+        },
+        {
+          "word": "couple",
+          "phonetic": "",
+          "mean_fa": "یه جفت / چند تا",
+          "mean_en": ""
+        },
+        {
+          "word": "felt",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of feel"
+        },
+        {
+          "word": "appealing",
+          "phonetic": "",
+          "mean_fa": "جذاب",
+          "mean_en": ""
+        },
+        {
+          "word": "former",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "previous"
+        },
+        {
+          "word": "selves",
+          "phonetic": "",
+          "mean_fa": "self جمعِ",
+          "mean_en": ""
+        },
+        {
+          "word": "predictably",
+          "phonetic": "",
+          "mean_fa": "همانطور که قابل پیش‌بینی بود",
+          "mean_en": ""
+        },
+        {
+          "word": "grandiose ideas",
+          "phonetic": "",
+          "mean_fa": "ایده‌های جاه‌طلبانه و بزرگ",
+          "mean_en": ""
+        },
+        {
+          "word": "demonstrate",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "show"
+        },
+        {
+          "word": "greatest",
+          "phonetic": "",
+          "mean_fa": "بزرگ‌ترین",
+          "mean_en": ""
+        },
+        {
+          "word": "we decided",
+          "phonetic": "",
+          "mean_fa": "تصمیم گرفتیم",
+          "mean_en": ""
+        },
+        {
+          "word": "devote",
+          "phonetic": "",
+          "mean_fa": "اختصاص دادن",
+          "mean_en": ""
+        },
+        {
+          "word": "concepts",
+          "phonetic": "",
+          "mean_fa": "مفاهیم",
+          "mean_en": ""
+        },
+        {
+          "word": "underlying",
+          "phonetic": "",
+          "mean_fa": "زیربنایی",
+          "mean_en": ""
+        },
+        {
+          "word": "get to the point",
+          "phonetic": "",
+          "mean_fa": "مستقیم رفتن سر اصل مطلب",
+          "mean_en": ""
+        },
+        {
+          "word": "chose",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of choose"
+        }
+      ]
+    },
+    {
+      "heading": "acknowledgments",
+      "words": [
+        {
+          "word": "acknowledgments",
+          "phonetic": "",
+          "mean_fa": "تشکرها",
+          "mean_en": ""
+        },
+        {
+          "word": "deeply",
+          "phonetic": "",
+          "mean_fa": "عمیقاً",
+          "mean_en": ""
+        },
+        {
+          "word": "indebted",
+          "phonetic": "",
+          "mean_fa": "مدیون",
+          "mean_en": ""
+        },
+        {
+          "word": "grew",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of grow"
+        },
+        {
+          "word": "organically",
+          "phonetic": "",
+          "mean_fa": "به‌صورت طبیعی",
+          "mean_en": ""
+        },
+        {
+          "word": "internship",
+          "phonetic": "",
+          "mean_fa": "دوره کارآموزی",
+          "mean_en": ""
+        },
+        {
+          "word": "mention",
+          "phonetic": "",
+          "mean_fa": "اشاره کردن، نام بردن",
+          "mean_en": ""
+        },
+        {
+          "word": "addition",
+          "phonetic": "",
+          "mean_fa": "افزودن",
+          "mean_en": ""
+        },
+        {
+          "word": "excellence",
+          "phonetic": "",
+          "mean_fa": "عالی بودن",
+          "mean_en": ""
+        },
+        {
+          "word": "toward",
+          "phonetic": "",
+          "mean_fa": "در جهت",
+          "mean_en": ""
+        },
+        {
+          "word": "adopting",
+          "phonetic": "",
+          "mean_fa": "به‌کار گرفتن",
+          "mean_en": ""
+        },
+        {
+          "word": "approach",
+          "phonetic": "",
+          "mean_fa": "روش",
+          "mean_en": ""
+        },
+        {
+          "word": "inclusiveness",
+          "phonetic": "",
+          "mean_fa": "فراگیری",
+          "mean_en": ""
+        },
+        {
+          "word": "testament",
+          "phonetic": "",
+          "mean_fa": "گواه، نشانه محکم، شاهد",
+          "mean_en": ""
+        },
+        {
+          "word": "relentless",
+          "phonetic": "",
+          "mean_fa": "بی‌وقفه",
+          "mean_en": ""
+        },
+        {
+          "word": "individuals",
+          "phonetic": "",
+          "mean_fa": "اشخاص",
+          "mean_en": ""
+        },
+        {
+          "word": "adopters",
+          "phonetic": "",
+          "mean_fa": "کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند",
+          "mean_en": ""
+        },
+        {
+          "word": "honorable",
+          "phonetic": "",
+          "mean_fa": "قابل احترام",
+          "mean_en": ""
+        },
+        {
+          "word": "deserves",
+          "phonetic": "",
+          "mean_fa": "لایق بودن",
+          "mean_en": ""
+        },
+        {
+          "word": "particular",
+          "phonetic": "",
+          "mean_fa": "خاص",
+          "mean_en": ""
+        },
+        {
+          "word": "gratitude",
+          "phonetic": "",
+          "mean_fa": "قدردانی",
+          "mean_en": ""
+        },
+        {
+          "word": "shoutout",
+          "phonetic": "",
+          "mean_fa": "یک تشکر رسمی یا عمومی",
+          "mean_en": ""
+        },
+        {
+          "word": "bring",
+          "phonetic": "",
+          "mean_fa": "آوردن یا رساندن (در این متن: «ارزش را به جامعه رساندن»)",
+          "mean_en": ""
+        },
+        {
+          "word": "incredible",
+          "phonetic": "",
+          "mean_fa": "باور نکردنی",
+          "mean_en": ""
+        },
+        {
+          "word": "fruition",
+          "phonetic": "",
+          "mean_fa": "به ثمر رسیدن",
+          "mean_en": ""
+        },
+        {
+          "word": "excerpt",
+          "phonetic": "",
+          "mean_fa": "گزیده، بخش کوتاهی از متن",
+          "mean_en": ""
+        },
+        {
+          "word": "hugely",
+          "phonetic": "",
+          "mean_fa": "بسیار",
+          "mean_en": ""
+        },
+        {
+          "word": "appreciated",
+          "phonetic": "",
+          "mean_fa": "مورد تشکر قرارگرفته",
+          "mean_en": ""
+        },
+        {
+          "word": "delicate",
+          "phonetic": "",
+          "mean_fa": "حساس",
+          "mean_en": ""
+        },
+        {
+          "word": "respective",
+          "phonetic": "",
+          "mean_fa": "به‌طور جداگانه برای هر فرد",
+          "mean_en": ""
+        },
+        {
+          "word": "reaching out",
+          "phonetic": "",
+          "mean_fa": "ارتباط گرفتن",
+          "mean_en": ""
+        },
+        {
+          "word": "we'd",
+          "phonetic": "",
+          "mean_fa": "we had یا we would",
+          "mean_en": ""
+        },
+        {
+          "word": "tricking",
+          "phonetic": "",
+          "mean_fa": "حقه زدن، trick",
+          "mean_en": ""
+        },
+        {
+          "word": "above and beyond",
+          "phonetic": "",
+          "mean_fa": "بیش از حد انتظار",
+          "mean_en": ""
+        },
+        {
+          "word": "beyond",
+          "phonetic": "",
+          "mean_fa": "بیش از",
+          "mean_en": ""
+        },
+        {
+          "word": "reviewer",
+          "phonetic": "",
+          "mean_fa": "بازبین",
+          "mean_en": ""
+        },
+        {
+          "word": "duty",
+          "phonetic": "",
+          "mean_fa": "وظیفه",
+          "mean_en": ""
+        },
+        {
+          "word": "deal",
+          "phonetic": "",
+          "mean_fa": "سر و کله زدن",
+          "mean_en": ""
+        },
+        {
+          "word": "wacky",
+          "phonetic": "",
+          "mean_fa": "عجیب و غریب",
+          "mean_en": ""
+        },
+        {
+          "word": "copyeditor",
+          "phonetic": "",
+          "mean_fa": "ویراستار متنی",
+          "mean_en": ""
+        },
+        {
+          "word": "impressive",
+          "phonetic": "",
+          "mean_fa": "قابل توجه",
+          "mean_en": ""
+        },
+        {
+          "word": "eye for detail",
+          "phonetic": "",
+          "mean_fa": "توجه به جزئیات",
+          "mean_en": ""
+        },
+        {
+          "word": "mistake",
+          "phonetic": "",
+          "mean_fa": "اشتباه",
+          "mean_en": ""
+        },
+        {
+          "word": "proofreader",
+          "phonetic": "",
+          "mean_fa": "ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند",
+          "mean_en": ""
+        },
+        {
+          "word": "behind",
+          "phonetic": "",
+          "mean_fa": "پشتِ",
+          "mean_en": ""
+        },
+        {
+          "word": "scenes",
+          "phonetic": "",
+          "mean_fa": "صحنه‌ها",
+          "mean_en": ""
+        },
+        {
+          "word": "glimpsed",
+          "phonetic": "",
+          "mean_fa": "به‌طور گذرا دیده شده",
+          "mean_en": ""
+        },
+        {
+          "word": "cc",
+          "phonetic": "",
+          "mean_fa": "Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند",
+          "mean_en": ""
+        },
+        {
+          "word": "threads",
+          "phonetic": "",
+          "mean_fa": "زنجیره پیام‌ها",
+          "mean_en": ""
+        },
+        {
+          "word": "necessary",
+          "phonetic": "",
+          "mean_fa": "ضروری",
+          "mean_en": ""
+        },
+        {
+          "word": "left off this list",
+          "phonetic": "",
+          "mean_fa": "از این فهرست جا افتاده‌اند",
+          "mean_en": ""
+        },
+        {
+          "word": "honest",
+          "phonetic": "",
+          "mean_fa": "صادقانه",
+          "mean_en": ""
+        },
+        {
+          "word": "tireless",
+          "phonetic": "",
+          "mean_fa": "خستگی‌ناپذیر",
+          "mean_en": ""
+        },
+        {
+          "word": "tropical",
+          "phonetic": "",
+          "mean_fa": "گرمسیری",
+          "mean_en": ""
+        },
+        {
+          "word": "island",
+          "phonetic": "",
+          "mean_fa": "جزیره",
+          "mean_en": ""
+        },
+        {
+          "word": "dragging",
+          "phonetic": "",
+          "mean_fa": "کشیدن",
+          "mean_en": ""
+        },
+        {
+          "word": "grace",
+          "phonetic": "",
+          "mean_fa": "لطف",
+          "mean_en": ""
+        },
+        {
+          "word": "wondering",
+          "phonetic": "",
+          "mean_fa": "تعجب کردن، با خود فکر کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "rock",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "stone"
+        },
+        {
+          "word": "these",
+          "phonetic": "",
+          "mean_fa": "this جمعِ",
+          "mean_en": ""
+        }
+      ]
+    },
+    {
+      "heading": "about this book",
+      "words": [
+        {
+          "word": "aim",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "target"
+        },
+        {
+          "word": "foundations",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "basics"
+        },
+        {
+          "word": "strive",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "try"
+        },
+        {
+          "word": "practitioners",
+          "phonetic": "",
+          "mean_fa": "افرادِ حرفه‌ای",
+          "mean_en": ""
+        },
+        {
+          "word": "further",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "more"
+        },
+        {
+          "word": "exploration",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "research"
+        },
+        {
+          "word": "delve",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "explore"
+        },
+        {
+          "word": "behind the curtain",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "behind the scenes"
+        },
+        {
+          "word": "material",
+          "phonetic": "",
+          "mean_fa": "ماده، محتوا",
+          "mean_en": ""
+        },
+        {
+          "word": "as such",
+          "phonetic": "",
+          "mean_fa": "به این دلیل",
+          "mean_en": ""
+        },
+        {
+          "word": "subset",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "part"
+        },
+        {
+          "word": "notable",
+          "phonetic": "",
+          "mean_fa": "قابل توجه",
+          "mean_en": ""
+        },
+        {
+          "word": "absence",
+          "phonetic": "",
+          "mean_fa": "نبود، فقدان",
+          "mean_en": ""
+        },
+        {
+          "word": "recurrent",
+          "phonetic": "",
+          "mean_fa": "بازگشتی",
+          "mean_en": ""
+        },
+        {
+          "word": "meant",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "aimed"
+        },
+        {
+          "word": "acquainted",
+          "phonetic": "",
+          "mean_fa": "آشنا شده",
+          "mean_en": ""
+        },
+        {
+          "word": "typical",
+          "phonetic": "",
+          "mean_fa": "معمولی",
+          "mean_en": ""
+        },
+        {
+          "word": "undergraduate",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "bachelor-level"
+        },
+        {
+          "word": "or-later",
+          "phonetic": "",
+          "mean_fa": "یا بالاتر",
+          "mean_en": ""
+        },
+        {
+          "word": "since",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "because"
+        },
+        {
+          "word": "exposition",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "explanation"
+        },
+        {
+          "word": "slightly",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "a little"
+        },
+        {
+          "word": "angle",
+          "phonetic": "",
+          "mean_fa": "رویکرد، دیدگاه",
+          "mean_en": ""
+        },
+        {
+          "word": "expect",
+          "phonetic": "",
+          "mean_fa": "انتظار داشتن",
+          "mean_en": ""
+        },
+        {
+          "word": "imperative",
+          "phonetic": "",
+          "mean_fa": "دستوری",
+          "mean_en": ""
+        },
+        {
+          "word": "operating environment",
+          "phonetic": "",
+          "mean_fa": "محیط اجرایی",
+          "mean_en": ""
+        },
+        {
+          "word": "prerequisite",
+          "phonetic": "",
+          "mean_fa": "پیش‌نیاز",
+          "mean_en": ""
+        },
+        {
+          "word": "picking it up",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "learning"
+        },
+        {
+          "word": "do some catch-up",
+          "phonetic": "",
+          "mean_fa": "جبران کردن عقب‌ماندگی",
+          "mean_en": ""
+        },
+        {
+          "word": "strictly",
+          "phonetic": "",
+          "mean_fa": "به‌طور سختگیرانه",
+          "mean_en": ""
+        },
+        {
+          "word": "vectors",
+          "phonetic": "",
+          "mean_fa": "بردارها",
+          "mean_en": ""
+        },
+        {
+          "word": "dot product",
+          "phonetic": "",
+          "mean_fa": "ضرب نقطه‌ای (در جبر خطی)",
+          "mean_en": ""
+        },
+        {
+          "word": "distinct",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "separate"
+        },
+        {
+          "word": "end-to-end",
+          "phonetic": "",
+          "mean_fa": "از ابتدا تا انتها",
+          "mean_en": ""
+        },
+        {
+          "word": "introduced",
+          "phonetic": "",
+          "mean_fa": "معرفی شد، ارائه شد",
+          "mean_en": ""
+        },
+        {
+          "word": "rounds",
+          "phonetic": "",
+          "mean_fa": "بخش‌های پایانی",
+          "mean_en": ""
+        },
+        {
+          "word": "tour",
+          "phonetic": "",
+          "mean_fa": "مرور سریع",
+          "mean_en": ""
+        },
+        {
+          "word": "notice",
+          "phonetic": "",
+          "mean_fa": "متوجه شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "among",
+          "phonetic": "",
+          "mean_fa": "در میان",
+          "mean_en": ""
+        },
+        {
+          "word": "although",
+          "phonetic": "",
+          "mean_fa": "اگرچه",
+          "mean_en": ""
+        },
+        {
+          "word": "collaborative",
+          "phonetic": "",
+          "mean_fa": "مشارکتی",
+          "mean_en": ""
+        },
+        {
+          "word": "act",
+          "phonetic": "",
+          "mean_fa": "عمل، کار",
+          "mean_en": ""
+        },
+        {
+          "word": "primarily",
+          "phonetic": "",
+          "mean_fa": "عمدتاً، به طور اصلی",
+          "mean_en": ""
+        },
+        {
+          "word": "charge",
+          "phonetic": "",
+          "mean_fa": "مسئولیت",
+          "mean_en": ""
+        },
+        {
+          "word": "came",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of come"
+        },
+        {
+          "word": "came along",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "joined"
+        },
+        {
+          "word": "blend",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "combine"
+        },
+        {
+          "word": "various",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "different"
+        },
+        {
+          "word": "rather than",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "instead of"
+        },
+        {
+          "word": "common",
+          "phonetic": "",
+          "mean_fa": "مشترک",
+          "mean_en": ""
+        },
+        {
+          "word": "denominator",
+          "phonetic": "",
+          "mean_fa": "مخرج (در کسر ریاضی)",
+          "mean_en": ""
+        },
+        {
+          "word": "preserve",
+          "phonetic": "",
+          "mean_fa": "حفظ کردن، نگهداری کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "characterized",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "defined"
+        },
+        {
+          "word": "breakdown",
+          "phonetic": "",
+          "mean_fa": "تقسیم‌بندی",
+          "mean_en": ""
+        },
+        {
+          "word": "brief",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "short"
+        },
+        {
+          "word": "fundamental",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "basic"
+        },
+        {
+          "word": "out there",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "in the real world"
+        },
+        {
+          "word": "wild",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "real-world"
+        },
+        {
+          "word": "by the end of part 1",
+          "phonetic": "",
+          "mean_fa": "تا وقتی که به پایان پارت 1 برسیم",
+          "mean_en": ""
+        },
+        {
+          "word": "tackle",
+          "phonetic": "",
+          "mean_fa": "از پس ... برآمدن، حل کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "revolution",
+          "phonetic": "",
+          "mean_fa": "انقلاب، تغییر بزرگ و اساسی",
+          "mean_en": ""
+        },
+        {
+          "word": "touches on",
+          "phonetic": "",
+          "mean_fa": "به طور کوتاه به چیزی اشاره می‌کند",
+          "mean_en": ""
+        },
+        {
+          "word": "sets",
+          "phonetic": "",
+          "mean_fa": "متمایز کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "apart",
+          "phonetic": "",
+          "mean_fa": "متمایز",
+          "mean_en": ""
+        },
+        {
+          "word": "kinds",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "types"
+        },
+        {
+          "word": "to be shaped",
+          "phonetic": "",
+          "mean_fa": "شکل گرفتن",
+          "mean_en": ""
+        },
+        {
+          "word": "moves us closer",
+          "phonetic": "",
+          "mean_fa": "ما را به هدف نزدیک‌تر می‌کند",
+          "mean_en": ""
+        },
+        {
+          "word": "comprehensive",
+          "phonetic": "",
+          "mean_fa": "جامع، کامل",
+          "mean_en": ""
+        }
+      ]
+    }
+  ]
+}

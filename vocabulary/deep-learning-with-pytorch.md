@@ -1,0 +1,335 @@
+# Deep Learning with PyTorch - Vocabulary
+
+**Total words: 307**
+
+## 📑 Table of Contents
+
+- [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
+- [foreword (52 words)](#foreword-52-words)
+- [preface (88 words)](#preface-88-words)
+- [acknowledgments (60 words)](#acknowledgments-60-words)
+- [about this book (68 words)](#about-this-book-68-words)
+
+---
+
+## Deep Learning with PyTorch (39 words)
+- **foreword** : پیش گفتار
+- **distributed** : توزیع شده
+- **order** : سفارش
+- **offers** : ارائه می‌دهد
+- **discounts** : تخفیف ها
+- **quantity** : تعداد یا حجم (سفارش عمده)
+- **all rights reserved** : کلیه حقوق محفوظ است
+- **publication** : انتشار
+- **reproduced** : بازتولید شده (کپی کردن)
+- **retrieval system** : سیستم بازیابی
+- **transmitted** : منتقل شده
+- **in any form or by means** : به هیچ شکل یا از هیچ وسیله‌ای
+- **otherwise** : غیره
+- **prior** : قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد
+- **designations** : اصطلاحات
+- **distinguish** : set apart
+- **trademarks** : علامت‌های تجاری
+- **appear** : ظاهر شدن
+- **aware** : آگاه
+- **caps** : مخفف Capital letters
+- **recognizing** : درک کردن
+- **importance** : اهمیت
+- **preserving** : حفظ کردن
+- **policy** : سیاست
+- **acid-free** : بدون اسید
+- **exert** : اعمال کردن
+- **efforts** : تلاش‌ها
+- **responsibility** : مسئولیت
+- **planet** : سیاره
+- **least** : حداقل
+- **recycled** : بازیافتی
+- **processed** : فرآوری شده
+- **elemental chlorine** : کلر عنصری
+- **happened** : اتفاق افتاد
+- **invaluable** : فوق العاده ارزشمند
+- **partnership** : مشارکت
+- **being** : بودن
+- **joy** : لذت
+- **same** : مشابه، همینطور
+---
+
+## foreword (52 words)
+- **author** : نویسنده
+- **instrumental** : تأثیرگذار
+- **flexible** : انعطاف پذیر
+- **express** : بیان کردن
+- **executed** : اجرا کردن
+- **relatively** : نسبتاً
+- **polished** : صیقل داده‌شده
+- **standing on the shoulders of giants** : استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
+- **shoulder** : شانه
+- **derives** : منبع گرفتن از
+- **significant** : مهم
+- **pioneered** : پیشگام بودن
+- **rich** : غنی
+- **rather** : ترجیحاً
+- **conceptually** : از نظر مفهومی
+- **scratch** : شروع از صفر
+- **attribute** : عامل دانستن
+- **enhanced** : تقویت‌شده
+- **debuggability** : قابلیت اشکال‌زدایی
+- **flexibility** : انعطاف‌پذیری
+- **ultimately** : در نهایت
+- **productive** : کارآمد
+- **huge** : عظیم
+- **adoption** : پذیرش
+- **research** : تحقیق
+- **built on** : بنا شده بر
+- **curricula** : برنامه‌های درسی
+- **tutorials** : آموزش‌های گام‌به‌گام
+- **offered** : ارائه شده
+- **guarantee** : تضمین کردن
+- **outdated** : از رده خارج شده
+- **definitive** : قطعی
+- **treatise** : مقاله
+- **abstractions** : چکیده مفاهیم
+- **tearing apart** : از هم باز کردن
+- **underpinnings** : زیربناها
+- **implementation** : پیاده‌سازی
+- **additionally** : علاوه بر این
+- **subjects** : موضوعات
+- **jit** : Just-In-Time
+- **aspect** : وجه
+- **through** : از طریق
+- **expertise** : تخصص
+- **bioengineering** : مهندسی زیستی
+- **imaging** : تصویربرداری
+- **practical** : عملی
+- **journey** : مسیری که طی می‌شود
+- **treated** : مورد بررسی قرار گرفته
+- **all in all** : در مجموع
+- **becomes** : “تبدیل شدن” یا “شدن”
+- **extended”** : گسترش یافته
+- **workshop** : کارگاه (آموزشی)
+---
+
+## preface (88 words)
+- **preface** : مقدمه
+- **as kids** : وقتی بچه بودیم
+- **sinclair spectrum 48k (luca)** : نام چند کامپیوتر قدیمی
+- **commodore vic 20 (eli)** : نام چند کامپیوتر قدیمی
+- **commodore c16 (thomas)** : نام چند کامپیوتر قدیمی
+- **dawn** : start (of something big or new)
+- **dreamed** : رؤیا دیدیم
+- **take** : بردن
+- **collective** : دسته‌جمعی
+- **rolling our eyes** : چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
+- **spy** : جاسوس
+- **later on** : بعدها
+- **during** : حین
+- **independently** : به‌صورت مستقل
+- **ourselves** : خودمون
+- **facing** : رو به رو شدن
+- **kind** : نوع
+- **struggle** : تلاش سخت
+- **variability** : تغییرپذیری
+- **heuristics** : روش‌های اکتشافی
+- **involved** : شامل
+- **went** : رفت (past of go)
+- **came about** : به وجود آمد
+- **appearance** : ظاهر شدن
+- **being applied** : در حال اعمال شدن
+- **identification** : شناسایی
+- **lesions** : آسیب موضعی
+- **decade** : دهه
+- **appeared** : ظاهر شد
+- **individual** : شخصی
+- **took a bit** : کمی طول کشید
+- **realize** : فهمیدن
+- **represented** : نشان می‌داد
+- **whole** : کل
+- **multipurpose** : دارای کاربردهای متعدد
+- **complicated** : پیچیده
+- **observation** : مشاهده
+- **kids-of-the-80s** : کودکان دهه ۸۰ میلادی
+- **minds** : فکرها
+- **horizon** : افق
+- **overnight** : یک شبه
+- **getting our hands dirty** : کار عملی کردن ، به‌جای فقط مطالعه تئوری
+- **venerable** : محترم
+- **precursor** : پیش‌کسوت
+- **nimble** : سریع در عملکرد یا واکنش
+- **lightweight** : سبک
+- **approachable** : قابل‌درک
+- **plain** : ساده
+- **supportive** : پشتیبان
+- **history behind it** : تاریخچه‌ای پشت آن
+- **love at first sight** : عشق در نگاه اول
+- **drawback** : نقطه‌ضعف
+- **detached** : جدا
+- **career pointed him in other directions** : مسیر شغلی‌اش او را به سمت دیگری هدایت کرد
+- **earlier** : زودتر
+- **laborious** : hard
+- **enthusiastic** : مشتاق
+- **hobby** : سرگرمی
+- **excited** : هیجان‌زده
+- **odd** : گاهی
+- **eventually** : در نهایت
+- **complexity** : پیچیدگی
+- **amount** : مقدار
+- **cognitive overhead** : بار ذهنی اضافی
+- **lean** : بهینه، سبک، کم حجم
+- **differentiation** : مشتق گرفتن
+- **computation** : محاسبه
+- **graphs** : نمودار
+- **numpy integration** : NumPy یکپارچه‌سازی با
+- **given** : با توجه به
+- **involvement** : مشارکت
+- **enthusiasm** : اشتیاق
+- **organizing** : سازمان‌دهی
+- **couple** : یه جفت / چند تا
+- **felt** : past of feel
+- **appealing** : جذاب
+- **former** : previous
+- **selves** : self جمعِ
+- **predictably** : همانطور که قابل پیش‌بینی بود
+- **grandiose ideas** : ایده‌های جاه‌طلبانه و بزرگ
+- **demonstrate** : show
+- **greatest** : بزرگ‌ترین
+- **we decided** : تصمیم گرفتیم
+- **devote** : اختصاص دادن
+- **concepts** : مفاهیم
+- **underlying** : زیربنایی
+- **get to the point** : مستقیم رفتن سر اصل مطلب
+- **chose** : past of choose
+---
+
+## acknowledgments (60 words)
+- **acknowledgments** : تشکرها
+- **deeply** : عمیقاً
+- **indebted** : مدیون
+- **grew** : past of grow
+- **organically** : به‌صورت طبیعی
+- **internship** : دوره کارآموزی
+- **mention** : اشاره کردن، نام بردن
+- **addition** : افزودن
+- **excellence** : عالی بودن
+- **toward** : در جهت
+- **adopting** : به‌کار گرفتن
+- **approach** : روش
+- **inclusiveness** : فراگیری
+- **testament** : گواه، نشانه محکم، شاهد
+- **relentless** : بی‌وقفه
+- **individuals** : اشخاص
+- **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
+- **honorable** : قابل احترام
+- **deserves** : لایق بودن
+- **particular** : خاص
+- **gratitude** : قدردانی
+- **shoutout** : یک تشکر رسمی یا عمومی
+- **bring** : آوردن یا رساندن (در این متن: «ارزش را به جامعه رساندن»)
+- **incredible** : باور نکردنی
+- **fruition** : به ثمر رسیدن
+- **excerpt** : گزیده، بخش کوتاهی از متن
+- **hugely** : بسیار
+- **appreciated** : مورد تشکر قرارگرفته
+- **delicate** : حساس
+- **respective** : به‌طور جداگانه برای هر فرد
+- **reaching out** : ارتباط گرفتن
+- **we'd** : we had یا we would
+- **tricking** : حقه زدن، trick
+- **above and beyond** : بیش از حد انتظار
+- **beyond** : بیش از
+- **reviewer** : بازبین
+- **duty** : وظیفه
+- **deal** : سر و کله زدن
+- **wacky** : عجیب و غریب
+- **copyeditor** : ویراستار متنی
+- **impressive** : قابل توجه
+- **eye for detail** : توجه به جزئیات
+- **mistake** : اشتباه
+- **proofreader** : ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
+- **behind** : پشتِ
+- **scenes** : صحنه‌ها
+- **glimpsed** : به‌طور گذرا دیده شده
+- **cc** : Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
+- **threads** : زنجیره پیام‌ها
+- **necessary** : ضروری
+- **left off this list** : از این فهرست جا افتاده‌اند
+- **honest** : صادقانه
+- **tireless** : خستگی‌ناپذیر
+- **tropical** : گرمسیری
+- **island** : جزیره
+- **dragging** : کشیدن
+- **grace** : لطف
+- **wondering** : تعجب کردن، با خود فکر کردن
+- **rock** : stone
+- **these** : this جمعِ
+---
+
+## about this book (68 words)
+- **aim** : target
+- **foundations** : basics
+- **strive** : try
+- **practitioners** : افرادِ حرفه‌ای
+- **further** : more
+- **exploration** : research
+- **delve** : explore
+- **behind the curtain** : behind the scenes
+- **material** : ماده، محتوا
+- **as such** : به این دلیل
+- **subset** : part
+- **notable** : قابل توجه
+- **absence** : نبود، فقدان
+- **recurrent** : بازگشتی
+- **meant** : aimed
+- **acquainted** : آشنا شده
+- **typical** : معمولی
+- **undergraduate** : bachelor-level
+- **or-later** : یا بالاتر
+- **since** : because
+- **exposition** : explanation
+- **slightly** : a little
+- **angle** : رویکرد، دیدگاه
+- **expect** : انتظار داشتن
+- **imperative** : دستوری
+- **operating environment** : محیط اجرایی
+- **prerequisite** : پیش‌نیاز
+- **picking it up** : learning
+- **do some catch-up** : جبران کردن عقب‌ماندگی
+- **strictly** : به‌طور سختگیرانه
+- **vectors** : بردارها
+- **dot product** : ضرب نقطه‌ای (در جبر خطی)
+- **distinct** : separate
+- **end-to-end** : از ابتدا تا انتها
+- **introduced** : معرفی شد، ارائه شد
+- **rounds** : بخش‌های پایانی
+- **tour** : مرور سریع
+- **notice** : متوجه شدن
+- **among** : در میان
+- **although** : اگرچه
+- **collaborative** : مشارکتی
+- **act** : عمل، کار
+- **primarily** : عمدتاً، به طور اصلی
+- **charge** : مسئولیت
+- **came** : past of come
+- **came along** : joined
+- **blend** : combine
+- **various** : different
+- **rather than** : instead of
+- **common** : مشترک
+- **denominator** : مخرج (در کسر ریاضی)
+- **preserve** : حفظ کردن، نگهداری کردن
+- **characterized** : defined
+- **breakdown** : تقسیم‌بندی
+- **brief** : short
+- **fundamental** : basic
+- **out there** : in the real world
+- **wild** : real-world
+- **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
+- **tackle** : از پس ... برآمدن، حل کردن
+- **revolution** : انقلاب، تغییر بزرگ و اساسی
+- **touches on** : به طور کوتاه به چیزی اشاره می‌کند
+- **sets** : متمایز کردن
+- **apart** : متمایز
+- **kinds** : types
+- **to be shaped** : شکل گرفتن
+- **moves us closer** : ما را به هدف نزدیک‌تر می‌کند
+- **comprehensive** : جامع، کامل
+---
