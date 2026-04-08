@@ -62,8 +62,6 @@ def write_section(section, level):
             else:
                 seen_words.add(lower_word)
             
-            w['word'] = lower_word
-            
             phonetic = f' {w["phonetic"]}' if w.get('phonetic') else ''
             mean_separator = ' - ' if w.get('mean_en') and w.get('mean_fa') else ''
             lines.append(f"- **{w['word']}**{phonetic} : {w.get('mean_en', '')}")
