@@ -1162,8 +1162,8 @@
         {
           "word": "approach",
           "phonetic": "",
-          "mean_fa": "روش",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "method"
         },
         {
           "word": "inclusiveness",
@@ -1864,6 +1864,192 @@
           "word": "comprehensive",
           "phonetic": "",
           "mean_fa": "جامع، کامل",
+          "mean_en": ""
+        },
+        {
+          "word": "solution",
+          "phonetic": "",
+          "mean_fa": "راه‌حل",
+          "mean_en": ""
+        },
+        {
+          "word": "lung",
+          "phonetic": "",
+          "mean_fa": "ریه",
+          "mean_en": ""
+        },
+        {
+          "word": "difficult",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "hard"
+        },
+        {
+          "word": "motivation",
+          "phonetic": "",
+          "mean_fa": "انگیزه",
+          "mean_en": ""
+        },
+        {
+          "word": "screening",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "quick check"
+        },
+        {
+          "word": "troubleshooting",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "debugging"
+        },
+        {
+          "word": "describe",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "explain"
+        },
+        {
+          "word": "tomography",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "imaging method that shows slices of the body"
+        },
+        {
+          "word": "along with",
+          "phonetic": "",
+          "mean_fa": "همراه با",
+          "mean_en": ""
+        },
+        {
+          "word": "relevant",
+          "phonetic": "",
+          "mean_fa": "مرتبط",
+          "mean_en": ""
+        },
+        {
+          "word": "consume",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "use up"
+        },
+        {
+          "word": "metric",
+          "phonetic": "",
+          "mean_fa": "معیار، سنجه",
+          "mean_en": "a standard for measuring performance"
+        },
+        {
+          "word": "TensorBoard",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "visualization tool in TensorFlow"
+        },
+        {
+          "word": "identify",
+          "phonetic": "",
+          "mean_fa": "شناسایی کردن",
+          "mean_en": "to find and name something"
+        },
+        {
+          "word": "weaknesses",
+          "phonetic": "",
+          "mean_fa": "ضعف‌ها",
+          "mean_en": ""
+        },
+        {
+          "word": "the training done previously",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "the model training that was completed before"
+        },
+        {
+          "word": "mitigate",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "reduce"
+        },
+        {
+          "word": "flaws",
+          "phonetic": "",
+          "mean_fa": "نقص‌ها، عیب‌ها",
+          "mean_en": "mistakes or problems in something"
+        },
+        {
+          "word": "training set",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "dataset for training"
+        },
+        {
+          "word": "augmentation",
+          "phonetic": "",
+          "mean_fa": "تولید داده‌های جدید از داده‌های موجود",
+          "mean_en": ""
+        },
+        {
+          "word": "pixel-to-pixel",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "is the same as segmentation: one image in, one image out (same size), per-pixel labeling"
+        },
+        {
+          "word": "per",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "for each"
+        },
+        {
+          "word": "architecture",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "structure"
+        },
+        {
+          "word": "produce",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "generate"
+        },
+        {
+          "word": "heatmap",
+          "phonetic": "",
+          "mean_fa": "نقشه حرارتی (نمایش شدت با رنگ)",
+          "mean_en": ""
+        },
+        {
+          "word": "nodule",
+          "phonetic": "",
+          "mean_fa": "توده کوچک در ریه",
+          "mean_en": ""
+        },
+        {
+          "word": "entire",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "all of something, whole"
+        },
+        {
+          "word": "diagnosis",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "identification of disease"
+        },
+        {
+          "word": "disease",
+          "phonetic": "",
+          "mean_fa": "بیماری",
+          "mean_en": ""
+        },
+        {
+          "word": "patient",
+          "phonetic": "",
+          "mean_fa": "بیمار",
+          "mean_en": "a person who is receiving medical treatment"
+        },
+        {
+          "word": "treatment",
+          "phonetic": "",
+          "mean_fa": "درمان",
           "mean_en": ""
         }
       ]

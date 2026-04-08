@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 307**
+**Total words: 338**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (88 words)](#preface-88-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (68 words)](#about-this-book-68-words)
+- [about this book (99 words)](#about-this-book-99-words)
 
 ---
 
@@ -212,7 +212,7 @@
 - **excellence** : عالی بودن
 - **toward** : در جهت
 - **adopting** : به‌کار گرفتن
-- **approach** : روش
+- **approach** : method
 - **inclusiveness** : فراگیری
 - **testament** : گواه، نشانه محکم، شاهد
 - **relentless** : بی‌وقفه
@@ -263,7 +263,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (68 words)
+## about this book (99 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -332,4 +332,35 @@
 - **to be shaped** : شکل گرفتن
 - **moves us closer** : ما را به هدف نزدیک‌تر می‌کند
 - **comprehensive** : جامع، کامل
+- **solution** : راه‌حل
+- **lung** : ریه
+- **difficult** : hard
+- **motivation** : انگیزه
+- **screening** : quick check
+- **troubleshooting** : debugging
+- **describe** : explain
+- **tomography** : imaging method that shows slices of the body
+- **along with** : همراه با
+- **relevant** : مرتبط
+- **consume** : use up
+- **metric** : a standard for measuring performance - معیار، سنجه
+- **TensorBoard** : visualization tool in TensorFlow
+- **identify** : to find and name something - شناسایی کردن
+- **weaknesses** : ضعف‌ها
+- **the training done previously** : the model training that was completed before
+- **mitigate** : reduce
+- **flaws** : mistakes or problems in something - نقص‌ها، عیب‌ها
+- **training set** : dataset for training
+- **augmentation** : تولید داده‌های جدید از داده‌های موجود
+- **pixel-to-pixel** : is the same as segmentation: one image in, one image out (same size), per-pixel labeling
+- **per** : for each
+- **architecture** : structure
+- **produce** : generate
+- **heatmap** : نقشه حرارتی (نمایش شدت با رنگ)
+- **nodule** : توده کوچک در ریه
+- **entire** : all of something, whole
+- **diagnosis** : identification of disease
+- **disease** : بیماری
+- **patient** : a person who is receiving medical treatment - بیمار
+- **treatment** : درمان
 ---
