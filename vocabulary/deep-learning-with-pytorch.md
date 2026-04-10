@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 338**
+**Total words: 356**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (88 words)](#preface-88-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (99 words)](#about-this-book-99-words)
+- [about this book (117 words)](#about-this-book-117-words)
 
 ---
 
@@ -25,7 +25,7 @@
 - **retrieval system** : سیستم بازیابی
 - **transmitted** : منتقل شده
 - **in any form or by means** : به هیچ شکل یا از هیچ وسیله‌ای
-- **otherwise** : غیره
+- **otherwise** : else, etc - در غیر این صورت، غیره
 - **prior** : قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد
 - **designations** : اصطلاحات
 - **distinguish** : set apart
@@ -100,7 +100,7 @@
 - **expertise** : تخصص
 - **bioengineering** : مهندسی زیستی
 - **imaging** : تصویربرداری
-- **practical** : عملی
+- **practical** : workable, suitable for real use; likely to work effectively - عملی
 - **journey** : مسیری که طی می‌شود
 - **treated** : مورد بررسی قرار گرفته
 - **all in all** : در مجموع
@@ -223,7 +223,7 @@
 - **particular** : خاص
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
-- **bring** : آوردن یا رساندن (در این متن: «ارزش را به جامعه رساندن»)
+- **bring** : to move something to a different place - منتقل کردن
 - **incredible** : باور نکردنی
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
@@ -263,7 +263,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (99 words)
+## about this book (117 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -278,7 +278,7 @@
 - **notable** : قابل توجه
 - **absence** : نبود، فقدان
 - **recurrent** : بازگشتی
-- **meant** : aimed
+- **meant** : past of mean
 - **acquainted** : آشنا شده
 - **typical** : معمولی
 - **undergraduate** : bachelor-level
@@ -363,4 +363,22 @@
 - **disease** : بیماری
 - **patient** : a person who is receiving medical treatment - بیمار
 - **treatment** : درمان
+- **overview** : a general explanation without details
+- **embed** : to place something inside something else
+- **intended** : planned, designed
+- **Fixed-width** : monospaced
+- **transcripts** : script + output
+- **interactive** : allowing direct communication between user and program
+- **consider** : در نظر گرفتن
+- **extra** : additional, more than is usual or needed
+- **actual** : real
+- **make use of** : use
+- **heavy** : large in amount, degree, or intensity
+- **intensity** : شدت
+- **Almost** : nearly, not completely but very close - تقریباً
+- **boilerplate** : template
+- **partial** : not complete; only a part of something
+- **Due** : because of
+- **excessive** : more than what is necessary or normal
+- **consistent** : unchanging - ثابت
 ---

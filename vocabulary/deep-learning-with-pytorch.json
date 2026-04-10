@@ -79,8 +79,8 @@
         {
           "word": "otherwise",
           "phonetic": "",
-          "mean_fa": "غیره",
-          "mean_en": ""
+          "mean_fa": "در غیر این صورت، غیره",
+          "mean_en": "else, etc"
         },
         {
           "word": "prior",
@@ -517,7 +517,7 @@
           "word": "practical",
           "phonetic": "",
           "mean_fa": "عملی",
-          "mean_en": ""
+          "mean_en": "workable, suitable for real use; likely to work effectively"
         },
         {
           "word": "journey",
@@ -1228,8 +1228,8 @@
         {
           "word": "bring",
           "phonetic": "",
-          "mean_fa": "آوردن یا رساندن (در این متن: «ارزش را به جامعه رساندن»)",
-          "mean_en": ""
+          "mean_fa": "منتقل کردن",
+          "mean_en": "to move something to a different place"
         },
         {
           "word": "incredible",
@@ -1546,7 +1546,7 @@
           "word": "meant",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "aimed"
+          "mean_en": "past of mean"
         },
         {
           "word": "acquainted",
@@ -2051,6 +2051,114 @@
           "phonetic": "",
           "mean_fa": "درمان",
           "mean_en": ""
+        },
+        {
+          "word": "overview",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "a general explanation without details"
+        },
+        {
+          "word": "embed",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to place something inside something else"
+        },
+        {
+          "word": "intended",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "planned, designed"
+        },
+        {
+          "word": "Fixed-width",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "monospaced"
+        },
+        {
+          "word": "transcripts",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "script + output"
+        },
+        {
+          "word": "interactive",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "allowing direct communication between user and program"
+        },
+        {
+          "word": "consider",
+          "phonetic": "",
+          "mean_fa": "در نظر گرفتن",
+          "mean_en": ""
+        },
+        {
+          "word": "extra",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "additional, more than is usual or needed"
+        },
+        {
+          "word": "actual",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "real"
+        },
+        {
+          "word": "make use of",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "use"
+        },
+        {
+          "word": "heavy",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "large in amount, degree, or intensity"
+        },
+        {
+          "word": "intensity",
+          "phonetic": "",
+          "mean_fa": "شدت",
+          "mean_en": ""
+        },
+        {
+          "word": "Almost",
+          "phonetic": "",
+          "mean_fa": "تقریباً",
+          "mean_en": "nearly, not completely but very close"
+        },
+        {
+          "word": "boilerplate",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "template"
+        },
+        {
+          "word": "partial",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "not complete; only a part of something"
+        },
+        {
+          "word": "Due",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "because of"
+        },
+        {
+          "word": "excessive",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "more than what is necessary or normal"
+        },
+        {
+          "word": "consistent",
+          "phonetic": "",
+          "mean_fa": "ثابت",
+          "mean_en": "unchanging"
         }
       ]
     }
