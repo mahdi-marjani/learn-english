@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 356**
+**Total words: 363**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (88 words)](#preface-88-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (117 words)](#about-this-book-117-words)
+- [about this book (124 words)](#about-this-book-124-words)
 
 ---
 
@@ -220,7 +220,7 @@
 - **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
 - **honorable** : قابل احترام
 - **deserves** : لایق بودن
-- **particular** : خاص
+- **particular** : certain - خاص
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
 - **bring** : to move something to a different place - منتقل کردن
@@ -263,7 +263,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (117 words)
+## about this book (124 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -381,4 +381,11 @@
 - **Due** : because of
 - **excessive** : more than what is necessary or normal
 - **consistent** : unchanging - ثابت
+- **adequate** : sufficient, enough
+- **operating system** : OS, e.g., Windows, Linux, macOS
+- **anticipate** : پیش‌بینی کردن
+- **capable** : able, having the ability to do something
+- **adjust** : to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
+- **luck** : شانس
+- **discuss** : to talk or write about a topic in detail
 ---

@@ -1211,7 +1211,7 @@
           "word": "particular",
           "phonetic": "",
           "mean_fa": "خاص",
-          "mean_en": ""
+          "mean_en": "certain"
         },
         {
           "word": "gratitude",
@@ -2159,6 +2159,48 @@
           "phonetic": "",
           "mean_fa": "ثابت",
           "mean_en": "unchanging"
+        },
+        {
+          "word": "adequate",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "sufficient, enough"
+        },
+        {
+          "word": "operating system",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "OS, e.g., Windows, Linux, macOS"
+        },
+        {
+          "word": "anticipate",
+          "phonetic": "",
+          "mean_fa": "پیش‌بینی کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "capable",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "able, having the ability to do something"
+        },
+        {
+          "word": "adjust",
+          "phonetic": "",
+          "mean_fa": "تنظیم کردن",
+          "mean_en": "to make a small change to something, to make it better: You can adjust the height of this chair"
+        },
+        {
+          "word": "luck",
+          "phonetic": "",
+          "mean_fa": "شانس",
+          "mean_en": ""
+        },
+        {
+          "word": "discuss",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to talk or write about a topic in detail"
         }
       ]
     }
