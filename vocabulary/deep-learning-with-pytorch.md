@@ -378,7 +378,7 @@
 - **Almost** : nearly, not completely but very close - تقریباً
 - **boilerplate** : template
 - **partial** : not complete; only a part of something
-- **Due** : because of
+- **Due to** : because of
 - **excessive** : more than what is necessary or normal
 - **consistent** : unchanging - ثابت
 - **adequate** : sufficient, enough
