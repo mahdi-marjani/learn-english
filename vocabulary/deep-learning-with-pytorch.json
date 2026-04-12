@@ -1211,7 +1211,7 @@
           "word": "particular",
           "phonetic": "",
           "mean_fa": "خاص",
-          "mean_en": "certain"
+          "mean_en": "certain, specific"
         },
         {
           "word": "gratitude",
@@ -1576,7 +1576,7 @@
           "word": "since",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "because"
+          "mean_en": "1. from a particular time in the past until now: I have been waiting since 8 AM. 2. because; for the reason that: Since you're tired, you should rest."
         },
         {
           "word": "exposition",
@@ -1755,8 +1755,8 @@
         {
           "word": "common",
           "phonetic": "",
-          "mean_fa": "مشترک",
-          "mean_en": ""
+          "mean_fa": "رایج، مشترک",
+          "mean_en": "1. happening often or found in many places: jackson is a common English name 2. shared by two or more people or by everybody in a group: they share a common interest in photography"
         },
         {
           "word": "denominator",
@@ -2201,6 +2201,42 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "to talk or write about a topic in detail"
+        },
+        {
+          "word": "instructions",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "guidelines, information telling you how to do something"
+        },
+        {
+          "word": "typically",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "usually, in most cases; as expected"
+        },
+        {
+          "word": "wider",
+          "phonetic": "",
+          "mean_fa": "گسترده‌تر، وسیع‌تر",
+          "mean_en": ""
+        },
+        {
+          "word": "variety",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "many different types of something"
+        },
+        {
+          "word": "compatible",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "able to exist or work together without problems"
+        },
+        {
+          "word": "prefer",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to like one thing or person better than another: I would prefer to stay at home"
         }
       ]
     }

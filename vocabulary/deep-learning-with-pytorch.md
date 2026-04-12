@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 363**
+**Total words: 369**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (88 words)](#preface-88-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (124 words)](#about-this-book-124-words)
+- [about this book (130 words)](#about-this-book-130-words)
 
 ---
 
@@ -220,7 +220,7 @@
 - **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
 - **honorable** : قابل احترام
 - **deserves** : لایق بودن
-- **particular** : certain - خاص
+- **particular** : certain, specific - خاص
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
 - **bring** : to move something to a different place - منتقل کردن
@@ -263,7 +263,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (124 words)
+## about this book (130 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -283,7 +283,7 @@
 - **typical** : معمولی
 - **undergraduate** : bachelor-level
 - **or-later** : یا بالاتر
-- **since** : because
+- **since** : 1. from a particular time in the past until now: I have been waiting since 8 AM. 2. because; for the reason that: Since you're tired, you should rest.
 - **exposition** : explanation
 - **slightly** : a little
 - **angle** : رویکرد، دیدگاه
@@ -313,7 +313,7 @@
 - **blend** : combine
 - **various** : different
 - **rather than** : instead of
-- **common** : مشترک
+- **common** : 1. happening often or found in many places: jackson is a common English name 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - **denominator** : مخرج (در کسر ریاضی)
 - **preserve** : حفظ کردن، نگهداری کردن
 - **characterized** : defined
@@ -388,4 +388,10 @@
 - **adjust** : to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
 - **luck** : شانس
 - **discuss** : to talk or write about a topic in detail
+- **instructions** : guidelines, information telling you how to do something
+- **typically** : usually, in most cases; as expected
+- **wider** : گسترده‌تر، وسیع‌تر
+- **variety** : many different types of something
+- **compatible** : able to exist or work together without problems
+- **prefer** : to like one thing or person better than another: I would prefer to stay at home
 ---
