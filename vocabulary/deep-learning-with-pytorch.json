@@ -1210,8 +1210,8 @@
         {
           "word": "particular",
           "phonetic": "",
-          "mean_fa": "خاص",
-          "mean_en": "certain, specific"
+          "mean_fa": "خاص، ویژه",
+          "mean_en": "specific"
         },
         {
           "word": "gratitude",
@@ -2165,6 +2165,12 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "sufficient, enough"
+        },
+        {
+          "word": "certain",
+          "phonetic": "",
+          "mean_fa": "خاص، معیّن",
+          "mean_en": "specific"
         },
         {
           "word": "operating system",
