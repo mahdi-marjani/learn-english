@@ -738,7 +738,7 @@
           "word": "individual",
           "phonetic": "",
           "mean_fa": "شخصی",
-          "mean_en": ""
+          "mean_en": "one person, considered separately from a group"
         },
         {
           "word": "took a bit",
@@ -2243,6 +2243,90 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "to like one thing or person better than another: I would prefer to stay at home"
+        },
+        {
+          "word": "Purchase",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "buy"
+        },
+        {
+          "word": "rule",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "an official instruction about what to do or not to do"
+        },
+        {
+          "word": "conduct",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "behavior"
+        },
+        {
+          "word": "Commitment",
+          "phonetic": "",
+          "mean_fa": "تعهد",
+          "mean_en": ""
+        },
+        {
+          "word": "venue",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "the place where an event or meeting happens"
+        },
+        {
+          "word": "dialogue",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "conversation"
+        },
+        {
+          "word": "take place",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "happen"
+        },
+        {
+          "word": "participation",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "contribution"
+        },
+        {
+          "word": "remain",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. to stay in the same way; to not change: I asked her a question but she remained silent. 2. to stay after other people or things have gone: After the fire, very little remained of the house."
+        },
+        {
+          "word": "gone",
+          "phonetic": "",
+          "mean_fa": "رفته",
+          "mean_en": ""
+        },
+        {
+          "word": "voluntary",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. 2. without payment: He does voluntary work at a children's hospital"
+        },
+        {
+          "word": "decision",
+          "phonetic": "",
+          "mean_fa": "تصمیم",
+          "mean_en": "choosing something after thinking"
+        },
+        {
+          "word": "stray",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to move away from the correct path or subject"
+        },
+        {
+          "word": "as long as",
+          "phonetic": "",
+          "mean_fa": "تا زمانی که، به شرطی که",
+          "mean_en": ""
         }
       ]
     }

@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 369**
+**Total words: 384**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (88 words)](#preface-88-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (130 words)](#about-this-book-130-words)
+- [about this book (145 words)](#about-this-book-145-words)
 
 ---
 
@@ -139,7 +139,7 @@
 - **lesions** : آسیب موضعی
 - **decade** : دهه
 - **appeared** : ظاهر شد
-- **individual** : شخصی
+- **individual** : one person, considered separately from a group - شخصی
 - **took a bit** : کمی طول کشید
 - **realize** : فهمیدن
 - **represented** : نشان می‌داد
@@ -220,7 +220,7 @@
 - **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
 - **honorable** : قابل احترام
 - **deserves** : لایق بودن
-- **particular** : certain, specific - خاص
+- **particular** : specific - خاص، ویژه
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
 - **bring** : to move something to a different place - منتقل کردن
@@ -263,7 +263,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (130 words)
+## about this book (145 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -382,6 +382,7 @@
 - **excessive** : more than what is necessary or normal
 - **consistent** : unchanging - ثابت
 - **adequate** : sufficient, enough
+- **certain** : specific - خاص، معیّن
 - **operating system** : OS, e.g., Windows, Linux, macOS
 - **anticipate** : پیش‌بینی کردن
 - **capable** : able, having the ability to do something
@@ -394,4 +395,18 @@
 - **variety** : many different types of something
 - **compatible** : able to exist or work together without problems
 - **prefer** : to like one thing or person better than another: I would prefer to stay at home
+- **Purchase** : buy
+- **rule** : an official instruction about what to do or not to do
+- **conduct** : behavior
+- **Commitment** : تعهد
+- **venue** : the place where an event or meeting happens
+- **dialogue** : conversation
+- **take place** : happen
+- **participation** : contribution
+- **remain** : 1. to stay in the same way; to not change: I asked her a question but she remained silent. 2. to stay after other people or things have gone: After the fire, very little remained of the house.
+- **gone** : رفته
+- **voluntary** : 1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. 2. without payment: He does voluntary work at a children's hospital
+- **decision** : choosing something after thinking - تصمیم
+- **stray** : to move away from the correct path or subject
+- **as long as** : تا زمانی که، به شرطی که
 ---
