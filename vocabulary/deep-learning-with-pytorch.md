@@ -1,14 +1,14 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 384**
+**Total words: 401**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
 - [foreword (52 words)](#foreword-52-words)
-- [preface (88 words)](#preface-88-words)
+- [preface (89 words)](#preface-89-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
-- [about this book (145 words)](#about-this-book-145-words)
+- [about this book (161 words)](#about-this-book-161-words)
 
 ---
 
@@ -109,7 +109,7 @@
 - **workshop** : کارگاه (آموزشی)
 ---
 
-## preface (88 words)
+## preface (89 words)
 - **preface** : مقدمه
 - **as kids** : وقتی بچه بودیم
 - **sinclair spectrum 48k (luca)** : نام چند کامپیوتر قدیمی
@@ -163,6 +163,7 @@
 - **love at first sight** : عشق در نگاه اول
 - **drawback** : نقطه‌ضعف
 - **detached** : جدا
+- **interested** : wanting to know more about somebody or something: Are you interested in cars?
 - **career pointed him in other directions** : مسیر شغلی‌اش او را به سمت دیگری هدایت کرد
 - **earlier** : زودتر
 - **laborious** : hard
@@ -263,7 +264,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (145 words)
+## about this book (161 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -391,7 +392,8 @@
 - **discuss** : to talk or write about a topic in detail
 - **instructions** : guidelines, information telling you how to do something
 - **typically** : usually, in most cases; as expected
-- **wider** : گسترده‌تر، وسیع‌تر
+- **wide** : far from one side to the other: We drove down a wide road - گسترده‌، وسیع‌
+- **drove** : past of drive
 - **variety** : many different types of something
 - **compatible** : able to exist or work together without problems
 - **prefer** : to like one thing or person better than another: I would prefer to stay at home
@@ -409,4 +411,19 @@
 - **decision** : choosing something after thinking - تصمیم
 - **stray** : to move away from the correct path or subject
 - **as long as** : تا زمانی که، به شرطی که
+- **introduction** : preface
+- **proficiency** : skill, high level of skill or ability
+- **encourage** : تشویق کردن
+- **build up** : ساختن، ایجاد کردن (به تدریج)
+- **intuitive** : based on feelings rather than facts
+- **either ... or** : used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
+- **mental** : related to the mind or thinking
+- **intuition** : the ability to understand something without conscious reasoning
+- **conscious** : aware
+- **thorough** : including every detail; complete
+- **direct (verb)** : 1. to manage or control somebody or something: A policeman was in the middle of the road, directing the traffic. 2. to be in charge of actors in a play or a film: The movie was directed by Quentin Tarantino 3. to tell somebody how to get to a place: Can you direct me to the station, please? - راهنمایی کردن، هدایت کردن
+- **extensive** : large in area or amount
+- **catalog** : a list of items (e.g., books, products) with details
+- **Depending on** : based on - وابسته به
+- **excellent** : very good: She speaks excellent Spanish
 ---

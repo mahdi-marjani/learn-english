@@ -879,6 +879,12 @@
           "mean_en": ""
         },
         {
+          "word": "interested",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "wanting to know more about somebody or something: Are you interested in cars?"
+        },
+        {
           "word": "career pointed him in other directions",
           "phonetic": "",
           "mean_fa": "مسیر شغلی‌اش او را به سمت دیگری هدایت کرد",
@@ -2221,10 +2227,16 @@
           "mean_en": "usually, in most cases; as expected"
         },
         {
-          "word": "wider",
+          "word": "wide",
           "phonetic": "",
-          "mean_fa": "گسترده‌تر، وسیع‌تر",
-          "mean_en": ""
+          "mean_fa": "گسترده‌، وسیع‌",
+          "mean_en": "far from one side to the other: We drove down a wide road"
+        },
+        {
+          "word": "drove",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of drive"
         },
         {
           "word": "variety",
@@ -2327,6 +2339,96 @@
           "phonetic": "",
           "mean_fa": "تا زمانی که، به شرطی که",
           "mean_en": ""
+        },
+        {
+          "word": "introduction",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "preface"
+        },
+        {
+          "word": "proficiency",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "skill, high level of skill or ability"
+        },
+        {
+          "word": "encourage",
+          "phonetic": "",
+          "mean_fa": "تشویق کردن",
+          "mean_en": ""
+        },
+        {
+          "word": "build up",
+          "phonetic": "",
+          "mean_fa": "ساختن، ایجاد کردن (به تدریج)",
+          "mean_en": ""
+        },
+        {
+          "word": "intuitive",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "based on feelings rather than facts"
+        },
+        {
+          "word": "either ... or",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)"
+        },
+        {
+          "word": "mental",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "related to the mind or thinking"
+        },
+        {
+          "word": "intuition",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "the ability to understand something without conscious reasoning"
+        },
+        {
+          "word": "conscious",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "aware"
+        },
+        {
+          "word": "thorough",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "including every detail; complete"
+        },
+        {
+          "word": "direct (verb)",
+          "phonetic": "",
+          "mean_fa": "راهنمایی کردن، هدایت کردن",
+          "mean_en": "1. to manage or control somebody or something: A policeman was in the middle of the road, directing the traffic. 2. to be in charge of actors in a play or a film: The movie was directed by Quentin Tarantino 3. to tell somebody how to get to a place: Can you direct me to the station, please?"
+        },
+        {
+          "word": "extensive",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "large in area or amount"
+        },
+        {
+          "word": "catalog",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "a list of items (e.g., books, products) with details"
+        },
+        {
+          "word": "Depending on",
+          "phonetic": "",
+          "mean_fa": "وابسته به",
+          "mean_en": "based on"
+        },
+        {
+          "word": "excellent",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "very good: She speaks excellent Spanish"
         }
       ]
     }
