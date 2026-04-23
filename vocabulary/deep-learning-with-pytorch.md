@@ -1,14 +1,15 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 401**
+**Total words: 424**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
 - [foreword (52 words)](#foreword-52-words)
 - [preface (89 words)](#preface-89-words)
-- [acknowledgments (60 words)](#acknowledgments-60-words)
+- [acknowledgments (61 words)](#acknowledgments-61-words)
 - [about this book (161 words)](#about-this-book-161-words)
+- [about the authors (22 words)](#about-the-authors-22-words)
 
 ---
 
@@ -137,7 +138,7 @@
 - **being applied** : در حال اعمال شدن
 - **identification** : شناسایی
 - **lesions** : آسیب موضعی
-- **decade** : دهه
+- **decade** /ˈdek.eɪd/ : a period of ten years - دهه
 - **appeared** : ظاهر شد
 - **individual** : one person, considered separately from a group - شخصی
 - **took a bit** : کمی طول کشید
@@ -201,7 +202,7 @@
 - **chose** : past of choose
 ---
 
-## acknowledgments (60 words)
+## acknowledgments (61 words)
 - **acknowledgments** : تشکرها
 - **deeply** : عمیقاً
 - **indebted** : مدیون
@@ -236,6 +237,7 @@
 - **we'd** : we had یا we would
 - **tricking** : حقه زدن، trick
 - **above and beyond** : بیش از حد انتظار
+- **above** : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below 2. more than a number or price: Temperatures above 40°C
 - **beyond** : بیش از
 - **reviewer** : بازبین
 - **duty** : وظیفه
@@ -426,4 +428,29 @@
 - **catalog** : a list of items (e.g., books, products) with details
 - **Depending on** : based on - وابسته به
 - **excellent** : very good: She speaks excellent Spanish
+---
+
+## about the authors (22 words)
+- **spend** : 1. to pay money for something: Louise spends a lot of money on clothes 2. to pass time: I spent the summer in Italy
+- **spent** : past of spend
+- **majority** : most
+- **career** : a job that you learn to do and then do for many years
+- **role** : function or part played by a person in a particular situation
+- **function** : the special work that a person or thing does: the function of the heart is to send blood round the body
+- **situation** : the things that are happening in a certain place or at a certain time: We are in a difficult situation at the moment
+- **ranging** : در محدوده … بودن، شامل شدن از … تا
+- **enterprise** : a new plan, project or business
+- **appliances** /əˈplaɪənsɪz/ : devices
+- **radiation oncology** /ˌreɪdiˈeɪʃən ɑːŋˈkɑːlədʒi/ : پرتودرمانی سرطان
+- **industry** /ˈɪndəstri/ : 1. the work of making things in factories: Is there much industry in your country? 2. all the companies that make the same thing: Japan has a big car industry
+- **biomedical** : زیست‌پزشکی
+- **cofounder** /ˌkoʊˈfaʊn.dɚ/ : هم‌بنیان‌گذار
+- **CTO** : Chief Technology Officer - مدیر ارشد فناوری
+- **infrastructure** /ˈɪn.frəˌstrʌk.tʃɚ/ : زیرساخت
+- **specialty** /ˈspeʃəlti/ : a particular area of knowledge or skill that someone focuses on - تخصص، زمینه تخصصی
+- **consultant** /kənˈsʌltənt/ : مشاور
+- **scare** /sker/ : frighten - ترساندن
+- **scared** : afraid
+- **thoroughly** /ˈθɜːroʊli/ : completely
+- **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany
 ---

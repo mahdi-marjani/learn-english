@@ -724,9 +724,9 @@
         },
         {
           "word": "decade",
-          "phonetic": "",
+          "phonetic": "/ˈdek.eɪd/",
           "mean_fa": "دهه",
-          "mean_en": ""
+          "mean_en": "a period of ten years"
         },
         {
           "word": "appeared",
@@ -2435,6 +2435,143 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "very good: She speaks excellent Spanish"
+        }
+      ]
+    },
+    {
+      "heading": "about the authors",
+      "words": [
+        {
+          "word": "spend",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. to pay money for something: Louise spends a lot of money on clothes 2. to pass time: I spent the summer in Italy"
+        },
+        {
+          "word": "spent",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "past of spend"
+        },
+        {
+          "word": "majority",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "most"
+        },
+        {
+          "word": "career",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "a job that you learn to do and then do for many years"
+        },
+        {
+          "word": "role",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "function or part played by a person in a particular situation"
+        },
+        {
+          "word": "function",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "the special work that a person or thing does: the function of the heart is to send blood round the body"
+        },
+        {
+          "word": "situation",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "the things that are happening in a certain place or at a certain time: We are in a difficult situation at the moment"
+        },
+        {
+          "word": "ranging",
+          "phonetic": "",
+          "mean_fa": "در محدوده … بودن، شامل شدن از … تا",
+          "mean_en": ""
+        },
+        {
+          "word": "enterprise",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "a new plan, project or business"
+        },
+        {
+          "word": "appliances",
+          "phonetic": "/əˈplaɪənsɪz/",
+          "mean_fa": "",
+          "mean_en": "devices"
+        },
+        {
+          "word": "radiation oncology",
+          "phonetic": "/ˌreɪdiˈeɪʃən ɑːŋˈkɑːlədʒi/",
+          "mean_fa": "پرتودرمانی سرطان",
+          "mean_en": ""
+        },
+        {
+          "word": "industry",
+          "phonetic": "/ˈɪndəstri/",
+          "mean_fa": "",
+          "mean_en": "1. the work of making things in factories: Is there much industry in your country? 2. all the companies that make the same thing: Japan has a big car industry"
+        },
+        {
+          "word": "biomedical",
+          "phonetic": "",
+          "mean_fa": "زیست‌پزشکی",
+          "mean_en": ""
+        },
+        {
+          "word": "cofounder",
+          "phonetic": "/ˌkoʊˈfaʊn.dɚ/",
+          "mean_fa": "هم‌بنیان‌گذار",
+          "mean_en": ""
+        },
+        {
+          "word": "CTO",
+          "phonetic": "",
+          "mean_fa": "مدیر ارشد فناوری",
+          "mean_en": "Chief Technology Officer"
+        },
+        {
+          "word": "infrastructure",
+          "phonetic": "/ˈɪn.frəˌstrʌk.tʃɚ/",
+          "mean_fa": "زیرساخت",
+          "mean_en": ""
+        },
+        {
+          "word": "specialty",
+          "phonetic": "/ˈspeʃəlti/",
+          "mean_fa": "تخصص، زمینه تخصصی",
+          "mean_en": "a particular area of knowledge or skill that someone focuses on"
+        },
+        {
+          "word": "consultant",
+          "phonetic": "/kənˈsʌltənt/",
+          "mean_fa": "مشاور",
+          "mean_en": ""
+        },
+        {
+          "word": "scare",
+          "phonetic": "/sker/",
+          "mean_fa": "ترساندن",
+          "mean_en": "frighten"
+        },
+        {
+          "word": "scared",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "afraid"
+        },
+        {
+          "word": "thoroughly",
+          "phonetic": "/ˈθɜːroʊli/",
+          "mean_fa": "",
+          "mean_en": "completely"
+        },
+        {
+          "word": "apply",
+          "phonetic": "/əˈplaɪ/",
+          "mean_fa": "",
+          "mean_en": "1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany"
         }
       ]
     }
