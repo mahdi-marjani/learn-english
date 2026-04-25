@@ -98,7 +98,7 @@
           "word": "distinguish",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "set apart"
+          "mean_en": "to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister"
         },
         {
           "word": "trademarks",
@@ -1754,8 +1754,8 @@
         },
         {
           "word": "various",
-          "phonetic": "",
-          "mean_fa": "",
+          "phonetic": "/ˈver.i.əs/",
+          "mean_fa": "مختلف",
           "mean_en": "different"
         },
         {
@@ -2246,7 +2246,7 @@
         },
         {
           "word": "variety",
-          "phonetic": "",
+          "phonetic": "/vəˈraɪ.ə.t̬i/",
           "mean_fa": "",
           "mean_en": "many different types of something"
         },
@@ -2572,6 +2572,245 @@
           "phonetic": "/əˈplaɪ/",
           "mean_fa": "",
           "mean_en": "1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany"
+        }
+      ]
+    },
+    {
+      "heading": "about the cover illustration",
+      "words": [
+        {
+          "word": "cover (noun)",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)"
+        },
+        {
+          "word": "magazine",
+          "phonetic": "/ˈmæɡ.ə.ziːn/",
+          "mean_fa": "مجله",
+          "mean_en": ""
+        },
+        {
+          "word": "illustration",
+          "phonetic": "/ˌɪl.əˈstreɪ.ʃən/",
+          "mean_fa": "",
+          "mean_en": "a picture in a book"
+        },
+        {
+          "word": "figure",
+          "phonetic": "/ˈfɪɡjər/",
+          "mean_fa": "",
+          "mean_en": "1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? 2. an amount or price: What are our sales figures for Spain this year? 3. the shape of a person's body: She's got a good figure 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window"
+        },
+        {
+          "word": "shall",
+          "phonetic": "/ʃæl/",
+          "mean_fa": "",
+          "mean_en": "should, must"
+        },
+        {
+          "word": "dress",
+          "phonetic": "/dres/",
+          "mean_fa": "لباس",
+          "mean_en": "clothing"
+        },
+        {
+          "word": "costume",
+          "phonetic": "/ˈkɑː.stuːm/",
+          "mean_fa": "لباس محلی",
+          "mean_en": ""
+        },
+        {
+          "word": "finely",
+          "phonetic": "/ˈfaɪn.li/",
+          "mean_fa": "با ظرافت، دقیق",
+          "mean_en": ""
+        },
+        {
+          "word": "drawn",
+          "phonetic": "/drɔːn/",
+          "mean_fa": "کشیده شده (نقاشی شده)",
+          "mean_en": "past participle of draw"
+        },
+        {
+          "word": "vividly",
+          "phonetic": "/ˈvɪv.ɪd.li/",
+          "mean_fa": "",
+          "mean_en": "clearly, brightly - in a way that produces strong, clear images in the mind"
+        },
+        {
+          "word": "town",
+          "phonetic": "/taʊn/",
+          "mean_fa": "",
+          "mean_en": "city (smaller)"
+        },
+        {
+          "word": "region",
+          "phonetic": "/ˈriː.dʒən/",
+          "mean_fa": "",
+          "mean_en": "a specific geographical area"
+        },
+        {
+          "word": "geographical",
+          "phonetic": "/ˌdʒiː.əˈɡræf.ɪ.kəl/",
+          "mean_fa": "جغرافیایی",
+          "mean_en": ""
+        },
+        {
+          "word": "isolated",
+          "phonetic": "/ˈaɪ.sə.leɪ.t̬ɪd/",
+          "mean_fa": "",
+          "mean_en": "far from other people or things: an Isolated house in the mountains"
+        },
+        {
+          "word": "spoke",
+          "phonetic": "/spoʊk/",
+          "mean_fa": "",
+          "mean_en": "past of speak"
+        },
+        {
+          "word": "dialect",
+          "phonetic": "/ˈdaɪ.ə.lekt/",
+          "mean_fa": "",
+          "mean_en": "a form of a language spoken in a particular area: a local dialect"
+        },
+        {
+          "word": "form (noun)",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. a type of something: Cars, trains and buses are all forms of transport 2. a piece of paper with spaces for you to answer questions: You need to fill in this form to get a new passport 3. the shape of a person or thing: a cake in the form of a car 4. one of the ways you write or say a word: 'Forgot' is a form of 'forget'"
+        },
+        {
+          "word": "transport",
+          "phonetic": "",
+          "mean_fa": "حمل و نقل",
+          "mean_en": ""
+        },
+        {
+          "word": "countryside",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "land outside towns and cities, with fields, forests, etc."
+        },
+        {
+          "word": "field",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. a piece of land used for animals or for growing crops, usually surrounded by a fence, trees, etc 2. an area of study or knowledge: Dr Smith is an expert in her field 3. a piece of land used for something special: a sports field - an airfield (= a place where planes land and take off)"
+        },
+        {
+          "word": "crop",
+          "phonetic": "/krɑːp/",
+          "mean_fa": "",
+          "mean_en": "all the plants of one kind that a farmer grows at one time: There was a good crop of potatoes last year - Rain is good for the crops"
+        },
+        {
+          "word": "trade (noun)",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. the buying and selling of things: trade between Britain and the US 2. a particular type of business: the building trade 3. a job for which you need special skills, especially with your hands: Dave is a plumber by trade - to learn a trade"
+        },
+        {
+          "word": "station",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. a place where trains stop so that people can get on and off 2. a place where buses or coaches start and end their journeys: the bus station 3. a building for some special work: the police station - the fire station - a petrol station 4. a television or radio company 5. a person's social rank or position: a person of high station"
+        },
+        {
+          "word": "diversity",
+          "phonetic": "/daɪˈvɜːrsəti/",
+          "mean_fa": "",
+          "mean_en": "variety"
+        },
+        {
+          "word": "fade",
+          "phonetic": "/feɪd/",
+          "mean_fa": "",
+          "mean_en": "to lose brightness, color, or strength gradually"
+        },
+        {
+          "word": "gradually",
+          "phonetic": "/ˈɡrædʒ.u.ə.li/",
+          "mean_fa": "به تدریج، آرام آرام",
+          "mean_en": ""
+        },
+        {
+          "word": "away",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "1. to or in another place: She ran away from him - He put his book away 2. from a place: The is two miles away 3. not here: Tim is away from school today because he is ill 4. in the future: Our holiday is only three weeks away"
+        },
+        {
+          "word": "fade away",
+          "phonetic": "",
+          "mean_fa": "به تدریج محو شدن و ناپدید شدن",
+          "mean_en": ""
+        },
+        {
+          "word": "tell apart",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to see the difference between two people or things: I can't tell the twins apart"
+        },
+        {
+          "word": "set apart",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to make someone or something different from others: His kindness sets him apart from others"
+        },
+        {
+          "word": "inhabitants",
+          "phonetic": "/ɪnˈhæbɪtənts/",
+          "mean_fa": "",
+          "mean_en": "people or animals that live in a particular place"
+        },
+        {
+          "word": "continents",
+          "phonetic": "/ˈkɑːntɪnənts/",
+          "mean_fa": "",
+          "mean_en": "the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)"
+        },
+        {
+          "word": "landmass",
+          "phonetic": "/ˈlænd.mæs/",
+          "mean_fa": "خشکی بزرگ",
+          "mean_en": ""
+        },
+        {
+          "word": "let alone",
+          "phonetic": "/let əˈloʊn/",
+          "mean_fa": "چه برسد به",
+          "mean_en": ""
+        },
+        {
+          "word": "perhaps",
+          "phonetic": "/pərˈhæps/",
+          "mean_fa": "",
+          "mean_en": "maybe"
+        },
+        {
+          "word": "varied",
+          "phonetic": "/ˈverid/",
+          "mean_fa": "",
+          "mean_en": "diverse, consisting of many different kinds"
+        },
+        {
+          "word": "certainly",
+          "phonetic": "/ˈsɜːrtnli/",
+          "mean_fa": "",
+          "mean_en": "1. without any doubt: She is certainly the best swimmer in the team 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'"
+        },
+        {
+          "word": "doubt",
+          "phonetic": "/daʊt/",
+          "mean_fa": "شک، تردید",
+          "mean_en": ""
+        },
+        {
+          "word": "fast-paced",
+          "phonetic": "/fæst peɪst/",
+          "mean_fa": "سریع، با سرعت بالا (زندگی یا تکنولوژی)",
+          "mean_en": "happening very quickly"
         }
       ]
     }

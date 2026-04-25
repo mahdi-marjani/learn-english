@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 424**
+**Total words: 463**
 
 ## 📑 Table of Contents
 
@@ -10,6 +10,7 @@
 - [acknowledgments (61 words)](#acknowledgments-61-words)
 - [about this book (161 words)](#about-this-book-161-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
+- [about the cover illustration (39 words)](#about-the-cover-illustration-39-words)
 
 ---
 
@@ -29,7 +30,7 @@
 - **otherwise** : else, etc - در غیر این صورت، غیره
 - **prior** : قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد
 - **designations** : اصطلاحات
-- **distinguish** : set apart
+- **distinguish** : to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister
 - **trademarks** : علامت‌های تجاری
 - **appear** : ظاهر شدن
 - **aware** : آگاه
@@ -314,7 +315,7 @@
 - **came** : past of come
 - **came along** : joined
 - **blend** : combine
-- **various** : different
+- **various** /ˈver.i.əs/ : different - مختلف
 - **rather than** : instead of
 - **common** : 1. happening often or found in many places: jackson is a common English name 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - **denominator** : مخرج (در کسر ریاضی)
@@ -396,7 +397,7 @@
 - **typically** : usually, in most cases; as expected
 - **wide** : far from one side to the other: We drove down a wide road - گسترده‌، وسیع‌
 - **drove** : past of drive
-- **variety** : many different types of something
+- **variety** /vəˈraɪ.ə.t̬i/ : many different types of something
 - **compatible** : able to exist or work together without problems
 - **prefer** : to like one thing or person better than another: I would prefer to stay at home
 - **Purchase** : buy
@@ -453,4 +454,46 @@
 - **scared** : afraid
 - **thoroughly** /ˈθɜːroʊli/ : completely
 - **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany
+---
+
+## about the cover illustration (39 words)
+- **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
+- **magazine** /ˈmæɡ.ə.ziːn/ : مجله
+- **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
+- **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? 2. an amount or price: What are our sales figures for Spain this year? 3. the shape of a person's body: She's got a good figure 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
+- **shall** /ʃæl/ : should, must
+- **dress** /dres/ : clothing - لباس
+- **costume** /ˈkɑː.stuːm/ : لباس محلی
+- **finely** /ˈfaɪn.li/ : با ظرافت، دقیق
+- **drawn** /drɔːn/ : past participle of draw - کشیده شده (نقاشی شده)
+- **vividly** /ˈvɪv.ɪd.li/ : clearly, brightly - in a way that produces strong, clear images in the mind
+- **town** /taʊn/ : city (smaller)
+- **region** /ˈriː.dʒən/ : a specific geographical area
+- **geographical** /ˌdʒiː.əˈɡræf.ɪ.kəl/ : جغرافیایی
+- **isolated** /ˈaɪ.sə.leɪ.t̬ɪd/ : far from other people or things: an Isolated house in the mountains
+- **spoke** /spoʊk/ : past of speak
+- **dialect** /ˈdaɪ.ə.lekt/ : a form of a language spoken in a particular area: a local dialect
+- **form (noun)** : 1. a type of something: Cars, trains and buses are all forms of transport 2. a piece of paper with spaces for you to answer questions: You need to fill in this form to get a new passport 3. the shape of a person or thing: a cake in the form of a car 4. one of the ways you write or say a word: 'Forgot' is a form of 'forget'
+- **transport** : حمل و نقل
+- **countryside** : land outside towns and cities, with fields, forests, etc.
+- **field** : 1. a piece of land used for animals or for growing crops, usually surrounded by a fence, trees, etc 2. an area of study or knowledge: Dr Smith is an expert in her field 3. a piece of land used for something special: a sports field - an airfield (= a place where planes land and take off)
+- **crop** /krɑːp/ : all the plants of one kind that a farmer grows at one time: There was a good crop of potatoes last year - Rain is good for the crops
+- **trade (noun)** : 1. the buying and selling of things: trade between Britain and the US 2. a particular type of business: the building trade 3. a job for which you need special skills, especially with your hands: Dave is a plumber by trade - to learn a trade
+- **station** : 1. a place where trains stop so that people can get on and off 2. a place where buses or coaches start and end their journeys: the bus station 3. a building for some special work: the police station - the fire station - a petrol station 4. a television or radio company 5. a person's social rank or position: a person of high station
+- **diversity** /daɪˈvɜːrsəti/ : variety
+- **fade** /feɪd/ : to lose brightness, color, or strength gradually
+- **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
+- **away** : 1. to or in another place: She ran away from him - He put his book away 2. from a place: The is two miles away 3. not here: Tim is away from school today because he is ill 4. in the future: Our holiday is only three weeks away
+- **fade away** : به تدریج محو شدن و ناپدید شدن
+- **tell apart** : to see the difference between two people or things: I can't tell the twins apart
+- **set apart** : to make someone or something different from others: His kindness sets him apart from others
+- **inhabitants** /ɪnˈhæbɪtənts/ : people or animals that live in a particular place
+- **continents** /ˈkɑːntɪnənts/ : the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)
+- **landmass** /ˈlænd.mæs/ : خشکی بزرگ
+- **let alone** /let əˈloʊn/ : چه برسد به
+- **perhaps** /pərˈhæps/ : maybe
+- **varied** /ˈverid/ : diverse, consisting of many different kinds
+- **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
+- **doubt** /daʊt/ : شک، تردید
+- **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
 ---
