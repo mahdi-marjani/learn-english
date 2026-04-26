@@ -331,7 +331,7 @@
 - **revolution** : انقلاب، تغییر بزرگ و اساسی
 - **touches on** : به طور کوتاه به چیزی اشاره می‌کند
 - **sets** : متمایز کردن
-- **apart** : متمایز
+- **apart** /əˈpɑːrt/ : متمایز
 - **kinds** : types
 - **to be shaped** : شکل گرفتن
 - **moves us closer** : ما را به هدف نزدیک‌تر می‌کند
@@ -483,7 +483,7 @@
 - **diversity** /daɪˈvɜːrsəti/ : variety
 - **fade** /feɪd/ : to lose brightness, color, or strength gradually
 - **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
-- **away** : 1. to or in another place: She ran away from him - He put his book away 2. from a place: The is two miles away 3. not here: Tim is away from school today because he is ill 4. in the future: Our holiday is only three weeks away
+- **away** : 1. to or in another place: She ran away from him - He put his book away 2. from a place: The sea is two miles away 3. not here: Tim is away from school today because he is ill 4. in the future: Our holiday is only three weeks away
 - **fade away** : به تدریج محو شدن و ناپدید شدن
 - **tell apart** : to see the difference between two people or things: I can't tell the twins apart
 - **set apart** : to make someone or something different from others: His kindness sets him apart from others
