@@ -1233,9 +1233,9 @@
         },
         {
           "word": "bring",
-          "phonetic": "",
+          "phonetic": "/brɪŋ/",
           "mean_fa": "منتقل کردن",
-          "mean_en": "to move something to a different place"
+          "mean_en": "1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? 2. to make something happen: Money doesn't always bring happiness"
         },
         {
           "word": "incredible",
@@ -2811,6 +2811,36 @@
           "phonetic": "/fæst peɪst/",
           "mean_fa": "سریع، با سرعت بالا (زندگی یا تکنولوژی)",
           "mean_en": "happening very quickly"
+        },
+        {
+          "word": "celebrate",
+          "phonetic": "/ˈsel.ə.breɪt/",
+          "mean_fa": "",
+          "mean_en": "to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week"
+        },
+        {
+          "word": "inventiveness",
+          "phonetic": "/ɪnˈven.t̬ɪv.nəs/",
+          "mean_fa": "",
+          "mean_en": "the ability to create new things or think of new ideas"
+        },
+        {
+          "word": "initiative",
+          "phonetic": "/ɪˈnɪʃ.ə.t̬ɪv/",
+          "mean_fa": "",
+          "mean_en": "the ability to take action independently, without being told what to do"
+        },
+        {
+          "word": "brought",
+          "phonetic": "/brɔːt/",
+          "mean_fa": "",
+          "mean_en": "past of bring"
+        },
+        {
+          "word": "brought back",
+          "phonetic": "",
+          "mean_fa": "دوباره زنده کردن، احیا کردن",
+          "mean_en": ""
         }
       ]
     }

@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 463**
+**Total words: 468**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
 - [acknowledgments (61 words)](#acknowledgments-61-words)
 - [about this book (161 words)](#about-this-book-161-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
-- [about the cover illustration (39 words)](#about-the-cover-illustration-39-words)
+- [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
 
 ---
 
@@ -226,7 +226,7 @@
 - **particular** : specific - خاص، ویژه
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
-- **bring** : to move something to a different place - منتقل کردن
+- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? 2. to make something happen: Money doesn't always bring happiness - منتقل کردن
 - **incredible** : باور نکردنی
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
@@ -456,7 +456,7 @@
 - **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany
 ---
 
-## about the cover illustration (39 words)
+## about the cover illustration (44 words)
 - **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
 - **magazine** /ˈmæɡ.ə.ziːn/ : مجله
 - **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
@@ -496,4 +496,9 @@
 - **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
 - **doubt** /daʊt/ : شک، تردید
 - **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
+- **celebrate** /ˈsel.ə.breɪt/ : to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week
+- **inventiveness** /ɪnˈven.t̬ɪv.nəs/ : the ability to create new things or think of new ideas
+- **initiative** /ɪˈnɪʃ.ə.t̬ɪv/ : the ability to take action independently, without being told what to do
+- **brought** /brɔːt/ : past of bring
+- **brought back** : دوباره زنده کردن، احیا کردن
 ---
