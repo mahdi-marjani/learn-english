@@ -28,6 +28,15 @@ def compute_word_count(section):
     section['_word_count'] = count
     return count
 
+def parse_word(word_str):
+    """Return (base, tag) where tag is None or string inside parentheses."""
+    m = re.match(r'^(.*?)\s*\(([^)]+)\)$', word_str)
+    if m:
+        base = m.group(1).strip()
+        tag = m.group(2).strip()
+        return base, tag
+    return word_str.strip(), None
+
 if len(sys.argv) != 3:
     print("Usage: python json_to_md.py <input.json> <output.md>")
     sys.exit(1)
@@ -41,7 +50,7 @@ for sec in data['sections']:
 
 toc = []
 lines = []
-seen_words = set()
+base_tags = {}
 
 def write_section(section, level):
     heading = section['heading']
@@ -55,12 +64,17 @@ def write_section(section, level):
     if 'words' in section:
         for w in section['words']:
             original_word = w['word']
-            lower_word = original_word.lower()
+            base, tag = parse_word(original_word)
+            base_lower = base.lower()
+            tag_key = tag.lower() if tag else None
             
-            if lower_word in seen_words:
-                print(f"⚠️ Warning: Duplicate word '{original_word}' (lowercase: '{lower_word}') found in section: {heading}", file=sys.stderr)
+            if base_lower in base_tags:
+                existing = base_tags[base_lower]
+                if (None in existing) or (tag_key is None) or (tag_key in existing):
+                    print(f"⚠️ Warning: Duplicate base '{base}' (existing tags: {existing}, new tag: '{tag_key}') for word '{original_word}' in section: {heading}", file=sys.stderr)
+                existing.add(tag_key)
             else:
-                seen_words.add(lower_word)
+                base_tags[base_lower] = {tag_key}
             
             phonetic = f' {w["phonetic"]}' if w.get('phonetic') else ''
             mean_separator = ' - ' if w.get('mean_en') and w.get('mean_fa') else ''
