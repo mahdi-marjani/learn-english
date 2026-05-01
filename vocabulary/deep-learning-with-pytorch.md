@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 468**
+**Total words: 485**
 
 ## 📑 Table of Contents
 
@@ -8,9 +8,10 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (89 words)](#preface-89-words)
 - [acknowledgments (61 words)](#acknowledgments-61-words)
-- [about this book (161 words)](#about-this-book-161-words)
+- [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
+- [about the cover illustration (13 words)](#about-the-cover-illustration-13-words)
 
 ---
 
@@ -103,7 +104,7 @@
 - **bioengineering** : مهندسی زیستی
 - **imaging** : تصویربرداری
 - **practical** : workable, suitable for real use; likely to work effectively - عملی
-- **journey** : مسیری که طی می‌شود
+- **journey** /ˈdʒɜːr.ni/ : the act of travelling from one place to another: Did you have a good journey?
 - **treated** : مورد بررسی قرار گرفته
 - **all in all** : در مجموع
 - **becomes** : “تبدیل شدن” یا “شدن”
@@ -119,7 +120,7 @@
 - **commodore c16 (thomas)** : نام چند کامپیوتر قدیمی
 - **dawn** : start (of something big or new)
 - **dreamed** : رؤیا دیدیم
-- **take** : بردن
+- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital - بردن
 - **collective** : دسته‌جمعی
 - **rolling our eyes** : چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - **spy** : جاسوس
@@ -226,7 +227,7 @@
 - **particular** : specific - خاص، ویژه
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
-- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? 2. to make something happen: Money doesn't always bring happiness - منتقل کردن
+- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness - منتقل کردن
 - **incredible** : باور نکردنی
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
@@ -238,11 +239,11 @@
 - **we'd** : we had یا we would
 - **tricking** : حقه زدن، trick
 - **above and beyond** : بیش از حد انتظار
-- **above** : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below 2. more than a number or price: Temperatures above 40°C
+- **above** : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below <br> 2. more than a number or price: Temperatures above 40°C
 - **beyond** : بیش از
 - **reviewer** : بازبین
 - **duty** : وظیفه
-- **deal** : سر و کله زدن
+- **deal (verb)** /diːl/ : 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> **deal out** to give something to a number of people: The profits will be dealt out among us <br> **deal with something** 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
 - **wacky** : عجیب و غریب
 - **copyeditor** : ویراستار متنی
 - **impressive** : قابل توجه
@@ -267,7 +268,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (161 words)
+## about this book (165 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -287,7 +288,7 @@
 - **typical** : معمولی
 - **undergraduate** : bachelor-level
 - **or-later** : یا بالاتر
-- **since** : 1. from a particular time in the past until now: I have been waiting since 8 AM. 2. because; for the reason that: Since you're tired, you should rest.
+- **since** : 1. from a particular time in the past until now: I have been waiting since 8 AM. <br> 2. because; for the reason that: Since you're tired, you should rest.
 - **exposition** : explanation
 - **slightly** : a little
 - **angle** : رویکرد، دیدگاه
@@ -304,7 +305,7 @@
 - **end-to-end** : از ابتدا تا انتها
 - **introduced** : معرفی شد، ارائه شد
 - **rounds** : بخش‌های پایانی
-- **tour** : مرور سریع
+- **tour** /tʊr/ : 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
 - **notice** : متوجه شدن
 - **among** : در میان
 - **although** : اگرچه
@@ -317,7 +318,7 @@
 - **blend** : combine
 - **various** /ˈver.i.əs/ : different - مختلف
 - **rather than** : instead of
-- **common** : 1. happening often or found in many places: jackson is a common English name 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
+- **common** : 1. happening often or found in many places: jackson is a common English name <br> 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - **denominator** : مخرج (در کسر ریاضی)
 - **preserve** : حفظ کردن، نگهداری کردن
 - **characterized** : defined
@@ -327,7 +328,11 @@
 - **out there** : in the real world
 - **wild** : real-world
 - **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
-- **tackle** : از پس ... برآمدن، حل کردن
+- **tackle (verb)** /ˈtækl/ : 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
+- **catch** /kætʃ/ : 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> **catch fire** to start to burn: The house caught fire
+- **hold** /hoʊld/ : to have something in your hand or arms; to keep someone in a position
+- **robber** /ˈrɑː.bɚ/ : a person who steals money or property, often by force
+- **ran** : past of run
 - **revolution** : انقلاب، تغییر بزرگ و اساسی
 - **touches on** : به طور کوتاه به چیزی اشاره می‌کند
 - **sets** : متمایز کردن
@@ -408,9 +413,9 @@
 - **dialogue** : conversation
 - **take place** : happen
 - **participation** : contribution
-- **remain** : 1. to stay in the same way; to not change: I asked her a question but she remained silent. 2. to stay after other people or things have gone: After the fire, very little remained of the house.
+- **remain** : 1. to stay in the same way; to not change: I asked her a question but she remained silent. <br> 2. to stay after other people or things have gone: After the fire, very little remained of the house.
 - **gone** : رفته
-- **voluntary** : 1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. 2. without payment: He does voluntary work at a children's hospital
+- **voluntary** : 1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. <br> 2. without payment: He does voluntary work at a children's hospital
 - **decision** : choosing something after thinking - تصمیم
 - **stray** : to move away from the correct path or subject
 - **as long as** : تا زمانی که، به شرطی که
@@ -424,7 +429,7 @@
 - **intuition** : the ability to understand something without conscious reasoning
 - **conscious** : aware
 - **thorough** : including every detail; complete
-- **direct (verb)** : 1. to manage or control somebody or something: A policeman was in the middle of the road, directing the traffic. 2. to be in charge of actors in a play or a film: The movie was directed by Quentin Tarantino 3. to tell somebody how to get to a place: Can you direct me to the station, please? - راهنمایی کردن، هدایت کردن
+- **direct (verb)** : 1. to manage or control somebody or something: A policeman was in the middle of the road, directing the traffic. <br> 2. to be in charge of actors in a play or a film: The movie was directed by Quentin Tarantino <br> 3. to tell somebody how to get to a place: Can you direct me to the station, please? - راهنمایی کردن، هدایت کردن
 - **extensive** : large in area or amount
 - **catalog** : a list of items (e.g., books, products) with details
 - **Depending on** : based on - وابسته به
@@ -432,7 +437,7 @@
 ---
 
 ## about the authors (22 words)
-- **spend** : 1. to pay money for something: Louise spends a lot of money on clothes 2. to pass time: I spent the summer in Italy
+- **spend** : 1. to pay money for something: Louise spends a lot of money on clothes <br> 2. to pass time: I spent the summer in Italy
 - **spent** : past of spend
 - **majority** : most
 - **career** : a job that you learn to do and then do for many years
@@ -443,7 +448,7 @@
 - **enterprise** : a new plan, project or business
 - **appliances** /əˈplaɪənsɪz/ : devices
 - **radiation oncology** /ˌreɪdiˈeɪʃən ɑːŋˈkɑːlədʒi/ : پرتودرمانی سرطان
-- **industry** /ˈɪndəstri/ : 1. the work of making things in factories: Is there much industry in your country? 2. all the companies that make the same thing: Japan has a big car industry
+- **industry** /ˈɪndəstri/ : 1. the work of making things in factories: Is there much industry in your country? <br> 2. all the companies that make the same thing: Japan has a big car industry
 - **biomedical** : زیست‌پزشکی
 - **cofounder** /ˌkoʊˈfaʊn.dɚ/ : هم‌بنیان‌گذار
 - **CTO** : Chief Technology Officer - مدیر ارشد فناوری
@@ -453,14 +458,14 @@
 - **scare** /sker/ : frighten - ترساندن
 - **scared** : afraid
 - **thoroughly** /ˈθɜːroʊli/ : completely
-- **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone 2. request formally: Mahdi applied for a job in Germany
+- **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone <br> 2. request formally: Mahdi applied for a job in Germany
 ---
 
 ## about the cover illustration (44 words)
-- **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
+- **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
 - **magazine** /ˈmæɡ.ə.ziːn/ : مجله
 - **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
-- **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? 2. an amount or price: What are our sales figures for Spain this year? 3. the shape of a person's body: She's got a good figure 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
+- **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - **shall** /ʃæl/ : should, must
 - **dress** /dres/ : clothing - لباس
 - **costume** /ˈkɑː.stuːm/ : لباس محلی
@@ -473,17 +478,17 @@
 - **isolated** /ˈaɪ.sə.leɪ.t̬ɪd/ : far from other people or things: an Isolated house in the mountains
 - **spoke** /spoʊk/ : past of speak
 - **dialect** /ˈdaɪ.ə.lekt/ : a form of a language spoken in a particular area: a local dialect
-- **form (noun)** : 1. a type of something: Cars, trains and buses are all forms of transport 2. a piece of paper with spaces for you to answer questions: You need to fill in this form to get a new passport 3. the shape of a person or thing: a cake in the form of a car 4. one of the ways you write or say a word: 'Forgot' is a form of 'forget'
+- **form (noun)** : 1. a type of something: Cars, trains and buses are all forms of transport <br> 2. a piece of paper with spaces for you to answer questions: You need to fill in this form to get a new passport <br> 3. the shape of a person or thing: a cake in the form of a car <br> 4. one of the ways you write or say a word: 'Forgot' is a form of 'forget'
 - **transport** : حمل و نقل
 - **countryside** : land outside towns and cities, with fields, forests, etc.
-- **field** : 1. a piece of land used for animals or for growing crops, usually surrounded by a fence, trees, etc 2. an area of study or knowledge: Dr Smith is an expert in her field 3. a piece of land used for something special: a sports field - an airfield (= a place where planes land and take off)
+- **field** : 1. a piece of land used for animals or for growing crops, usually surrounded by a fence, trees, etc <br> 2. an area of study or knowledge: Dr Smith is an expert in her field <br> 3. a piece of land used for something special: a sports field - an airfield (= a place where planes land and take off)
 - **crop** /krɑːp/ : all the plants of one kind that a farmer grows at one time: There was a good crop of potatoes last year - Rain is good for the crops
-- **trade (noun)** : 1. the buying and selling of things: trade between Britain and the US 2. a particular type of business: the building trade 3. a job for which you need special skills, especially with your hands: Dave is a plumber by trade - to learn a trade
-- **station** : 1. a place where trains stop so that people can get on and off 2. a place where buses or coaches start and end their journeys: the bus station 3. a building for some special work: the police station - the fire station - a petrol station 4. a television or radio company 5. a person's social rank or position: a person of high station
+- **trade (noun)** : 1. the buying and selling of things: trade between Britain and the US <br> 2. a particular type of business: the building trade <br> 3. a job for which you need special skills, especially with your hands: Dave is a plumber by trade - to learn a trade
+- **station** : 1. a place where trains stop so that people can get on and off <br> 2. a place where buses or coaches start and end their journeys: the bus station <br> 3. a building for some special work: the police station - the fire station - a petrol station <br> 4. a television or radio company <br> 5. a person's social rank or position: a person of high station
 - **diversity** /daɪˈvɜːrsəti/ : variety
 - **fade** /feɪd/ : to lose brightness, color, or strength gradually
 - **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
-- **away** : 1. to or in another place: She ran away from him - He put his book away 2. from a place: The sea is two miles away 3. not here: Tim is away from school today because he is ill 4. in the future: Our holiday is only three weeks away
+- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here: Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - **fade away** : به تدریج محو شدن و ناپدید شدن
 - **tell apart** : to see the difference between two people or things: I can't tell the twins apart
 - **set apart** : to make someone or something different from others: His kindness sets him apart from others
@@ -493,7 +498,7 @@
 - **let alone** /let əˈloʊn/ : چه برسد به
 - **perhaps** /pərˈhæps/ : maybe
 - **varied** /ˈverid/ : diverse, consisting of many different kinds
-- **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
+- **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
 - **doubt** /daʊt/ : شک، تردید
 - **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
 - **celebrate** /ˈsel.ə.breɪt/ : to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week
@@ -501,4 +506,20 @@
 - **initiative** /ɪˈnɪʃ.ə.t̬ɪv/ : the ability to take action independently, without being told what to do
 - **brought** /brɔːt/ : past of bring
 - **brought back** : دوباره زنده کردن، احیا کردن
+---
+
+## about the cover illustration (13 words)
+- **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
+- **work out** : to find a solution to a problem or understand how something works
+- **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
+- **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?
+- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (same meaning : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (same meaning: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
+- **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
+- **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
+- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
+- **domain** /doʊˈmeɪn/ : a particular area of activity, knowledge, or data
+- **unveil** /ʌnˈveɪl/ : to show or make known something that was hidden or unknown
+- **crack** /kræk/ : شکافتن، ترک خوردن؛ در معنای مجازی: حل کردن (مسئله دشوار)، رمزگشایی کردن
+- **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
+- **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 ---
