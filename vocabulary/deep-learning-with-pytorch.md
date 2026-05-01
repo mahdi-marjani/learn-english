@@ -11,7 +11,7 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [about the cover illustration (13 words)](#about-the-cover-illustration-13-words)
+- [Part 1: Core PyTorch (13 words)](#part-1-core-pytorch-13-words)
 
 ---
 
@@ -508,7 +508,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## about the cover illustration (13 words)
+## Part 1: Core PyTorch (13 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
