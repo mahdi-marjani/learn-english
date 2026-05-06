@@ -774,7 +774,7 @@
           "word": "complicated",
           "phonetic": "",
           "mean_fa": "پیچیده",
-          "mean_en": ""
+          "mean_en": "complex"
         },
         {
           "word": "observation",
@@ -1167,7 +1167,7 @@
         },
         {
           "word": "approach",
-          "phonetic": "",
+          "phonetic": "/əˈproʊtʃ/",
           "mean_fa": "",
           "mean_en": "method"
         },
@@ -1951,9 +1951,9 @@
           "mean_en": "imaging method that shows slices of the body"
         },
         {
-          "word": "along with",
-          "phonetic": "",
-          "mean_fa": "همراه با",
+          "word": "along",
+          "phonetic": "/əˈlɔːŋ/",
+          "mean_fa": "همراه، به همراه، در کنار",
           "mean_en": ""
         },
         {
@@ -2948,6 +2948,121 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)"
+        }
+      ],
+      "subsections": [
+        {
+          "heading": "Chapter 1: Introducing deep learning and the PyTorch Library",
+          "words": [
+            {
+              "word": "poor",
+              "phonetic": "/pʊr/",
+              "mean_fa": "",
+              "mean_en": "not good enough; of low quality"
+            },
+            {
+              "word": "term",
+              "phonetic": "/tɜːrm/",
+              "mean_fa": "",
+              "mean_en": "a word or group of words used to describe something"
+            },
+            {
+              "word": "set",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "a group of similar things that belong together"
+            },
+            {
+              "word": "discipline",
+              "phonetic": "/ˈdɪsəplɪn/",
+              "mean_fa": "",
+              "mean_en": "a specific area of academic study or professional practice"
+            },
+            {
+              "word": "tremendous",
+              "phonetic": "/trəˈmendəs/",
+              "mean_fa": "",
+              "mean_en": "huge, very great in amount, size, or intensity"
+            },
+            {
+              "word": "scrutiny",
+              "phonetic": "/ˈskruːtəni/",
+              "mean_fa": "بررسی موشکافانه، وارسی دقیق",
+              "mean_en": ""
+            },
+            {
+              "word": "confuse",
+              "phonetic": "/kənˈfjuːz/",
+              "mean_fa": "",
+              "mean_en": "1. to mix somebody's ideas, so that they cannot think clearly or understand: They confused me by asking so many questions <br> 2. to think that one thing or person is another thing or person: I often confuse Lee with his brother. They look so similar"
+            },
+            {
+              "word": "fantastical",
+              "phonetic": "/fænˈtæstɪkəl/",
+              "mean_fa": "خارق‌العاده، افسانه‌ای",
+              "mean_en": ""
+            },
+            {
+              "word": "hype",
+              "phonetic": "/haɪp/",
+              "mean_fa": "هیاهوی تبلیغاتی، بزرگنمایی",
+              "mean_en": ""
+            },
+            {
+              "word": "sci-fi",
+              "phonetic": "/ˈsaɪ faɪ/",
+              "mean_fa": "علمی-تخیلی",
+              "mean_en": "science fiction"
+            },
+            {
+              "word": "fearmongering",
+              "phonetic": "/ˈfɪrˌmʌŋɡərɪŋ/",
+              "mean_fa": "ترس‌افکنی، وحشت پراکنی",
+              "mean_en": ""
+            },
+            {
+              "word": "fear",
+              "phonetic": "/fɪr/",
+              "mean_fa": "ترس",
+              "mean_en": ""
+            },
+            {
+              "word": "sanguine",
+              "phonetic": "/ˈsæŋɡwɪn/",
+              "mean_fa": "خوش‌بین، امیدوار",
+              "mean_en": "hopeful"
+            },
+            {
+              "word": "disingenuous",
+              "phonetic": "/ˌdɪsɪnˈdʒenjuəs/",
+              "mean_fa": "دورو، غیرصادقانه",
+              "mean_en": ""
+            },
+            {
+              "word": "assert",
+              "phonetic": "/əˈsɜːrt/",
+              "mean_fa": "ادعا کردن، به طور قاطع گفتن",
+              "mean_en": ""
+            },
+            {
+              "word": "sense (noun)",
+              "phonetic": "/sens/",
+              "mean_fa": "",
+              "mean_en": "1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses"
+            },
+            {
+              "word": "approximate (verb)",
+              "phonetic": "/əˈprɑːksɪmeɪt/",
+              "mean_fa": "",
+              "mean_en": "to be close to a particular number or state without being exact"
+            },
+            {
+              "word": "close (adjective)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture"
+            }
+          ]
         }
       ]
     }
