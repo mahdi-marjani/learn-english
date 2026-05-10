@@ -4,6 +4,7 @@
 
 - [1. حال ساده (Present Simple)](#1-حال-ساده-present-simple)
 - [2. حال استمراری (Present Continuous)](#2-حال-استمراری-present-continuous)
+- [3. گذشته ساده (Past Simple)](#3-گذشته-ساده-past-simple)
 
 ---
 
@@ -241,5 +242,164 @@ Subject + am/is/are + Verb-ing + ...
 مقایسه کن:  
 - I am lazy. → من آدم تنبلی هستم (همیشگی)  
 - I am being lazy. → الان دارم تنبلی می‌کنم (موقتی)
+
+---
+
+## 3. گذشته ساده (Past Simple)
+
+---
+
+### 📌 کاربردها (Uses)
+
+**کار ها و فعالیت هایی که در گذشته در یک زمان خاص و ثابت انجام شدن و به پایان رسیدن**
+  - مثال:
+  - I read this book last year.
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + Verb (past form) + ...
+```
+
+---
+
+### ⚠️ نکته: شکل گذشته فعل (Past Form)
+
+فعل در زمان گذشته دو حالت دارد:
+
+1. **افعال قاعده‌مند (Regular Verbs)**  
+   → `ed` به آخر فعل اضافه می‌شود.  
+   - work → worked  
+   - play → played
+
+2. **افعال بی‌قاعده (Irregular Verbs)**  
+   → شکل گذشته را باید حفظ کرد.  
+   - go → went  
+   - eat → ate
+
+#### فعل ویژه `be` (بودن)
+
+| فاعل | شکل گذشته |
+|:---:|:---:|
+| I / He / She / It | **was** |
+| You / We / They | **were** |
+
+- I **was** tired.
+- They **were** happy.
+
+---
+
+### ✅ مثبت (Affirmative)
+
+**مثال‌ها با پوشش تمام حالت‌ها:**
+
+- **با فعل be (was/were):**  
+  - I was a student. / They were at home.
+
+- **با افعال قاعده‌مند (Regular):**  
+  - We played football. / You watched TV.
+
+- **با افعال بی‌قاعده (Irregular):**  
+  - She went to school. / They ate lunch. / I read that book.
+
+---
+
+### ❌ منفی کردن (Negative)
+
+**فرمول (افعال معمولی):**  
+
+`Subject + did not + Verb (base form) + ...`
+
+**فرمول (فعل be):**  
+
+`Subject + was/were + not + ...`
+
+**مخفف‌ها:**  
+- `did not` → `didn't`  
+- `was not` → `wasn't`  
+- `were not` → `weren't`
+
+**مثال‌ها (افعال معمولی):**  
+- I did not (didn't) **go** to school.
+- You did not (didn't) **eat** breakfast.
+- He did not (didn't) **play** football.
+- She did not (didn't) **watch** TV.
+- It did not (didn't) **work**.
+- We did not (didn't) **see** him.
+- They did not (didn't) **come** to the party.
+
+**مثال‌ها (فعل be):**  
+- I was not (wasn't) tired.
+- He was not (wasn't) happy.
+- She was not (wasn't) at home.
+- It was not (wasn't) cold.
+- You were not (weren't) ready.
+- We were not (weren't) late.
+- They were not (weren't) students.
+
+---
+
+### ❓ سوالی کردن (Questions)
+
+**فرمول (افعال معمولی):**  
+
+`Did + Subject + Verb (base form) + ...?`
+
+**فرمول (فعل be):**  
+
+`Was/Were + Subject + ...?`
+
+**مثال‌ها (افعال معمولی):**  
+- Did I **call** you?  
+- Did you **eat** breakfast?  
+- Did he **go** to school?  
+- Did she **watch** the movie?  
+- Did it **work**?  
+- Did we **win** the game?  
+- Did they **come** to the party?
+
+**مثال‌ها (فعل be):**  
+- Was I **late**?  
+- Were you **tired**?  
+- Was he **happy**?  
+- Was she **at home**?  
+- Was it **cold**?  
+- Were we **ready**?  
+- Were they **students**?
+
+---
+
+### ❓ سوالات WH (WH-Questions)
+
+برای ساختن سوال با کلمات پرسشی (`what`, `where`, `when`, `why`, `who`, `how`):
+
+**فرمول (افعال معمولی):**  
+
+`WH word + did + Subject + Verb (base form) + ...?`
+
+**فرمول (فعل be):**  
+
+`WH word + was/were + Subject + ...?`
+
+**مثال‌ها (افعال معمولی):**  
+- What did you **eat**?
+- Where did she **go**?
+- When did they **arrive**?
+- Why did he **leave**?
+- How did you **do** that?
+- who did she **visit** last year?
+
+**مثال‌ها (فعل be):**  
+- Where were you last night?
+- Why was he late?
+- How were the kids?
+- When was the meeting?
+
+> **نکته:** اگر `who` یا `what` نقش فاعل را داشته باشند، نیازی به `did` نیست و فعل به شکل گذشته می‌آید:  
+> *Who **came** to the party?* (❌ Who did come?)  
+> *What **happened**?* (❌ What did happen?)
 
 ---
