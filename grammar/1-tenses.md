@@ -3,6 +3,7 @@
 ## 📑 مطالب (Contents)
 
 - [1. حال ساده (Present Simple)](#1-حال-ساده-present-simple)
+- [2. حال استمراری (Present Continuous)](#2-حال-استمراری-present-continuous)
 
 ---
 
@@ -133,5 +134,112 @@ Subject + Verb (base form) + ...
   - *Do you speak English?*  
   - *Does she work here?*  
   - *Do they know the answer?*
+
+---
+
+## 2. حال استمراری (Present Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+**توصیف کار هایی که الان درحال انجام هستند**  
+  - مثال:
+  - *I am writing this note.*
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + am/is/are + Verb-ing + ...
+```
+
+---
+
+### ⚠️ نکته: افعالی که در حال استمراری نمی‌آیند (Stative Verbs)
+
+بعضی افعال به جای «عمل» **حالت** را بیان می‌کنند و معمولاً **ing نمی‌گیرند**:
+
+- like, want, need, prefer, know, understand, recognise, believe, remember, suppose
+
+#### فعل `think`:
+
+- **معنی : عقیده / نظر**
+- (`I think you are right`) → ❌ ing نمی‌گیرد  
+- **معنی : فکر کردن (فرایند ذهنی)**
+- (`I'm thinking about you`) → ✅ می‌تواند ing بگیرد
+
+---
+
+### ✅ مثبت (Affirmative)
+
+**مثال‌ها:**
+
+- I **am writing** an email.
+- He **is eating** dinner right now.
+- She **is studying** for her exam.
+- It **is raining** outside.
+- You **are working** hard.
+- We **are watching** a movie.
+- They **are playing** football.
+
+---
+
+### ❓ سوالی کردن (Questions)
+
+**فرمول:**  
+
+`Am/Is/Are + Subject + Verb-ing + ...?`
+
+**مثال‌ها:**
+
+- Am I **talking** too much?
+- Are you **listening** to me?
+- Is he **sleeping**?
+- Is she **coming** with us?
+- Is it **raining**?
+- Are we **winning**?
+- Are they **waiting** for us?
+
+---
+
+### ❌ منفی کردن (Negative)
+
+**فرمول:**  
+
+`Subject + am/is/are + not + Verb-ing + ...`
+
+**مخفف‌ها:**  
+- `I am not` → `I'm not` (مخفف جداگانه ندارد)  
+- `is not` → `isn't`  
+- `are not` → `aren't`
+
+**مثال‌ها:**
+
+- *I am not (I'm not) **lying**.*  
+- *He is not (isn't) **sleeping**.*  
+- *She is not (isn't) **watching** TV.*  
+- *It is not (isn't) **working**.*  
+- *You are not (aren't) **listening**.*  
+- *We are not (aren't) **winning**.*  
+- *They are not (aren't) **coming** tonight.*
+
+---
+
+### 💡 نکته: being با صفت
+
+`am/is/are + being + Adjective (صفت)`
+
+یعنی **موقتاً این طور رفتار کردن**، نه ذاتاً آن صفت بودن.
+
+- I **am being lazy**. → الان دارم تنبلی می‌کنم (الان این رفتاره، نه همیشه)
+- He **is being silly**. → داره احمقانه رفتار می‌کند
+- She **is being nice** today. → امروز داره خوب رفتار می‌کند (برخلاف همیشه)
+
+مقایسه کن:  
+- I am lazy. → من آدم تنبلی هستم (همیشگی)  
+- I am being lazy. → الان دارم تنبلی می‌کنم (موقتی)
 
 ---
