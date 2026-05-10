@@ -5,6 +5,7 @@
 - [1. حال ساده (Present Simple)](#1-حال-ساده-present-simple)
 - [2. حال استمراری (Present Continuous)](#2-حال-استمراری-present-continuous)
 - [3. گذشته ساده (Past Simple)](#3-گذشته-ساده-past-simple)
+- [4. گذشته استمراری (Past Continuous)](#4-گذشته-استمراری-past-continuous)
 
 ---
 
@@ -401,5 +402,77 @@ Subject + Verb (past form) + ...
 > **نکته:** اگر `who` یا `what` نقش فاعل را داشته باشند، نیازی به `did` نیست و فعل به شکل گذشته می‌آید:  
 > *Who **came** to the party?* (❌ Who did come?)  
 > *What **happened**?* (❌ What did happen?)
+
+---
+
+## 4. گذشته استمراری (Past Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+توصیف کارها و فعالیت‌هایی در گذشته که در یک بازه زمانی خاص در جریان بوده.
+
+مثال:  
+When I saw her, she was reading a book.
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+فرمول کلی:
+```
+Subject + was/were + Verb-ing + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+مثال‌ها:  
+- I was sleeping.  
+- He was working.  
+- They were playing football.
+
+---
+
+### ❌ منفی کردن (Negative)
+
+فرمول:
+
+`Subject + was/were + not + Verb-ing`
+
+مخفف‌ها:
+
+was not → wasn't  
+were not → weren't
+
+مثال‌ها:  
+- I was not (wasn't) sleeping.  
+- They were not (weren't) working.
+
+---
+
+### ❓ سوالی کردن (Questions)
+
+فرمول:  
+
+`Was/Were + Subject + Verb-ing + ?`
+
+مثال‌ها:  
+- Was she reading?  
+- Were you listening?
+
+---
+
+### ❓ سوالات WH
+
+فرمول:  
+
+`WH word + was/were + Subject + Verb-ing + ?`
+
+مثال‌ها:  
+- What were you doing?  
+- Where was he going?
 
 ---
