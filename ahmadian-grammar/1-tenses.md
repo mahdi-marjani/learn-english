@@ -7,6 +7,7 @@
 - [3. گذشته ساده (Past Simple)](#3-گذشته-ساده-past-simple)
 - [4. گذشته استمراری (Past Continuous)](#4-گذشته-استمراری-past-continuous)
 - [5. حال کامل (Present Perfect)](#5-حال-کامل-present-perfect)
+- [6. حال کامل استمراری (Present Perfect Continuous)](#6-حال-کامل-استمراری-present-perfect-continuous)
 
 ---
 
@@ -601,5 +602,64 @@ She has **been** to Florida
 
 - **Have you ever been to Paris?**
 - **Has she finished her homework?**
+
+---
+
+## 6. حال کامل استمراری (Present Perfect Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+بیان عملی که از گذشته آغاز شده و تا هم‌اکنون ادامه دارد
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + have/has + been + Verb-ing + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I have (I've) been working.**  
+- **He has (He's) been sleeping.**  
+- **They have (They've) been playing football.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + have/has + not + been + Verb-ing`
+
+- **I haven't been feeling well.**  
+- **She hasn't been studying enough.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Have/Has + Subject + been + Verb-ing + ...?`
+
+- **Have you been waiting long?**  
+- **Has it been raining all morning?**
+
+---
+
+## 📌 **Ever / Never / Any** در Present Perfect (خلاصه)
+
+| کلمه | کجا می‌آید؟ | معنی | مثال کوتاه |
+|------|-------------|------|-------------|
+| **Ever** | فقط در **سوال** | «تا حالا» | *Have you **ever** been to Paris?* |
+| **Never** | در جمله‌ی **مثبت** (خودش منفی می‌کند) | «هیچ‌وقت» | *I've **never** seen that.* |
+| **Any** | در **سوال و منفی** | «هیچ» / «مقداری» | *I haven't had **any** food.* |
 
 ---
