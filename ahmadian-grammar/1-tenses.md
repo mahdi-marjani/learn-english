@@ -465,14 +465,4 @@ were not → weren't
 
 ---
 
-### ❓ سوالات WH
 
-فرمول:  
-
-`WH word + was/were + Subject + Verb-ing + ?`
-
-مثال‌ها:  
-- What were you doing?  
-- Where was he going?
-
----
