@@ -6,6 +6,7 @@
 - [2. حال استمراری (Present Continuous)](#2-حال-استمراری-present-continuous)
 - [3. گذشته ساده (Past Simple)](#3-گذشته-ساده-past-simple)
 - [4. گذشته استمراری (Past Continuous)](#4-گذشته-استمراری-past-continuous)
+- [5. حال کامل (Present Perfect)](#5-حال-کامل-present-perfect)
 
 ---
 
@@ -465,4 +466,140 @@ were not → weren't
 
 ---
 
+## 5. حال کامل (Present Perfect)
 
+---
+
+### 📌 کاربردها (Uses)
+
+1. اتفاق یا عملی در گذشته که تاثیراتش تا امروز باقی است
+
+مثال:
+
+I have watched this movie
+
+2. صحبت درباره چیزی که از گذشته به صورت مکرر داشته اتفاق می افتاده و هنوزم اتفاق می افته
+
+مثال:
+
+I have watched this movie every day since last week
+
+3. صحبت درباره چیزی که در گذشته شروع شده و هنوزم ادامه داره
+
+مثال:
+
+Where is Olivia?
+
+She's gone on a trip to Egypt
+
+**نمیشه به صورت گذشته گفت:**
+
+She went to Egypt ❌
+
+چون این یعنی در گذشته اتفاق افتاده و تموم شده
+
+---
+
+### ⚠️ تفاوتش با زمان گذشته:
+
+- گذشته:
+
+زمان وقوع اون اتفاق مشخصه یا مهمه
+
+I watched this movie **last year**
+
+- حال کامل:
+
+زمان وقوع اون اتفاق اصلا مهم نیست یا مشخص نیست، خود اون اتفاق مهمه
+
+I have watched this movie `last week` ❌
+
+پس اینجا استفاده `last week` اشتباهه
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + have/has + Verb (past participle) + ...
+```
+
+---
+
+### ⚠️ نکته: شکل سوم فعل (Past Participle)
+
+فعل در زمان کامل دو حالت دارد:
+
+1. **افعال قاعده‌مند (Regular Verbs)**  
+   → `ed` به آخر فعل اضافه می‌شود.  
+   - work → worked  
+   - play → played
+
+2. **افعال بی‌قاعده (Irregular Verbs)**  
+   → شکل سوم را باید حفظ کرد.  
+   - go → gone
+   - do → done
+   - see → seen
+
+---
+
+### ⚠️ **Gone** vs **Been**
+
+- Gone:
+
+She has **gone** to Florida
+
+➡️ **او رفته فلوریدا** (و **هنوز برنگشته** – الان در فلوریداست یا در راه است)
+
+- Been:
+
+She has **been** to Florida
+
+➡️ **او به فلوریدا رفته (و برگشته)** – **تجربه‌ی سفر را دارد، الان خانه است**
+
+---
+
+### ✅ مثبت (Affirmative)
+
+**مثال‌ها:**
+
+- **I have (I've) eaten.**  
+- **You have (You've) finished.**  
+- **He has (He's) gone home.**  
+- **She has (She's) seen that movie.**  
+- **It has (It's) broken.**  
+- **We have (We've) arrived.**  
+- **They have (They've) bought a car.**
+
+---
+
+### ❌ منفی کردن (Negative)
+
+**فرمول:**  
+
+`Subject + have/has + not + Past Participle + ...`
+
+**مخفف‌ها:**  
+- `have not` → `haven't`  
+- `has not` → `hasn't`
+
+**مثال‌ها:**
+
+- **I haven't finished yet.**
+- **He hasn't called me.**
+
+---
+
+### ❓ سوالی کردن (Questions)
+
+**فرمول:**  
+
+`Have/Has + Subject + Past Participle + ...?`
+
+**مثال‌ها:**
+
+- **Have you ever been to Paris?**
+- **Has she finished her homework?**
+
+---
