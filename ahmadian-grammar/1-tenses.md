@@ -10,6 +10,7 @@
 - [6. حال کامل استمراری (Present Perfect Continuous)](#6-حال-کامل-استمراری-present-perfect-continuous)
 - [7. گذشته کامل (Past Perfect)](#7-گذشته-کامل-past-perfect)
 - [8. گذشته کامل استمراری (Past Perfect Continuous)](#8-گذشته-کامل-استمراری-past-perfect-continuous)
+- [9. آینده (Future with "Going to" Structure)](#9-آینده-future-with-going-to-structure)
 
 ---
 
@@ -811,5 +812,67 @@ The bus finally came. **I had been waiting for two hours**
 
 - **Had you been waiting long before she arrived?**
 - **Had they been driving for hours when the accident happened?**
+
+---
+
+## 9. آینده (Future with "Going to" Structure)
+
+---
+
+### 📌 کاربردها (Uses)
+
+1. **برنامه و قصد قبلی**  
+   برای کارهایی که از قبل تصمیم به انجام آنها گرفته‌ایم.
+
+   - **I am going to study medicine.**  
+   - (قصد دارم پزشکی بخوانم)
+
+2. **پیش‌بینی با شواهد عینی**  
+   وقتی نشانه‌های موجود نشان می‌دهند چیزی در آینده اتفاق می‌افتد.
+
+   - Look at those dark clouds. **It is going to rain.**  
+   - (به اون ابرهای تیره نگاه کن → داره بارون میاد)
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + am/is/are + going to + Verb (base form) + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I am going to call him tonight.**
+- **She is going to buy a new laptop.**
+- **They are going to travel to Turkey next month.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + am/is/are + not + going to + Verb + ...`
+
+**مثال‌ها:**
+- **I am not going to stay here.**
+- **He isn't going to accept that offer.**
+- **We aren't going to wait any longer.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Am/Is/Are + subject + going to + Verb + ...?`
+
+**مثال‌ها:**
+- **Are you going to join us for dinner?**
+- **Is she going to be late again?**
 
 ---
