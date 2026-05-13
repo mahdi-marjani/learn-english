@@ -9,6 +9,7 @@
 - [5. حال کامل (Present Perfect)](#5-حال-کامل-present-perfect)
 - [6. حال کامل استمراری (Present Perfect Continuous)](#6-حال-کامل-استمراری-present-perfect-continuous)
 - [7. گذشته کامل (Past Perfect)](#7-گذشته-کامل-past-perfect)
+- [8. گذشته کامل استمراری (Past Perfect Continuous)](#8-گذشته-کامل-استمراری-past-perfect-continuous)
 
 ---
 
@@ -738,3 +739,77 @@ Subject + had + Verb (past participle) + ...
 
 ---
 
+## 8. گذشته کامل استمراری (Past Perfect Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+بیان عملی که در طول یک مدت مشخص ادامه یافته و قبل از یک عمل دیگر در زمان گذشته اتفاق افتاده است
+
+مثال:
+
+**I had been studying English for two weeks** before I took the test
+
+She decided to buy a new car because **her old car had not been working for weeks**
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + had been + Verb-ing + ...
+```
+
+---
+
+### ⚠️ `Past Perfect Continuous` vs `Present Perfect Continuous`
+
+- Present Perfect Continuous
+
+I hope the bus comes soon. **I have been waiting for two hours**
+
+- Past Perfect Continuous
+
+The bus finally came. **I had been waiting for two hours**
+
+---
+
+### ✅ مثبت (Affirmative)
+
+**مثال‌ها:**
+
+- **I had been waiting for an hour when the bus arrived.**
+- **She had been studying all day, so she was tired.**
+- **They had been playing football before it started raining.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + had not been + Verb-ing + ...`
+
+**مخفف:** `hadn't been`
+
+**مثال‌ها:**
+
+- **I hadn't been sleeping well before I changed my pillow.**
+- **He hadn't been working there long when he got promoted.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Had + subject + been + Verb-ing + ...?`
+
+**مثال‌ها:**
+
+- **Had you been waiting long before she arrived?**
+- **Had they been driving for hours when the accident happened?**
+
+---
