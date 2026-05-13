@@ -8,6 +8,7 @@
 - [4. گذشته استمراری (Past Continuous)](#4-گذشته-استمراری-past-continuous)
 - [5. حال کامل (Present Perfect)](#5-حال-کامل-present-perfect)
 - [6. حال کامل استمراری (Present Perfect Continuous)](#6-حال-کامل-استمراری-present-perfect-continuous)
+- [7. گذشته کامل (Past Perfect)](#7-گذشته-کامل-past-perfect)
 
 ---
 
@@ -663,3 +664,77 @@ Subject + have/has + been + Verb-ing + ...
 | **Any** | در **سوال و منفی** | «هیچ» / «مقداری» | *I haven't had **any** food.* |
 
 ---
+
+## 7. گذشته کامل (Past Perfect)
+
+---
+
+### 📌 کاربردها (Uses)
+
+درباره 2 اتفاق یا 2 عمل صحبت میکنیم که هردوشون توی گذشته اتفاق افتاده
+
+مثال:
+
+دیروز اومدم در خونتون ولی نبودی. راستشو بگو کجا رفته بودی
+
+---
+
+### ⚠️ `Past Perfect` vs `Present Perfect`
+
+- Present Perfect
+
+Who is that woman? **I have seen her before**, but I can't remember her name
+
+- Past Perfect
+
+I wasn't sure who she was. **I had seen her before** but I couldn't remember her name
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + had + Verb (past participle) + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+**مثال‌ها:**
+
+- **I had (I'd) finished my work before you called.**
+- **She had (she'd) left when I arrived.**
+- **They had eaten already.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**
+
+`Subject + had + not + Past Participle + ...`
+
+**مخفف:** `had not` → `hadn't`
+
+**مثال‌ها:**
+
+- **I hadn't seen him before that day.**
+- **She hadn't studied, so she failed the test.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**
+
+`Had + Subject + Past Participle + ...?`
+
+**مثال‌ها:**
+
+- **Had you ever tried sushi before last night?**
+- **Had they left when you got there?**
+
+---
+
