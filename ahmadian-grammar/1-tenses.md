@@ -994,3 +994,39 @@ Shall + I/we + Verb (base form) + ...?
 - **Shall we start the meeting?**  
 - **What shall I wear to the party?** (نظر خواستن)
 ---
+
+## 12. حال ساده برای آینده (Present Simple for Future)
+
+---
+
+### ✅ مثال‌ها (Examples)
+
+- **The movie starts at 9 tonight.**
+- **My flight doesn't depart until noon.**
+- **Does the class begin at 8 tomorrow?**
+
+> ⚠️ **نکته:** معمولاً با قید زمان آینده مثل `tomorrow, tonight, next week, at 8` استفاده می‌شود.
+
+---
+
+## 13. حال استمراری برای آینده (Present Continuous for Future)
+
+---
+
+### ✅ مثال‌ها (Examples)
+
+- **We are having dinner with them tomorrow evening.**
+- **He isn't coming to the party tonight.**
+- **Are you doing anything special this weekend?**
+
+---
+
+### ⚠️ `Present Simple for Future` vs `Present Continuous for Future`
+
+| **Present Simple** (جدول زمانی ثابت) | **Present Continuous** (ترتیب شخصی) |
+|---------------------------------------|--------------------------------------|
+| The bus arrives at 7. | I'm arriving at 7. |
+| رسمی، قابل تغییر نیست | برنامه شخصی، قابل تغییر |
+
+---
+
