@@ -12,6 +12,7 @@
 - [8. گذشته کامل استمراری (Past Perfect Continuous)](#8-گذشته-کامل-استمراری-past-perfect-continuous)
 - [9. آینده (Future with "Going to" Structure)](#9-آینده-future-with-going-to-structure)
 - [10. آینده ساده (Future Simple)](#10-آینده-ساده-future-simple)
+- [11. ساختار "Shall" برای پیشنهاد (suggestion with "Shall" structure)](#11-ساختار-shall-برای-پیشنهاد-suggestion-with-shall-structure)
 
 ---
 
@@ -961,4 +962,35 @@ Subject + will + Verb (base form) + ...
 - **Will she come to the party?**
 - **Will they finish the project on time?**
 
+---
+
+## 11. ساختار "Shall" برای پیشنهاد (suggestion with "Shall" structure)
+
+---
+
+### 📌 کاربردها (Uses)
+
+- **پیشنهاد دادن (Offer / Suggestion)** – فقط با **I** یا **we**
+
+   - **Shall I open the window?**  
+     (پنجره رو باز کنم؟)
+
+   - **Shall we go out for dinner tonight?**  
+     (امشب بریم بیرون شام؟)
+
+---
+
+### 🏗️ ساختار (Structure)
+
+```
+Shall + I/we + Verb (base form) + ...?
+```
+
+---
+
+### ✅ مثال‌های کوتاه
+
+- **Shall I help you with that?**  
+- **Shall we start the meeting?**  
+- **What shall I wear to the party?** (نظر خواستن)
 ---
