@@ -11,6 +11,7 @@
 - [7. گذشته کامل (Past Perfect)](#7-گذشته-کامل-past-perfect)
 - [8. گذشته کامل استمراری (Past Perfect Continuous)](#8-گذشته-کامل-استمراری-past-perfect-continuous)
 - [9. آینده (Future with "Going to" Structure)](#9-آینده-future-with-going-to-structure)
+- [10. آینده ساده (Future Simple)](#10-آینده-ساده-future-simple)
 
 ---
 
@@ -874,5 +875,90 @@ Subject + am/is/are + going to + Verb (base form) + ...
 **مثال‌ها:**
 - **Are you going to join us for dinner?**
 - **Is she going to be late again?**
+
+---
+
+## 10. آینده ساده (Future Simple)
+
+---
+
+### 📌 کاربردها (Uses)
+
+1. **پیش بینی**  
+   بر اساس حدس و گمان
+
+   - This movie is great. **You will love it.**
+
+2. **تصمیم لحظه ای**  
+   بدون برنامه ریزی قبلی
+
+   - Oh it's raining! **I will take my umbrella.**
+
+3. **پیشنهاد یا تعارف**  
+
+   - **I will go to the post office if you want.**
+   - Sit down and relax. **I will make you a cup of tea.**
+
+4. **I think I will**  
+
+   - **I think we will have enough food for the party.**
+   - It's cold outside. **But I don't think it will snow today**
+
+---
+
+### ⚠️ `Going to` vs `Will`
+
+| **Going to** | **Will** |
+|--------------|----------|
+| برنامه از قبل ریخته شده | تصمیم لحظه‌ای |
+| شواهد عینی داریم | پیش‌بینی شخصی / حدس |
+
+مثال:
+
+- **I have saved money. I'm going to buy a car.** (برنامه دارم)
+- **I'll answer the phone.** (تصمیم لحظه‌ای)
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + will + Verb (base form) + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I will (I'll) call you tomorrow.**
+- **She will (She'll) pass the exam.**
+- **They will (They'll) arrive soon.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + will not + Verb + ...`  
+
+(مخفف: `won't`)
+
+- **I will not (won't) be late.**
+- **He won't like this idea.**
+- **We won't forget your birthday.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Will + subject + Verb + ...?`
+
+- **Will you join us for dinner?**
+- **Will she come to the party?**
+- **Will they finish the project on time?**
 
 ---
