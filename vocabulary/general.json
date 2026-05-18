@@ -1,0 +1,39 @@
+{
+  "title": "General - Vocabulary",
+  "sections": [
+    {
+      "heading": "game",
+      "words": [
+        {
+          "word": "heavy",
+          "phonetic": "/ˈhevi/",
+          "mean_fa": "",
+          "mean_en": "1. weighing a lot; difficult to lift or move: I can't carry this bag - it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)"
+        }
+      ]
+    },
+    {
+      "heading": "news",
+      "words": [
+        {
+          "word": "attention",
+          "phonetic": "/əˈtenʃn/",
+          "mean_fa": "",
+          "mean_en": "looking or listening carefully and with interest: Can I have your attention, please? (= please listen to me)"
+        },
+        {
+          "word": "pay attention",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "to look or listen carefully: Please pay attention to what I'm saying"
+        },
+        {
+          "word": "matter",
+          "phonetic": "/ˈmætər/",
+          "mean_fa": "",
+          "mean_en": "something that you must talk about or do: There is a matter I would like to discuss with you"
+        }
+      ]
+    }
+  ]
+}
