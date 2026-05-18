@@ -222,7 +222,7 @@
         },
         {
           "word": "being",
-          "phonetic": "",
+          "phonetic": "/ˈbiːɪŋ/",
           "mean_fa": "بودن",
           "mean_en": ""
         },
@@ -664,9 +664,9 @@
         },
         {
           "word": "struggle",
-          "phonetic": "",
-          "mean_fa": "تلاش سخت",
-          "mean_en": ""
+          "phonetic": "/ˈstrʌɡl/",
+          "mean_fa": "",
+          "mean_en": "1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker"
         },
         {
           "word": "variability",

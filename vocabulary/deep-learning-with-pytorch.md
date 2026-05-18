@@ -53,7 +53,7 @@
 - **happened** : اتفاق افتاد
 - **invaluable** : فوق العاده ارزشمند
 - **partnership** : مشارکت
-- **being** : بودن
+- **being** /ˈbiːɪŋ/ : بودن
 - **joy** : لذت
 - **same** : مشابه، همینطور
 ---
@@ -131,7 +131,7 @@
 - **ourselves** : خودمون
 - **facing** : رو به رو شدن
 - **kind** : نوع
-- **struggle** : تلاش سخت
+- **struggle** /ˈstrʌɡl/ : 1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker
 - **variability** : تغییرپذیری
 - **heuristics** : روش‌های اکتشافی
 - **involved** : شامل
