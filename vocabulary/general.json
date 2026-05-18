@@ -8,7 +8,7 @@
           "word": "heavy",
           "phonetic": "/ˈhevi/",
           "mean_fa": "",
-          "mean_en": "1. weighing a lot; difficult to lift or move: I can't carry this bag - it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)"
+          "mean_en": "1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)"
         }
       ]
     },
@@ -28,10 +28,45 @@
           "mean_en": "to look or listen carefully: Please pay attention to what I'm saying"
         },
         {
-          "word": "matter",
+          "word": "matter (noun)",
           "phonetic": "/ˈmætər/",
           "mean_fa": "",
           "mean_en": "something that you must talk about or do: There is a matter I would like to discuss with you"
+        }
+      ]
+    },
+    {
+      "heading": "social media",
+      "words": [
+        {
+          "word": "teenager",
+          "phonetic": "/ˈtiːneɪdʒər/",
+          "mean_fa": "",
+          "mean_en": "a person who is between 13 and 19 years old"
+        },
+        {
+          "word": "genuinely",
+          "phonetic": "/ˈdʒɛnjuɪnli/",
+          "mean_fa": "",
+          "mean_en": "realy: Do you think he's genuinely sorry?"
+        },
+        {
+          "word": "deserve",
+          "phonetic": "/dɪˈzɜːrv/",
+          "mean_fa": "",
+          "mean_en": "to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison"
+        },
+        {
+          "word": "wear (verb)",
+          "phonetic": "/wer/",
+          "mean_fa": "",
+          "mean_en": "to have clothes, jewellery, etc. on your body: She was wearing a red dress - I wear glasses"
+        },
+        {
+          "word": "even (adverb)",
+          "phonetic": "/ˈiːvən/",
+          "mean_fa": "",
+          "mean_en": "1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours"
         }
       ]
     }
