@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch - Vocabulary
+# Example - Vocabulary
 
 **Total words: 17**
 
