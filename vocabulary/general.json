@@ -5,10 +5,10 @@
       "heading": "game",
       "words": [
         {
-          "word": "heavy",
-          "phonetic": "/ˈhevi/",
+          "word": "swipe",
+          "phonetic": "/swaɪp/",
           "mean_fa": "",
-          "mean_en": "1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)"
+          "mean_en": "1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something"
         }
       ]
     },
@@ -67,6 +67,12 @@
           "phonetic": "/ˈiːvən/",
           "mean_fa": "",
           "mean_en": "1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours"
+        },
+        {
+          "word": "pretty (adverb)",
+          "phonetic": "/ˈprɪti/",
+          "mean_fa": "",
+          "mean_en": "quite; fairly: It's pretty cold today"
         }
       ]
     }

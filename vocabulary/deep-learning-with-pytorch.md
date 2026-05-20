@@ -383,7 +383,7 @@
 - **extra** : additional, more than is usual or needed
 - **actual** : real
 - **make use of** : use
-- **heavy** : large in amount, degree, or intensity
+- **heavy** /ˈhevi/ : 1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)
 - **intensity** : شدت
 - **Almost** : nearly, not completely but very close - تقریباً
 - **boilerplate** : template

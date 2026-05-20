@@ -1,10 +1,10 @@
 # Example - Vocabulary
 
-**Total words: 17**
+**Total words: 15**
 
 ## 📑 Table of Contents
 
-- [foreword (4 words)](#foreword-4-words)
+- [foreword (2 words)](#foreword-2-words)
 - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
   - [Chapter 1: Introduction (3 words)](#chapter-1-introduction-3-words)
   - [Chapter 2: PyTorch Basics (2 words)](#chapter-2-pytorch-basics-2-words)
@@ -15,10 +15,8 @@
 
 ---
 
-## foreword (4 words)
+## foreword (2 words)
 - **deep learning** /diːp ˈlɜː.nɪŋ/ : a subset of machine learning
-- **prerequisite** /ˌpriːˈrek.wə.zɪt/ : پیش‌نیاز
-- **motivation** : reason for writing the book - انگیزه – دلیل نگارش کتاب و اهمیت موضوع
 - **audience** : target readers
 ---
 
