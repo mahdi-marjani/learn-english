@@ -16,6 +16,7 @@
 - [12. حال ساده برای آینده (Present Simple for Future)](#12-حال-ساده-برای-آینده-present-simple-for-future)
 - [13. حال استمراری برای آینده (Present Continuous for Future)](#13-حال-استمراری-برای-آینده-present-continuous-for-future)
 - [14. آینده کامل (Future Perfect)](#14-آینده-کامل-future-perfect)
+- [15. آینده کامل استمراری (Future Perfect Continuous)](#15-آینده-کامل-استمراری-future-perfect-continuous)
 
 ---
 
@@ -1085,5 +1086,60 @@ Subject + will have + Verb (past participle) + ...
 
 - **Will you have finished your homework by 8 PM?**
 - **Will she have eaten lunch before the class starts?**
+
+---
+
+## 15. آینده کامل استمراری (Future Perfect Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+برای بیان عملی که تا **یک زمان مشخص در آینده** ادامه داشته و هنوز هم ممکن است ادامه داشته باشد.
+
+تأکید روی **مدت زمان** انجام کار است.
+
+- **By June, I will have been working here for 2 years.**
+- **At 8 PM, she will have been studying for 4 hours.**
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + will have been + Verb-ing + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I will have been waiting for 30 minutes by the time you arrive.**
+- **They will have been playing football for 2 hours at 5 PM.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + will not have been + Verb-ing + ...`
+
+(مخفف: `won't have been`)
+
+- **I won't have been waiting long when you arrive.**
+- **She will not have been sleeping for more than an hour by midnight.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Will + subject + have been + Verb-ing + ...?`
+
+- **Will you have been waiting long when I get there?**
+- **Will they have been driving for hours by then?**
 
 ---
