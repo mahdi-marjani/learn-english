@@ -17,6 +17,7 @@
 - [13. حال استمراری برای آینده (Present Continuous for Future)](#13-حال-استمراری-برای-آینده-present-continuous-for-future)
 - [14. آینده کامل (Future Perfect)](#14-آینده-کامل-future-perfect)
 - [15. آینده کامل استمراری (Future Perfect Continuous)](#15-آینده-کامل-استمراری-future-perfect-continuous)
+- [16. آینده استمراری (Future Continuous)](#16-آینده-استمراری-future-continuous)
 
 ---
 
@@ -1141,5 +1142,58 @@ Subject + will have been + Verb-ing + ...
 
 - **Will you have been waiting long when I get there?**
 - **Will they have been driving for hours by then?**
+
+---
+
+## 16. آینده استمراری (Future Continuous)
+
+---
+
+### 📌 کاربردها (Uses)
+
+برای بیان عملی که **در یک زمان مشخص در آینده** در حال انجام خواهد بود.
+
+- **At 8 PM tonight, I will be watching a movie.**
+- **This time tomorrow, she will be traveling to Paris.**
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + will be + Verb-ing + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I will be studying at 9 PM.**
+- **They will be waiting for us at the station.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + will not be + Verb-ing + ...`
+
+(مخفف: `won't be`)
+
+- **I won't be sleeping at midnight.**
+- **She will not be working tomorrow morning.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Will + subject + be + Verb-ing + ...?`
+
+- **Will you be using the computer later?**
+- **Will they be coming to the party?**
 
 ---
