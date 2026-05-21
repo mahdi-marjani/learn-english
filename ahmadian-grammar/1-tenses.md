@@ -13,6 +13,8 @@
 - [9. آینده (Future with "Going to" Structure)](#9-آینده-future-with-going-to-structure)
 - [10. آینده ساده (Future Simple)](#10-آینده-ساده-future-simple)
 - [11. ساختار "Shall" برای پیشنهاد (suggestion with "Shall" structure)](#11-ساختار-shall-برای-پیشنهاد-suggestion-with-shall-structure)
+- [12. حال ساده برای آینده (Present Simple for Future)](#12-حال-ساده-برای-آینده-present-simple-for-future)
+- [13. حال استمراری برای آینده (Present Continuous for Future)](#13-حال-استمراری-برای-آینده-present-continuous-for-future)
 
 ---
 
@@ -1005,7 +1007,9 @@ Shall + I/we + Verb (base form) + ...?
 - **My flight doesn't depart until noon.**
 - **Does the class begin at 8 tomorrow?**
 
-> ⚠️ **نکته:** معمولاً با قید زمان آینده مثل `tomorrow, tonight, next week, at 8` استفاده می‌شود.
+---
+
+### ⚠️ **نکته:** معمولاً با قید زمان آینده مثل `tomorrow, tonight, next week, at 8` استفاده می‌شود.
 
 ---
 
