@@ -15,6 +15,7 @@
 - [11. ساختار "Shall" برای پیشنهاد (suggestion with "Shall" structure)](#11-ساختار-shall-برای-پیشنهاد-suggestion-with-shall-structure)
 - [12. حال ساده برای آینده (Present Simple for Future)](#12-حال-ساده-برای-آینده-present-simple-for-future)
 - [13. حال استمراری برای آینده (Present Continuous for Future)](#13-حال-استمراری-برای-آینده-present-continuous-for-future)
+- [14. آینده کامل (Future Perfect)](#14-آینده-کامل-future-perfect)
 
 ---
 
@@ -1034,3 +1035,55 @@ Shall + I/we + Verb (base form) + ...?
 
 ---
 
+## 14. آینده کامل (Future Perfect)
+
+---
+
+### 📌 کاربردها (Uses)
+
+برای بیان عملی که **قبل از یک زمان خاص در آینده** به طور کامل پایان یافته است.
+
+- **I will have finished my homework by 8 PM.**
+- **She will have eaten lunch before the class starts.**
+
+---
+
+### 🏗️ ساختار جملات (Structure)
+
+**فرمول کلی:**  
+```
+Subject + will have + Verb (past participle) + ...
+```
+
+---
+
+### ✅ مثبت (Affirmative)
+
+- **I will have finished my homework by 8 PM.**
+- **She will have eaten lunch before the class starts.**
+
+---
+
+### ❌ منفی (Negative)
+
+**فرمول:**  
+
+`Subject + will not have + Verb (past participle) + ...`
+
+(مخفف: `won't have`)
+
+- **I won't have finished my homework by 8 PM.**
+- **She will not have eaten lunch before the class starts.**
+
+---
+
+### ❓ سوالی (Questions)
+
+**فرمول:**  
+
+`Will + subject + have + Verb (past participle) + ...?`
+
+- **Will you have finished your homework by 8 PM?**
+- **Will she have eaten lunch before the class starts?**
+
+---
