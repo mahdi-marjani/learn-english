@@ -395,7 +395,7 @@
 - **certain** : specific - خاص، معیّن
 - **operating system** : OS, e.g., Windows, Linux, macOS
 - **anticipate** : پیش‌بینی کردن
-- **capable** : able, having the ability to do something
+- **capable** /ˈkeɪpəbl/ : 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
 - **adjust** : to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
 - **luck** : شانس
 - **discuss** : to talk or write about a topic in detail

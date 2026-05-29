@@ -1,12 +1,13 @@
 # General - Vocabulary
 
-**Total words: 14**
+**Total words: 15**
 
 ## 📑 Table of Contents
 
 - [game (3 words)](#game-3-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
+- [other (1 words)](#other-1-words)
 
 ---
 
@@ -31,4 +32,8 @@
 - **pretty (adverb)** /ˈprɪti/ : quite; fairly: It's pretty cold today
 - **quite** /kwaɪt/ : 1. not very; rather (same meaning : fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
+---
+
+## other (1 words)
+- **capable** /ˈkeɪpəbl/ : 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
 ---
