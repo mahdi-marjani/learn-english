@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 503**
+**Total words: 506**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (31 words)](#part-1-core-pytorch-31-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (18 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-18-words)
+- [Part 1: Core PyTorch (34 words)](#part-1-core-pytorch-34-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (21 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-21-words)
 
 ---
 
@@ -509,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (31 words)
+## Part 1: Core PyTorch (34 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (18 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (21 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -543,4 +543,7 @@
 - **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses
 - **approximate (verb)** /əˈprɑːksɪmeɪt/ : to be close to a particular number or state without being exact
 - **close (adjective)** : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
+- **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
+- **fed** : past tense of feed
+- **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her
 ---
