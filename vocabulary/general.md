@@ -1,20 +1,21 @@
 # General - Vocabulary
 
-**Total words: 15**
+**Total words: 16**
 
 ## 📑 Table of Contents
 
-- [game (3 words)](#game-3-words)
+- [game (4 words)](#game-4-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
 - [other (1 words)](#other-1-words)
 
 ---
 
-## game (3 words)
+## game (4 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
 - **hit (verb)** /hɪt/ : to touch somebody or something hard: He hit me on the head with a book - The car a wall wall - I hit my knee on the door
 - **swing (verb)** /swɪŋ/ : 1. to move backwards and forwards or from side to side through the air; to make somebody or something do this: Monkeys were swinging from the trees - He swung his arms as he walked <br> 2. to move in a curve: The door swung open
+- **chief** /tʃiːf/ : (formal) boss
 ---
 
 ## news (3 words)
@@ -35,5 +36,5 @@
 ---
 
 ## other (1 words)
-- **capable** /ˈkeɪpəbl/ : 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
+- **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 ---

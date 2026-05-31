@@ -21,6 +21,12 @@
           "phonetic": "/swɪŋ/",
           "mean_fa": "",
           "mean_en": "1. to move backwards and forwards or from side to side through the air; to make somebody or something do this: Monkeys were swinging from the trees - He swung his arms as he walked <br> 2. to move in a curve: The door swung open"
+        },
+        {
+          "word": "chief",
+          "phonetic": "/tʃiːf/",
+          "mean_fa": "",
+          "mean_en": "(formal) boss"
         }
       ]
     },
@@ -104,10 +110,10 @@
       "heading": "other",
       "words": [
         {
-          "word": "capable",
-          "phonetic": "/ˈkeɪpəbl/",
+          "word": "benefit (verb)",
+          "phonetic": "/ˈbenɪfɪt/",
           "mean_fa": "",
-          "mean_en": "1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student"
+          "mean_en": "to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday"
         }
       ]
     }

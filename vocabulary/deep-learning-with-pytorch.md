@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 506**
+**Total words: 511**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (34 words)](#part-1-core-pytorch-34-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (21 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-21-words)
+- [Part 1: Core PyTorch (39 words)](#part-1-core-pytorch-39-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (26 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-26-words)
 
 ---
 
@@ -509,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (34 words)
+## Part 1: Core PyTorch (39 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (21 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (26 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -546,4 +546,9 @@
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
 - **fed** : past tense of feed
 - **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her
+- **phrase** /freɪz/ : a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
+- **corpus** /ˈkɔːrpəs/ : a large collection of written or spoken texts used for language research
+- **parse** /pɑːrs/ : to analyze a sentence or code into its parts and describe their grammatical or logical roles
+- **far (adverb)** /fɑːr/ : 1. a long way from somewhere: My house isn't far from the station - It's too far to drive in one day - I walked much further than you <br> 2. You use far to ask about the distance from one place to another place: How far is it to the coast from here? <br> 3. very much: He's far taller than his brother - That's far too expensive <br> **as far as...** to place: We walked as far as the vilage and then came back - I read as far as the second chapter <br> **as far as I know** used when you think something is true, but you are not certain: As far as I know, she's coming, but I may be wrong <br> **by far** you use by far to show that a person or thing is much better, bigger, etc. than anybody or anything else: She's by far the best player in the team <br> **far from it** (informal) certainly not; just the opposite: 'Are you upset?' 'Far from it _ I'm delighted' <br> **far from something** almost the opposite of something; not at all: I'm far from certain <br> **so far** until now: So far the work has been easy
+- **construct** /kənˈstrʌkt/ : (formal) build
 ---
