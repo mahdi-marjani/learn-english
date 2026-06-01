@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 511**
+**Total words: 523**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (39 words)](#part-1-core-pytorch-39-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (26 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-26-words)
+- [Part 1: Core PyTorch (51 words)](#part-1-core-pytorch-51-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (38 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-38-words)
 
 ---
 
@@ -351,7 +351,7 @@
 - **describe** : explain
 - **tomography** : imaging method that shows slices of the body
 - **along** /əˈlɔːŋ/ : همراه، به همراه، در کنار
-- **relevant** : مرتبط
+- **relevant** /ˈreləvənt/ : connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant) - مرتبط
 - **consume** : use up
 - **metric** : a standard for measuring performance - معیار، سنجه
 - **TensorBoard** : visualization tool in TensorFlow
@@ -509,12 +509,12 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (39 words)
+## Part 1: Core PyTorch (51 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
 - **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?
-- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (same meaning : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (same meaning: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
+- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
 - **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (26 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (38 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -551,4 +551,16 @@
 - **parse** /pɑːrs/ : to analyze a sentence or code into its parts and describe their grammatical or logical roles
 - **far (adverb)** /fɑːr/ : 1. a long way from somewhere: My house isn't far from the station - It's too far to drive in one day - I walked much further than you <br> 2. You use far to ask about the distance from one place to another place: How far is it to the coast from here? <br> 3. very much: He's far taller than his brother - That's far too expensive <br> **as far as...** to place: We walked as far as the vilage and then came back - I read as far as the second chapter <br> **as far as I know** used when you think something is true, but you are not certain: As far as I know, she's coming, but I may be wrong <br> **by far** you use by far to show that a person or thing is much better, bigger, etc. than anybody or anything else: She's by far the best player in the team <br> **far from it** (informal) certainly not; just the opposite: 'Are you upset?' 'Far from it _ I'm delighted' <br> **far from something** almost the opposite of something; not at all: I'm far from certain <br> **so far** until now: So far the work has been easy
 - **construct** /kənˈstrʌkt/ : (formal) build
+- **remarkable** /rɪˈmɑːrkəbəl/ : unusual and surprising in a good way: a remarkable discovery
+- **thesis** /ˈθiːsɪs/ : theory
+- **ramble** /ˈræmbəl/ : to talk or write in a confused way, often for a long time: Sorry, I'm rambling (on) - let me get back to the point
+- **perform** /pərˈfɔːrm/ : to do an action or complete a task
+- **acquire** /əˈkwaɪər/ : to get or develop something such as a skill or quality
+- **intelligence** /ɪnˈtelɪdʒəns/ : the ability to learn, understand, and think logically
+- **notion** /ˈnoʊʃən/ : an idea, belief, or understanding of something
+- **conflate** /kənˈfleɪt/ : to combine two or more separate things into one, often confusing them
+- **definite** /ˈdefɪnɪt/ : Something that is definite is clear, fixed and unlikely to change (SAME MEANING : certain): I want a definite answer, 'yes' or 'no'
+- **carry out** /ˈkæri aʊt/ : to do a task or complete an action as planned: carry out tasks
+- **whether** /ˈweðər/ : 1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish
+- **submarine** /ˌsʌbməˈriːn/ : a ship that can travel underwater
 ---

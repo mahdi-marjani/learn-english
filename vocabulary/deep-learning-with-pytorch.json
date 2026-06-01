@@ -1958,9 +1958,9 @@
         },
         {
           "word": "relevant",
-          "phonetic": "",
+          "phonetic": "/ˈreləvənt/",
           "mean_fa": "مرتبط",
-          "mean_en": ""
+          "mean_en": "connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)"
         },
         {
           "word": "consume",
@@ -2899,7 +2899,7 @@
           "word": "chance",
           "phonetic": "/tʃæns/",
           "mean_fa": "",
-          "mean_en": "1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (same meaning : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (same meaning: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station"
+          "mean_en": "1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station"
         },
         {
           "word": "serious",
@@ -3109,6 +3109,78 @@
               "phonetic": "/kənˈstrʌkt/",
               "mean_fa": "",
               "mean_en": "(formal) build"
+            },
+            {
+              "word": "remarkable",
+              "phonetic": "/rɪˈmɑːrkəbəl/",
+              "mean_fa": "",
+              "mean_en": "unusual and surprising in a good way: a remarkable discovery"
+            },
+            {
+              "word": "thesis",
+              "phonetic": "/ˈθiːsɪs/",
+              "mean_fa": "",
+              "mean_en": "theory"
+            },
+            {
+              "word": "ramble",
+              "phonetic": "/ˈræmbəl/",
+              "mean_fa": "",
+              "mean_en": "to talk or write in a confused way, often for a long time: Sorry, I'm rambling (on) - let me get back to the point"
+            },
+            {
+              "word": "perform",
+              "phonetic": "/pərˈfɔːrm/",
+              "mean_fa": "",
+              "mean_en": "to do an action or complete a task"
+            },
+            {
+              "word": "acquire",
+              "phonetic": "/əˈkwaɪər/",
+              "mean_fa": "",
+              "mean_en": "to get or develop something such as a skill or quality"
+            },
+            {
+              "word": "intelligence",
+              "phonetic": "/ɪnˈtelɪdʒəns/",
+              "mean_fa": "",
+              "mean_en": "the ability to learn, understand, and think logically"
+            },
+            {
+              "word": "notion",
+              "phonetic": "/ˈnoʊʃən/",
+              "mean_fa": "",
+              "mean_en": "an idea, belief, or understanding of something"
+            },
+            {
+              "word": "conflate",
+              "phonetic": "/kənˈfleɪt/",
+              "mean_fa": "",
+              "mean_en": "to combine two or more separate things into one, often confusing them"
+            },
+            {
+              "word": "definite",
+              "phonetic": "/ˈdefɪnɪt/",
+              "mean_fa": "",
+              "mean_en": "Something that is definite is clear, fixed and unlikely to change (SAME MEANING : certain): I want a definite answer, 'yes' or 'no'"
+            },
+            {
+              "word": "carry out",
+              "phonetic": "/ˈkæri aʊt/",
+              "mean_fa": "",
+              "mean_en": "to do a task or complete an action as planned: carry out tasks"
+            },
+            {
+              "word": "whether",
+              "phonetic": "/ˈweðər/",
+              "mean_fa": "",
+              "mean_en": "1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish"
+            },
+            {
+              "word": "submarine",
+              "phonetic": "/ˌsʌbməˈriːn/",
+              "mean_fa": "",
+              "mean_en": "a ship that can travel underwater"
             }
           ]
         }
