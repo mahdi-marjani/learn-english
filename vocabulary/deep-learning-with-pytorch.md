@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 523**
+**Total words: 524**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (51 words)](#part-1-core-pytorch-51-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (38 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-38-words)
+- [Part 1: Core PyTorch (52 words)](#part-1-core-pytorch-52-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (39 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-39-words)
 
 ---
 
@@ -509,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (51 words)
+## Part 1: Core PyTorch (52 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (38 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (39 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -563,4 +563,5 @@
 - **carry out** /ˈkæri aʊt/ : to do a task or complete an action as planned: carry out tasks
 - **whether** /ˈweðər/ : 1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish
 - **submarine** /ˌsʌbməˈriːn/ : a ship that can travel underwater
+- **fall** /fɔːl/ : 1. to go down quickly towards the ground: The book fell off the table - She fell down the stairs and broke her arm <br> 2. (also fall over) to suddenly stop standing: He slipped on the ice and fell - I fell over and hurt my leg <br> 3. to become lower or less: In the desert the temperature falls quickly at night - Price have fallen again (OPPOSITE: rise) <br> **fall apart** to break into pieces: The chair fell apart when I sat on it <br> **fall asleep** to start sleeping: She fell asleep in the armchair <br> **fall behind** to become slower than others, or not do something when you should do it: She's falling behind with her school work <br> **fall for somebody** to begin to love somebody: He has fallen for someone he met on holiday <br> **fall in love with somebody** to begin to love somebody: He fell in love with Anna the first time they met <br> **fall out with somebody** to argue with somebody so that you stop being friends: Jane has fallen out with her best friend (OPPOSITE: make up) <br> **fall through** if a plan falls through, it does not happen
 ---
