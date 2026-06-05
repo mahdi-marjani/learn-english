@@ -1,21 +1,22 @@
 # General - Vocabulary
 
-**Total words: 16**
+**Total words: 17**
 
 ## 📑 Table of Contents
 
-- [game (4 words)](#game-4-words)
+- [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
 - [other (1 words)](#other-1-words)
 
 ---
 
-## game (4 words)
+## game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
 - **hit (verb)** /hɪt/ : to touch somebody or something hard: He hit me on the head with a book - The car a wall wall - I hit my knee on the door
 - **swing (verb)** /swɪŋ/ : 1. to move backwards and forwards or from side to side through the air; to make somebody or something do this: Monkeys were swinging from the trees - He swung his arms as he walked <br> 2. to move in a curve: The door swung open
-- **chief** /tʃiːf/ : (formal) boss
+- **chief (noun)** /tʃiːf/ : the leader or ruler of a group of people: the chief of an African tribe - police chief
+- **chef** /ʃef/ : a professional cook, especially the head cook in a hotel or restaurant
 ---
 
 ## news (3 words)

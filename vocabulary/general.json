@@ -23,10 +23,16 @@
           "mean_en": "1. to move backwards and forwards or from side to side through the air; to make somebody or something do this: Monkeys were swinging from the trees - He swung his arms as he walked <br> 2. to move in a curve: The door swung open"
         },
         {
-          "word": "chief",
+          "word": "chief (noun)",
           "phonetic": "/tʃiːf/",
           "mean_fa": "",
-          "mean_en": "(formal) boss"
+          "mean_en": "the leader or ruler of a group of people: the chief of an African tribe - police chief"
+        },
+        {
+          "word": "chef",
+          "phonetic": "/ʃef/",
+          "mean_fa": "",
+          "mean_en": "a professional cook, especially the head cook in a hotel or restaurant"
         }
       ]
     },
