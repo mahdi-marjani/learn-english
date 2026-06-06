@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 17**
+**Total words: 20**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
-- [other (1 words)](#other-1-words)
+- [other (4 words)](#other-4-words)
 
 ---
 
@@ -36,6 +36,9 @@
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
 ---
 
-## other (1 words)
+## other (4 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
+- **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
+- **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
+- **cause (noun)** /kɔːz/ : 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital
 ---

@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 536**
+**Total words: 550**
 
 ## 📑 Table of Contents
 
@@ -11,15 +11,15 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (64 words)](#part-1-core-pytorch-64-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (51 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-51-words)
+- [Part 1: Core PyTorch (78 words)](#part-1-core-pytorch-78-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (65 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-65-words)
 
 ---
 
 ## Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
 - **distributed** : توزیع شده
-- **order** : سفارش
+- **order** : 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> **in order to** so that you can do something: We arrived early in order to buy our tickets <br> **out of order** (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
 - **offers** : ارائه می‌دهد
 - **discounts** : تخفیف ها
 - **quantity** : تعداد یا حجم (سفارش عمده)
@@ -197,7 +197,7 @@
 - **grandiose ideas** : ایده‌های جاه‌طلبانه و بزرگ
 - **demonstrate** : show
 - **greatest** : بزرگ‌ترین
-- **we decided** : تصمیم گرفتیم
+- **we decided** : تصمیم گیری گرفتیم
 - **devote** : اختصاص دادن
 - **concepts** : مفاهیم
 - **underlying** : زیربنایی
@@ -233,7 +233,7 @@
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
 - **hugely** : بسیار
-- **appreciated** : مورد تشکر قرارگرفته
+- **appreciate** /əˈpriːʃieɪt/ : 1. to enjoy something or understand how good somebody or something is: Van Gogh's paintings were only appreciate after his death - My boss doesn't appreciate me <br> 2. to understand that a situation is difficult: I appreciate your problem, but I can't help you <br> 3. to be grateful for something that somebody has done for you: Thank you for your help. I appreciate it
 - **delicate** : حساس
 - **respective** : به‌طور جداگانه برای هر فرد
 - **reaching out** : ارتباط گرفتن
@@ -334,7 +334,7 @@
 - **hold** /hoʊld/ : to have something in your hand or arms; to keep someone in a position
 - **robber** /ˈrɑː.bɚ/ : a person who steals money or property, often by force
 - **ran** : past of run
-- **revolution** : انقلاب، تغییر بزرگ و اساسی
+- **revolution** /ˌrevəˈluːʃən/ : 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
 - **touches on** : به طور کوتاه به چیزی اشاره می‌کند
 - **sets** : متمایز کردن
 - **apart** /əˈpɑːrt/ : متمایز
@@ -417,7 +417,7 @@
 - **remain** : 1. to stay in the same way; to not change: I asked her a question but she remained silent. <br> 2. to stay after other people or things have gone: After the fire, very little remained of the house.
 - **gone** : رفته
 - **voluntary** : 1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. <br> 2. without payment: He does voluntary work at a children's hospital
-- **decision** : choosing something after thinking - تصمیم
+- **decision** /dɪˈsɪʒn/ : choosing something after thinking; deciding: I must make a decision about what I'm going to do when I leave school - تصمیم گیری
 - **stray** : to move away from the correct path or subject
 - **as long as** : تا زمانی که، به شرطی که
 - **introduction** : preface
@@ -509,12 +509,12 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (64 words)
+## Part 1: Core PyTorch (78 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
 - **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?
-- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
+- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
 - **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (51 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (65 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -559,7 +559,7 @@
 - **intelligence** /ɪnˈtelɪdʒəns/ : the ability to learn, understand, and think logically
 - **notion** /ˈnoʊʃən/ : an idea, belief, or understanding of something
 - **conflate** /kənˈfleɪt/ : to combine two or more separate things into one, often confusing them
-- **definite** /ˈdefɪnɪt/ : Something that is definite is clear, fixed and unlikely to change (SAME MEANING : certain): I want a definite answer, 'yes' or 'no'
+- **definite** /ˈdefɪnɪt/ : Something that is definite is clear, fixed and unlikely to change (SAME MEANING: certain): I want a definite answer, 'yes' or 'no'
 - **carry out** /ˈkæri aʊt/ : to do a task or complete an action as planned: carry out tasks
 - **whether** /ˈweðər/ : 1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish
 - **submarine** /ˌsʌbməˈriːn/ : a ship that can travel underwater
@@ -576,4 +576,18 @@
 - **breed (noun)** /briːd/ : a kind of animal: There are many different breeds of dog
 - **until** /ənˈtɪl/ : (also informal till) up to a certain time or event: The shop is open until 6.30 - Stay in bed until you feel better - I can't come until tomorrow
 - **exclusive** /ɪkˈskluːsɪv/ : limited to only one person or group; not shared
+- **paradigm** /ˈpærədaɪm/ : model, framework, pattern
+- **shift (noun)** /ʃɪft/ : 1. a change in what people think about something: There has been a shift in public opinion away from the war <br> 2. a group of workers who begin work when another group finishes: the night shift
+- **paradigm shift** : a major change in how people think about something
+- **usher** /ˈʌʃər/ : to show someone where they should go, or to make someone go where you want them to go: She ushered us into her office and offered us coffee
+- **perspective** /pərˈspektɪv/ : a particular way of thinking about something - دیدگاه، چشم‌انداز، نگرش
+- **broad** /brɔːd/ : large from one side to the other (SAME MEANING: wide): a broad river (noun: breadth) (OPPOSITE: narrow)
+- **rely** /rɪˈlaɪ/ : 1. to need somebody or something (SAME MEANING: depend on somebody or something): I rely on my parents for money <br> 2. to feel sure that somebody or something will do what they say they will do: You can rely on him to help you (adjective: reliable)
+- **transform** /trænsˈfɔːrm/ : to change a person or thing completely: Electricity has transformed people's lives
+- **facilitate** /fəˈsɪlɪteɪt/ : to make an action or process easier
+- **downstream** /ˌdaʊnˈstriːm/ : later in a process or pipeline. It refers to steps that come after some initial processing: First we extract features from the image. Then a downstream classifier uses those features to recognize the digit
+- **outcome** : result
+- **consist** /kənˈsɪst/ : consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
+- **Jam (noun)** /dʒæm/ : 1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles - مربا
+- **for instance** /fɔːr ˈɪnstəns/ : for example
 ---

@@ -20,7 +20,7 @@
           "word": "order",
           "phonetic": "",
           "mean_fa": "سفارش",
-          "mean_en": ""
+          "mean_en": "1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> **in order to** so that you can do something: We arrived early in order to buy our tickets <br> **out of order** (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order"
         },
         {
           "word": "offers",
@@ -1061,7 +1061,7 @@
         {
           "word": "we decided",
           "phonetic": "",
-          "mean_fa": "تصمیم گرفتیم",
+          "mean_fa": "تصمیم گیری گرفتیم",
           "mean_en": ""
         },
         {
@@ -1262,10 +1262,10 @@
           "mean_en": ""
         },
         {
-          "word": "appreciated",
-          "phonetic": "",
-          "mean_fa": "مورد تشکر قرارگرفته",
-          "mean_en": ""
+          "word": "appreciate",
+          "phonetic": "/əˈpriːʃieɪt/",
+          "mean_fa": "",
+          "mean_en": "1. to enjoy something or understand how good somebody or something is: Van Gogh's paintings were only appreciate after his death - My boss doesn't appreciate me <br> 2. to understand that a situation is difficult: I appreciate your problem, but I can't help you <br> 3. to be grateful for something that somebody has done for you: Thank you for your help. I appreciate it"
         },
         {
           "word": "delicate",
@@ -1856,9 +1856,9 @@
         },
         {
           "word": "revolution",
-          "phonetic": "",
+          "phonetic": "/ˌrevəˈluːʃən/",
           "mean_fa": "انقلاب، تغییر بزرگ و اساسی",
-          "mean_en": ""
+          "mean_en": "1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution"
         },
         {
           "word": "touches on",
@@ -2354,9 +2354,9 @@
         },
         {
           "word": "decision",
-          "phonetic": "",
-          "mean_fa": "تصمیم",
-          "mean_en": "choosing something after thinking"
+          "phonetic": "/dɪˈsɪʒn/",
+          "mean_fa": "تصمیم گیری",
+          "mean_en": "choosing something after thinking; deciding: I must make a decision about what I'm going to do when I leave school"
         },
         {
           "word": "stray",
@@ -2899,7 +2899,7 @@
           "word": "chance",
           "phonetic": "/tʃæns/",
           "mean_fa": "",
-          "mean_en": "1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING : opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station"
+          "mean_en": "1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station"
         },
         {
           "word": "serious",
@@ -3162,7 +3162,7 @@
               "word": "definite",
               "phonetic": "/ˈdefɪnɪt/",
               "mean_fa": "",
-              "mean_en": "Something that is definite is clear, fixed and unlikely to change (SAME MEANING : certain): I want a definite answer, 'yes' or 'no'"
+              "mean_en": "Something that is definite is clear, fixed and unlikely to change (SAME MEANING: certain): I want a definite answer, 'yes' or 'no'"
             },
             {
               "word": "carry out",
@@ -3259,6 +3259,90 @@
               "phonetic": "/ɪkˈskluːsɪv/",
               "mean_fa": "",
               "mean_en": "limited to only one person or group; not shared"
+            },
+            {
+              "word": "paradigm",
+              "phonetic": "/ˈpærədaɪm/",
+              "mean_fa": "",
+              "mean_en": "model, framework, pattern"
+            },
+            {
+              "word": "shift (noun)",
+              "phonetic": "/ʃɪft/",
+              "mean_fa": "",
+              "mean_en": "1. a change in what people think about something: There has been a shift in public opinion away from the war <br> 2. a group of workers who begin work when another group finishes: the night shift"
+            },
+            {
+              "word": "paradigm shift",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "a major change in how people think about something"
+            },
+            {
+              "word": "usher",
+              "phonetic": "/ˈʌʃər/",
+              "mean_fa": "",
+              "mean_en": "to show someone where they should go, or to make someone go where you want them to go: She ushered us into her office and offered us coffee"
+            },
+            {
+              "word": "perspective",
+              "phonetic": "/pərˈspektɪv/",
+              "mean_fa": "دیدگاه، چشم‌انداز، نگرش",
+              "mean_en": "a particular way of thinking about something"
+            },
+            {
+              "word": "broad",
+              "phonetic": "/brɔːd/",
+              "mean_fa": "",
+              "mean_en": "large from one side to the other (SAME MEANING: wide): a broad river (noun: breadth) (OPPOSITE: narrow)"
+            },
+            {
+              "word": "rely",
+              "phonetic": "/rɪˈlaɪ/",
+              "mean_fa": "",
+              "mean_en": "1. to need somebody or something (SAME MEANING: depend on somebody or something): I rely on my parents for money <br> 2. to feel sure that somebody or something will do what they say they will do: You can rely on him to help you (adjective: reliable)"
+            },
+            {
+              "word": "transform",
+              "phonetic": "/trænsˈfɔːrm/",
+              "mean_fa": "",
+              "mean_en": "to change a person or thing completely: Electricity has transformed people's lives"
+            },
+            {
+              "word": "facilitate",
+              "phonetic": "/fəˈsɪlɪteɪt/",
+              "mean_fa": "",
+              "mean_en": "to make an action or process easier"
+            },
+            {
+              "word": "downstream",
+              "phonetic": "/ˌdaʊnˈstriːm/",
+              "mean_fa": "",
+              "mean_en": "later in a process or pipeline. It refers to steps that come after some initial processing: First we extract features from the image. Then a downstream classifier uses those features to recognize the digit"
+            },
+            {
+              "word": "outcome",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "result"
+            },
+            {
+              "word": "consist",
+              "phonetic": "/kənˈsɪst/",
+              "mean_fa": "",
+              "mean_en": "consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar"
+            },
+            {
+              "word": "Jam (noun)",
+              "phonetic": "/dʒæm/",
+              "mean_fa": "مربا",
+              "mean_en": "1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles"
+            },
+            {
+              "word": "for instance",
+              "phonetic": "/fɔːr ˈɪnstəns/",
+              "mean_fa": "",
+              "mean_en": "for example"
             }
           ]
         }
