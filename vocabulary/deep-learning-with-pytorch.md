@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 550**
+**Total words: 555**
 
 ## 📑 Table of Contents
 
@@ -11,14 +11,14 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (78 words)](#part-1-core-pytorch-78-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (65 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-65-words)
+- [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
 
 ---
 
 ## Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
-- **distributed** : توزیع شده
+- **distribute** /dɪˈstrɪbjuːt/ : to give or send things to each person: New books are distributed on the first day of school
 - **order** : 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> **in order to** so that you can do something: We arrived early in order to buy our tickets <br> **out of order** (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
 - **offers** : ارائه می‌دهد
 - **discounts** : تخفیف ها
@@ -147,7 +147,7 @@
 - **took a bit** : کمی طول کشید
 - **realize** : فهمیدن
 - **represented** : نشان می‌داد
-- **whole** : کل
+- **whole (adjective)** /hoʊl/ : complete; with no parts missing: He ate the whole cake! - We are going to Australia for a whole month - کل
 - **multipurpose** : دارای کاربردهای متعدد
 - **complicated** : complex - پیچیده
 - **observation** : مشاهده
@@ -509,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (78 words)
+## Part 1: Core PyTorch (83 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (65 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (70 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -590,4 +590,9 @@
 - **consist** /kənˈsɪst/ : consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
 - **Jam (noun)** /dʒæm/ : 1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles - مربا
 - **for instance** /fɔːr ˈɪnstəns/ : for example
+- **come** /kʌm/ : 1. to move towards the person who is speaking or the place that you are talking about: Come here, please - The dog came when I called him - Here comes Colin (= Colin is coming) - I'm sorry, but I can't come to your party <br> 2. to arrive at or reach a place: if you go along that road, you will come to the river - A letter came for you this morning <br> 3. to go somewhere with the person who is speaking: I'm going to a party tonight. Do you want to come with me? <br> 4. to be in a particular position: June comes after May <br> **come about** to happen: How did this situation come about? <br> **come across something** to find something when you are not looking for it: I came across these old photos yesterday <br> **come apart** to break into pieces: This old coat is coming apart <br> **come back** to return: What time will you be coming back? <br> **come down** to fall or become lower: The price of oil is coming down <br> **come from somewhere or something** 1. The place that you come from is where you were born or where you live: I come from Japan - Where do you come from? <br> 2. to be made from something or produced somewhere: Wool comes from sheep <br> **come in** to enter a place: Come in and sit down <br> **come off something** to become removed from something: The handle has come off this cup <br> **come on!; come along** words that you use for telling somebody to hurry or to try harder: Come on! We'll be late! <br> **come out** to appear: The rain stopped and the sun came out - His first novel came out in 2004 <br> **come round** to visit a person at their house not very far away: Come round for lunch on Saturday <br> **how come ...?** (informal) why or how ...?: How come you're here so early? <br> **to come** in the future: You'll regret it in years to come <br> **come up with something** to suggest or think of an idea or plan: She's come up with some amazing scheme to double her income
+- **estimate (verb)** /ˈestɪmeɪt/ : to say how much you think something will cost, how big something is, or how long it will take to do something: The builders estimated that it would take a week to repair the roof
+- **edge** /edʒ/ : 1. the part along the end or side of something: She stood at the water's edge - the edge of the table <br> 2. the sharp part of a knife or tool <br> **on edge** nervous or worried
+- **enclose** /ɪnˈkloʊz/ : 1. to put something inside a letter or package: I enclose a cheque for $100 <br> 2. to put something, for example a wall or fence, around a place on all sides: The prison is enclosed by a high wall
+- **hole** /hoʊl/ : an empty space or opening in something: I'm going to dig a hole in the garden - My socks are full of holes
 ---
