@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 21**
+**Total words: 23**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
-- [other (5 words)](#other-5-words)
+- [other (7 words)](#other-7-words)
 
 ---
 
@@ -36,10 +36,12 @@
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
 ---
 
-## other (5 words)
+## other (7 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
 - **cause (noun)** /kɔːz/ : 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital
 - **against** /əˈɡenst/ : 1. on the other side in a game, fight, etc.: They played against a football team from another vilage <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
+- **vehicle** /ˈviːəkl/ : a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
+- **vacation** /veɪˈkeɪʃən/ : (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
 ---
