@@ -1,84 +1,45 @@
 # 📘 ممکن است / شاید (May / Might)
 
-## 📑 مطالب (Contents)
+## ساختار (Structure)
 
-- [1. کاربرد اصلی (حال / آینده)](#1-کاربرد-اصلی-حال--آینده)
-- [2. حالت گذشته (Past Possibility)](#2-حالت-گذشته-past-possibility)
-- [3. نکات سریع (Quick Tips)](#3-نکات-سریع-quick-tips)
+`Subject + may/might + verb (base form)`
 
----
-
-### 1. کاربرد اصلی (حال / آینده)
-
-**معنی:** شاید، ممکن است (احتمال – نه certainty)
-
-**فرمول:**
-
-`Subject + may/might + verb (base form) + ...`
-
-> فرقی چندانی بین `may` و `might` نیست. `Might` کم استفاده تر است.
+> فرقی چندانی بین may و might نیست. Might کم استفاده تر است.
 
 ---
 
-#### ✅ مثبت (Affirmative)
+## 1. حال / آینده (Present / Future)
 
-- **Where is Ben?**  
-  → **He may be in his office.** (شاید در دفترش باشد)
-
-- **He might be having lunch right now.** (شاید ناهار می‌خورد)
-
-- **Ask Kate. She might know the answer.**
+- **He may be in his office.** (شاید در دفترش باشد)
+- **He might be having lunch now.**
+- **He may not be at home.** (منفی)
 
 ---
 
-#### ❌ منفی (Negative)
+## 2. گذشته (Past Possibility)
 
-**فرمول:**  
-`Subject + may/might + not + verb (base form) + ...`
+`Subject + may/might + have + past participle`
 
-- **He may not be in his office.** (شاید در دفترش نباشد)
+- **She may have been asleep.** (شاید خواب بوده)
+- **He might have missed the bus.**
+- **He may not have received the message.** (منفی)
 
-- **She might not come to the party.**
+### برای حالت استمراری گذشته:
 
----
-
-### 2. حالت گذشته (Past Possibility)
-
-**معنی:** شاید ... بوده / انجام داده باشد (حدس درباره گذشته)
-
-**فرمول:**
-
-`Subject + may/might + have + past participle (V₃) + ...`
-
-یا برای حالت استمراری:
-
-`Subject + may/might + have been + verb-ing + ...`
-
----
-
-#### ✅ مثال (Example)
-
-- **I wonder why Katie didn't answer the phone.**  
-  → **She may have been asleep.** (شاید خواب بوده)
-
-- **He might have missed the bus.** (شاید اتوبوس را از دست داده)
+`Subject + may/might + have been + verb-ing`
 
 - **They may have been waiting for hours.**
 
 ---
 
-#### ❌ منفی گذشته
+## 3. نکات سریع (Quick Tips)
 
-`Subject + may/might + not + have + past participle + ...`
+- **may be vs maybe**  
 
-- **He may not have received the message.**
+  *may be* = فعل (He may be late)  
+  *maybe* = قید (Maybe he is late)
 
----
+- **سوال با may/might:** رایج نیست. جایگزین:  
 
-### 3. نکات سریع (Quick Tips)
-
-- **فرق may be و maybe:**  
-  - `may be` = فعل (ممکن است باشد) → *He may be late.*  
-  - `maybe` = قید (شاید، احتمالاً) → *Maybe he is late.*
-
-- **سؤال با may/might:** خیلی غیررایج است. معمولاً از `Do you think...?` یا `Is it possible...?` استفاده می‌شود.
+  **Do you think** he is in his office?  
+  **Is it possible** that he is in his office?
