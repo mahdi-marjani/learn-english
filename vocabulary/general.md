@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 24**
+**Total words: 25**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
-- [other (8 words)](#other-8-words)
+- [other (9 words)](#other-9-words)
 
 ---
 
@@ -36,7 +36,7 @@
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
 ---
 
-## other (8 words)
+## other (9 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -45,4 +45,5 @@
 - **vehicle** /ˈviːəkl/ : a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
 - **vacation** /veɪˈkeɪʃən/ : (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
 - **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
+- **to** : 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)
 ---
