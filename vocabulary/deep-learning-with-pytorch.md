@@ -1,12 +1,12 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 555**
+**Total words: 556**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
 - [foreword (52 words)](#foreword-52-words)
-- [preface (89 words)](#preface-89-words)
+- [preface (90 words)](#preface-90-words)
 - [acknowledgments (61 words)](#acknowledgments-61-words)
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
@@ -113,7 +113,7 @@
 - **workshop** : کارگاه (آموزشی)
 ---
 
-## preface (89 words)
+## preface (90 words)
 - **preface** : مقدمه
 - **as kids** : وقتی بچه بودیم
 - **sinclair spectrum 48k (luca)** : نام چند کامپیوتر قدیمی
@@ -173,7 +173,8 @@
 - **laborious** : hard
 - **enthusiastic** : مشتاق
 - **hobby** : سرگرمی
-- **excited** : هیجان‌زده
+- **excited** /ɪkˈsaɪtɪd/ : not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
+- **calm** /kɑːm/ : 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
 - **odd** : گاهی
 - **eventually** : در نهایت
 - **complexity** : پیچیدگی
@@ -327,7 +328,7 @@
 - **brief** : short
 - **fundamental** : basic
 - **out there** : in the real world
-- **wild** : real-world
+- **wild** /waɪld/ : 1. Wild plants and animals live or grow in nature. not with people: We picked some wild flowers <br> 2. excited; not controlled: She was wild with anger - The crowd went wild with excitement <br> 3. (in the phrase 'in the wild') means real-world environments, not just in tutorials or controlled settings.
 - **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
 - **tackle (verb)** /ˈtækl/ : 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
 - **catch** /kætʃ/ : 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> **catch fire** to start to burn: The house caught fire
@@ -542,7 +543,7 @@
 - **assert** /əˈsɜːrt/ : ادعا کردن، به طور قاطع گفتن
 - **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses
 - **approximate (verb)** /əˈprɑːksɪmeɪt/ : to be close to a particular number or state without being exact
-- **close (adjective)** : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
+- **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
 - **fed** : past tense of feed
 - **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her

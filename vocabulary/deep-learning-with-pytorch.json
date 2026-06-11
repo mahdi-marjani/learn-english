@@ -916,9 +916,15 @@
         },
         {
           "word": "excited",
-          "phonetic": "",
-          "mean_fa": "هیجان‌زده",
-          "mean_en": ""
+          "phonetic": "/ɪkˈsaɪtɪd/",
+          "mean_fa": "",
+          "mean_en": "not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday"
+        },
+        {
+          "word": "calm",
+          "phonetic": "/kɑːm/",
+          "mean_fa": "",
+          "mean_en": "1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather"
         },
         {
           "word": "odd",
@@ -1814,9 +1820,9 @@
         },
         {
           "word": "wild",
-          "phonetic": "",
+          "phonetic": "/waɪld/",
           "mean_fa": "",
-          "mean_en": "real-world"
+          "mean_en": "1. Wild plants and animals live or grow in nature. not with people: We picked some wild flowers <br> 2. excited; not controlled: She was wild with anger - The crowd went wild with excitement <br> 3. (in the phrase 'in the wild') means real-world environments, not just in tutorials or controlled settings."
         },
         {
           "word": "by the end of part 1",
@@ -3058,7 +3064,7 @@
             },
             {
               "word": "close (adjective)",
-              "phonetic": "",
+              "phonetic": "/kloʊs/",
               "mean_fa": "",
               "mean_en": "1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture"
             },

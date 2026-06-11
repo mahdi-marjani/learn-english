@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 23**
+**Total words: 24**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (8 words)](#social-media-8-words)
-- [other (7 words)](#other-7-words)
+- [other (8 words)](#other-8-words)
 
 ---
 
@@ -32,11 +32,11 @@
 - **wear (verb)** /wer/ : to have clothes, jewellery, etc. on your body: She was wearing a red dress - I wear glasses
 - **even (adverb)** /ˈiːvən/ : 1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours
 - **pretty (adverb)** /ˈprɪti/ : quite; fairly: It's pretty cold today
-- **quite** /kwaɪt/ : 1. not very; rather (same meaning : fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
+- **quite** /kwaɪt/ : 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
 ---
 
-## other (7 words)
+## other (8 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -44,4 +44,5 @@
 - **against** /əˈɡenst/ : 1. on the other side in a game, fight, etc.: They played against a football team from another vilage <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
 - **vehicle** /ˈviːəkl/ : a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
 - **vacation** /veɪˈkeɪʃən/ : (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
+- **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
 ---
