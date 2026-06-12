@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 26**
+**Total words: 27**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
-- [social media (8 words)](#social-media-8-words)
+- [social media (9 words)](#social-media-9-words)
 - [other (10 words)](#other-10-words)
 
 ---
@@ -25,7 +25,7 @@
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
 ---
 
-## social media (8 words)
+## social media (9 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -34,6 +34,7 @@
 - **pretty (adverb)** /ˈprɪti/ : quite; fairly: It's pretty cold today
 - **quite** /kwaɪt/ : 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
+- **worried** /ˈwɜːrid/ : unhappy because you think that something bad will happen or has happened: Fiana is worried that she's going to fail the exam - I'm worried about my brother _ he looks ill
 ---
 
 ## other (10 words)
