@@ -32,11 +32,6 @@
 
 `Subject + would have + past participle (V₃)`
 
-| نوع | فرمول | مثال |
-|------|-------|-------|
-| مثبت | would have + V₃ | You **would have liked** the movie. |
-| منفی | would not have + V₃ | She **wouldn't have been** pleased. |
-
 **مثال‌ها:**
 
 - They helped us a lot. I don't know **what we would have done** without them.
@@ -53,13 +48,11 @@
 | **I will stay** a little longer. I've got plenty of time. | **I would stay** a little longer, but I need to go now. |
 | **I will call** John. I have his number. | **I would call** John, but I don't have his number. |
 
-> **would** به عنوان گذشته‌ی will در نقل قول غیرمستقیم:
+**would به عنوان گذشته‌ی will (نقل قول غیرمستقیم و خودداری در گذشته):**
 
-- Tom said: "I **will** call you on Sunday." → Tom said he **would** call you on Sunday.
+- Tom said: "I **will** call you on Sunday." → Tom said he **would** call me on Sunday.
 - You said **you would help** me.
-
-> **would** برای **نمی‌کردن / خودداری کردن** در گذشته:
-
+- I wonder why Emma hasn't called me. **She promised she would call me.**
 - Ali was annoyed because his car **wouldn't start**.
 
 ---
@@ -70,7 +63,6 @@
 
 - When we were children we lived by the ocean. In the summer if the weather was nice **we would** all get up early and go for a swim.
 - Whenever Tom was angry, **he would** walk out of the room.
-- I wonder why Emma hasn't called me. **She promised she would call me.**
 - Every time a train went past, **the house would shake**.
 
 > معادل: **used to** (اما would برای حالت‌های ایستا (مثل live, have, be) به کار نمی‌رود)
@@ -79,8 +71,8 @@
 
 ## 💡 نکات سریع (Quick Tips)
 
-- **مخفف:** `'d` = would (مثال: I'd = I would, she'd = she would, they'd = they would)
+- The short form of `would` is `'d` (example: I'd = I would, she'd = she would, they'd = they would)
 - **would** همیشه فعل بعدش **base form** می‌خواهد (به جز would have که بعدش V₃ می‌آید).
-- **منفی کردن:** would not → wouldn't
-- **سوالی کردن:** Would you...?
+- **negative:** would not → wouldn't
+- **question:** Would you...?
 - **would** برای درخواست مودبانه (Would you open the door?) – در مبحث قبل (modal verbs) پوشش داده شد.
