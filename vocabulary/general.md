@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 27**
+**Total words: 32**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
-- [social media (9 words)](#social-media-9-words)
+- [social media (14 words)](#social-media-14-words)
 - [other (10 words)](#other-10-words)
 
 ---
@@ -25,7 +25,7 @@
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
 ---
 
-## social media (9 words)
+## social media (14 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -35,6 +35,11 @@
 - **quite** /kwaɪt/ : 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
 - **worried** /ˈwɜːrid/ : unhappy because you think that something bad will happen or has happened: Fiana is worried that she's going to fail the exam - I'm worried about my brother _ he looks ill
+- **stupid** /ˈstuːpɪd/ : not intelligent; silly: Don't be so stupid! - What a stupid question!
+- **silly** /ˈsɪli/ : not sensible or clever; stupid: Don't be so silly - It was silly of you to leave the door open when you went out
+- **sensible** /ˈsensəbl/ : able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
+- **clever** /ˈklevər/ : quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
+- **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 ---
 
 ## other (10 words)
