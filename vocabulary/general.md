@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 32**
+**Total words: 33**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (14 words)](#social-media-14-words)
-- [other (10 words)](#other-10-words)
+- [other (11 words)](#other-11-words)
 
 ---
 
@@ -42,7 +42,7 @@
 - **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 ---
 
-## other (10 words)
+## other (11 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -53,4 +53,5 @@
 - **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
 - **to** : 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)
 - **for (preposition)** : 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
+- **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 ---
