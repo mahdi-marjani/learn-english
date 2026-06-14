@@ -351,7 +351,7 @@
 - **troubleshooting** : debugging
 - **describe** : explain
 - **tomography** : imaging method that shows slices of the body
-- **along** /əˈlɔːŋ/ : همراه، به همراه، در کنار
+- **along** /əˈlɔːŋ/ : 1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
 - **relevant** /ˈreləvənt/ : connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant) - مرتبط
 - **consume** : use up
 - **metric** : a standard for measuring performance - معیار، سنجه
