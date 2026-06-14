@@ -1,18 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 27**
+**Total words: 31**
 
 ## 📑 Table of Contents
 
-- [S1 (27 words)](#s1-27-words)
-  - [E1 (27 words)](#e1-27-words)
+- [S1 (31 words)](#s1-31-words)
+  - [E1 (31 words)](#e1-31-words)
 
 ---
 
-## S1 (27 words)
+## S1 (31 words)
 
-### E1 (27 words)
-- **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin: 🍍
+### E1 (31 words)
+- **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
 - **porous** /ˈpɔːrəs/ : Something that is porous has many small holes, so liquid or air can pass through, especially slowly
 - **nautical** /ˈnɔːtɪkl/ : relating to ships, sailing, or sailors
@@ -39,4 +39,8 @@
 - **sign (noun)** /saɪn/ : 1. something that tells you that something exists, is happening or may heppen in the future: Dark clouds are a sign of rain <br> 2. a thing with writing or a picture on it that tells you something: The sign said 'No Smoking' - a road sign <br> 3. a mark, shape or movement that has a special meaning: In mathematics, a cross is a plus sign - I put up my hand as a sign for him to stop
 - **march (verb)** /mɑːrtʃ/ : 1. to walk like a soldier: The soldiers marched along the road <br> 2. to walk somewhere quickly in a determined way: She marched up to the manager and asked for her money back <br> 3. to walk through the streets in a large group to show that you do not agree with something: They marched through the town shouting 'Stop the war!'
 - **straight (adverb)** /streɪt/ : 1. in a straight line: Look straight in front of you - Go straight on until you come to the bank, then turn left <br> 2. without stopping or doing anything else; directly: Come straight home - She walked straight past me
+- **lay** /leɪ/ : 1. to put somebody or something carefully on another thing: I laid the papers on the desk <br> 2. to make an egg: birds and insects lay eggs
+- **whose** /huːz/ : 1. used to ask who something belongs to: Whose car is this? <br> 2. used to say exactly which person or thing you mean, or to give extra information about a person or thing: That's the boy whose sister is a singer
+- **belong** /bɪˈlɔːŋ/ : 1. to be somebody's: 'Who does this pen belong to?' 'It belongs to me' <br> 2. to be a member of a group or an organization: Do you belong to any political party? <br> 3. to have its right or usual place: That chair belongs in my room
+- **spatula** /ˈspætʃələ/ : <br><img src='images/spatula.jpg' alt='spatula' width='200'>
 ---

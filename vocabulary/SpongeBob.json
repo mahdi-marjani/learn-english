@@ -11,7 +11,7 @@
               "word": "pineapple",
               "phonetic": "/ˈpaɪnæpl/",
               "mean_fa": "",
-              "mean_en": "a big fruit that is yellow inside and has a rough brown skin: 🍍"
+              "mean_en": "a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>"
             },
             {
               "word": "absorbent",
@@ -168,6 +168,30 @@
               "phonetic": "/streɪt/",
               "mean_fa": "",
               "mean_en": "1. in a straight line: Look straight in front of you - Go straight on until you come to the bank, then turn left <br> 2. without stopping or doing anything else; directly: Come straight home - She walked straight past me"
+            },
+            {
+              "word": "lay",
+              "phonetic": "/leɪ/",
+              "mean_fa": "",
+              "mean_en": "1. to put somebody or something carefully on another thing: I laid the papers on the desk <br> 2. to make an egg: birds and insects lay eggs"
+            },
+            {
+              "word": "whose",
+              "phonetic": "/huːz/",
+              "mean_fa": "",
+              "mean_en": "1. used to ask who something belongs to: Whose car is this? <br> 2. used to say exactly which person or thing you mean, or to give extra information about a person or thing: That's the boy whose sister is a singer"
+            },
+            {
+              "word": "belong",
+              "phonetic": "/bɪˈlɔːŋ/",
+              "mean_fa": "",
+              "mean_en": "1. to be somebody's: 'Who does this pen belong to?' 'It belongs to me' <br> 2. to be a member of a group or an organization: Do you belong to any political party? <br> 3. to have its right or usual place: That chair belongs in my room"
+            },
+            {
+              "word": "spatula",
+              "phonetic": "/ˈspætʃələ/",
+              "mean_fa": "",
+              "mean_en": "<br><img src='images/spatula.jpg' alt='spatula' width='200'>"
             }
           ]
         }
