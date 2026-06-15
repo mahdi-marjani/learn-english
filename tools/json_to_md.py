@@ -47,17 +47,27 @@ def write_section(section, level, md_lines, toc_lines, base_map, section_path):
 
     for word_obj in section.get('words', []):
         original_word = word_obj['word']
-        base, tag = parse_word(original_word)
+        base, tag_str = parse_word(original_word)
         base_lower = base.lower()
-        tag_key = tag.lower() if tag else None
+
+        if tag_str is None:
+            tags = {None}
+        else:
+            tags = {t.strip().lower() for t in tag_str.split(',')}
 
         if base_lower in base_map:
             existing = base_map[base_lower]
-            if (None in existing) or (tag_key is None) or (tag_key in existing):
-                print(f"⚠️ Duplicate base '{base}' (existing tags: {existing}, new tag: '{tag_key}') for word '{original_word}' in {section_path}", file=sys.stderr)
-            existing.add(tag_key)
+            for t in tags:
+                if t in existing:
+                    print(f"⚠️ Duplicate base '{base}' (tag: {t}) for word '{original_word}' in {section_path}", file=sys.stderr)
+                elif None in existing and t is not None:
+                    print(f"⚠️ Duplicate base '{base}' (generic entry exists, adding specific tag '{t}') for word '{original_word}' in {section_path}", file=sys.stderr)
+                elif t is None and existing:
+                    print(f"⚠️ Duplicate base '{base}' (specific tags {existing} exist, adding generic entry) for word '{original_word}' in {section_path}", file=sys.stderr)
+                else:
+                    existing.add(t)
         else:
-            base_map[base_lower] = {tag_key}
+            base_map[base_lower] = tags
 
         phonetic = f' {word_obj["phonetic"]}' if word_obj.get('phonetic') else ''
         mean_en = word_obj.get('mean_en', '')
