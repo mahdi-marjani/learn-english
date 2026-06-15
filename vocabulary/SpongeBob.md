@@ -1,17 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 31**
+**Total words: 68**
 
 ## 📑 Table of Contents
 
-- [S1 (31 words)](#s1-31-words)
-  - [E1 (31 words)](#e1-31-words)
+- [S1 (68 words)](#s1-68-words)
+  - [E1 (68 words)](#e1-68-words)
 
 ---
 
-## S1 (31 words)
+## S1 (68 words)
 
-### E1 (31 words)
+### E1 (68 words)
+- **aye** /aɪ/ : another word for 'yes'
 - **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
 - **porous** /ˈpɔːrəs/ : Something that is porous has many small holes, so liquid or air can pass through, especially slowly
@@ -43,4 +44,40 @@
 - **whose** /huːz/ : 1. used to ask who something belongs to: Whose car is this? <br> 2. used to say exactly which person or thing you mean, or to give extra information about a person or thing: That's the boy whose sister is a singer
 - **belong** /bɪˈlɔːŋ/ : 1. to be somebody's: 'Who does this pen belong to?' 'It belongs to me' <br> 2. to be a member of a group or an organization: Do you belong to any political party? <br> 3. to have its right or usual place: That chair belongs in my room
 - **spatula** /ˈspætʃələ/ : <br><img src='images/spatula.jpg' alt='spatula' width='200'>
+- **toothpick** /ˈtuːθpɪk/ : a small, thin piece of wood or plastic used for removing food from between your teeth <br> <img src='images/toothpick.jpg' alt='toothpick' width='200'>
+- **cube** /kjuːb/ : 1. a shape like a box with six square sides all the same size <br> 2. the number that you get if you multiply a number by itself twice: The cube of 5 (= 5³) is 125 (= 5 * 5 * 5)
+- **hurry (verb)** /ˈhʌri/ : to move or do something quickly: We hurried home after school <br> **hurry up** to move or do something more quickly because there is not much time: Hurry up or we'll be late!
+- **to come aboard** /tuː kʌm əˈbɔːrd/ : to get on a ship, plane, train, or other vehicle: We need to come aboard before the ship leaves
+- **get** : 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> **get away with something** to do something bad and not be punished for it: He lied but he got away with it <br> **get back** to return: When did you get back from your holiday? <br> **get in** to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> **get in; get into something** to climb into a car: Tom got into the car <br> **get off; get off something** to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> **get on** 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> **get on; get onto something** to climb onto a bus, train, or bycycle: I got on the train <br> **get on with somebody** to live or work in a friendly way with somebody: We get on well with our neighbours <br> **get out; get out of something** to leave a car: I opened the door and got out <br> **get out of something** to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> **get something out** to take something from the place where it was: She opened her bag and got out a pen <br> **get over something** to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> **get through** to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> **get through something** to use or finish a certain amount of something: I got through a lot of work today <br> **get together** to meet; to come together in a group: The whole family got together for Christmas <br> **get up** 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> **get up to something** 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180
+- **train (verb)** /treɪn/ : 1. to teach a person or an animal to do something: He was trained as a pilot <br> 2. to make yourself ready for something by studying or doing something a lot: Ann is training to be a doctor - She's training for the Olympics
+- **crew** /kruː/ : all the people who work on a ship or a plane
+- **lad** /læd/ : a boy or young man
+- **prove** /pruːv/ : to show that something is true: The blood on his shirt proves that he is the murderer (The noun is: proof)
+- **fry** /fraɪ/ : to cook something in hot oil: I will fry the eggs for breakfast
+- **squidward** : <br> <img src='images/squidward.jpg' alt='squidward' width='200'>
+- **vouch** /vaʊtʃ/ : to be able from your knowledge or experience to say that something is true
+- **port and starboard** : <br> <img src='images/port-starboard.jpg' alt='port and starboard' width='200'>
+- **coming right up** : used by someone (such as a waiter) to say that something will be served or delivered very quickly: 'I'd like a turkey sandwich and a glass of lemonade, please.' 'Coming right up!'
+- **lubber** /ˈlʌbər/ : a large person who often breaks things or has accidents
+- **terrible** /ˈterəbl/ : very bad: She had a terrible accident - The food in that restaurant is terrible!
+- **passenger** /ˈpæsəndʒər/ : a person who is traveling in a vehicle but not driving it: The plane was carrying 200 passengers
+- **hatch** /hætʃ/ : When baby birds, insects, or fish hatch, they come out of an egg
+- **smell** /smel/ : 1. to have a particular smell: Dinner smells good - The perfume smells of roses <br> 2. to notice something with your nose: Can you smell smoke? <br> 3. to have a bad smell: Your feet smell
+- **smelly** /ˈsmeli/ : having a bad smell: smelly socks
+- **anchovy** /ˈæntʃoʊvi/ : a small or medium-sized oily sea fish <br> <img src='images/anchovies.jpg' alt='anchovies' width='200'>
+- **decency** /ˈdiːsnsi/ : behaviour that is good, moral, and acceptable in society
+- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy: keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **anchor** /ˈæŋkər/ : <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
+- **batten down the hatches** : to fasten or secure something tightly, especially on a ship before a storm
+- **fasten** /ˈfæsn/ : 1. to join or close something so that it will not come open: Please fasten your seat belts - Can you fasten this suitcase for me? <br> 2. to fix or tie one thing to another thing: Fasten this badge to your jacket
+- **suitcase** /ˈsuːtkeɪs/ : <br> <img src='images/suitcase.jpg' alt='suitcase' width='200'>
+- **overboard** /ˈoʊvərbɔːrd/ : over the side of a boat and into the water: She fell overboard
+- **over (adverb, preposition)** /ˈoʊvər/ : 1. on somebody or something so that it covers them: She put a blanket over the sleeping child <br> 2. above something; higher than something: A plane flew over our heads - There is a picture over the fireplace <br> 3. across; to the other side of something: The dog jumped over the wall <br> 4. to or in a place: Come over and see us on Saturday - Come over here! - Go over there and see if you can help <br> 5. down or sideways: I fell over in the street - He learned over to speak to her <br> 6. so that the other side is on top: You may turn your papers over and begin <br> 7. more than a number, price, etc.: She lived in Mauritania for over 20 years - This game is for children of ten and over <br> 8. not used; remaining: There are a lot of cakes left over from the party <br> 9. used for saying that somebody repeats something: He said the same thing over and over again (= many times) - You'll have to start all over again (= from the beginning) <br> **all over** everywhere; in every part: Have you seen my glasses? I've looked all over - She travels all over the world
+- **stock (noun)** /stɑːk/ : 1. things that a shop keeps ready to sell: We have a large stock of tables and chairs - I'll see if we have your size in stock - I'm afraid that book's out of stock at the moment <br> 2. (business) a share in a company or business that somebody has bought, or the value of those shares: stocks and shares
+- **daughter** /ˈdɔːtər/ : a girl or woman who is somebody's child: They have two daughters and a son - My oldest daughter is a doctor
+- **fine (adjective)** : 1. beautiful or of good quality: There's a fine view from the cathedral - This is one of Monet's finest painting <br> 2. well or happy: 'How are you?' 'Fine, thanks. And you?' <br> 3. used for saying that something is good or acceptable (SAME MEANING: OK): 'Let's meet on Monday' 'Fine' - 'Do you want some more milk in your coffee?' 'No, that's fine' <br> 4. not raining (SAME MEANING: sunny): I hope it stays fine for our picnic <br> 5. very thin: I've got very fine hair (OPPOSITE: thick) <br> 6. made of very small pieces: Salt is finer than sugar (OPPOSITE: coarse)
+- **aboard** /əˈbɔːrd/ : on or onto a ship, plane, train, or bus: Are all the passengers aboard the ship? - Welcome aboard flight 603 to Nairobi
+- **quarters** /ˈkwɔːrtərz/ : a place to live, especially rooms or housing for soldiers, sailors, or servants
+- **booty** /ˈbuːti/ : any valuable things or money stolen by an army at war or by thieves
+- **employee** /ɪmˈplɔɪiː/ : a person who works for someone else for money: The company has 500 employees
 ---
