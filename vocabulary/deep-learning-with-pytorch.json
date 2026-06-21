@@ -29,10 +29,10 @@
           "mean_en": ""
         },
         {
-          "word": "discounts",
-          "phonetic": "",
-          "mean_fa": "تخفیف ها",
-          "mean_en": ""
+          "word": "discount",
+          "phonetic": "/ˈdɪskaʊnt/",
+          "mean_fa": "",
+          "mean_en": "a reduction in the usual price of something <br> <img src='images/discount.jpg' alt='discount' width='200'>"
         },
         {
           "word": "quantity",
@@ -323,9 +323,9 @@
         },
         {
           "word": "rather",
-          "phonetic": "",
-          "mean_fa": "ترجیحاً",
-          "mean_en": ""
+          "phonetic": "/ˈræðər/",
+          "mean_fa": "",
+          "mean_en": "more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> **rather than** in the place of; instead of: Could I have tea rather than coffee? <br> **would rather** would prefer to do something: I'd rather go by train than by bus"
         },
         {
           "word": "conceptually",
@@ -1065,10 +1065,10 @@
           "mean_en": ""
         },
         {
-          "word": "we decided",
-          "phonetic": "",
-          "mean_fa": "تصمیم گیری گرفتیم",
-          "mean_en": ""
+          "word": "decide",
+          "phonetic": "/dɪˈsaɪd/",
+          "mean_fa": "",
+          "mean_en": "to choose something after thinking about the possibilities: I can't decide what colour to paint my room - We've decided to go to Eqypt for our holidays - She decided that she didn't want to come"
         },
         {
           "word": "devote",
@@ -1240,8 +1240,8 @@
         {
           "word": "bring",
           "phonetic": "/brɪŋ/",
-          "mean_fa": "منتقل کردن",
-          "mean_en": "1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness"
+          "mean_fa": "",
+          "mean_en": "1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> **bring something back** 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> **bring somebody up** to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> **bring something up** 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting?"
         },
         {
           "word": "incredible",
@@ -2210,9 +2210,9 @@
         },
         {
           "word": "certain",
-          "phonetic": "",
-          "mean_fa": "خاص، معیّن",
-          "mean_en": "specific"
+          "phonetic": "/ˈsɜːrtn/",
+          "mean_fa": "",
+          "mean_en": "1. sure about something; without any doubt: I'm certain that I've seen her before - Are you certain about that? - (OPPOSITE: uncertain) <br> 2. used for talking about a particular thing or person without saying what or who they are: Do you want the work to be finished by a certain date? - It's cheaper to telephone at certain times of day <br> **for certain** without any doubt: I don't know for certain where she is <br> **make certain** to check something so that you are sure about it: Please make certain that the window is closed before you leave"
         },
         {
           "word": "operating system",
@@ -2834,7 +2834,7 @@
           "word": "doubt",
           "phonetic": "/daʊt/",
           "mean_fa": "شک، تردید",
-          "mean_en": ""
+          "mean_en": "a feeling of not being sure: I have doubts about this plan"
         },
         {
           "word": "fast-paced",
@@ -2947,7 +2947,7 @@
           "word": "much (adverb)",
           "phonetic": "/mʌtʃ/",
           "mean_fa": "",
-          "mean_en": "a lot: I don't like him very much"
+          "mean_en": "a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'"
         },
         {
           "word": "by",

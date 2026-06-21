@@ -53,7 +53,7 @@
 - **crew** /kruː/ : all the people who work on a ship or a plane
 - **lad** /læd/ : a boy or young man
 - **prove** /pruːv/ : to show that something is true: The blood on his shirt proves that he is the murderer (The noun is: proof)
-- **fry** /fraɪ/ : to cook something in hot oil: I will fry the eggs for breakfast
+- **fry (verb)** /fraɪ/ : to cook something in hot oil: I will fry the eggs for breakfast - Fry the onions in butter - fried eggs
 - **squidward** : <br> <img src='images/squidward.jpg' alt='squidward' width='200'>
 - **vouch** /vaʊtʃ/ : to be able from your knowledge or experience to say that something is true
 - **port and starboard** : <br> <img src='images/port-starboard.jpg' alt='port and starboard' width='200'>

@@ -21,7 +21,7 @@
 - **distribute** /dɪˈstrɪbjuːt/ : to give or send things to each person: New books are distributed on the first day of school
 - **order** : 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> **in order to** so that you can do something: We arrived early in order to buy our tickets <br> **out of order** (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
 - **offers** : ارائه می‌دهد
-- **discounts** : تخفیف ها
+- **discount** /ˈdɪskaʊnt/ : a reduction in the usual price of something <br> <img src='images/discount.jpg' alt='discount' width='200'>
 - **quantity** : تعداد یا حجم (سفارش عمده)
 - **all rights reserved** : کلیه حقوق محفوظ است
 - **publication** : انتشار
@@ -72,7 +72,7 @@
 - **significant** : مهم
 - **pioneered** : پیشگام بودن
 - **rich** : غنی
-- **rather** : ترجیحاً
+- **rather** /ˈræðər/ : more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> **rather than** in the place of; instead of: Could I have tea rather than coffee? <br> **would rather** would prefer to do something: I'd rather go by train than by bus
 - **conceptually** : از نظر مفهومی
 - **scratch** : شروع از صفر
 - **attribute** : عامل دانستن
@@ -198,7 +198,7 @@
 - **grandiose ideas** : ایده‌های جاه‌طلبانه و بزرگ
 - **demonstrate** : show
 - **greatest** : بزرگ‌ترین
-- **we decided** : تصمیم گیری گرفتیم
+- **decide** /dɪˈsaɪd/ : to choose something after thinking about the possibilities: I can't decide what colour to paint my room - We've decided to go to Eqypt for our holidays - She decided that she didn't want to come
 - **devote** : اختصاص دادن
 - **concepts** : مفاهیم
 - **underlying** : زیربنایی
@@ -229,7 +229,7 @@
 - **particular** : specific - خاص، ویژه
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
-- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness - منتقل کردن
+- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> **bring something back** 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> **bring somebody up** to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> **bring something up** 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting?
 - **incredible** : باور نکردنی
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
@@ -393,7 +393,7 @@
 - **excessive** : more than what is necessary or normal
 - **consistent** : unchanging - ثابت
 - **adequate** : sufficient, enough
-- **certain** : specific - خاص، معیّن
+- **certain** /ˈsɜːrtn/ : 1. sure about something; without any doubt: I'm certain that I've seen her before - Are you certain about that? - (OPPOSITE: uncertain) <br> 2. used for talking about a particular thing or person without saying what or who they are: Do you want the work to be finished by a certain date? - It's cheaper to telephone at certain times of day <br> **for certain** without any doubt: I don't know for certain where she is <br> **make certain** to check something so that you are sure about it: Please make certain that the window is closed before you leave
 - **operating system** : OS, e.g., Windows, Linux, macOS
 - **anticipate** : پیش‌بینی کردن
 - **capable** /ˈkeɪpəbl/ : 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
@@ -501,7 +501,7 @@
 - **perhaps** /pərˈhæps/ : maybe
 - **varied** /ˈverid/ : diverse, consisting of many different kinds
 - **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
-- **doubt** /daʊt/ : شک، تردید
+- **doubt** /daʊt/ : a feeling of not being sure: I have doubts about this plan - شک، تردید
 - **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
 - **celebrate** /ˈsel.ə.breɪt/ : to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week
 - **inventiveness** /ɪnˈven.t̬ɪv.nəs/ : the ability to create new things or think of new ideas
@@ -522,7 +522,7 @@
 - **domain** /doʊˈmeɪn/ : a particular area of activity, knowledge, or data
 - **unveil** /ʌnˈveɪl/ : to show or make known something that was hidden or unknown
 - **crack** /kræk/ : شکافتن، ترک خوردن؛ در معنای مجازی: حل کردن (مسئله دشوار)، رمزگشایی کردن
-- **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much
+- **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
 ### Chapter 1: Introducing deep learning and the PyTorch Library (70 words)
