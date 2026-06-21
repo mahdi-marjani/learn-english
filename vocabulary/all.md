@@ -1,0 +1,873 @@
+# All Vocabulary
+
+**Total words: 742**
+
+## 📑 Table of Contents
+
+- [SpongeBob SquarePants - Vocabulary (68 words)](#spongebob-squarepants---vocabulary-68-words)
+  - [S1 (68 words)](#s1-68-words)
+    - [E1 (68 words)](#e1-68-words)
+- [Deep Learning with PyTorch - Vocabulary (556 words)](#deep-learning-with-pytorch---vocabulary-556-words)
+  - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
+  - [foreword (52 words)](#foreword-52-words)
+  - [preface (90 words)](#preface-90-words)
+  - [acknowledgments (61 words)](#acknowledgments-61-words)
+  - [about this book (165 words)](#about-this-book-165-words)
+  - [about the authors (22 words)](#about-the-authors-22-words)
+  - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
+  - [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
+- [Duolingo - Vocabulary (69 words)](#duolingo---vocabulary-69-words)
+  - [SECTION 1 (69 words)](#section-1-69-words)
+    - [Solo trip (36 words)](#solo-trip-36-words)
+    - [Delivery (29 words)](#delivery-29-words)
+    - [At School (4 words)](#at-school-4-words)
+- [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
+  - [foreword (2 words)](#foreword-2-words)
+  - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
+    - [Chapter 1: Introduction (3 words)](#chapter-1-introduction-3-words)
+    - [Chapter 2: PyTorch Basics (2 words)](#chapter-2-pytorch-basics-2-words)
+    - [Chapter 3: Gradients (2 words)](#chapter-3-gradients-2-words)
+  - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
+    - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
+    - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
+- [General - Vocabulary (34 words)](#general---vocabulary-34-words)
+  - [game (5 words)](#game-5-words)
+  - [news (3 words)](#news-3-words)
+  - [social media (14 words)](#social-media-14-words)
+  - [other (12 words)](#other-12-words)
+
+---
+
+## SpongeBob SquarePants - Vocabulary (68 words)
+
+### S1 (68 words)
+
+#### E1 (68 words)
+- **aye** /aɪ/ : another word for 'yes'
+- **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
+- **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
+- **porous** /ˈpɔːrəs/ : Something that is porous has many small holes, so liquid or air can pass through, especially slowly
+- **nautical** /ˈnɔːtɪkl/ : relating to ships, sailing, or sailors
+- **sail (verb)** /seɪl/ : 1. to travel on the water: The ship sailed along the coast <br> 2. to control a boat with sails: We sailed the yacht down the river
+- **sailor** /ˈseɪlər/ : a person who sails ships or boats as their job or as a sport
+- **nonsense** /ˈnɑːnsens/ : words or ideas that have no meaning or that are not true: It's nonsense to say that Jackie is lazy
+- **drop (verb)** /drɑːp/ : 1. to let something fall: I dropped my watch and it broke <br> 2. to fall: The glass dropped from her hands <br> 3. to become lower or less: The temperature has dropped <br> 4. (also drop somebody off) to stop your car and let somebody get out: Could you drop me at the station? - He dropped me off at the bus stop <br> 5. to stop doing something: I'm going to drop geography (= stop studying it) at school next year <br> **drop in** to visit somebody who does not know that you are coming: We were in the area so we thought we'd drop in and see you <br> **drop off** to fall asleep: She dropped off in front of the TV <br> **drop out** to stop doing something with a group of people: I dropped out of the football team after I hurt my leg
+- **deck** /dek/ : 1. one of the floors of a ship, plane or bus: He stood on the lower deck of the ship and looked out to sea <br> 2. (American) (British pack) a set of 52 cards for playing games
+- **flop** /flɑːp/ : to fall or drop heavily
+- **laugh (verb)** /læf/ : to make sounds to show that you are happy or that you think something is funny: His jokes always make me laugh <br> **laugh at somebody or something** to laugh to show that you think somebody or something is funny or silly: The children laughed at the clown - They all laughed at me when I said I was afraid of dogs
+- **narrator** /nəˈreɪ.tər/ : the character who tells you what is happening in a book or film
+- **fascinating** /ˈfæsɪneɪtɪŋ/ : very interesting: She told us fascinating stories about her life
+- **wonderful** /ˈwʌndərfl/ : very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
+- **teeming** /ˈtiːmɪŋ/ : If a place is teeming, it is full of people
+- **creature** /ˈkriːtʃər/ : any living thing that is not a plant: birds, fish and other creatures - This story is about creatures from another planet
+- **naked** /ˈneɪkɪd/ : not wearing any clothes (SAME MEANING: nude)
+- **condition** /kənˈdɪʃən/ : 1. the state that somebody or something is in: The car was cheap and in good condition, so I bought it <br> 2. conditions the situation in which people live, work or do things: The prisoners lived in terrible conditions <br> 3. something that must happen before another thing can happen: One of the conditions of the job is that you agree to work on Saturdays
+- **establish** /ɪˈstæblɪʃ/ : to start something new: The school was established in 1852
+- **krusty krab** /ˈkrʌsti ˈkræb/ : fictional fast food restaurant in the American animated television series SpongeBob SquarePants
+- **krabby patty** /ˈkræbi ˈpæti/ : fictional veggie burger sold by the fictional Krusty Krab restaurant
+- **fiction** /ˈfɪkʃən/ : stories that somebody writes and that are not true: I enjoy reading fiction
+- **veggie** /ˈvedʒi/ : vegetable
+- **vegetable** /ˈvedʒtəbl/ : a plant or part of a plant that we eat: The students grow vegetables such as cabbages, beans and carrots
+- **sign (noun)** /saɪn/ : 1. something that tells you that something exists, is happening or may heppen in the future: Dark clouds are a sign of rain <br> 2. a thing with writing or a picture on it that tells you something: The sign said 'No Smoking' - a road sign <br> 3. a mark, shape or movement that has a special meaning: In mathematics, a cross is a plus sign - I put up my hand as a sign for him to stop
+- **march (verb)** /mɑːrtʃ/ : 1. to walk like a soldier: The soldiers marched along the road <br> 2. to walk somewhere quickly in a determined way: She marched up to the manager and asked for her money back <br> 3. to walk through the streets in a large group to show that you do not agree with something: They marched through the town shouting 'Stop the war!'
+- **straight (adverb)** /streɪt/ : 1. in a straight line: Look straight in front of you - Go straight on until you come to the bank, then turn left <br> 2. without stopping or doing anything else; directly: Come straight home - She walked straight past me
+- **lay** /leɪ/ : 1. to put somebody or something carefully on another thing: I laid the papers on the desk <br> 2. to make an egg: birds and insects lay eggs
+- **whose** /huːz/ : 1. used to ask who something belongs to: Whose car is this? <br> 2. used to say exactly which person or thing you mean, or to give extra information about a person or thing: That's the boy whose sister is a singer
+- **belong** /bɪˈlɔːŋ/ : 1. to be somebody's: 'Who does this pen belong to?' 'It belongs to me' <br> 2. to be a member of a group or an organization: Do you belong to any political party? <br> 3. to have its right or usual place: That chair belongs in my room
+- **spatula** /ˈspætʃələ/ : <br><img src='images/spatula.jpg' alt='spatula' width='200'>
+- **toothpick** /ˈtuːθpɪk/ : a small, thin piece of wood or plastic used for removing food from between your teeth <br> <img src='images/toothpick.jpg' alt='toothpick' width='200'>
+- **cube** /kjuːb/ : 1. a shape like a box with six square sides all the same size <br> 2. the number that you get if you multiply a number by itself twice: The cube of 5 (= 5³) is 125 (= 5 * 5 * 5)
+- **hurry (verb)** /ˈhʌri/ : to move or do something quickly: We hurried home after school <br> **hurry up** to move or do something more quickly because there is not much time: Hurry up or we'll be late!
+- **to come aboard** /tuː kʌm əˈbɔːrd/ : to get on a ship, plane, train, or other vehicle: We need to come aboard before the ship leaves
+- **get** : 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> **get away with something** to do something bad and not be punished for it: He lied but he got away with it <br> **get back** to return: When did you get back from your holiday? <br> **get in** to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> **get in; get into something** to climb into a car: Tom got into the car <br> **get off; get off something** to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> **get on** 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> **get on; get onto something** to climb onto a bus, train, or bycycle: I got on the train <br> **get on with somebody** to live or work in a friendly way with somebody: We get on well with our neighbours <br> **get out; get out of something** to leave a car: I opened the door and got out <br> **get out of something** to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> **get something out** to take something from the place where it was: She opened her bag and got out a pen <br> **get over something** to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> **get through** to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> **get through something** to use or finish a certain amount of something: I got through a lot of work today <br> **get together** to meet; to come together in a group: The whole family got together for Christmas <br> **get up** 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> **get up to something** 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180
+- **train (verb)** /treɪn/ : 1. to teach a person or an animal to do something: He was trained as a pilot <br> 2. to make yourself ready for something by studying or doing something a lot: Ann is training to be a doctor - She's training for the Olympics
+- **crew** /kruː/ : all the people who work on a ship or a plane
+- **lad** /læd/ : a boy or young man
+- **prove** /pruːv/ : to show that something is true: The blood on his shirt proves that he is the murderer (The noun is: proof)
+- **fry (verb)** /fraɪ/ : to cook something in hot oil: I will fry the eggs for breakfast - Fry the onions in butter - fried eggs
+- **squidward** : <br> <img src='images/squidward.jpg' alt='squidward' width='200'>
+- **vouch** /vaʊtʃ/ : to be able from your knowledge or experience to say that something is true
+- **port and starboard** : <br> <img src='images/port-starboard.jpg' alt='port and starboard' width='200'>
+- **coming right up** : used by someone (such as a waiter) to say that something will be served or delivered very quickly: 'I'd like a turkey sandwich and a glass of lemonade, please.' 'Coming right up!'
+- **lubber** /ˈlʌbər/ : a large person who often breaks things or has accidents
+- **terrible** /ˈterəbl/ : very bad: She had a terrible accident - The food in that restaurant is terrible!
+- **passenger** /ˈpæsəndʒər/ : a person who is traveling in a vehicle but not driving it: The plane was carrying 200 passengers
+- **hatch** /hætʃ/ : When baby birds, insects, or fish hatch, they come out of an egg
+- **smell** /smel/ : 1. to have a particular smell: Dinner smells good - The perfume smells of roses <br> 2. to notice something with your nose: Can you smell smoke? <br> 3. to have a bad smell: Your feet smell
+- **smelly** /ˈsmeli/ : having a bad smell: smelly socks
+- **anchovy** /ˈæntʃoʊvi/ : a small or medium-sized oily sea fish <br> <img src='images/anchovies.jpg' alt='anchovies' width='200'>
+- **decency** /ˈdiːsnsi/ : behaviour that is good, moral, and acceptable in society
+- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy: keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **anchor** /ˈæŋkər/ : <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
+- **batten down the hatches** : to fasten or secure something tightly, especially on a ship before a storm
+- **fasten** /ˈfæsn/ : 1. to join or close something so that it will not come open: Please fasten your seat belts - Can you fasten this suitcase for me? <br> 2. to fix or tie one thing to another thing: Fasten this badge to your jacket
+- **suitcase** /ˈsuːtkeɪs/ : <br> <img src='images/suitcase.jpg' alt='suitcase' width='200'>
+- **overboard** /ˈoʊvərbɔːrd/ : over the side of a boat and into the water: She fell overboard
+- **over (adverb, preposition)** /ˈoʊvər/ : 1. on somebody or something so that it covers them: She put a blanket over the sleeping child <br> 2. above something; higher than something: A plane flew over our heads - There is a picture over the fireplace <br> 3. across; to the other side of something: The dog jumped over the wall <br> 4. to or in a place: Come over and see us on Saturday - Come over here! - Go over there and see if you can help <br> 5. down or sideways: I fell over in the street - He learned over to speak to her <br> 6. so that the other side is on top: You may turn your papers over and begin <br> 7. more than a number, price, etc.: She lived in Mauritania for over 20 years - This game is for children of ten and over <br> 8. not used; remaining: There are a lot of cakes left over from the party <br> 9. used for saying that somebody repeats something: He said the same thing over and over again (= many times) - You'll have to start all over again (= from the beginning) <br> **all over** everywhere; in every part: Have you seen my glasses? I've looked all over - She travels all over the world
+- **stock (noun)** /stɑːk/ : 1. things that a shop keeps ready to sell: We have a large stock of tables and chairs - I'll see if we have your size in stock - I'm afraid that book's out of stock at the moment <br> 2. (business) a share in a company or business that somebody has bought, or the value of those shares: stocks and shares
+- **daughter** /ˈdɔːtər/ : a girl or woman who is somebody's child: They have two daughters and a son - My oldest daughter is a doctor
+- **fine (adjective)** : 1. beautiful or of good quality: There's a fine view from the cathedral - This is one of Monet's finest painting <br> 2. well or happy: 'How are you?' 'Fine, thanks. And you?' <br> 3. used for saying that something is good or acceptable (SAME MEANING: OK): 'Let's meet on Monday' 'Fine' - 'Do you want some more milk in your coffee?' 'No, that's fine' <br> 4. not raining (SAME MEANING: sunny): I hope it stays fine for our picnic <br> 5. very thin: I've got very fine hair (OPPOSITE: thick) <br> 6. made of very small pieces: Salt is finer than sugar (OPPOSITE: coarse)
+- **aboard** /əˈbɔːrd/ : on or onto a ship, plane, train, or bus: Are all the passengers aboard the ship? - Welcome aboard flight 603 to Nairobi
+- **quarters** /ˈkwɔːrtərz/ : a place to live, especially rooms or housing for soldiers, sailors, or servants
+- **booty** /ˈbuːti/ : any valuable things or money stolen by an army at war or by thieves
+- **employee** /ɪmˈplɔɪiː/ : a person who works for someone else for money: The company has 500 employees
+---
+
+---
+
+## Deep Learning with PyTorch - Vocabulary (556 words)
+
+### Deep Learning with PyTorch (39 words)
+- **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
+- **distribute** /dɪˈstrɪbjuːt/ : to give or send things to each person: New books are distributed on the first day of school
+- **order** : 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> **in order to** so that you can do something: We arrived early in order to buy our tickets <br> **out of order** (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
+- **offers** : ارائه می‌دهد
+- **discount** /ˈdɪskaʊnt/ : a reduction in the usual price of something <br> <img src='images/discount.jpg' alt='discount' width='200'>
+- **quantity** : تعداد یا حجم (سفارش عمده)
+- **all rights reserved** : کلیه حقوق محفوظ است
+- **publication** : انتشار
+- **reproduced** : بازتولید شده (کپی کردن)
+- **retrieval system** : سیستم بازیابی
+- **transmitted** : منتقل شده
+- **in any form or by means** : به هیچ شکل یا از هیچ وسیله‌ای
+- **otherwise** : else, etc - در غیر این صورت، غیره
+- **prior** : قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد
+- **designations** : اصطلاحات
+- **distinguish** : to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister
+- **trademarks** : علامت‌های تجاری
+- **appear** : ظاهر شدن
+- **aware** : آگاه
+- **caps** : مخفف Capital letters
+- **recognizing** : درک کردن
+- **importance** : اهمیت
+- **preserving** : حفظ کردن
+- **policy** : سیاست
+- **acid-free** : بدون اسید
+- **exert** : اعمال کردن
+- **efforts** : تلاش‌ها
+- **responsibility** : مسئولیت
+- **planet** : سیاره
+- **least** : حداقل
+- **recycled** : بازیافتی
+- **processed** : فرآوری شده
+- **elemental chlorine** : کلر عنصری
+- **happened** : اتفاق افتاد
+- **invaluable** : فوق العاده ارزشمند
+- **partnership** : مشارکت
+- **being** /ˈbiːɪŋ/ : بودن
+- **joy** : لذت
+- **same** : مشابه، همینطور
+---
+
+### foreword (52 words)
+- **author** : نویسنده
+- **instrumental** : تأثیرگذار
+- **flexible** : انعطاف پذیر
+- **express** : بیان کردن
+- **executed** : اجرا کردن
+- **relatively** : نسبتاً
+- **polished** : صیقل داده‌شده
+- **standing on the shoulders of giants** : استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
+- **shoulder** : شانه
+- **derives** : منبع گرفتن از
+- **significant** : مهم
+- **pioneered** : پیشگام بودن
+- **rich** : غنی
+- **rather** /ˈræðər/ : more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> **rather than** in the place of; instead of: Could I have tea rather than coffee? <br> **would rather** would prefer to do something: I'd rather go by train than by bus
+- **conceptually** : از نظر مفهومی
+- **scratch** : شروع از صفر
+- **attribute** : عامل دانستن
+- **enhanced** : تقویت‌شده
+- **debuggability** : قابلیت اشکال‌زدایی
+- **flexibility** : انعطاف‌پذیری
+- **ultimately** : در نهایت
+- **productive** : کارآمد
+- **huge** : عظیم
+- **adoption** : پذیرش
+- **research** : تحقیق
+- **built on** : بنا شده بر
+- **curricula** : برنامه‌های درسی
+- **tutorials** : آموزش‌های گام‌به‌گام
+- **offered** : ارائه شده
+- **guarantee** : تضمین کردن
+- **outdated** : از رده خارج شده
+- **definitive** : قطعی
+- **treatise** : مقاله
+- **abstractions** : چکیده مفاهیم
+- **tearing apart** : از هم باز کردن
+- **underpinnings** : زیربناها
+- **implementation** : پیاده‌سازی
+- **additionally** : علاوه بر این
+- **subjects** : موضوعات
+- **jit** : Just-In-Time
+- **aspect** : وجه
+- **through** : از طریق
+- **expertise** : تخصص
+- **bioengineering** : مهندسی زیستی
+- **imaging** : تصویربرداری
+- **practical** : workable, suitable for real use; likely to work effectively - عملی
+- **journey** /ˈdʒɜːr.ni/ : the act of travelling from one place to another: Did you have a good journey?
+- **treated** : مورد بررسی قرار گرفته
+- **all in all** : در مجموع
+- **becomes** : “تبدیل شدن” یا “شدن”
+- **extended”** : گسترش یافته
+- **workshop** : کارگاه (آموزشی)
+---
+
+### preface (90 words)
+- **preface** : مقدمه
+- **as kids** : وقتی بچه بودیم
+- **sinclair spectrum 48k (luca)** : نام چند کامپیوتر قدیمی
+- **commodore vic 20 (eli)** : نام چند کامپیوتر قدیمی
+- **commodore c16 (thomas)** : نام چند کامپیوتر قدیمی
+- **dawn** : start (of something big or new)
+- **dreamed** : رؤیا دیدیم
+- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital - بردن
+- **collective** : دسته‌جمعی
+- **rolling our eyes** : چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
+- **spy** : جاسوس
+- **later on** : بعدها
+- **during** : حین
+- **independently** : به‌صورت مستقل
+- **ourselves** : خودمون
+- **facing** : رو به رو شدن
+- **kind** : نوع
+- **struggle** /ˈstrʌɡl/ : 1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker
+- **variability** : تغییرپذیری
+- **heuristics** : روش‌های اکتشافی
+- **involved** : شامل
+- **went** : رفت (past of go)
+- **came about** : به وجود آمد
+- **appearance** : ظاهر شدن
+- **being applied** : در حال اعمال شدن
+- **identification** : شناسایی
+- **lesions** : آسیب موضعی
+- **decade** /ˈdek.eɪd/ : a period of ten years - دهه
+- **appeared** : ظاهر شد
+- **individual** : one person, considered separately from a group - شخصی
+- **took a bit** : کمی طول کشید
+- **realize** : فهمیدن
+- **represented** : نشان می‌داد
+- **whole (adjective)** /hoʊl/ : complete; with no parts missing: He ate the whole cake! - We are going to Australia for a whole month - کل
+- **multipurpose** : دارای کاربردهای متعدد
+- **complicated** : complex - پیچیده
+- **observation** : مشاهده
+- **kids-of-the-80s** : کودکان دهه ۸۰ میلادی
+- **minds** : فکرها
+- **horizon** : افق
+- **overnight** : یک شبه
+- **getting our hands dirty** : کار عملی کردن ، به‌جای فقط مطالعه تئوری
+- **venerable** : محترم
+- **precursor** : پیش‌کسوت
+- **nimble** : سریع در عملکرد یا واکنش
+- **lightweight** : سبک
+- **approachable** : قابل‌درک
+- **plain** : ساده
+- **supportive** : پشتیبان
+- **history behind it** : تاریخچه‌ای پشت آن
+- **love at first sight** : عشق در نگاه اول
+- **drawback** : نقطه‌ضعف
+- **detached** : جدا
+- **interested** : wanting to know more about somebody or something: Are you interested in cars?
+- **career pointed him in other directions** : مسیر شغلی‌اش او را به سمت دیگری هدایت کرد
+- **earlier** : زودتر
+- **laborious** : hard
+- **enthusiastic** : مشتاق
+- **hobby** : سرگرمی
+- **excited** /ɪkˈsaɪtɪd/ : not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
+- **calm** /kɑːm/ : 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
+- **odd** : گاهی
+- **eventually** : در نهایت
+- **complexity** : پیچیدگی
+- **amount** : مقدار
+- **cognitive overhead** : بار ذهنی اضافی
+- **lean** : بهینه، سبک، کم حجم
+- **differentiation** : مشتق گرفتن
+- **computation** : محاسبه
+- **graphs** : نمودار
+- **numpy integration** : NumPy یکپارچه‌سازی با
+- **given** : با توجه به
+- **involvement** : مشارکت
+- **enthusiasm** : اشتیاق
+- **organizing** : سازمان‌دهی
+- **couple** : یه جفت / چند تا
+- **felt** : past of feel
+- **appealing** : جذاب
+- **former** : previous
+- **selves** : self جمعِ
+- **predictably** : همانطور که قابل پیش‌بینی بود
+- **grandiose ideas** : ایده‌های جاه‌طلبانه و بزرگ
+- **demonstrate** : show
+- **greatest** : بزرگ‌ترین
+- **decide** /dɪˈsaɪd/ : to choose something after thinking about the possibilities: I can't decide what colour to paint my room - We've decided to go to Eqypt for our holidays - She decided that she didn't want to come
+- **devote** : اختصاص دادن
+- **concepts** : مفاهیم
+- **underlying** : زیربنایی
+- **get to the point** : مستقیم رفتن سر اصل مطلب
+- **chose** : past of choose
+---
+
+### acknowledgments (61 words)
+- **acknowledgments** : تشکرها
+- **deeply** : عمیقاً
+- **indebted** : مدیون
+- **grew** : past of grow
+- **organically** : به‌صورت طبیعی
+- **internship** : دوره کارآموزی
+- **mention** : اشاره کردن، نام بردن
+- **addition** : افزودن
+- **excellence** : عالی بودن
+- **toward** : در جهت
+- **adopting** : به‌کار گرفتن
+- **approach** /əˈproʊtʃ/ : method
+- **inclusiveness** : فراگیری
+- **testament** : گواه، نشانه محکم، شاهد
+- **relentless** : بی‌وقفه
+- **individuals** : اشخاص
+- **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
+- **honorable** : قابل احترام
+- **deserves** : لایق بودن
+- **particular** : specific - خاص، ویژه
+- **gratitude** : قدردانی
+- **shoutout** : یک تشکر رسمی یا عمومی
+- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> **bring something back** 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> **bring somebody up** to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> **bring something up** 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting?
+- **incredible** : باور نکردنی
+- **fruition** : به ثمر رسیدن
+- **excerpt** : گزیده، بخش کوتاهی از متن
+- **hugely** : بسیار
+- **appreciate** /əˈpriːʃieɪt/ : 1. to enjoy something or understand how good somebody or something is: Van Gogh's paintings were only appreciate after his death - My boss doesn't appreciate me <br> 2. to understand that a situation is difficult: I appreciate your problem, but I can't help you <br> 3. to be grateful for something that somebody has done for you: Thank you for your help. I appreciate it
+- **delicate** : حساس
+- **respective** : به‌طور جداگانه برای هر فرد
+- **reaching out** : ارتباط گرفتن
+- **we'd** : we had یا we would
+- **tricking** : حقه زدن، trick
+- **above and beyond** : بیش از حد انتظار
+- **above** : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below <br> 2. more than a number or price: Temperatures above 40°C
+- **beyond** : بیش از
+- **reviewer** : بازبین
+- **duty** : وظیفه
+- **deal (verb)** /diːl/ : 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> **deal out** to give something to a number of people: The profits will be dealt out among us <br> **deal with something** 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
+- **wacky** : عجیب و غریب
+- **copyeditor** : ویراستار متنی
+- **impressive** : قابل توجه
+- **eye for detail** : توجه به جزئیات
+- **mistake** : اشتباه
+- **proofreader** : ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
+- **behind** : پشتِ
+- **scenes** : صحنه‌ها
+- **glimpsed** : به‌طور گذرا دیده شده
+- **cc** : Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
+- **threads** : زنجیره پیام‌ها
+- **necessary** : ضروری
+- **left off this list** : از این فهرست جا افتاده‌اند
+- **honest** : صادقانه
+- **tireless** : خستگی‌ناپذیر
+- **tropical** : گرمسیری
+- **island** : جزیره
+- **dragging** : کشیدن
+- **grace** : لطف
+- **wondering** : تعجب کردن، با خود فکر کردن
+- **rock** : stone
+- **these** : this جمعِ
+---
+
+### about this book (165 words)
+- **aim** : target
+- **foundations** : basics
+- **strive** : try
+- **practitioners** : افرادِ حرفه‌ای
+- **further** : more
+- **exploration** : research
+- **delve** : explore
+- **behind the curtain** : behind the scenes
+- **material** : ماده، محتوا
+- **as such** : به این دلیل
+- **subset** : part
+- **notable** : قابل توجه
+- **absence** : نبود، فقدان
+- **recurrent** : بازگشتی
+- **meant** : past of mean
+- **acquainted** : آشنا شده
+- **typical** : معمولی
+- **undergraduate** : bachelor-level
+- **or-later** : یا بالاتر
+- **since** : 1. from a particular time in the past until now: I have been waiting since 8 AM. <br> 2. because; for the reason that: Since you're tired, you should rest.
+- **exposition** : explanation
+- **slightly** : a little
+- **angle** : رویکرد، دیدگاه
+- **expect** : انتظار داشتن
+- **imperative** : دستوری
+- **operating environment** : محیط اجرایی
+- **prerequisite** : پیش‌نیاز
+- **picking it up** : learning
+- **do some catch-up** : جبران کردن عقب‌ماندگی
+- **strictly** : به‌طور سختگیرانه
+- **vectors** : بردارها
+- **dot product** : ضرب نقطه‌ای (در جبر خطی)
+- **distinct** : separate
+- **end-to-end** : از ابتدا تا انتها
+- **introduced** : معرفی شد، ارائه شد
+- **rounds** : بخش‌های پایانی
+- **tour** /tʊr/ : 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
+- **notice** : متوجه شدن
+- **among** : در میان
+- **although** : اگرچه
+- **collaborative** : مشارکتی
+- **act** : عمل، کار
+- **primarily** : عمدتاً، به طور اصلی
+- **charge** : مسئولیت
+- **came** : past of come
+- **came along** : joined
+- **blend** : combine
+- **various** /ˈver.i.əs/ : different - مختلف
+- **rather than** : instead of
+- **common** : 1. happening often or found in many places: jackson is a common English name <br> 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
+- **denominator** : مخرج (در کسر ریاضی)
+- **preserve** : حفظ کردن، نگهداری کردن
+- **characterized** : defined
+- **breakdown** : تقسیم‌بندی
+- **brief** : short
+- **fundamental** : basic
+- **out there** : in the real world
+- **wild** /waɪld/ : 1. Wild plants and animals live or grow in nature. not with people: We picked some wild flowers <br> 2. excited; not controlled: She was wild with anger - The crowd went wild with excitement <br> 3. (in the phrase 'in the wild') means real-world environments, not just in tutorials or controlled settings.
+- **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
+- **tackle (verb)** /ˈtækl/ : 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
+- **catch** /kætʃ/ : 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> **catch fire** to start to burn: The house caught fire
+- **hold** /hoʊld/ : to have something in your hand or arms; to keep someone in a position
+- **robber** /ˈrɑː.bɚ/ : a person who steals money or property, often by force
+- **ran** : past of run
+- **revolution** /ˌrevəˈluːʃən/ : 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
+- **touches on** : به طور کوتاه به چیزی اشاره می‌کند
+- **sets** : متمایز کردن
+- **apart** /əˈpɑːrt/ : متمایز
+- **kinds** : types
+- **to be shaped** : شکل گرفتن
+- **moves us closer** : ما را به هدف نزدیک‌تر می‌کند
+- **comprehensive** : جامع، کامل
+- **solution** : راه‌حل
+- **lung** : ریه
+- **difficult** : hard
+- **motivation** : انگیزه
+- **screening** : quick check
+- **troubleshooting** : debugging
+- **describe** : explain
+- **tomography** : imaging method that shows slices of the body
+- **along** /əˈlɔːŋ/ : 1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
+- **relevant** /ˈreləvənt/ : connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant) - مرتبط
+- **consume** : use up
+- **metric** : a standard for measuring performance - معیار، سنجه
+- **TensorBoard** : visualization tool in TensorFlow
+- **identify** : to find and name something - شناسایی کردن
+- **weaknesses** : ضعف‌ها
+- **the training done previously** : the model training that was completed before
+- **mitigate** : reduce
+- **flaws** : mistakes or problems in something - نقص‌ها، عیب‌ها
+- **training set** : dataset for training
+- **augmentation** : تولید داده‌های جدید از داده‌های موجود
+- **pixel-to-pixel** : is the same as segmentation: one image in, one image out (same size), per-pixel labeling
+- **per** : for each
+- **architecture** : structure
+- **produce** : generate
+- **heatmap** : نقشه حرارتی (نمایش شدت با رنگ)
+- **nodule** : توده کوچک در ریه
+- **entire** : all of something, whole
+- **diagnosis** : identification of disease
+- **disease** : بیماری
+- **patient** : a person who is receiving medical treatment - بیمار
+- **treatment** : درمان
+- **overview** : a general explanation without details
+- **embed** : to place something inside something else
+- **intended** : planned, designed
+- **Fixed-width** : monospaced
+- **transcripts** : script + output
+- **interactive** : allowing direct communication between user and program
+- **consider** /kənˈsɪdər/ : 1. to think carefully about something: I'm considering applying for another job - We must consider what to do next <br> 2. to think that something is true: I consider her to be a good teacher <br> 3. to think about the feelings of other people when you do something: I can't move to Australia! I have to consider my family - در نظر گرفتن
+- **extra** : additional, more than is usual or needed
+- **actual** : real
+- **make use of** : use
+- **heavy** /ˈhevi/ : 1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)
+- **intensity** : شدت
+- **Almost** : nearly, not completely but very close - تقریباً
+- **boilerplate** : template
+- **partial** : not complete; only a part of something
+- **Due to** : because of
+- **excessive** : more than what is necessary or normal
+- **consistent** : unchanging - ثابت
+- **adequate** : sufficient, enough
+- **certain** /ˈsɜːrtn/ : 1. sure about something; without any doubt: I'm certain that I've seen her before - Are you certain about that? - (OPPOSITE: uncertain) <br> 2. used for talking about a particular thing or person without saying what or who they are: Do you want the work to be finished by a certain date? - It's cheaper to telephone at certain times of day <br> **for certain** without any doubt: I don't know for certain where she is <br> **make certain** to check something so that you are sure about it: Please make certain that the window is closed before you leave
+- **operating system** : OS, e.g., Windows, Linux, macOS
+- **anticipate** : پیش‌بینی کردن
+- **capable** /ˈkeɪpəbl/ : 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
+- **adjust** : to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
+- **luck** : شانس
+- **discuss** : to talk or write about a topic in detail
+- **instructions** : guidelines, information telling you how to do something
+- **typically** : usually, in most cases; as expected
+- **wide** : far from one side to the other: We drove down a wide road - گسترده‌، وسیع‌
+- **drove** : past of drive
+- **variety** /vəˈraɪ.ə.t̬i/ : many different types of something
+- **compatible** : able to exist or work together without problems
+- **prefer** : to like one thing or person better than another: I would prefer to stay at home
+- **Purchase** : buy
+- **rule** : an official instruction about what to do or not to do
+- **conduct** : behavior
+- **Commitment** : تعهد
+- **venue** : the place where an event or meeting happens
+- **dialogue** : conversation
+- **take place** : happen
+- **participation** : contribution
+- **remain** : 1. to stay in the same way; to not change: I asked her a question but she remained silent. <br> 2. to stay after other people or things have gone: After the fire, very little remained of the house.
+- **gone** : رفته
+- **voluntary** : 1. if something is voluntary, you do it because you want to, not because you must: She made a voluntary decision to leave the job. <br> 2. without payment: He does voluntary work at a children's hospital
+- **decision** /dɪˈsɪʒn/ : choosing something after thinking; deciding: I must make a decision about what I'm going to do when I leave school - تصمیم گیری
+- **stray** : to move away from the correct path or subject
+- **as long as** : تا زمانی که، به شرطی که
+- **introduction** : preface
+- **proficiency** : skill, high level of skill or ability
+- **encourage** : تشویق کردن
+- **build up** : ساختن، ایجاد کردن (به تدریج)
+- **intuitive** : based on feelings rather than facts
+- **either ... or** : used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
+- **mental** : related to the mind or thinking
+- **intuition** : the ability to understand something without conscious reasoning
+- **conscious** : aware
+- **thorough** : including every detail; complete
+- **direct (verb)** : 1. to manage or control somebody or something: A policeman was in the middle of the road, directing the traffic. <br> 2. to be in charge of actors in a play or a film: The movie was directed by Quentin Tarantino <br> 3. to tell somebody how to get to a place: Can you direct me to the station, please? - راهنمایی کردن، هدایت کردن
+- **extensive** : large in area or amount
+- **catalog** : a list of items (e.g., books, products) with details
+- **Depending on** : based on - وابسته به
+- **excellent** : very good: She speaks excellent Spanish
+---
+
+### about the authors (22 words)
+- **spend** : 1. to pay money for something: Louise spends a lot of money on clothes <br> 2. to pass time: I spent the summer in Italy
+- **spent** : past of spend
+- **majority** : most
+- **career** : a job that you learn to do and then do for many years
+- **role** : function or part played by a person in a particular situation
+- **function** : the special work that a person or thing does: the function of the heart is to send blood round the body
+- **situation** : the things that are happening in a certain place or at a certain time: We are in a difficult situation at the moment
+- **ranging** : در محدوده … بودن، شامل شدن از … تا
+- **enterprise** : a new plan, project or business
+- **appliances** /əˈplaɪənsɪz/ : devices
+- **radiation oncology** /ˌreɪdiˈeɪʃən ɑːŋˈkɑːlədʒi/ : پرتودرمانی سرطان
+- **industry** /ˈɪndəstri/ : 1. the work of making things in factories: Is there much industry in your country? <br> 2. all the companies that make the same thing: Japan has a big car industry
+- **biomedical** : زیست‌پزشکی
+- **cofounder** /ˌkoʊˈfaʊn.dɚ/ : هم‌بنیان‌گذار
+- **CTO** : Chief Technology Officer - مدیر ارشد فناوری
+- **infrastructure** /ˈɪn.frəˌstrʌk.tʃɚ/ : زیرساخت
+- **specialty** /ˈspeʃəlti/ : a particular area of knowledge or skill that someone focuses on - تخصص، زمینه تخصصی
+- **consultant** /kənˈsʌltənt/ : مشاور
+- **scare** /sker/ : frighten - ترساندن
+- **scared** : afraid
+- **thoroughly** /ˈθɜːroʊli/ : completely
+- **apply** /əˈplaɪ/ : 1. use / put into practice: Apply a theme to your phone <br> 2. request formally: Mahdi applied for a job in Germany
+---
+
+### about the cover illustration (44 words)
+- **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
+- **magazine** /ˈmæɡ.ə.ziːn/ : مجله
+- **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
+- **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
+- **shall** /ʃæl/ : should, must
+- **dress** /dres/ : clothing - لباس
+- **costume** /ˈkɑː.stuːm/ : لباس محلی
+- **finely** /ˈfaɪn.li/ : با ظرافت، دقیق
+- **drawn** /drɔːn/ : past participle of draw - کشیده شده (نقاشی شده)
+- **vividly** /ˈvɪv.ɪd.li/ : clearly, brightly - in a way that produces strong, clear images in the mind
+- **town** /taʊn/ : city (smaller)
+- **region** /ˈriː.dʒən/ : a specific geographical area
+- **geographical** /ˌdʒiː.əˈɡræf.ɪ.kəl/ : جغرافیایی
+- **isolated** /ˈaɪ.sə.leɪ.t̬ɪd/ : far from other people or things: an Isolated house in the mountains
+- **spoke** /spoʊk/ : past of speak
+- **dialect** /ˈdaɪ.ə.lekt/ : a form of a language spoken in a particular area: a local dialect
+- **form (noun)** : 1. a type of something: Cars, trains and buses are all forms of transport <br> 2. a piece of paper with spaces for you to answer questions: You need to fill in this form to get a new passport <br> 3. the shape of a person or thing: a cake in the form of a car <br> 4. one of the ways you write or say a word: 'Forgot' is a form of 'forget'
+- **transport** : حمل و نقل
+- **countryside** : land outside towns and cities, with fields, forests, etc.
+- **field** : 1. a piece of land used for animals or for growing crops, usually surrounded by a fence, trees, etc <br> 2. an area of study or knowledge: Dr Smith is an expert in her field <br> 3. a piece of land used for something special: a sports field - an airfield (= a place where planes land and take off)
+- **crop** /krɑːp/ : all the plants of one kind that a farmer grows at one time: There was a good crop of potatoes last year - Rain is good for the crops
+- **trade (noun)** : 1. the buying and selling of things: trade between Britain and the US <br> 2. a particular type of business: the building trade <br> 3. a job for which you need special skills, especially with your hands: Dave is a plumber by trade - to learn a trade
+- **station** : 1. a place where trains stop so that people can get on and off <br> 2. a place where buses or coaches start and end their journeys: the bus station <br> 3. a building for some special work: the police station - the fire station - a petrol station <br> 4. a television or radio company <br> 5. a person's social rank or position: a person of high station
+- **diversity** /daɪˈvɜːrsəti/ : variety
+- **fade** /feɪd/ : to lose brightness, color, or strength gradually
+- **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
+- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here: Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
+- **fade away** : به تدریج محو شدن و ناپدید شدن
+- **tell apart** : to see the difference between two people or things: I can't tell the twins apart
+- **set apart** : to make someone or something different from others: His kindness sets him apart from others
+- **inhabitants** /ɪnˈhæbɪtənts/ : people or animals that live in a particular place
+- **continents** /ˈkɑːntɪnənts/ : the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)
+- **landmass** /ˈlænd.mæs/ : خشکی بزرگ
+- **let alone** /let əˈloʊn/ : چه برسد به
+- **perhaps** /pərˈhæps/ : maybe
+- **varied** /ˈverid/ : diverse, consisting of many different kinds
+- **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
+- **doubt** /daʊt/ : a feeling of not being sure: I have doubts about this plan - شک، تردید
+- **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
+- **celebrate** /ˈsel.ə.breɪt/ : to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week
+- **inventiveness** /ɪnˈven.t̬ɪv.nəs/ : the ability to create new things or think of new ideas
+- **initiative** /ɪˈnɪʃ.ə.t̬ɪv/ : the ability to take action independently, without being told what to do
+- **brought** /brɔːt/ : past of bring
+- **brought back** : دوباره زنده کردن، احیا کردن
+---
+
+### Part 1: Core PyTorch (83 words)
+- **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
+- **work out** : to find a solution to a problem or understand how something works
+- **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
+- **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?
+- **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
+- **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
+- **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
+- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
+- **domain** /doʊˈmeɪn/ : a particular area of activity, knowledge, or data
+- **unveil** /ʌnˈveɪl/ : to show or make known something that was hidden or unknown
+- **crack** /kræk/ : شکافتن، ترک خوردن؛ در معنای مجازی: حل کردن (مسئله دشوار)، رمزگشایی کردن
+- **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
+- **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
+
+#### Chapter 1: Introducing deep learning and the PyTorch Library (70 words)
+- **poor** /pʊr/ : not good enough; of low quality
+- **term** /tɜːrm/ : a word or group of words used to describe something
+- **set** : a group of similar things that belong together
+- **discipline** /ˈdɪsəplɪn/ : a specific area of academic study or professional practice
+- **tremendous** /trəˈmendəs/ : huge, very great in amount, size, or intensity
+- **scrutiny** /ˈskruːtəni/ : بررسی موشکافانه، وارسی دقیق
+- **confuse** /kənˈfjuːz/ : 1. to mix somebody's ideas, so that they cannot think clearly or understand: They confused me by asking so many questions <br> 2. to think that one thing or person is another thing or person: I often confuse Lee with his brother. They look so similar
+- **fantastical** /fænˈtæstɪkəl/ : خارق‌العاده، افسانه‌ای
+- **hype** /haɪp/ : هیاهوی تبلیغاتی، بزرگنمایی
+- **sci-fi** /ˈsaɪ faɪ/ : science fiction - علمی-تخیلی
+- **fearmongering** /ˈfɪrˌmʌŋɡərɪŋ/ : ترس‌افکنی، وحشت پراکنی
+- **fear** /fɪr/ : ترس
+- **sanguine** /ˈsæŋɡwɪn/ : hopeful - خوش‌بین، امیدوار
+- **disingenuous** /ˌdɪsɪnˈdʒenjuəs/ : دورو، غیرصادقانه
+- **assert** /əˈsɜːrt/ : ادعا کردن، به طور قاطع گفتن
+- **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses
+- **approximate (verb)** /əˈprɑːksɪmeɪt/ : to be close to a particular number or state without being exact
+- **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
+- **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
+- **fed** : past tense of feed
+- **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her
+- **phrase** /freɪz/ : a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
+- **corpus** /ˈkɔːrpəs/ : a large collection of written or spoken texts used for language research
+- **parse** /pɑːrs/ : to analyze a sentence or code into its parts and describe their grammatical or logical roles
+- **far (adverb)** /fɑːr/ : 1. a long way from somewhere: My house isn't far from the station - It's too far to drive in one day - I walked much further than you <br> 2. You use far to ask about the distance from one place to another place: How far is it to the coast from here? <br> 3. very much: He's far taller than his brother - That's far too expensive <br> **as far as...** to place: We walked as far as the vilage and then came back - I read as far as the second chapter <br> **as far as I know** used when you think something is true, but you are not certain: As far as I know, she's coming, but I may be wrong <br> **by far** you use by far to show that a person or thing is much better, bigger, etc. than anybody or anything else: She's by far the best player in the team <br> **far from it** (informal) certainly not; just the opposite: 'Are you upset?' 'Far from it _ I'm delighted' <br> **far from something** almost the opposite of something; not at all: I'm far from certain <br> **so far** until now: So far the work has been easy
+- **construct** /kənˈstrʌkt/ : (formal) build
+- **remarkable** /rɪˈmɑːrkəbəl/ : unusual and surprising in a good way: a remarkable discovery
+- **thesis** /ˈθiːsɪs/ : theory
+- **ramble** /ˈræmbəl/ : to talk or write in a confused way, often for a long time: Sorry, I'm rambling (on) - let me get back to the point
+- **perform** /pərˈfɔːrm/ : to do an action or complete a task
+- **acquire** /əˈkwaɪər/ : to get or develop something such as a skill or quality
+- **intelligence** /ɪnˈtelɪdʒəns/ : the ability to learn, understand, and think logically
+- **notion** /ˈnoʊʃən/ : an idea, belief, or understanding of something
+- **conflate** /kənˈfleɪt/ : to combine two or more separate things into one, often confusing them
+- **definite** /ˈdefɪnɪt/ : Something that is definite is clear, fixed and unlikely to change (SAME MEANING: certain): I want a definite answer, 'yes' or 'no'
+- **carry** /ˈkæri/ : 1. to hold something and take it to another place or keep it with you: He carried the suitcase to my room - I can't carry this box _ it's too heavy - Do the police carry guns in your country? <br> 2. to move people or things: Special fast trains carry people to the city centre <br> **carry on** to continue: Carry on with your work - If you carry on to the end of this road, you'll see the post office on the right <br> **carry out something** to do or finish what you have planned: The bridge was closed while they carried out the repairs
+- **whether** /ˈweðər/ : 1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish
+- **submarine** /ˌsʌbməˈriːn/ : a ship that can travel underwater
+- **fall (verb)** /fɔːl/ : 1. to go down quickly towards the ground: The book fell off the table - She fell down the stairs and broke her arm <br> 2. (also fall over) to suddenly stop standing: He slipped on the ice and fell - I fell over and hurt my leg <br> 3. to become lower or less: In the desert the temperature falls quickly at night - Price have fallen again (OPPOSITE: rise) <br> **fall apart** to break into pieces: The chair fell apart when I sat on it <br> **fall asleep** to start sleeping: She fell asleep in the armchair <br> **fall behind** to become slower than others, or not do something when you should do it: She's falling behind with her school work <br> **fall for somebody** to begin to love somebody: He has fallen for someone he met on holiday <br> **fall in love with somebody** to begin to love somebody: He fell in love with Anna the first time they met <br> **fall out with somebody** to argue with somebody so that you stop being friends: Jane has fallen out with her best friend (OPPOSITE: make up) <br> **fall through** if a plan falls through, it does not happen
+- **fall under** : to be classified or included in a category, group, or heading
+- **entity** /ˈentəti/ : something that exists independently as a separate unit
+- **present (verb)** /prɪˈzent/ : to give something to somebody, especially in a formal ceremony: The prizes were presented to the winners -They presented their teacher with some flowers
+- **instructive** /ɪnˈstrʌktɪv/ : providing useful knowledge or information
+- **instruct** /ɪnˈstrʌkt/ : 1. to tell somebody what they must do: He instructed the driver to wait <br> 2. (formal) to teach somebody something: Children must be instructed in road safety
+- **far apart** : separated by a large distance or difference
+- **recite** /rɪˈsaɪt/ : to say a piece of writing or a poem aloud from memory or by reading
+- **associate** /əˈsoʊʃieɪt/ : to make a connection between things or people in your mind: Most people associate Austria with snow and skiing - These illnesses are associated with smoking
+- **golden retriever** /ˈɡoʊldən rɪˈtriːvər/ : breed of dog
+- **breed (noun)** /briːd/ : a kind of animal: There are many different breeds of dog
+- **until** /ənˈtɪl/ : (also informal till) up to a certain time or event: The shop is open until 6.30 - Stay in bed until you feel better - I can't come until tomorrow
+- **exclusive** /ɪkˈskluːsɪv/ : limited to only one person or group; not shared
+- **paradigm** /ˈpærədaɪm/ : model, framework, pattern
+- **shift (noun)** /ʃɪft/ : 1. a change in what people think about something: There has been a shift in public opinion away from the war <br> 2. a group of workers who begin work when another group finishes: the night shift
+- **paradigm shift** : a major change in how people think about something
+- **usher** /ˈʌʃər/ : to show someone where they should go, or to make someone go where you want them to go: She ushered us into her office and offered us coffee
+- **perspective** /pərˈspektɪv/ : a particular way of thinking about something - دیدگاه، چشم‌انداز، نگرش
+- **broad** /brɔːd/ : large from one side to the other (SAME MEANING: wide): a broad river (noun: breadth) (OPPOSITE: narrow)
+- **rely** /rɪˈlaɪ/ : 1. to need somebody or something (SAME MEANING: depend on somebody or something): I rely on my parents for money <br> 2. to feel sure that somebody or something will do what they say they will do: You can rely on him to help you (adjective: reliable)
+- **transform** /trænsˈfɔːrm/ : to change a person or thing completely: Electricity has transformed people's lives
+- **facilitate** /fəˈsɪlɪteɪt/ : to make an action or process easier
+- **downstream** /ˌdaʊnˈstriːm/ : later in a process or pipeline. It refers to steps that come after some initial processing: First we extract features from the image. Then a downstream classifier uses those features to recognize the digit
+- **outcome** : result
+- **consist** /kənˈsɪst/ : consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
+- **Jam (noun)** /dʒæm/ : 1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles - مربا
+- **for instance** /fɔːr ˈɪnstəns/ : for example
+- **come** /kʌm/ : 1. to move towards the person who is speaking or the place that you are talking about: Come here, please - The dog came when I called him - Here comes Colin (= Colin is coming) - I'm sorry, but I can't come to your party <br> 2. to arrive at or reach a place: if you go along that road, you will come to the river - A letter came for you this morning <br> 3. to go somewhere with the person who is speaking: I'm going to a party tonight. Do you want to come with me? <br> 4. to be in a particular position: June comes after May <br> **come about** to happen: How did this situation come about? <br> **come across something** to find something when you are not looking for it: I came across these old photos yesterday <br> **come apart** to break into pieces: This old coat is coming apart <br> **come back** to return: What time will you be coming back? <br> **come down** to fall or become lower: The price of oil is coming down <br> **come from somewhere or something** 1. The place that you come from is where you were born or where you live: I come from Japan - Where do you come from? <br> 2. to be made from something or produced somewhere: Wool comes from sheep <br> **come in** to enter a place: Come in and sit down <br> **come off something** to become removed from something: The handle has come off this cup <br> **come on!; come along** words that you use for telling somebody to hurry or to try harder: Come on! We'll be late! <br> **come out** to appear: The rain stopped and the sun came out - His first novel came out in 2004 <br> **come round** to visit a person at their house not very far away: Come round for lunch on Saturday <br> **how come ...?** (informal) why or how ...?: How come you're here so early? <br> **to come** in the future: You'll regret it in years to come <br> **come up with something** to suggest or think of an idea or plan: She's come up with some amazing scheme to double her income
+- **estimate (verb)** /ˈestɪmeɪt/ : to say how much you think something will cost, how big something is, or how long it will take to do something: The builders estimated that it would take a week to repair the roof
+- **edge** /edʒ/ : 1. the part along the end or side of something: She stood at the water's edge - the edge of the table <br> 2. the sharp part of a knife or tool <br> **on edge** nervous or worried
+- **enclose** /ɪnˈkloʊz/ : 1. to put something inside a letter or package: I enclose a cheque for $100 <br> 2. to put something, for example a wall or fence, around a place on all sides: The prison is enclosed by a high wall
+- **hole** /hoʊl/ : an empty space or opening in something: I'm going to dig a hole in the garden - My socks are full of holes
+---
+
+---
+
+## Duolingo - Vocabulary (69 words)
+
+### SECTION 1 (69 words)
+
+#### Solo trip (36 words)
+- **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
+- **stomach** /ˈstʌm.ək/ : 1. the part inside your body where food goes after you eat it <br> 2. the front part of your body below your chest and above your legs
+- **arrive** /əˈraɪv/ : 1. to come to a place: What time did you arrive home? - What time does the train arrive in Paris? - They arrive at the station ten minute late (OPPOSITE: leave, depart) <br> 2. to come or happen: Summer has arrived
+- **laundry** /ˈlɔːndri/ : clothes and sheets that you must wash or that you have washed (SAME MEANING: washing): a pile of dirty laundry
+- **shuttle (noun)** /ˈʃʌtl/ : a plane, bus or train that travels regularly between two places
+- **continent** /ˈkɑːntənənt/ : one of the seven main areas of land in the world, for example Africa, Asia or Europe
+- **much (adjective, pronoun)** : (more, most) a big amount of something; a lot of something: I haven't got much money - There was so much food that we couldn't eat it all - Eat as much as you can - How much paper do you want? - How much is this shirt?
+- **many (adjective, pronoun)** : 1. a large number of people or things: Many people in this country are very poor - There aren't many students in my class - Many of these books are very old - There are too many mistakes in your homework <br> 2. a word that you use to ask or talk about the number of people or things: How many brothers and sisters have you got? - Take as many cakes as you want
+- **than** : You use 'than' when you compare people or things: I'm older than him - You speak Spanish much better than she does - We live less than a kilometre from the beach
+- **luggage** /ˈlʌɡɪdʒ/ : bags and suitcases that you take with you when you travel (SAME MEANING: baggage): 'How much luggage have you got?' 'Only one suitcase'
+- **seat** /siːt/ : something that you sit on: the book seat of a car - We had seats at the front of the theatre - Please take a seat (= sit down)
+- **twice** /twaɪs/ : two times: I have been to Japan twice - He ate twice as much as I did
+- **once (adverb)** /wʌns/ : 1. one time: I've only been to Spain once - He phones us once a week (= once every week) <br> 2. at some time in the past: This house was once a school <br> **at once** 1. immediately (SAME MEANING: now): Come here at once <br> 2. at the same time: I can't do two things at once <br> **for once** this time only: For once I agree with you <br> **once again; once more** again; one more time: Can you explain it to me once more? <br> **once or twice** a few times; not often: I've only met them once or twice <br> **once upon a time** (used at the beginning of a children's story) a long time ago: Once upon a time there was a beautiful princess ...
+- **once (conjunction)** /wʌns/ : as soon as; when: Once you've finished your homework you can go out
+- **probably** /ˈprɑːbəbli/ : almost certainly; likely to happen: I will probably see you on Thursday
+- **sleepover** /ˈsliːpoʊvər/ : a type of party when a young person or a group of young people stay for the night at the house of a friend
+- **nightmare** /ˈnaɪtmer/ : 1. a very bad or frightening dream: I shouldn't have watched that movie - it'll give me nightmares <br> 2. something that is very bad or frightening: Travelling through the snow was a nightmare
+- **deal (noun)** /diːl/ : an agreement, usually about buying, selling or working: Let's make a deal _ I'll help you today if you help me tomorrow <br> **a good deal** or **a great deal** a lot: I've spent a great deal of time on this report
+- **desk** /desk/ : 1. a type of table, often with drawers, that you sit at to write or work: The pupils took their books out of their desks <br> 2. a table or place in a building where somebody gives information, etc.: Ask at the information desk
+- **patio** /ˈpætioʊ/ : an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc
+- **sauce** /sɔːs/ : a thick liquid that you eat on or with other food: pasta with tomato sauce <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
+- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down
+- **plate** /pleɪt/ : a round dish that you put food on <br> <img src='images/plate.jpg' alt='plate' width='200'>
+- **sense (verb)** /sens/ : to understand or feel something: I sensed that he was worried
+- **meal** /miːl/ : food that you eat at a certain time of the day: What's your favourite meal of the day? - We had a nice meal in that restaurant
+- **dish** /dɪʃ/ : 1. a container for food. You can use a dish to cook food in an oven, or to put food on the table <br> 2. **the dishes** (plural) all the plates, bowls, cups, etc. that you must wash after a meal: I'll wash the dishes <br> 3. a part of a meal: We had a fish dish and a vegetarian dish
+- **quest** /kwest/ : a long search for something that is difficult to find, or an attempt to achieve something difficult
+- **in (preposition)** : 1. a word that shows where somebody or something is: a country in Africa - He put his hand in the water - She was lying in bed <br> 2. making all or part of something: There are 100 centimetres in a metre <br> 3. a word that shows when something happens: My birthday is in May - He started school in 1987 <br> 4. a word that shows how long something takes: I'll be ready in ten minutes <br> 5. a word that shows what clothes somebody is wearing: He was dressed in a suit <br> 6. a word that shows how somebody or something is: This room is in a mess - Jenny was in tears (= she was crying) - Sit in a circle <br> 7. a word that shows somebody's job: He's in the army <br> 8. a word that shows in what way or in what language: Write your name in capital letters - They were speaking in French
+- **in (adverb)** : 1. to a place, from outside: I opened the door and went in (OPPOSITE: out) <br> 2. at home or at work: Nobody was in when we called (OPPOSITE: out)
+- **on (preposition, adverb)** : 1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> **on and on** without stopping: He went (= talked) on and on about his girlfriend
+- **couch** : a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
+- **snack** /snæk/ : a small quick meal: We had a snack on the train
+- **stuff** /ˈstʌf/ : the people who work in a place: The hotel staff were very friendly
+- **homesick** /ˈhoʊmsɪk/ : sad because you are away from home
+- **exact** /ɪɡˈzækt/ : completely correct: We need to know the exact time the incident occurred
+- **adventure** /ədˈventʃər/ : something exciting that you do or that happens to you: She wrote a book about her adventures in Africa
+
+#### Delivery (29 words)
+- **tuna** /ˈtuːnə/ : 1. a type of large fish that is found in warm seas <br> <img src='images/tuna1.jpg' alt='tuna1' width='200'> <br> 2. the meat of a large fish named tuna that lives in warm waters <br> <img src='images/tuna2.jpg' alt='tuna2' width='200'>
+- **strawberry** /ˈstrɔːberi/ : <br> <img src='images/strawberry.jpg' alt='strawberry' width='200'>
+- **soda** /ˈsoʊdə/ : 1. water with bubbles in it that is used for mixing with other drinks: whisky and soda <br> 2. (American) a sweet drink with bubbles in it that is made from soda water and a fruit flavour
+- **ingredient** /ɪnˈɡriːdiənt/ : one of the things that you put in when you make something to eat: The ingredients for this cake are flour, butter, sugar and eggs
+- **taste (noun)** /teɪst/ : the feeling that a certain food or drink gives in your mouth: Sugar has a sweet taste and lemons have a sour taste - I don't like the taste of this cheese <br> 2. the power to know about food and drink with your mouth: When you have a cold, you often lose your sense of taste <br> 3. a little bit of food or drink: Have a taste of the fish to see if you like it <br> 4. being able to choose nice things: She has good taste in clothes
+- **taste (verb)** /teɪst/ : 1. to have a certain flavour: This tastes of oranges - Honey tastes sweet <br> 2. to feel or know a certain food or drink in your mouth: Can you taste onions in this soup? <br> 3. to eat or drink a little of something, to test its flavour: Taste this cheese to see if you like it
+- **actually** /ˈæktʃuəli/ : 1. really; in fact: You don't actually believe her, do you? - I can't believe I'm actually going to Australia <br> 2. a word that you use to disagree politely or when you say something new: I don't agree. I thought the film was very good, actually - 'Let's go out tonight' 'Actually, I'd like to stay in and watch a film'
+- **different** /ˈdɪfərənt/ : is an adjective. It often goes before a noun (I have a different coat than her) or after the verb 'to be' (This test is different than last week's)
+- **difference** /ˈdɪfərəns/ : is a noun. It can be a subject (The difference is noticeable in their results) or object (I can't find a difference in the photographs)
+- **delicious** /dɪˈlɪʃəs/ : tasting very good; very good to eat: This soup is delicious
+- **sweet (adjective)** /swiːt/ : 1. containing or tasting of sugar: Honey is sweet <br> 2. with a good smell: the sweet smell of roses <br> 3. attractive; pretty (SAME MEANING: cute): What a sweet little girl <br> 4. having or showing a kind character: It was sweet of you to help me
+- **sausage** /ˈsɔːsɪdʒ/ : <br> <img src='images/sausage.jpg' alt='sausage' width='200'>
+- **downtown** /ˌdaʊnˈtaʊn/ : in or towards the centre of a city, especially its main business area: She works downtown
+- **pull** /pʊl/ : 1. to move somebody or something strangly towards you: She pulled the drawer open <br> 2. to go forward, moving something behind you: The cart was pulled by two horses <br> 3. to move something somewhere: He pulled up his trousers <br> **pull down** to destroy a building: The old school has been pulled down <br> **pull in** to drive a car to the side of the road and stop: I pulled in to look at the map <br> **pull somebody's leg** (informal) to try to make somebody believe something that is not true, for fun: I didn't really see on elephant _ I was only pulling your leg <br> **pull yourself together** to control your feelings after being upset: Pull yourself together and stop crying <br> **pull up** to stop a car: The driver pulled up at the traffic lights <br> <img src='images/pull.jpg' alt='pull' width='200'>
+- **push** /pʊʃ/ : 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
+- **dessert** /dɪˈzɜːrt/ : sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
+- **sour** /ˈsaʊər/ : 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
+- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream
+- **coconut** /ˈkoʊkənʌt/ : <br> <img src='images/coconut.jpg' alt='coconut' width='200'>
+- **yogurt** /ˈjoʊɡərt/ : (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
+- **beverage** /ˈbevərɪdʒ/ : a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
+- **paradise** /ˈperədaɪs/ : the place where some people think good people go after they die (SAME MEANING: heaven)
+- **the tropics** /ðə ˈtrɑːpɪks/ : the part of the world where it is very hot and wet <br> **tropical** tropical fruit
+- **boba** /ˈboʊbə/ : are small, chewy balls made from tapioca. They are usually added to bubble tea (a sweet tea drink) <br> <img src='images/boba.jpg' alt='boba' width='200'>
+- **definitely** /ˈdefənɪtli/ : without any doubt / certainly / for sure: I'll definitely consider your advice - It's definitely the best restaurant in the town
+- **grab** /ɡræb/ : to take or hold something quickly or suddenly: The thief grabbed her bag and ran away
+- **already** /ɔːlˈredi/ : before now or before a particular time: 'Would you like some lunch?' 'No, thank you _ I've already eaten' - We ran to the station but the train had already left
+- **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
+- **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
+
+#### At School (4 words)
+- **dorm:a home for college students  president:leader of a country** : 
+- **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
+- **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
+- **president** /ˈprez.ɪ.dənt/ : leader of a country
+---
+
+---
+
+## Example - Vocabulary (15 words)
+
+### foreword (2 words)
+- **deep learning** /diːp ˈlɜː.nɪŋ/ : a subset of machine learning
+- **audience** : target readers
+---
+
+### Part 1: Fundamentals (7 words)
+
+#### Chapter 1: Introduction (3 words)
+- **tensor** /ˈten.sər/ : a multi-dimensional array - آرایه چندبعدی – پایه داده‌ها در PyTorch
+- **scalar** /ˈskeɪ.lər/ : a single number - عدد مفرد – تانسور با بعد صفر
+- **vector** /ˈvek.tər/ : 1D tensor - تانسور یک‌بعدی – لیستی از اعداد
+
+#### Chapter 2: PyTorch Basics (2 words)
+- **gradient** /ˈɡreɪ.di.ənt/ : derivative of function - مشتق تابع – میزان تغییر خروجی نسبت به ورودی
+- **parameter** /pəˈræm.ɪ.tər/ : trainable variable - متغیر قابل آموزش – مقداری که مدل یاد می‌گیرد
+
+#### Chapter 3: Gradients (2 words)
+- **backpropagation** /ˌbæk.prɒp.əˈɡeɪ.ʃən/ : algorithm for computing gradients - الگوریتم محاسبه گرادیان – قلب یادگیری عمیق
+- **optimizer** /ˈɒp.tɪ.maɪ.zər/ : algorithm that updates parameters - الگوریتم به‌روزرسانی پارامترها – مثل SGD یا Adam
+---
+
+### Part 2: Deep Learning (6 words)
+
+#### Chapter 4: Neural Networks (3 words)
+- **neuron** /ˈnjʊə.rɒn/ : basic unit of neural network - نورون – واحد پایه شبکه عصبی
+- **layer** /ˈleɪ.ər/ : collection of neurons - لایه – مجموعه‌ای از نورون‌ها
+- **activation function** /ˌæk.tɪˈveɪ.ʃən ˈfʌŋk.ʃən/ : non-linear transformation - تابع فعال‌سازی – تبدیل غیرخطی برای معرفی پیچیدگی
+
+#### Chapter 5: Training (3 words)
+- **epoch** /ˈiː.pɒk/ : one complete pass through training data - دوره – یک بار کامل دیدن کل داده‌های آموزش
+- **batch** /bætʃ/ : subset of training data - دسته – زیرمجموعه‌ای از داده‌ها که با هم پردازش می‌شوند
+- **loss function** /lɒs ˈfʌŋk.ʃən/ : measures model error - تابع ضرر – خطای مدل را اندازه می‌گیرد
+---
+
+---
+
+## General - Vocabulary (34 words)
+
+### game (5 words)
+- **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
+- **hit (verb)** /hɪt/ : to touch somebody or something hard: He hit me on the head with a book - The car a wall wall - I hit my knee on the door
+- **swing (verb)** /swɪŋ/ : 1. to move backwards and forwards or from side to side through the air; to make somebody or something do this: Monkeys were swinging from the trees - He swung his arms as he walked <br> 2. to move in a curve: The door swung open
+- **chief (noun)** /tʃiːf/ : the leader or ruler of a group of people: the chief of an African tribe - police chief
+- **chef** /ʃef/ : a professional cook, especially the head cook in a hotel or restaurant
+---
+
+### news (3 words)
+- **attention** /əˈtenʃn/ : looking or listening carefully and with interest: Can I have your attention, please? (= please listen to me)
+- **pay attention** : to look or listen carefully: Please pay attention to what I'm saying
+- **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
+---
+
+### social media (14 words)
+- **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
+- **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
+- **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
+- **wear (verb)** /wer/ : to have clothes, jewellery, etc. on your body: She was wearing a red dress - I wear glasses
+- **even (adverb)** /ˈiːvən/ : 1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours
+- **pretty (adverb)** /ˈprɪti/ : quite; fairly: It's pretty cold today
+- **quite** /kwaɪt/ : 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
+- **fairly** /ˈferli/ : 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
+- **worried** /ˈwɜːrid/ : unhappy because you think that something bad will happen or has happened: Fiana is worried that she's going to fail the exam - I'm worried about my brother _ he looks ill
+- **stupid** /ˈstuːpɪd/ : not intelligent; silly: Don't be so stupid! - What a stupid question!
+- **silly** /ˈsɪli/ : not sensible or clever; stupid: Don't be so silly - It was silly of you to leave the door open when you went out
+- **sensible** /ˈsensəbl/ : able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
+- **clever** /ˈklevər/ : quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
+- **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
+---
+
+### other (12 words)
+- **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
+- **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
+- **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
+- **cause (noun)** /kɔːz/ : 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital
+- **against** /əˈɡenst/ : 1. on the other side in a game, fight, etc.: They played against a football team from another vilage <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
+- **vehicle** /ˈviːəkl/ : a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
+- **vacation** /veɪˈkeɪʃən/ : (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
+- **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
+- **to** : 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)
+- **for (preposition)** : 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
+- **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
+- **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
+---
+
+---
