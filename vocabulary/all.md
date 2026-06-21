@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 742**
+**Total words: 755**
 
 ## 📑 Table of Contents
 
@@ -17,11 +17,11 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
-- [Duolingo - Vocabulary (69 words)](#duolingo---vocabulary-69-words)
-  - [SECTION 1 (69 words)](#section-1-69-words)
+- [Duolingo - Vocabulary (81 words)](#duolingo---vocabulary-81-words)
+  - [SECTION 1 (81 words)](#section-1-81-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
-    - [At School (4 words)](#at-school-4-words)
+    - [At School (16 words)](#at-school-16-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -31,10 +31,10 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (34 words)](#general---vocabulary-34-words)
+- [General - Vocabulary (35 words)](#general---vocabulary-35-words)
   - [game (5 words)](#game-5-words)
   - [news (3 words)](#news-3-words)
-  - [social media (14 words)](#social-media-14-words)
+  - [social media (15 words)](#social-media-15-words)
   - [other (12 words)](#other-12-words)
 
 ---
@@ -702,9 +702,9 @@
 
 ---
 
-## Duolingo - Vocabulary (69 words)
+## Duolingo - Vocabulary (81 words)
 
-### SECTION 1 (69 words)
+### SECTION 1 (81 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -775,11 +775,23 @@
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-#### At School (4 words)
+#### At School (16 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
 - **president** /ˈprez.ɪ.dənt/ : leader of a country
+- **knock (verb)** /nɑːk/ : 1. to hit something and make noise: I knocked on the door, but nobody answered <br> 2. to hit something hard, usually by accident: I knocked my head on the door - She knocked a glass off the table <br> **knock somebody down; knock somebody** over to hit somebody so that they fall onto the ground: The boy was knocked down by a car <br> **knock something down** to break a building so that it falls down (SAME MEANING: demolish): They're knocking down old house <br> **knock somebody out** to make somebody fall, asleep or become unconscious: The blow knocked him out <br> **knock something over** to hit something so that it falls over: I knocked over a vase of flowers
+- **have-to** : used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
+- **due** /duː/ : 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
+- **conclusion** /kənˈkluː.ʒən/ : the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
+- **out loud** : speaking so others can hear: He read the story out loud
+- **contest (noun)** /ˈkɑːntest/ : a game or competition that people try to win: a boxing contest
+- **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
+- **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
+- **loneliness** /ˈloʊnlinəs/ : feeling of being alone
+- **talented** /ˈtæləntɪd/ : having a natural skill or ability:She is very talented at drawing
+- **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
+- **judges (noun)** /ˈdʒʌdʒɪz/ : people who decide in a court or competition; a person who chooses the winner of a competition
 ---
 
 ---
@@ -822,7 +834,7 @@
 
 ---
 
-## General - Vocabulary (34 words)
+## General - Vocabulary (35 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -838,7 +850,7 @@
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
 ---
 
-### social media (14 words)
+### social media (15 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -853,6 +865,7 @@
 - **sensible** /ˈsensəbl/ : able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
 - **clever** /ˈklevər/ : quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
+- **comfortable** /ˈkʌm.fɚ.t̬ə.bəl/ : 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 ---
 
 ### other (12 words)

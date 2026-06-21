@@ -1,17 +1,17 @@
 # Duolingo - Vocabulary
 
-**Total words: 69**
+**Total words: 81**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (69 words)](#section-1-69-words)
+- [SECTION 1 (81 words)](#section-1-81-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
-  - [At School (4 words)](#at-school-4-words)
+  - [At School (16 words)](#at-school-16-words)
 
 ---
 
-## SECTION 1 (69 words)
+## SECTION 1 (81 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -82,9 +82,21 @@
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-### At School (4 words)
+### At School (16 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
 - **president** /ˈprez.ɪ.dənt/ : leader of a country
+- **knock (verb)** /nɑːk/ : 1. to hit something and make noise: I knocked on the door, but nobody answered <br> 2. to hit something hard, usually by accident: I knocked my head on the door - She knocked a glass off the table <br> **knock somebody down; knock somebody** over to hit somebody so that they fall onto the ground: The boy was knocked down by a car <br> **knock something down** to break a building so that it falls down (SAME MEANING: demolish): They're knocking down old house <br> **knock somebody out** to make somebody fall, asleep or become unconscious: The blow knocked him out <br> **knock something over** to hit something so that it falls over: I knocked over a vase of flowers
+- **have-to** : used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
+- **due** /duː/ : 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
+- **conclusion** /kənˈkluː.ʒən/ : the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
+- **out loud** : speaking so others can hear: He read the story out loud
+- **contest (noun)** /ˈkɑːntest/ : a game or competition that people try to win: a boxing contest
+- **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
+- **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
+- **loneliness** /ˈloʊnlinəs/ : feeling of being alone
+- **talented** /ˈtæləntɪd/ : having a natural skill or ability:She is very talented at drawing
+- **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
+- **judges (noun)** /ˈdʒʌdʒɪz/ : people who decide in a court or competition; a person who chooses the winner of a competition
 ---
