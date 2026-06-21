@@ -85,6 +85,6 @@
 ### At School (4 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
-- **dorm** /dɔːrm/ : a home for college students <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
+- **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
 - **president** /ˈprez.ɪ.dənt/ : leader of a country
 ---
