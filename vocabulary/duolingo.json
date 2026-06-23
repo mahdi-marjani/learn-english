@@ -486,10 +486,10 @@
               "mean_en": "feeling of being alone"
             },
             {
-              "word": "talented",
-              "phonetic": "/ˈtæləntɪd/",
+              "word": "talent",
+              "phonetic": "/ˈtæl.ənt/",
               "mean_fa": "",
-              "mean_en": "having a natural skill or ability:She is very talented at drawing"
+              "mean_en": "a natural ability to do something very well: She has a talent for drawing"
             },
             {
               "word": "principal (noun)",
@@ -502,6 +502,78 @@
               "phonetic": "/ˈdʒʌdʒɪz/",
               "mean_fa": "",
               "mean_en": "people who decide in a court or competition; a person who chooses the winner of a competition"
+            },
+            {
+              "word": "campus",
+              "phonetic": "/ˈkæm.pəs/",
+              "mean_fa": "",
+              "mean_en": "the buildings of a college or university and the land that surrounds them"
+            },
+            {
+              "word": "borrow (verb)",
+              "phonetic": "/ˈbɑːr.oʊ/",
+              "mean_fa": "",
+              "mean_en": "to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library"
+            },
+            {
+              "word": "floor",
+              "phonetic": "/flɔːr/",
+              "mean_fa": "",
+              "mean_en": "1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor"
+            },
+            {
+              "word": "assignment",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "a job or piece of work that somebody is given to do: You have to complete three written assignments each term"
+            },
+            {
+              "word": "die",
+              "phonetic": "/daɪ/",
+              "mean_fa": "",
+              "mean_en": "to stop living: People, animals and plants die if they don't have water - She died of cancer"
+            },
+            {
+              "word": "shrug",
+              "phonetic": "/ʃrʌɡ/",
+              "mean_fa": "",
+              "mean_en": "to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged"
+            },
+            {
+              "word": "pretend",
+              "phonetic": "/prɪˈtend/",
+              "mean_fa": "",
+              "mean_en": "to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself"
+            },
+            {
+              "word": "sketchbook",
+              "phonetic": "/ˈsketʃbʊk/",
+              "mean_fa": "",
+              "mean_en": "book of plain paper for drawing on"
+            },
+            {
+              "word": "horror",
+              "phonetic": "/ˈhɔːrər/",
+              "mean_fa": "",
+              "mean_en": "a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment"
+            },
+            {
+              "word": "figure something/someone out",
+              "phonetic": "/ˈfɪɡ.ər/",
+              "mean_fa": "",
+              "mean_en": "to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?"
+            },
+            {
+              "word": "find out about something",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?"
+            },
+            {
+              "word": "ridiculous",
+              "phonetic": "/rɪˈdɪkjələs/",
+              "mean_fa": "",
+              "mean_en": "so silly that it makes people laugh: I look ridiculous in this hat"
             }
           ]
         }

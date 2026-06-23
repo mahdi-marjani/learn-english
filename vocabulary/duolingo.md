@@ -1,17 +1,17 @@
 # Duolingo - Vocabulary
 
-**Total words: 81**
+**Total words: 93**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (81 words)](#section-1-81-words)
+- [SECTION 1 (93 words)](#section-1-93-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
-  - [At School (16 words)](#at-school-16-words)
+  - [At School (28 words)](#at-school-28-words)
 
 ---
 
-## SECTION 1 (81 words)
+## SECTION 1 (93 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -82,7 +82,7 @@
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-### At School (16 words)
+### At School (28 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
@@ -96,7 +96,19 @@
 - **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
 - **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
 - **loneliness** /ˈloʊnlinəs/ : feeling of being alone
-- **talented** /ˈtæləntɪd/ : having a natural skill or ability:She is very talented at drawing
+- **talent** /ˈtæl.ənt/ : a natural ability to do something very well: She has a talent for drawing
 - **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
 - **judges (noun)** /ˈdʒʌdʒɪz/ : people who decide in a court or competition; a person who chooses the winner of a competition
+- **campus** /ˈkæm.pəs/ : the buildings of a college or university and the land that surrounds them
+- **borrow (verb)** /ˈbɑːr.oʊ/ : to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library
+- **floor** /flɔːr/ : 1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor
+- **assignment** : a job or piece of work that somebody is given to do: You have to complete three written assignments each term
+- **die** /daɪ/ : to stop living: People, animals and plants die if they don't have water - She died of cancer
+- **shrug** /ʃrʌɡ/ : to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged
+- **pretend** /prɪˈtend/ : to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself
+- **sketchbook** /ˈsketʃbʊk/ : book of plain paper for drawing on
+- **horror** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment
+- **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
+- **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
+- **ridiculous** /rɪˈdɪkjələs/ : so silly that it makes people laugh: I look ridiculous in this hat
 ---

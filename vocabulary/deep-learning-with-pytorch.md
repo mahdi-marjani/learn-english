@@ -161,7 +161,7 @@
 - **nimble** : سریع در عملکرد یا واکنش
 - **lightweight** : سبک
 - **approachable** : قابل‌درک
-- **plain** : ساده
+- **plain (adjective)** /pleɪn/ : 1. easy to see, hear or understand (SAME MEANING: clear): It's plain that he's unhappy <br> 2. simple and ordinary: plain food <br> 3. with no pattern; all one colour: She wore a plain blue dress <br> 4. not pretty: She was a plain child
 - **supportive** : پشتیبان
 - **history behind it** : تاریخچه‌ای پشت آن
 - **love at first sight** : عشق در نگاه اول
@@ -332,7 +332,7 @@
 - **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
 - **tackle (verb)** /ˈtækl/ : 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
 - **catch** /kætʃ/ : 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> **catch fire** to start to burn: The house caught fire
-- **hold** /hoʊld/ : to have something in your hand or arms; to keep someone in a position
+- **hold (verb)** /hoʊld/ : 1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> **hold somebody or something back** to stop somebody or something from moving forwards: The police held back the crowd <br> **hold it** (informal) Wait! Don't move <br> **hold on** 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> **hold somebody or something up** 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today
 - **robber** /ˈrɑː.bɚ/ : a person who steals money or property, often by force
 - **ran** : past of run
 - **revolution** /ˌrevəˈluːʃən/ : 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی

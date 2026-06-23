@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 755**
+**Total words: 767**
 
 ## 📑 Table of Contents
 
@@ -17,11 +17,11 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
-- [Duolingo - Vocabulary (81 words)](#duolingo---vocabulary-81-words)
-  - [SECTION 1 (81 words)](#section-1-81-words)
+- [Duolingo - Vocabulary (93 words)](#duolingo---vocabulary-93-words)
+  - [SECTION 1 (93 words)](#section-1-93-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
-    - [At School (16 words)](#at-school-16-words)
+    - [At School (28 words)](#at-school-28-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -263,7 +263,7 @@
 - **nimble** : سریع در عملکرد یا واکنش
 - **lightweight** : سبک
 - **approachable** : قابل‌درک
-- **plain** : ساده
+- **plain (adjective)** /pleɪn/ : 1. easy to see, hear or understand (SAME MEANING: clear): It's plain that he's unhappy <br> 2. simple and ordinary: plain food <br> 3. with no pattern; all one colour: She wore a plain blue dress <br> 4. not pretty: She was a plain child
 - **supportive** : پشتیبان
 - **history behind it** : تاریخچه‌ای پشت آن
 - **love at first sight** : عشق در نگاه اول
@@ -434,7 +434,7 @@
 - **by the end of part 1** : تا وقتی که به پایان پارت 1 برسیم
 - **tackle (verb)** /ˈtækl/ : 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
 - **catch** /kætʃ/ : 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> **catch fire** to start to burn: The house caught fire
-- **hold** /hoʊld/ : to have something in your hand or arms; to keep someone in a position
+- **hold (verb)** /hoʊld/ : 1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> **hold somebody or something back** to stop somebody or something from moving forwards: The police held back the crowd <br> **hold it** (informal) Wait! Don't move <br> **hold on** 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> **hold somebody or something up** 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today
 - **robber** /ˈrɑː.bɚ/ : a person who steals money or property, often by force
 - **ran** : past of run
 - **revolution** /ˌrevəˈluːʃən/ : 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
@@ -702,9 +702,9 @@
 
 ---
 
-## Duolingo - Vocabulary (81 words)
+## Duolingo - Vocabulary (93 words)
 
-### SECTION 1 (81 words)
+### SECTION 1 (93 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -775,7 +775,7 @@
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-#### At School (16 words)
+#### At School (28 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
@@ -789,9 +789,21 @@
 - **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
 - **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
 - **loneliness** /ˈloʊnlinəs/ : feeling of being alone
-- **talented** /ˈtæləntɪd/ : having a natural skill or ability:She is very talented at drawing
+- **talent** /ˈtæl.ənt/ : a natural ability to do something very well: She has a talent for drawing
 - **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
 - **judges (noun)** /ˈdʒʌdʒɪz/ : people who decide in a court or competition; a person who chooses the winner of a competition
+- **campus** /ˈkæm.pəs/ : the buildings of a college or university and the land that surrounds them
+- **borrow (verb)** /ˈbɑːr.oʊ/ : to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library
+- **floor** /flɔːr/ : 1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor
+- **assignment** : a job or piece of work that somebody is given to do: You have to complete three written assignments each term
+- **die** /daɪ/ : to stop living: People, animals and plants die if they don't have water - She died of cancer
+- **shrug** /ʃrʌɡ/ : to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged
+- **pretend** /prɪˈtend/ : to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself
+- **sketchbook** /ˈsketʃbʊk/ : book of plain paper for drawing on
+- **horror** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment
+- **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
+- **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
+- **ridiculous** /rɪˈdɪkjələs/ : so silly that it makes people laugh: I look ridiculous in this hat
 ---
 
 ---
