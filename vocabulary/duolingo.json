@@ -456,12 +456,6 @@
               "mean_en": "the final part of something: Be careful not to introduce new ideas in the conclusion of your essay"
             },
             {
-              "word": "out loud",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": "speaking so others can hear: He read the story out loud"
-            },
-            {
               "word": "contest (noun)",
               "phonetic": "/ˈkɑːntest/",
               "mean_fa": "",
@@ -574,6 +568,77 @@
               "phonetic": "/rɪˈdɪkjələs/",
               "mean_fa": "",
               "mean_en": "so silly that it makes people laugh: I look ridiculous in this hat"
+            },
+            {
+              "word": "schedule",
+              "phonetic": " /ˈskedʒ.uːl/",
+              "mean_fa": "",
+              "mean_en": "a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)"
+            },
+            {
+              "word": "yell",
+              "phonetic": "/jel/",
+              "mean_fa": "",
+              "mean_en": "to shout loudly: Stop yelling at me"
+            },
+            {
+              "word": "loud",
+              "phonetic": "/laʊd/",
+              "mean_fa": "",
+              "mean_en": "making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> **out loud** so that other people can hear it: I read the story out loud"
+            },
+            {
+              "word": "loudly",
+              "phonetic": "/ˈlaʊdli/",
+              "mean_fa": "",
+              "mean_en": "in a way that makes a lot of noise: She laughed loudly"
+            },
+            {
+              "word": "lecture (noun)",
+              "phonetic": "/ˈlektʃər/",
+              "mean_fa": "",
+              "mean_en": "a talk to a group of people to teach them about something: She gave a fascinating lecture on Islamic history"
+            },
+            {
+              "word": "dining room",
+              "phonetic": "/ˈdaɪnɪŋ ruːm/",
+              "mean_fa": "",
+              "mean_en": "a room where people eat"
+            },
+            {
+              "word": "hate (verb)",
+              "phonetic": "/heɪt/",
+              "mean_fa": "",
+              "mean_en": "to have a very strong feeling of not liking somebody or something: Most cats hate water - I hate waiting for buses (OPPOSITE: love)"
+            },
+            {
+              "word": "attend",
+              "phonetic": "/əˈtend/",
+              "mean_fa": "",
+              "mean_en": "to go to or be present at a place where something is happening: Did you attend the meeting?"
+            },
+            {
+              "word": "tasty",
+              "phonetic": "/ˈteɪsti/",
+              "mean_fa": "",
+              "mean_en": "good to eat: The soup was very tasty"
+            },
+            {
+              "word": "blender",
+              "phonetic": "/ˈblen.dər/",
+              "mean_fa": "",
+              "mean_en": "an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>"
+            }
+          ]
+        },
+        {
+          "heading": "Interview",
+          "words": [
+            {
+              "word": "interview",
+              "phonetic": "/ˈɪntərvjuː/",
+              "mean_fa": "",
+              "mean_en": "a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview"
             }
           ]
         }

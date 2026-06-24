@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 767**
+**Total words: 779**
 
 ## 📑 Table of Contents
 
@@ -17,11 +17,12 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
-- [Duolingo - Vocabulary (93 words)](#duolingo---vocabulary-93-words)
-  - [SECTION 1 (93 words)](#section-1-93-words)
+- [Duolingo - Vocabulary (103 words)](#duolingo---vocabulary-103-words)
+  - [SECTION 1 (103 words)](#section-1-103-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
-    - [At School (28 words)](#at-school-28-words)
+    - [At School (37 words)](#at-school-37-words)
+    - [Interview (1 words)](#interview-1-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -31,10 +32,10 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (35 words)](#general---vocabulary-35-words)
+- [General - Vocabulary (37 words)](#general---vocabulary-37-words)
   - [game (5 words)](#game-5-words)
   - [news (3 words)](#news-3-words)
-  - [social media (15 words)](#social-media-15-words)
+  - [social media (17 words)](#social-media-17-words)
   - [other (12 words)](#other-12-words)
 
 ---
@@ -702,9 +703,9 @@
 
 ---
 
-## Duolingo - Vocabulary (93 words)
+## Duolingo - Vocabulary (103 words)
 
-### SECTION 1 (93 words)
+### SECTION 1 (103 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -775,7 +776,7 @@
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-#### At School (28 words)
+#### At School (37 words)
 - **dorm:a home for college students  president:leader of a country** : 
 - **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
@@ -784,7 +785,6 @@
 - **have-to** : used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
 - **due** /duː/ : 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
 - **conclusion** /kənˈkluː.ʒən/ : the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
-- **out loud** : speaking so others can hear: He read the story out loud
 - **contest (noun)** /ˈkɑːntest/ : a game or competition that people try to win: a boxing contest
 - **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
 - **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
@@ -804,6 +804,19 @@
 - **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
 - **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
 - **ridiculous** /rɪˈdɪkjələs/ : so silly that it makes people laugh: I look ridiculous in this hat
+- **schedule**  /ˈskedʒ.uːl/ : a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)
+- **yell** /jel/ : to shout loudly: Stop yelling at me
+- **loud** /laʊd/ : making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> **out loud** so that other people can hear it: I read the story out loud
+- **loudly** /ˈlaʊdli/ : in a way that makes a lot of noise: She laughed loudly
+- **lecture (noun)** /ˈlektʃər/ : a talk to a group of people to teach them about something: She gave a fascinating lecture on Islamic history
+- **dining room** /ˈdaɪnɪŋ ruːm/ : a room where people eat
+- **hate (verb)** /heɪt/ : to have a very strong feeling of not liking somebody or something: Most cats hate water - I hate waiting for buses (OPPOSITE: love)
+- **attend** /əˈtend/ : to go to or be present at a place where something is happening: Did you attend the meeting?
+- **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
+- **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
+
+#### Interview (1 words)
+- **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 ---
 
 ---
@@ -846,7 +859,7 @@
 
 ---
 
-## General - Vocabulary (35 words)
+## General - Vocabulary (37 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -862,7 +875,7 @@
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
 ---
 
-### social media (15 words)
+### social media (17 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -878,6 +891,8 @@
 - **clever** /ˈklevər/ : quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - **comfortable** /ˈkʌm.fɚ.t̬ə.bəl/ : 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
+- **whistle (verb)** /ˈwɪsl/ : to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
+- **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 ---
 
 ### other (12 words)

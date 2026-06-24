@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 35**
+**Total words: 37**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
-- [social media (15 words)](#social-media-15-words)
+- [social media (17 words)](#social-media-17-words)
 - [other (12 words)](#other-12-words)
 
 ---
@@ -25,7 +25,7 @@
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
 ---
 
-## social media (15 words)
+## social media (17 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -41,6 +41,8 @@
 - **clever** /ˈklevər/ : quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - **crazy** /ˈkreɪzi/ : 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - **comfortable** /ˈkʌm.fɚ.t̬ə.bəl/ : 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
+- **whistle (verb)** /ˈwɪsl/ : to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
+- **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 ---
 
 ## other (12 words)
