@@ -1,18 +1,18 @@
 # Duolingo - Vocabulary
 
-**Total words: 103**
+**Total words: 110**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (103 words)](#section-1-103-words)
+- [SECTION 1 (110 words)](#section-1-110-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
-  - [Interview (1 words)](#interview-1-words)
+  - [Interview (8 words)](#interview-8-words)
 
 ---
 
-## SECTION 1 (103 words)
+## SECTION 1 (110 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -122,6 +122,13 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-### Interview (1 words)
+### Interview (8 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
+- **care(verb)  approaches(verb) ** : 
+- **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
+- **crowd** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
+- **care(verb)** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> **care for somebody** to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- **approach (verb)** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
+- **church** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
+- **boring** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
 ---

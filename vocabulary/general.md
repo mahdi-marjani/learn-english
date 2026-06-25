@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 37**
+**Total words: 38**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (3 words)](#news-3-words)
 - [social media (17 words)](#social-media-17-words)
-- [other (12 words)](#other-12-words)
+- [other (13 words)](#other-13-words)
 
 ---
 
@@ -45,7 +45,7 @@
 - **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 ---
 
-## other (12 words)
+## other (13 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -58,4 +58,5 @@
 - **for (preposition)** : 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
 - **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
+- **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 ---

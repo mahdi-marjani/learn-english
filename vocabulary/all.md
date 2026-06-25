@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 795**
+**Total words: 803**
 
 ## 📑 Table of Contents
 
@@ -17,12 +17,12 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (99 words)](#part-1-core-pytorch-99-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (86 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-86-words)
-- [Duolingo - Vocabulary (103 words)](#duolingo---vocabulary-103-words)
-  - [SECTION 1 (103 words)](#section-1-103-words)
+- [Duolingo - Vocabulary (110 words)](#duolingo---vocabulary-110-words)
+  - [SECTION 1 (110 words)](#section-1-110-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
-    - [Interview (1 words)](#interview-1-words)
+    - [Interview (8 words)](#interview-8-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -32,11 +32,11 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (37 words)](#general---vocabulary-37-words)
+- [General - Vocabulary (38 words)](#general---vocabulary-38-words)
   - [game (5 words)](#game-5-words)
   - [news (3 words)](#news-3-words)
   - [social media (17 words)](#social-media-17-words)
-  - [other (12 words)](#other-12-words)
+  - [other (13 words)](#other-13-words)
 
 ---
 
@@ -321,7 +321,7 @@
 - **excellence** : عالی بودن
 - **toward** : در جهت
 - **adopting** : به‌کار گرفتن
-- **approach** /əˈproʊtʃ/ : method
+- **approach (noun)** /əˈproʊtʃ/ : 1. a way of doing something: This is a new approach to learning languages <br> 2. coming near or nearer to somebody or something: the approach of winter
 - **inclusiveness** : فراگیری
 - **testament** : گواه، نشانه محکم، شاهد
 - **relentless** : بی‌وقفه
@@ -719,9 +719,9 @@
 
 ---
 
-## Duolingo - Vocabulary (103 words)
+## Duolingo - Vocabulary (110 words)
 
-### SECTION 1 (103 words)
+### SECTION 1 (110 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -831,8 +831,15 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-#### Interview (1 words)
+#### Interview (8 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
+- **care(verb)  approaches(verb) ** : 
+- **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
+- **crowd** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
+- **care(verb)** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> **care for somebody** to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- **approach (verb)** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
+- **church** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
+- **boring** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
 ---
 
 ---
@@ -875,7 +882,7 @@
 
 ---
 
-## General - Vocabulary (37 words)
+## General - Vocabulary (38 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -911,7 +918,7 @@
 - **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 ---
 
-### other (12 words)
+### other (13 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -924,6 +931,7 @@
 - **for (preposition)** : 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
 - **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
+- **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 ---
 
 ---

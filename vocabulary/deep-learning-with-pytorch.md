@@ -218,7 +218,7 @@
 - **excellence** : عالی بودن
 - **toward** : در جهت
 - **adopting** : به‌کار گرفتن
-- **approach** /əˈproʊtʃ/ : method
+- **approach (noun)** /əˈproʊtʃ/ : 1. a way of doing something: This is a new approach to learning languages <br> 2. coming near or nearer to somebody or something: the approach of winter
 - **inclusiveness** : فراگیری
 - **testament** : گواه، نشانه محکم، شاهد
 - **relentless** : بی‌وقفه
