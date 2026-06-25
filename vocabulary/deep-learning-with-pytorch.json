@@ -3123,6 +3123,12 @@
               "mean_en": "unusual and surprising in a good way: a remarkable discovery"
             },
             {
+              "word": "discovery",
+              "phonetic": "/dɪˈskʌvəri/",
+              "mean_fa": "",
+              "mean_en": "finding or learning something for the first time: Scientists have made an important new discovery "
+            },
+            {
               "word": "thesis",
               "phonetic": "/ˈθiːsɪs/",
               "mean_fa": "",
@@ -3203,7 +3209,7 @@
             {
               "word": "entity",
               "phonetic": "/ˈentəti/",
-              "mean_fa": "",
+              "mean_fa": "موجودیت، نهاد، چیزی مستقل",
               "mean_en": "something that exists independently as a separate unit"
             },
             {
@@ -3379,6 +3385,96 @@
               "phonetic": "/hoʊl/",
               "mean_fa": "",
               "mean_en": "an empty space or opening in something: I'm going to dig a hole in the garden - My socks are full of holes"
+            },
+            {
+              "word": "representation",
+              "phonetic": "/ˌrep.rɪ.zenˈteɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the way that someone or something is shown or described"
+            },
+            {
+              "word": "versus",
+              "phonetic": "/ˈvɜːrsəs/",
+              "mean_fa": "",
+              "mean_en": "vs; used to compare two different things or choices: private education versus state education"
+            },
+            {
+              "word": "refine",
+              "phonetic": "/rɪˈfaɪn/",
+              "mean_fa": "",
+              "mean_en": "to make something better by removing mistakes or making it more exact"
+            },
+            {
+              "word": "iterative",
+              "phonetic": "/ˈɪtəreɪtɪv/",
+              "mean_fa": "",
+              "mean_en": "doing something again and again, usually to improve it or to get closer to a goal: iterative processes"
+            },
+            {
+              "word": "pair",
+              "phonetic": "/per/",
+              "mean_fa": "",
+              "mean_en": "1. two things of the same kind that you use together: a pair of shoes <br> 2. a thing with two parts that are joined together: a pair of glasses <br> 3. two people or animals together: a pair of ducks <br> **in pairs** with two things or people together: Shoes are only sold in pairs - The students are working in pairs"
+            },
+            {
+              "word": "often",
+              "phonetic": "/ˈɑːfən/",
+              "mean_fa": "",
+              "mean_en": "many times; happening a lot"
+            },
+            {
+              "word": "inject",
+              "phonetic": "/ɪnˈdʒekt/",
+              "mean_fa": "",
+              "mean_en": "1. to insert a substance or material into the body, often through a needle <br> <img src='images/inject.jpg' alt='inject' width='200'> <br> 2. to add or insert something new or different into a situation, system, or activity: inject data into a system"
+            },
+            {
+              "word": "however",
+              "phonetic": "/haʊˈevər/",
+              "mean_fa": "",
+              "mean_en": "1. it does not matter how: I never win, however hard I try <br> 2. but: She's very intelligent. However, she's quite lazy <br> 3. a way of saying 'how' more strongly"
+            },
+            {
+              "word": "ingest",
+              "phonetic": "/ɪnˈdʒest/",
+              "mean_fa": "",
+              "mean_en": "to take something (e.g., data or food) into a system"
+            },
+            {
+              "word": "basis",
+              "phonetic": "/ˈbeɪsɪs/",
+              "mean_fa": "",
+              "mean_en": "1. the most important part or idea, from which something grows: Her notes formed the basis of a book <br> 2. the way something is done or organized: We meet on a regular basis (= often)"
+            },
+            {
+              "word": "handcraft",
+              "phonetic": "/ˈhændkræft/",
+              "mean_fa": "",
+              "mean_en": "to make something by hand; in ML, features/rules created by humans rather than learned"
+            },
+            {
+              "word": "discover",
+              "phonetic": "/dɪˈskʌvər/",
+              "mean_fa": "",
+              "mean_en": "to find or learn something for the first time: Who discovered Australia? - I was in the shop when I discovered that I did not have any money"
+            },
+            {
+              "word": "disruptive",
+              "phonetic": "/dɪsˈrʌptɪv/",
+              "mean_fa": "",
+              "mean_en": "causing major change that replaces old ways of doing things"
+            },
+            {
+              "word": "cause (verb)",
+              "phonetic": "/kɔːz/",
+              "mean_fa": "",
+              "mean_en": "to be the reason why something happens: What caused the accident? - The fire was caused by a cigarette"
+            },
+            {
+              "word": "lead (verb)",
+              "phonetic": "/liːd/",
+              "mean_fa": "",
+              "mean_en": "1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis"
             }
           ]
         }

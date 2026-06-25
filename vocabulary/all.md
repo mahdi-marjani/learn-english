@@ -1,13 +1,13 @@
 # All Vocabulary
 
-**Total words: 779**
+**Total words: 795**
 
 ## 📑 Table of Contents
 
 - [SpongeBob SquarePants - Vocabulary (68 words)](#spongebob-squarepants---vocabulary-68-words)
   - [S1 (68 words)](#s1-68-words)
     - [E1 (68 words)](#e1-68-words)
-- [Deep Learning with PyTorch - Vocabulary (556 words)](#deep-learning-with-pytorch---vocabulary-556-words)
+- [Deep Learning with PyTorch - Vocabulary (572 words)](#deep-learning-with-pytorch---vocabulary-572-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
@@ -15,8 +15,8 @@
   - [about this book (165 words)](#about-this-book-165-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (83 words)](#part-1-core-pytorch-83-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (70 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-70-words)
+  - [Part 1: Core PyTorch (99 words)](#part-1-core-pytorch-99-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (86 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-86-words)
 - [Duolingo - Vocabulary (103 words)](#duolingo---vocabulary-103-words)
   - [SECTION 1 (103 words)](#section-1-103-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -117,7 +117,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (556 words)
+## Deep Learning with PyTorch - Vocabulary (572 words)
 
 ### Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -613,7 +613,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (83 words)
+### Part 1: Core PyTorch (99 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -628,7 +628,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (70 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (86 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -656,6 +656,7 @@
 - **far (adverb)** /fɑːr/ : 1. a long way from somewhere: My house isn't far from the station - It's too far to drive in one day - I walked much further than you <br> 2. You use far to ask about the distance from one place to another place: How far is it to the coast from here? <br> 3. very much: He's far taller than his brother - That's far too expensive <br> **as far as...** to place: We walked as far as the vilage and then came back - I read as far as the second chapter <br> **as far as I know** used when you think something is true, but you are not certain: As far as I know, she's coming, but I may be wrong <br> **by far** you use by far to show that a person or thing is much better, bigger, etc. than anybody or anything else: She's by far the best player in the team <br> **far from it** (informal) certainly not; just the opposite: 'Are you upset?' 'Far from it _ I'm delighted' <br> **far from something** almost the opposite of something; not at all: I'm far from certain <br> **so far** until now: So far the work has been easy
 - **construct** /kənˈstrʌkt/ : (formal) build
 - **remarkable** /rɪˈmɑːrkəbəl/ : unusual and surprising in a good way: a remarkable discovery
+- **discovery** /dɪˈskʌvəri/ : finding or learning something for the first time: Scientists have made an important new discovery 
 - **thesis** /ˈθiːsɪs/ : theory
 - **ramble** /ˈræmbəl/ : to talk or write in a confused way, often for a long time: Sorry, I'm rambling (on) - let me get back to the point
 - **perform** /pərˈfɔːrm/ : to do an action or complete a task
@@ -669,7 +670,7 @@
 - **submarine** /ˌsʌbməˈriːn/ : a ship that can travel underwater
 - **fall (verb)** /fɔːl/ : 1. to go down quickly towards the ground: The book fell off the table - She fell down the stairs and broke her arm <br> 2. (also fall over) to suddenly stop standing: He slipped on the ice and fell - I fell over and hurt my leg <br> 3. to become lower or less: In the desert the temperature falls quickly at night - Price have fallen again (OPPOSITE: rise) <br> **fall apart** to break into pieces: The chair fell apart when I sat on it <br> **fall asleep** to start sleeping: She fell asleep in the armchair <br> **fall behind** to become slower than others, or not do something when you should do it: She's falling behind with her school work <br> **fall for somebody** to begin to love somebody: He has fallen for someone he met on holiday <br> **fall in love with somebody** to begin to love somebody: He fell in love with Anna the first time they met <br> **fall out with somebody** to argue with somebody so that you stop being friends: Jane has fallen out with her best friend (OPPOSITE: make up) <br> **fall through** if a plan falls through, it does not happen
 - **fall under** : to be classified or included in a category, group, or heading
-- **entity** /ˈentəti/ : something that exists independently as a separate unit
+- **entity** /ˈentəti/ : something that exists independently as a separate unit - موجودیت، نهاد، چیزی مستقل
 - **present (verb)** /prɪˈzent/ : to give something to somebody, especially in a formal ceremony: The prizes were presented to the winners -They presented their teacher with some flowers
 - **instructive** /ɪnˈstrʌktɪv/ : providing useful knowledge or information
 - **instruct** /ɪnˈstrʌkt/ : 1. to tell somebody what they must do: He instructed the driver to wait <br> 2. (formal) to teach somebody something: Children must be instructed in road safety
@@ -699,6 +700,21 @@
 - **edge** /edʒ/ : 1. the part along the end or side of something: She stood at the water's edge - the edge of the table <br> 2. the sharp part of a knife or tool <br> **on edge** nervous or worried
 - **enclose** /ɪnˈkloʊz/ : 1. to put something inside a letter or package: I enclose a cheque for $100 <br> 2. to put something, for example a wall or fence, around a place on all sides: The prison is enclosed by a high wall
 - **hole** /hoʊl/ : an empty space or opening in something: I'm going to dig a hole in the garden - My socks are full of holes
+- **representation** /ˌrep.rɪ.zenˈteɪ.ʃən/ : the way that someone or something is shown or described
+- **versus** /ˈvɜːrsəs/ : vs; used to compare two different things or choices: private education versus state education
+- **refine** /rɪˈfaɪn/ : to make something better by removing mistakes or making it more exact
+- **iterative** /ˈɪtəreɪtɪv/ : doing something again and again, usually to improve it or to get closer to a goal: iterative processes
+- **pair** /per/ : 1. two things of the same kind that you use together: a pair of shoes <br> 2. a thing with two parts that are joined together: a pair of glasses <br> 3. two people or animals together: a pair of ducks <br> **in pairs** with two things or people together: Shoes are only sold in pairs - The students are working in pairs
+- **often** /ˈɑːfən/ : many times; happening a lot
+- **inject** /ɪnˈdʒekt/ : 1. to insert a substance or material into the body, often through a needle <br> <img src='images/inject.jpg' alt='inject' width='200'> <br> 2. to add or insert something new or different into a situation, system, or activity: inject data into a system
+- **however** /haʊˈevər/ : 1. it does not matter how: I never win, however hard I try <br> 2. but: She's very intelligent. However, she's quite lazy <br> 3. a way of saying 'how' more strongly
+- **ingest** /ɪnˈdʒest/ : to take something (e.g., data or food) into a system
+- **basis** /ˈbeɪsɪs/ : 1. the most important part or idea, from which something grows: Her notes formed the basis of a book <br> 2. the way something is done or organized: We meet on a regular basis (= often)
+- **handcraft** /ˈhændkræft/ : to make something by hand; in ML, features/rules created by humans rather than learned
+- **discover** /dɪˈskʌvər/ : to find or learn something for the first time: Who discovered Australia? - I was in the shop when I discovered that I did not have any money
+- **disruptive** /dɪsˈrʌptɪv/ : causing major change that replaces old ways of doing things
+- **cause (verb)** /kɔːz/ : to be the reason why something happens: What caused the accident? - The fire was caused by a cigarette
+- **lead (verb)** /liːd/ : 1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis
 ---
 
 ---
