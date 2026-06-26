@@ -681,6 +681,48 @@
               "phonetic": "",
               "mean_fa": "",
               "mean_en": "not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read"
+            },
+            {
+              "word": "wet",
+              "phonetic": "/wet/",
+              "mean_fa": "",
+              "mean_en": "1. covered in water or another liquid: a wet umbrella - wet hair <br> 2. with a lot of rain: a wet day (OPPOSITE: dry)"
+            },
+            {
+              "word": "receptionist",
+              "phonetic": "/rɪˈsep.ʃən.ɪst/",
+              "mean_fa": "",
+              "mean_en": "a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone"
+            },
+            {
+              "word": "hospital",
+              "phonetic": "/ˈhɑ:s.pɪtl/",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/hospital.jpg' alt='hospital' width='200'>"
+            },
+            {
+              "word": "jog",
+              "phonetic": "/dʒɑːɡ/",
+              "mean_fa": "",
+              "mean_en": "1. to run slowly for exercise: I jogged round the park - I go jogging every morning <br> 2. to push or touch something a little, so that it moves: She jogged my arm and I spilled my drink"
+            },
+            {
+              "word": "coach",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>"
+            },
+            {
+              "word": "positive",
+              "phonetic": "/ˈpɑː.zə.t̬ɪv/",
+              "mean_fa": "",
+              "mean_en": "1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?"
+            },
+            {
+              "word": "actor",
+              "phonetic": "/ˈæktər/",
+              "mean_fa": "بازیگر",
+              "mean_en": "a man or woman who acts in plays, films or television programmes"
             }
           ]
         }

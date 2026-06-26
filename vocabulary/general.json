@@ -56,6 +56,24 @@
           "phonetic": "/ˈmætər/",
           "mean_fa": "",
           "mean_en": "something that you must talk about or do: There is a matter I would like to discuss with you"
+        },
+        {
+          "word": "vote (noun)",
+          "phonetic": "/vəʊt/",
+          "mean_fa": "",
+          "mean_en": "when you choose somebody or something by writing on a piece of paper or by putting up your hand: There were 96 votes for the plan, and 25 against"
+        },
+        {
+          "word": "vote (verb)",
+          "phonetic": "/vəʊt/",
+          "mean_fa": "",
+          "mean_en": "to choose somebody or something by writing on a piece of paper or by putting up your hand: The people voted for the new president <br> <img src='images/vote.jpg' alt='vote' width='200'>"
+        },
+        {
+          "word": "lonely",
+          "phonetic": "/ˈloʊnli/",
+          "mean_fa": "",
+          "mean_en": "1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills"
         }
       ]
     },
@@ -163,6 +181,36 @@
           "phonetic": "/ˈlɪtərəli/",
           "mean_fa": "",
           "mean_en": "'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)"
+        },
+        {
+          "word": "attract",
+          "phonetic": "/əˈtrækt/",
+          "mean_fa": "",
+          "mean_en": "1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity"
+        },
+        {
+          "word": "moth",
+          "phonetic": "/mɑːθ/",
+          "mean_fa": "",
+          "mean_en": "an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>"
+        },
+        {
+          "word": "worse",
+          "phonetic": "/wɜːrs/",
+          "mean_fa": "",
+          "mean_en": "bad"
+        },
+        {
+          "word": "adopt",
+          "phonetic": "/əˈdɑːpt/",
+          "mean_fa": "",
+          "mean_en": "to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died"
+        },
+        {
+          "word": "rarely",
+          "phonetic": "/ˈrerli/",
+          "mean_fa": "",
+          "mean_en": "not very often: We rarely agree with each other"
         }
       ]
     },

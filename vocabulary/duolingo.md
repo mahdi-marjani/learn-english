@@ -1,18 +1,18 @@
 # Duolingo - Vocabulary
 
-**Total words: 110**
+**Total words: 117**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (110 words)](#section-1-110-words)
+- [SECTION 1 (117 words)](#section-1-117-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
-  - [Interview (8 words)](#interview-8-words)
+  - [Interview (15 words)](#interview-15-words)
 
 ---
 
-## SECTION 1 (110 words)
+## SECTION 1 (117 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -122,7 +122,7 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-### Interview (8 words)
+### Interview (15 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
@@ -131,4 +131,11 @@
 - **approach (verb)** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - **church** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - **boring** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
+- **wet** /wet/ : 1. covered in water or another liquid: a wet umbrella - wet hair <br> 2. with a lot of rain: a wet day (OPPOSITE: dry)
+- **receptionist** /rɪˈsep.ʃən.ɪst/ : a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone
+- **hospital** /ˈhɑ:s.pɪtl/ : <br> <img src='images/hospital.jpg' alt='hospital' width='200'>
+- **jog** /dʒɑːɡ/ : 1. to run slowly for exercise: I jogged round the park - I go jogging every morning <br> 2. to push or touch something a little, so that it moves: She jogged my arm and I spilled my drink
+- **coach** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
+- **positive** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
+- **actor** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
 ---

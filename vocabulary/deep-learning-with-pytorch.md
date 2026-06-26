@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 572**
+**Total words: 574**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (165 words)](#about-this-book-165-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (99 words)](#part-1-core-pytorch-99-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (86 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-86-words)
+- [Part 1: Core PyTorch (101 words)](#part-1-core-pytorch-101-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (88 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-88-words)
 
 ---
 
@@ -442,7 +442,7 @@
 - **spend** : 1. to pay money for something: Louise spends a lot of money on clothes <br> 2. to pass time: I spent the summer in Italy
 - **spent** : past of spend
 - **majority** : most
-- **career** : a job that you learn to do and then do for many years
+- **career** /kəˈrɪər/ : a job that you learn to do and then do for many years: He is considering a career in teaching - His career was always more important to him than his family
 - **role** : function or part played by a person in a particular situation
 - **function** : the special work that a person or thing does: the function of the heart is to send blood round the body
 - **situation** : the things that are happening in a certain place or at a certain time: We are in a difficult situation at the moment
@@ -465,7 +465,7 @@
 
 ## about the cover illustration (44 words)
 - **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
-- **magazine** /ˈmæɡ.ə.ziːn/ : مجله
+- **magazine** /ˌmæɡəˈziːn/ : a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside <br> <img src='images/magazine.jpg' alt='magazine' width='200'> - مجله
 - **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
 - **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - **shall** /ʃæl/ : should, must
@@ -510,7 +510,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (99 words)
+## Part 1: Core PyTorch (101 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -525,7 +525,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (86 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (88 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -546,7 +546,7 @@
 - **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
 - **fed** : past tense of feed
-- **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her
+- **feed** : to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her
 - **phrase** /freɪz/ : a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
 - **corpus** /ˈkɔːrpəs/ : a large collection of written or spoken texts used for language research
 - **parse** /pɑːrs/ : to analyze a sentence or code into its parts and describe their grammatical or logical roles
@@ -612,4 +612,6 @@
 - **disruptive** /dɪsˈrʌptɪv/ : causing major change that replaces old ways of doing things
 - **cause (verb)** /kɔːz/ : to be the reason why something happens: What caused the accident? - The fire was caused by a cigarette
 - **lead (verb)** /liːd/ : 1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis
+- **hierarchical (adjective)** /ˌhaɪˈrɑːr.kɪ.kəl/ : relating to a system that is organized based on social ranking or levels of authority <br> <img src='images/hierarchical.jpg' alt='hierarchical' width='200'>
+- **own (adjective)** /oʊn/ : used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>
 ---

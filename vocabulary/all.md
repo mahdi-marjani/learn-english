@@ -1,13 +1,13 @@
 # All Vocabulary
 
-**Total words: 803**
+**Total words: 820**
 
 ## 📑 Table of Contents
 
 - [SpongeBob SquarePants - Vocabulary (68 words)](#spongebob-squarepants---vocabulary-68-words)
   - [S1 (68 words)](#s1-68-words)
     - [E1 (68 words)](#e1-68-words)
-- [Deep Learning with PyTorch - Vocabulary (572 words)](#deep-learning-with-pytorch---vocabulary-572-words)
+- [Deep Learning with PyTorch - Vocabulary (574 words)](#deep-learning-with-pytorch---vocabulary-574-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
@@ -15,14 +15,14 @@
   - [about this book (165 words)](#about-this-book-165-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (99 words)](#part-1-core-pytorch-99-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (86 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-86-words)
-- [Duolingo - Vocabulary (110 words)](#duolingo---vocabulary-110-words)
-  - [SECTION 1 (110 words)](#section-1-110-words)
+  - [Part 1: Core PyTorch (101 words)](#part-1-core-pytorch-101-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (88 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-88-words)
+- [Duolingo - Vocabulary (117 words)](#duolingo---vocabulary-117-words)
+  - [SECTION 1 (117 words)](#section-1-117-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
-    - [Interview (8 words)](#interview-8-words)
+    - [Interview (15 words)](#interview-15-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -32,10 +32,10 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (38 words)](#general---vocabulary-38-words)
+- [General - Vocabulary (46 words)](#general---vocabulary-46-words)
   - [game (5 words)](#game-5-words)
-  - [news (3 words)](#news-3-words)
-  - [social media (17 words)](#social-media-17-words)
+  - [news (6 words)](#news-6-words)
+  - [social media (22 words)](#social-media-22-words)
   - [other (13 words)](#other-13-words)
 
 ---
@@ -117,7 +117,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (572 words)
+## Deep Learning with PyTorch - Vocabulary (574 words)
 
 ### Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -545,7 +545,7 @@
 - **spend** : 1. to pay money for something: Louise spends a lot of money on clothes <br> 2. to pass time: I spent the summer in Italy
 - **spent** : past of spend
 - **majority** : most
-- **career** : a job that you learn to do and then do for many years
+- **career** /kəˈrɪər/ : a job that you learn to do and then do for many years: He is considering a career in teaching - His career was always more important to him than his family
 - **role** : function or part played by a person in a particular situation
 - **function** : the special work that a person or thing does: the function of the heart is to send blood round the body
 - **situation** : the things that are happening in a certain place or at a certain time: We are in a difficult situation at the moment
@@ -568,7 +568,7 @@
 
 ### about the cover illustration (44 words)
 - **cover (noun)** : 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
-- **magazine** /ˈmæɡ.ə.ziːn/ : مجله
+- **magazine** /ˌmæɡəˈziːn/ : a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside <br> <img src='images/magazine.jpg' alt='magazine' width='200'> - مجله
 - **illustration** /ˌɪl.əˈstreɪ.ʃən/ : a picture in a book
 - **figure** /ˈfɪɡjər/ : 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - **shall** /ʃæl/ : should, must
@@ -613,7 +613,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (99 words)
+### Part 1: Core PyTorch (101 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -628,7 +628,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (86 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (88 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -649,7 +649,7 @@
 - **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
 - **fed** : past tense of feed
-- **feed** : to give food to a person or an animal: The baby's crying _ i'll go and feed her
+- **feed** : to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her
 - **phrase** /freɪz/ : a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
 - **corpus** /ˈkɔːrpəs/ : a large collection of written or spoken texts used for language research
 - **parse** /pɑːrs/ : to analyze a sentence or code into its parts and describe their grammatical or logical roles
@@ -715,13 +715,15 @@
 - **disruptive** /dɪsˈrʌptɪv/ : causing major change that replaces old ways of doing things
 - **cause (verb)** /kɔːz/ : to be the reason why something happens: What caused the accident? - The fire was caused by a cigarette
 - **lead (verb)** /liːd/ : 1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis
+- **hierarchical (adjective)** /ˌhaɪˈrɑːr.kɪ.kəl/ : relating to a system that is organized based on social ranking or levels of authority <br> <img src='images/hierarchical.jpg' alt='hierarchical' width='200'>
+- **own (adjective)** /oʊn/ : used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>
 ---
 
 ---
 
-## Duolingo - Vocabulary (110 words)
+## Duolingo - Vocabulary (117 words)
 
-### SECTION 1 (110 words)
+### SECTION 1 (117 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -831,7 +833,7 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-#### Interview (8 words)
+#### Interview (15 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
@@ -840,6 +842,13 @@
 - **approach (verb)** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - **church** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - **boring** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
+- **wet** /wet/ : 1. covered in water or another liquid: a wet umbrella - wet hair <br> 2. with a lot of rain: a wet day (OPPOSITE: dry)
+- **receptionist** /rɪˈsep.ʃən.ɪst/ : a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone
+- **hospital** /ˈhɑ:s.pɪtl/ : <br> <img src='images/hospital.jpg' alt='hospital' width='200'>
+- **jog** /dʒɑːɡ/ : 1. to run slowly for exercise: I jogged round the park - I go jogging every morning <br> 2. to push or touch something a little, so that it moves: She jogged my arm and I spilled my drink
+- **coach** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
+- **positive** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
+- **actor** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
 ---
 
 ---
@@ -882,7 +891,7 @@
 
 ---
 
-## General - Vocabulary (38 words)
+## General - Vocabulary (46 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -892,13 +901,16 @@
 - **chef** /ʃef/ : a professional cook, especially the head cook in a hotel or restaurant
 ---
 
-### news (3 words)
+### news (6 words)
 - **attention** /əˈtenʃn/ : looking or listening carefully and with interest: Can I have your attention, please? (= please listen to me)
 - **pay attention** : to look or listen carefully: Please pay attention to what I'm saying
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
+- **vote (noun)** /vəʊt/ : when you choose somebody or something by writing on a piece of paper or by putting up your hand: There were 96 votes for the plan, and 25 against
+- **vote (verb)** /vəʊt/ : to choose somebody or something by writing on a piece of paper or by putting up your hand: The people voted for the new president <br> <img src='images/vote.jpg' alt='vote' width='200'>
+- **lonely** /ˈloʊnli/ : 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-### social media (17 words)
+### social media (22 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -916,6 +928,11 @@
 - **comfortable** /ˈkʌm.fɚ.t̬ə.bəl/ : 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - **whistle (verb)** /ˈwɪsl/ : to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
 - **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
+- **attract** /əˈtrækt/ : 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
+- **moth** /mɑːθ/ : an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
+- **worse** /wɜːrs/ : bad
+- **adopt** /əˈdɑːpt/ : to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
+- **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 ---
 
 ### other (13 words)

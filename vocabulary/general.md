@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 38**
+**Total words: 46**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
-- [news (3 words)](#news-3-words)
-- [social media (17 words)](#social-media-17-words)
+- [news (6 words)](#news-6-words)
+- [social media (22 words)](#social-media-22-words)
 - [other (13 words)](#other-13-words)
 
 ---
@@ -19,13 +19,16 @@
 - **chef** /ʃef/ : a professional cook, especially the head cook in a hotel or restaurant
 ---
 
-## news (3 words)
+## news (6 words)
 - **attention** /əˈtenʃn/ : looking or listening carefully and with interest: Can I have your attention, please? (= please listen to me)
 - **pay attention** : to look or listen carefully: Please pay attention to what I'm saying
 - **matter (noun)** /ˈmætər/ : something that you must talk about or do: There is a matter I would like to discuss with you
+- **vote (noun)** /vəʊt/ : when you choose somebody or something by writing on a piece of paper or by putting up your hand: There were 96 votes for the plan, and 25 against
+- **vote (verb)** /vəʊt/ : to choose somebody or something by writing on a piece of paper or by putting up your hand: The people voted for the new president <br> <img src='images/vote.jpg' alt='vote' width='200'>
+- **lonely** /ˈloʊnli/ : 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-## social media (17 words)
+## social media (22 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -43,6 +46,11 @@
 - **comfortable** /ˈkʌm.fɚ.t̬ə.bəl/ : 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - **whistle (verb)** /ˈwɪsl/ : to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
 - **literally** /ˈlɪtərəli/ : 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
+- **attract** /əˈtrækt/ : 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
+- **moth** /mɑːθ/ : an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
+- **worse** /wɜːrs/ : bad
+- **adopt** /əˈdɑːpt/ : to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
+- **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 ---
 
 ## other (13 words)

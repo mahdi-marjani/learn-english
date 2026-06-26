@@ -2491,9 +2491,9 @@
         },
         {
           "word": "career",
-          "phonetic": "",
+          "phonetic": "/kəˈrɪər/",
           "mean_fa": "",
-          "mean_en": "a job that you learn to do and then do for many years"
+          "mean_en": "a job that you learn to do and then do for many years: He is considering a career in teaching - His career was always more important to him than his family"
         },
         {
           "word": "role",
@@ -2616,9 +2616,9 @@
         },
         {
           "word": "magazine",
-          "phonetic": "/ˈmæɡ.ə.ziːn/",
+          "phonetic": "/ˌmæɡəˈziːn/",
           "mean_fa": "مجله",
-          "mean_en": ""
+          "mean_en": "a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside <br> <img src='images/magazine.jpg' alt='magazine' width='200'>"
         },
         {
           "word": "illustration",
@@ -3084,7 +3084,7 @@
               "word": "feed",
               "phonetic": "",
               "mean_fa": "",
-              "mean_en": "to give food to a person or an animal: The baby's crying _ i'll go and feed her"
+              "mean_en": "to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her"
             },
             {
               "word": "phrase",
@@ -3475,6 +3475,18 @@
               "phonetic": "/liːd/",
               "mean_fa": "",
               "mean_en": "1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis"
+            },
+            {
+              "word": "hierarchical (adjective)",
+              "phonetic": "/ˌhaɪˈrɑːr.kɪ.kəl/",
+              "mean_fa": "",
+              "mean_en": "relating to a system that is organized based on social ranking or levels of authority <br> <img src='images/hierarchical.jpg' alt='hierarchical' width='200'>"
+            },
+            {
+              "word": "own (adjective)",
+              "phonetic": "/oʊn/",
+              "mean_fa": "",
+              "mean_en": "used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>"
             }
           ]
         }
