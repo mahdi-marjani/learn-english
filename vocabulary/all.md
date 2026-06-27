@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 820**
+**Total words: 833**
 
 ## 📑 Table of Contents
 
@@ -17,12 +17,12 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (101 words)](#part-1-core-pytorch-101-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (88 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-88-words)
-- [Duolingo - Vocabulary (117 words)](#duolingo---vocabulary-117-words)
-  - [SECTION 1 (117 words)](#section-1-117-words)
+- [Duolingo - Vocabulary (129 words)](#duolingo---vocabulary-129-words)
+  - [SECTION 1 (129 words)](#section-1-129-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
-    - [Interview (15 words)](#interview-15-words)
+    - [Interview (27 words)](#interview-27-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -32,11 +32,11 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (46 words)](#general---vocabulary-46-words)
+- [General - Vocabulary (47 words)](#general---vocabulary-47-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (22 words)](#social-media-22-words)
-  - [other (13 words)](#other-13-words)
+  - [other (14 words)](#other-14-words)
 
 ---
 
@@ -415,7 +415,7 @@
 - **among** : در میان
 - **although** : اگرچه
 - **collaborative** : مشارکتی
-- **act** : عمل، کار
+- **act (noun)** /ækt/ : 1. a thing that you do: an act of kindness <br> 2. one of the main parts of a play or an opera (= a musical play): This play has five acts <br> 3. a law that a government makes: an act of Parliament <br> 4. behaviour that hides your true feelings: She seems very happy, but she's just putting on an act <br> **in the act (of doing something)** while doing something wrong: I caught him in the act of stealing the money
 - **primarily** : عمدتاً، به طور اصلی
 - **charge** : مسئولیت
 - **came** : past of come
@@ -593,7 +593,7 @@
 - **diversity** /daɪˈvɜːrsəti/ : variety
 - **fade** /feɪd/ : to lose brightness, color, or strength gradually
 - **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
-- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here: Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
+- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - **fade away** : به تدریج محو شدن و ناپدید شدن
 - **tell apart** : to see the difference between two people or things: I can't tell the twins apart
 - **set apart** : to make someone or something different from others: His kindness sets him apart from others
@@ -621,7 +621,7 @@
 - **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
-- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
+- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London <br> **no way** a way of saying 'no' more strongly: 'Can I borrow your bike?' 'No way!'
 - **domain** /doʊˈmeɪn/ : a particular area of activity, knowledge, or data
 - **unveil** /ʌnˈveɪl/ : to show or make known something that was hidden or unknown
 - **crack** /kræk/ : شکافتن، ترک خوردن؛ در معنای مجازی: حل کردن (مسئله دشوار)، رمزگشایی کردن
@@ -721,9 +721,9 @@
 
 ---
 
-## Duolingo - Vocabulary (117 words)
+## Duolingo - Vocabulary (129 words)
 
-### SECTION 1 (117 words)
+### SECTION 1 (129 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -833,7 +833,7 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-#### Interview (15 words)
+#### Interview (27 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
@@ -849,6 +849,18 @@
 - **coach** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
 - **positive** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
 - **actor** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
+- **act (verb)** /ækt/ : 1. to do something, or to behave in a certain way: Doctors acted quickly to save the boy's life after the accident - Stop acting like a child <br> 2. to pretend to be somebody else in a play film or television programme (SAME MEANING: perform) <br> **act as something** to do the job of another person, usually for a short time: He acted as a manager while his boss was ill
+- **adult** /ˈædʌlt/ : a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
+- **as** : 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. **as ... as** words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
+- **airline** : a company that takes people or things to different places by plane: Which airline are you flying with?
+- **lie (verb)** /laɪ/ : to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- **salary** /ˈsæləri/ : money that you receive every month for the work that you do
+- **confident** /ˈkɑːnfɪdənt/ : sure that you can do something well, or that something will happen: I'm confident that our team will win
+- **airport** : a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
+- **sign (verb)** /saɪn/ : to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature)
+- **strange** /streɪndʒ/ : 1. unusual or surprising: Did you hear that strange noise? <br> 2. that you do not know: We were lost in a strange town
+- **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
+- **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 ---
 
 ---
@@ -891,7 +903,7 @@
 
 ---
 
-## General - Vocabulary (46 words)
+## General - Vocabulary (47 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -935,7 +947,7 @@
 - **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 ---
 
-### other (13 words)
+### other (14 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -949,6 +961,7 @@
 - **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
 - **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
+- **ahead** /əˈhed/ : 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> **go ahead** used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead'
 ---
 
 ---

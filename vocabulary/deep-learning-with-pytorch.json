@@ -1723,10 +1723,10 @@
           "mean_en": ""
         },
         {
-          "word": "act",
-          "phonetic": "",
-          "mean_fa": "عمل، کار",
-          "mean_en": ""
+          "word": "act (noun)",
+          "phonetic": "/ækt/",
+          "mean_fa": "",
+          "mean_en": "1. a thing that you do: an act of kindness <br> 2. one of the main parts of a play or an opera (= a musical play): This play has five acts <br> 3. a law that a government makes: an act of Parliament <br> 4. behaviour that hides your true feelings: She seems very happy, but she's just putting on an act <br> **in the act (of doing something)** while doing something wrong: I caught him in the act of stealing the money"
         },
         {
           "word": "primarily",
@@ -2768,7 +2768,7 @@
           "word": "away",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here: Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away"
+          "mean_en": "1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away"
         },
         {
           "word": "fade away",
@@ -2923,7 +2923,7 @@
           "word": "way",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London"
+          "mean_en": "1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London <br> **no way** a way of saying 'no' more strongly: 'Can I borrow your bike?' 'No way!'"
         },
         {
           "word": "domain",

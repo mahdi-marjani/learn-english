@@ -312,7 +312,7 @@
 - **among** : در میان
 - **although** : اگرچه
 - **collaborative** : مشارکتی
-- **act** : عمل، کار
+- **act (noun)** /ækt/ : 1. a thing that you do: an act of kindness <br> 2. one of the main parts of a play or an opera (= a musical play): This play has five acts <br> 3. a law that a government makes: an act of Parliament <br> 4. behaviour that hides your true feelings: She seems very happy, but she's just putting on an act <br> **in the act (of doing something)** while doing something wrong: I caught him in the act of stealing the money
 - **primarily** : عمدتاً، به طور اصلی
 - **charge** : مسئولیت
 - **came** : past of come
@@ -490,7 +490,7 @@
 - **diversity** /daɪˈvɜːrsəti/ : variety
 - **fade** /feɪd/ : to lose brightness, color, or strength gradually
 - **gradually** /ˈɡrædʒ.u.ə.li/ : به تدریج، آرام آرام
-- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here: Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
+- **away** : 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - **fade away** : به تدریج محو شدن و ناپدید شدن
 - **tell apart** : to see the difference between two people or things: I can't tell the twins apart
 - **set apart** : to make someone or something different from others: His kindness sets him apart from others
@@ -518,7 +518,7 @@
 - **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
-- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London
+- **way** : 1. a method or style of doing something: What is the best way to learn a language? <br> 2. a road or path that you must follow to go to a place: Can you tell me the way to the station please? - I lost my way and I had to look at the map <br> 3. a direction; where somebody or something is going or looking: Come this way - She was looking the other way - is this picture the right way up? - Those two words are the wrong way round <br> 4. distance: It's a long way from Glasgow to London <br> **no way** a way of saying 'no' more strongly: 'Can I borrow your bike?' 'No way!'
 - **domain** /doʊˈmeɪn/ : a particular area of activity, knowledge, or data
 - **unveil** /ʌnˈveɪl/ : to show or make known something that was hidden or unknown
 - **crack** /kræk/ : شکافتن، ترک خوردن؛ در معنای مجازی: حل کردن (مسئله دشوار)، رمزگشایی کردن

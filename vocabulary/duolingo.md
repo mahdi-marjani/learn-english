@@ -1,18 +1,18 @@
 # Duolingo - Vocabulary
 
-**Total words: 117**
+**Total words: 129**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (117 words)](#section-1-117-words)
+- [SECTION 1 (129 words)](#section-1-129-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
-  - [Interview (15 words)](#interview-15-words)
+  - [Interview (27 words)](#interview-27-words)
 
 ---
 
-## SECTION 1 (117 words)
+## SECTION 1 (129 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -122,7 +122,7 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-### Interview (15 words)
+### Interview (27 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
@@ -138,4 +138,16 @@
 - **coach** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
 - **positive** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
 - **actor** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
+- **act (verb)** /ækt/ : 1. to do something, or to behave in a certain way: Doctors acted quickly to save the boy's life after the accident - Stop acting like a child <br> 2. to pretend to be somebody else in a play film or television programme (SAME MEANING: perform) <br> **act as something** to do the job of another person, usually for a short time: He acted as a manager while his boss was ill
+- **adult** /ˈædʌlt/ : a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
+- **as** : 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. **as ... as** words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
+- **airline** : a company that takes people or things to different places by plane: Which airline are you flying with?
+- **lie (verb)** /laɪ/ : to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- **salary** /ˈsæləri/ : money that you receive every month for the work that you do
+- **confident** /ˈkɑːnfɪdənt/ : sure that you can do something well, or that something will happen: I'm confident that our team will win
+- **airport** : a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
+- **sign (verb)** /saɪn/ : to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature)
+- **strange** /streɪndʒ/ : 1. unusual or surprising: Did you hear that strange noise? <br> 2. that you do not know: We were lost in a strange town
+- **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
+- **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 ---
