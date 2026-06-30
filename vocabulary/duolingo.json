@@ -797,6 +797,107 @@
               "mean_en": "1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you"
             }
           ]
+        },
+        {
+          "heading": "Chores",
+          "words": [
+            {
+              "word": "chore",
+              "phonetic": "/tʃɔːr/",
+              "mean_fa": "",
+              "mean_en": "1. the regular or daily light work of a household or farm <br> 2. a routine task or job: The children were each assigned household chores <br> 3. a difficult or disagreeable task: doing taxes can be a real chore"
+            },
+            {
+              "word": "regular",
+              "phonetic": "/ˈrɛ.gjʊ.lər/",
+              "mean_fa": "",
+              "mean_en": "1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?"
+            },
+            {
+              "word": "garbage",
+              "phonetic": "/ˈɡɑːr.bɪdʒ/",
+              "mean_fa": "زباله",
+              "mean_en": "(Brithis: rubbish)"
+            },
+            {
+              "word": "messy",
+              "phonetic": "/ˈmes.i/",
+              "mean_fa": "",
+              "mean_en": "1. untidy or dirty: a messy kitchen <br> 2. Painting is a messy job"
+            },
+            {
+              "word": "untidy",
+              "phonetic": "/ʌnˈtaɪ.di/",
+              "mean_fa": "",
+              "mean_en": "not tidy; not with everything in the right place (SAME MEANING: messy): Your room is always so untidy"
+            },
+            {
+              "word": "dirty",
+              "phonetic": "/dɜr:ti/",
+              "mean_fa": "",
+              "mean_en": "not clean: Your hands are dirty _ go and wash them (OPPOSITE: clean)"
+            },
+            {
+              "word": "dust",
+              "phonetic": "/dʌst/",
+              "mean_fa": "",
+              "mean_en": "dry dirt that is like powder: The old table was covered in dust"
+            },
+            {
+              "word": "shelf",
+              "phonetic": "/ʃelf/",
+              "mean_fa": "",
+              "mean_en": "a long flat piece of wood on a wall or in a cupboard, where things can stand: Put the plates on the shelf - bookshelves <br> <img src='images/shelf.jpg' alt='shelf' width='200'>"
+            },
+            {
+              "word": "piece",
+              "phonetic": "/piːs/",
+              "mean_fa": "",
+              "mean_en": "1. a part of something: Would you like another piece of cake? - a piece of broken glass <br> 2. one single thing: Have you got a piece of paper - That's an interesting piece of news <br> 3. a coin: a 50p piece <br> **fall to pieces** to become very old and in bad condition; to break: The chair fell to pieces when I sat on it <br> **in pieces** broken: The teapot lay in pieces on the floor <br> **take something to pieces** to divide something into its parts: I took the bed to pieces because it was too big to go through the door <br> <img src='images/piece.jpg' alt='piece' width='200'>"
+            },
+            {
+              "word": "divide",
+              "phonetic": "/dɪˈvaɪd/",
+              "mean_fa": "",
+              "mean_en": "1. to share or cut something into smaller parts: The teacher divided the class into groups of three - The book is divided into ten chapters <br> 2. to go into parts: When the road divides, go left <br> 3. to find out how many times one number goes into a bigger number: 36 divided by 4 is 9 (36 ÷ 4 = 9)"
+            },
+            {
+              "word": "bookshelf",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/bookshelf.jpg' alt='bookshelf' width='200'>"
+            },
+            {
+              "word": "inspection",
+              "phonetic": "/ɪnˈspek.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the act of looking at something carefully, or an official visit to a building or organization to check that everything is correct and legal"
+            },
+            {
+              "word": "inspector",
+              "phonetic": "/ˌɪns.pɛk.tɜr/",
+              "mean_fa": "",
+              "mean_en": "1. a person whose job is to see that things are done correctly: a factory inspector <br> 2. a police officer"
+            },
+            {
+              "word": "bored",
+              "phonetic": "/bɔːrd/",
+              "mean_fa": "",
+              "mean_en": "not interested; unhappy because you have nothing interesting to do: I'm bored with this book - The children were bored stiff"
+            },
+            {
+              "word": "dumpster",
+              "phonetic": "/ˈdʌmp.stər/",
+              "mean_fa": "",
+              "mean_en": "a very large container for rubbish (= garbage) <br> <img src='images/dumpster.jpg' alt='dumpster' width='200'>"
+            },
+            {
+              "word": "closet",
+              "phonetic": "/ˈklɑː.zət/",
+              "mean_fa": "",
+              "mean_en": "a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>"
+            }
+          ]
         }
       ]
     }
