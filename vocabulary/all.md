@@ -791,7 +791,7 @@
 - **boba** /ˈboʊbə/ : are small, chewy balls made from tapioca. They are usually added to bubble tea (a sweet tea drink) <br> <img src='images/boba.jpg' alt='boba' width='200'>
 - **definitely** /ˈdefənɪtli/ : without any doubt / certainly / for sure: I'll definitely consider your advice - It's definitely the best restaurant in the town
 - **grab** /ɡræb/ : to take or hold something quickly or suddenly: The thief grabbed her bag and ran away
-- **already** /ɔːlˈredi/ : before now or before a particular time: 'Would you like some lunch?' 'No, thank you _ I've already eaten' - We ran to the station but the train had already left
+- **already** /ɔːlˈredi/ : 1. before now or before a particular time: 'Would you like some lunch?' 'No, thank you—I’ve already eaten.' - We ran to the station but the train had already left <br> 2. now; sooner than expected: It's already 10 PM. - We've already finished the work <br> 3. even at this point; as early as now: We can already see the results. - Starting from the right side, we already get a glimpse of what we need - قبلاً، از قبل، تا الان، تاکنون، همین حالا، از همین مرحله
 - **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
