@@ -137,7 +137,7 @@
               "word": "hang",
               "phonetic": "/hæŋ/",
               "mean_fa": "",
-              "mean_en": "1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down"
+              "mean_en": "1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down <br> **hang out** to spend a lot of time in a place or with someone"
             },
             {
               "word": "plate",
@@ -805,7 +805,7 @@
               "word": "chore",
               "phonetic": "/tʃɔːr/",
               "mean_fa": "",
-              "mean_en": "1. the regular or daily light work of a household or farm <br> 2. a routine task or job: The children were each assigned household chores <br> 3. a difficult or disagreeable task: doing taxes can be a real chore"
+              "mean_en": "a routine task, especially a household one"
             },
             {
               "word": "regular",
@@ -896,6 +896,96 @@
               "phonetic": "/ˈklɑː.zət/",
               "mean_fa": "",
               "mean_en": "a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>"
+            },
+            {
+              "word": "mop",
+              "phonetic": "/mɑːp/",
+              "mean_fa": "",
+              "mean_en": "a thing with a long handle that you use for washing floors <br> <img src='images/mop.jpg' alt='mop' width='200'>"
+            },
+            {
+              "word": "either (adverb)",
+              "phonetic": "/ˈi.ðər/",
+              "mean_fa": "",
+              "mean_en": "(used in sentences with 'not') also: Lydia can't swim and I can't either <br> **either ... or** used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)"
+            },
+            {
+              "word": "audition",
+              "phonetic": "/ɑ.ˈdɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a test to show your talent"
+            },
+            {
+              "word": "household",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "related to the home"
+            },
+            {
+              "word": "scrub",
+              "phonetic": "/skrʌb/",
+              "mean_fa": "",
+              "mean_en": "to rub something hard to clean it, usually with a brush and soap and water: He scrubbed the floor <br> <img src='images/scrub.jpg' alt='scrub' width='200'>"
+            },
+            {
+              "word": "rub",
+              "phonetic": "/rʌb/",
+              "mean_fa": "",
+              "mean_en": "to move something backwards and forwards on another thing: I rubbed my hands together to keep them warm - The cat rubbed its head against my leg <br> **rub something out** to take writing or marks off something by using a rubber or a cloth: I rubbed the word out and wrote it again"
+            },
+            {
+              "word": "towel",
+              "phonetic": "/taʊəl/",
+              "mean_fa": "",
+              "mean_en": "a piece of cloth or paper that you use for drying your body or things such as dishes <br> <img src='images/towel.jpg' alt='towel' width='200'>"
+            },
+            {
+              "word": "rug",
+              "phonetic": "/rʌɡ/",
+              "mean_fa": "",
+              "mean_en": "something we use to cover or decorate a part of the floor that is usually made of thick materials or animal skin <br> <img src='images/rug.jpg' alt='rug' width='200'>"
+            },
+            {
+              "word": "thick",
+              "phonetic": "/θɪk/",
+              "mean_fa": "",
+              "mean_en": "1. far from one side to the other: The walls are very thick - It's cold outside, so wear a thick coat (OPPOSITE: thin) <br> 2. You use thick to say or ask how far something is from one side to the other: The ice is six centimetres thick <br> 3. with a lot of people or things close together: thick dark hair <br> 4. if a liquid is thick, it does not flow easily: This paint is too thick (OPPOSITE: thin) <br> 5. difficult to see through: thick smoke"
+            },
+            {
+              "word": "vacuum",
+              "phonetic": "/ˈvæk.juːm/",
+              "mean_fa": "",
+              "mean_en": "a machine for cleaning <br> <img src='images/vacuum.jpg' alt='vacuum' width='200'>"
+            },
+            {
+              "word": "vase",
+              "phonetic": "/veɪs/",
+              "mean_fa": "",
+              "mean_en": "a container for flowers <br> <img src='images/vase.jpg' alt='vase' width='200'>"
+            },
+            {
+              "word": "spill",
+              "phonetic": "/spɪl/",
+              "mean_fa": "",
+              "mean_en": "drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>"
+            },
+            {
+              "word": "disaster",
+              "phonetic": "/dɪ.zæs.tər/",
+              "mean_fa": "",
+              "mean_en": "a very bad event"
+            },
+            {
+              "word": "stain",
+              "phonetic": "/steɪn/",
+              "mean_fa": "",
+              "mean_en": "a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>"
+            },
+            {
+              "word": "pot",
+              "phonetic": "/pɒt/",
+              "mean_fa": "",
+              "mean_en": "a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>"
             }
           ]
         }

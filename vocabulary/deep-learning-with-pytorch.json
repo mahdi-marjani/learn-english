@@ -789,10 +789,10 @@
           "mean_en": ""
         },
         {
-          "word": "minds",
+          "word": "mind (noun)",
           "phonetic": "",
-          "mean_fa": "فکرها",
-          "mean_en": ""
+          "mean_fa": "ذهن",
+          "mean_en": "the part of you that thinks and remembers: He has a very quick mind <br> **be or go out of your mind** to be or become mad or very worried: Where were you? I was going out of my mind with worry <br> **change your mind** to have an idea, then decide to do something different: I planned a holiday in France and then changed my mind and went to Italy <br> **have something on your mind** to be worried about something: I've got a lot on my mind at the moment <br> **make up your mind** to decide something: Shall I buy the blue shirt or the red one? I can't make up my mind"
         },
         {
           "word": "horizon",
@@ -1388,10 +1388,10 @@
           "mean_en": ""
         },
         {
-          "word": "glimpsed",
-          "phonetic": "",
-          "mean_fa": "به‌طور گذرا دیده شده",
-          "mean_en": ""
+          "word": "glimpse (verb)",
+          "phonetic": "/ɡlɪmps/",
+          "mean_fa": "نگاهی گذرا کردن",
+          "mean_en": "to see something or someone for a very short time or only partly"
         },
         {
           "word": "cc",
@@ -2405,12 +2405,6 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "based on feelings rather than facts"
-        },
-        {
-          "word": "either ... or",
-          "phonetic": "",
-          "mean_fa": "",
-          "mean_en": "used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)"
         },
         {
           "word": "mental",
@@ -3487,6 +3481,42 @@
               "phonetic": "/oʊn/",
               "mean_fa": "",
               "mean_en": "used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>"
+            },
+            {
+              "word": "glimpse (noun)",
+              "phonetic": "/ɡlɪmps/",
+              "mean_fa": "",
+              "mean_en": "a view of somebody or something that is quick and not clear: I caught a glimpse of myself in the mirror"
+            },
+            {
+              "word": "whatever",
+              "phonetic": "/wʌt.ɛ.vər/",
+              "mean_fa": "",
+              "mean_en": "1. any or every; anything or everything: These animals eat whatever food they can find - I'll do whatever I can to help you <br> 2. it does not matter what: Whatever you do, don't be late <br> 3. a word that you say to show that you do not mind what you do or have: 'What shall we do tomorrow?' 'Whatever'"
+            },
+            {
+              "word": "mind (verb)",
+              "phonetic": "/maɪnd/",
+              "mean_fa": "",
+              "mean_en": "1. to feel unhappy or angry about something: Do you mind if I smoke? - I don't mind the heat at all <br> 2. to be careful of somebody or something (SAME MEANING: watch): Mind the step <br> **do you mind ...?; would you mind ...?** please could you ...?: It's cold _ would you mind closing the window? <br> **I don't mind** it is not important to me which thing: 'Do you want tea or coffee?' 'I don't mind' <br> **mind out** used to tell somebody to get out of the way or to be careful: Mind out! There's a dog in the road <br> **never mind** don't worry; it doesn't matter: 'I forgot your book' 'Never mind, I don't need it today'"
+            },
+            {
+              "word": "somehow",
+              "phonetic": "/ˈsʌm.haʊ/",
+              "mean_fa": "به‌نوعی",
+              "mean_en": "in a way or by some method that is not known or certain"
+            },
+            {
+              "word": "obtain",
+              "phonetic": "/əbˈteɪn/",
+              "mean_fa": "",
+              "mean_en": "to get something, often with difficulty: Where can I obtain tickets for the play"
+            },
+            {
+              "word": "desire",
+              "phonetic": "/dɪ.ˈzaɪər/",
+              "mean_fa": "",
+              "mean_en": "a feeling of wanting something very much: a desire for peace"
             }
           ]
         }

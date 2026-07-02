@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 574**
+**Total words: 579**
 
 ## 📑 Table of Contents
 
@@ -8,11 +8,11 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (90 words)](#preface-90-words)
 - [acknowledgments (61 words)](#acknowledgments-61-words)
-- [about this book (165 words)](#about-this-book-165-words)
+- [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (101 words)](#part-1-core-pytorch-101-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (88 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-88-words)
+- [Part 1: Core PyTorch (107 words)](#part-1-core-pytorch-107-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (94 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-94-words)
 
 ---
 
@@ -152,7 +152,7 @@
 - **complicated** : complex - پیچیده
 - **observation** : مشاهده
 - **kids-of-the-80s** : کودکان دهه ۸۰ میلادی
-- **minds** : فکرها
+- **mind (noun)** : the part of you that thinks and remembers: He has a very quick mind <br> **be or go out of your mind** to be or become mad or very worried: Where were you? I was going out of my mind with worry <br> **change your mind** to have an idea, then decide to do something different: I planned a holiday in France and then changed my mind and went to Italy <br> **have something on your mind** to be worried about something: I've got a lot on my mind at the moment <br> **make up your mind** to decide something: Shall I buy the blue shirt or the red one? I can't make up my mind - ذهن
 - **horizon** : افق
 - **overnight** : یک شبه
 - **getting our hands dirty** : کار عملی کردن ، به‌جای فقط مطالعه تئوری
@@ -254,7 +254,7 @@
 - **proofreader** : ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
 - **behind** : پشتِ
 - **scenes** : صحنه‌ها
-- **glimpsed** : به‌طور گذرا دیده شده
+- **glimpse (verb)** /ɡlɪmps/ : to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - **cc** : Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - **threads** : زنجیره پیام‌ها
 - **necessary** : ضروری
@@ -270,7 +270,7 @@
 - **these** : this جمعِ
 ---
 
-## about this book (165 words)
+## about this book (164 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -426,7 +426,6 @@
 - **encourage** : تشویق کردن
 - **build up** : ساختن، ایجاد کردن (به تدریج)
 - **intuitive** : based on feelings rather than facts
-- **either ... or** : used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
 - **mental** : related to the mind or thinking
 - **intuition** : the ability to understand something without conscious reasoning
 - **conscious** : aware
@@ -510,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (101 words)
+## Part 1: Core PyTorch (107 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -525,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (88 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (94 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -614,4 +613,10 @@
 - **lead (verb)** /liːd/ : 1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis
 - **hierarchical (adjective)** /ˌhaɪˈrɑːr.kɪ.kəl/ : relating to a system that is organized based on social ranking or levels of authority <br> <img src='images/hierarchical.jpg' alt='hierarchical' width='200'>
 - **own (adjective)** /oʊn/ : used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>
+- **glimpse (noun)** /ɡlɪmps/ : a view of somebody or something that is quick and not clear: I caught a glimpse of myself in the mirror
+- **whatever** /wʌt.ɛ.vər/ : 1. any or every; anything or everything: These animals eat whatever food they can find - I'll do whatever I can to help you <br> 2. it does not matter what: Whatever you do, don't be late <br> 3. a word that you say to show that you do not mind what you do or have: 'What shall we do tomorrow?' 'Whatever'
+- **mind (verb)** /maɪnd/ : 1. to feel unhappy or angry about something: Do you mind if I smoke? - I don't mind the heat at all <br> 2. to be careful of somebody or something (SAME MEANING: watch): Mind the step <br> **do you mind ...?; would you mind ...?** please could you ...?: It's cold _ would you mind closing the window? <br> **I don't mind** it is not important to me which thing: 'Do you want tea or coffee?' 'I don't mind' <br> **mind out** used to tell somebody to get out of the way or to be careful: Mind out! There's a dog in the road <br> **never mind** don't worry; it doesn't matter: 'I forgot your book' 'Never mind, I don't need it today'
+- **somehow** /ˈsʌm.haʊ/ : in a way or by some method that is not known or certain - به‌نوعی
+- **obtain** /əbˈteɪn/ : to get something, often with difficulty: Where can I obtain tickets for the play
+- **desire** /dɪ.ˈzaɪər/ : a feeling of wanting something very much: a desire for peace
 ---

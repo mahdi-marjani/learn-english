@@ -1,19 +1,19 @@
 # Duolingo - Vocabulary
 
-**Total words: 145**
+**Total words: 160**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (145 words)](#section-1-145-words)
+- [SECTION 1 (160 words)](#section-1-160-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (27 words)](#interview-27-words)
-  - [Chores (16 words)](#chores-16-words)
+  - [Chores (31 words)](#chores-31-words)
 
 ---
 
-## SECTION 1 (145 words)
+## SECTION 1 (160 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -37,7 +37,7 @@
 - **desk** /desk/ : 1. a type of table, often with drawers, that you sit at to write or work: The pupils took their books out of their desks <br> 2. a table or place in a building where somebody gives information, etc.: Ask at the information desk
 - **patio** /ˈpætioʊ/ : an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc
 - **sauce** /sɔːs/ : a thick liquid that you eat on or with other food: pasta with tomato sauce <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
-- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down
+- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down <br> **hang out** to spend a lot of time in a place or with someone
 - **plate** /pleɪt/ : a round dish that you put food on <br> <img src='images/plate.jpg' alt='plate' width='200'>
 - **sense (verb)** /sens/ : to understand or feel something: I sensed that he was worried
 - **meal** /miːl/ : food that you eat at a certain time of the day: What's your favourite meal of the day? - We had a nice meal in that restaurant
@@ -152,8 +152,8 @@
 - **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
 - **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 
-### Chores (16 words)
-- **chore** /tʃɔːr/ : 1. the regular or daily light work of a household or farm <br> 2. a routine task or job: The children were each assigned household chores <br> 3. a difficult or disagreeable task: doing taxes can be a real chore
+### Chores (31 words)
+- **chore** /tʃɔːr/ : a routine task, especially a household one
 - **regular** /ˈrɛ.gjʊ.lər/ : 1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?
 - **garbage** /ˈɡɑːr.bɪdʒ/ : (Brithis: rubbish) - زباله
 - **messy** /ˈmes.i/ : 1. untidy or dirty: a messy kitchen <br> 2. Painting is a messy job
@@ -169,4 +169,19 @@
 - **bored** /bɔːrd/ : not interested; unhappy because you have nothing interesting to do: I'm bored with this book - The children were bored stiff
 - **dumpster** /ˈdʌmp.stər/ : a very large container for rubbish (= garbage) <br> <img src='images/dumpster.jpg' alt='dumpster' width='200'>
 - **closet** /ˈklɑː.zət/ : a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>
+- **mop** /mɑːp/ : a thing with a long handle that you use for washing floors <br> <img src='images/mop.jpg' alt='mop' width='200'>
+- **either (adverb)** /ˈi.ðər/ : (used in sentences with 'not') also: Lydia can't swim and I can't either <br> **either ... or** used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
+- **audition** /ɑ.ˈdɪ.ʃən/ : a test to show your talent
+- **household** : related to the home
+- **scrub** /skrʌb/ : to rub something hard to clean it, usually with a brush and soap and water: He scrubbed the floor <br> <img src='images/scrub.jpg' alt='scrub' width='200'>
+- **rub** /rʌb/ : to move something backwards and forwards on another thing: I rubbed my hands together to keep them warm - The cat rubbed its head against my leg <br> **rub something out** to take writing or marks off something by using a rubber or a cloth: I rubbed the word out and wrote it again
+- **towel** /taʊəl/ : a piece of cloth or paper that you use for drying your body or things such as dishes <br> <img src='images/towel.jpg' alt='towel' width='200'>
+- **rug** /rʌɡ/ : something we use to cover or decorate a part of the floor that is usually made of thick materials or animal skin <br> <img src='images/rug.jpg' alt='rug' width='200'>
+- **thick** /θɪk/ : 1. far from one side to the other: The walls are very thick - It's cold outside, so wear a thick coat (OPPOSITE: thin) <br> 2. You use thick to say or ask how far something is from one side to the other: The ice is six centimetres thick <br> 3. with a lot of people or things close together: thick dark hair <br> 4. if a liquid is thick, it does not flow easily: This paint is too thick (OPPOSITE: thin) <br> 5. difficult to see through: thick smoke
+- **vacuum** /ˈvæk.juːm/ : a machine for cleaning <br> <img src='images/vacuum.jpg' alt='vacuum' width='200'>
+- **vase** /veɪs/ : a container for flowers <br> <img src='images/vase.jpg' alt='vase' width='200'>
+- **spill** /spɪl/ : drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>
+- **disaster** /dɪ.zæs.tər/ : a very bad event
+- **stain** /steɪn/ : a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
+- **pot** /pɒt/ : a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
 ---

@@ -1,17 +1,17 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 68**
+**Total words: 69**
 
 ## 📑 Table of Contents
 
-- [S1 (68 words)](#s1-68-words)
-  - [E1 (68 words)](#e1-68-words)
+- [S1 (69 words)](#s1-69-words)
+  - [E1 (69 words)](#e1-69-words)
 
 ---
 
-## S1 (68 words)
+## S1 (69 words)
 
-### E1 (68 words)
+### E1 (69 words)
 - **aye** /aɪ/ : another word for 'yes'
 - **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
@@ -66,7 +66,8 @@
 - **smelly** /ˈsmeli/ : having a bad smell: smelly socks
 - **anchovy** /ˈæntʃoʊvi/ : a small or medium-sized oily sea fish <br> <img src='images/anchovies.jpg' alt='anchovies' width='200'>
 - **decency** /ˈdiːsnsi/ : behaviour that is good, moral, and acceptable in society
-- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy: keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy): keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **tidy** /ˈtaɪ.di/ : 1. with everything in the right place: Her room is very tidy <br> 2. liking to have everything in the right place: a tidy boy (OPPOSITE: untidy)
 - **anchor** /ˈæŋkər/ : <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
 - **batten down the hatches** : to fasten or secure something tightly, especially on a ship before a storm
 - **fasten** /ˈfæsn/ : 1. to join or close something so that it will not come open: Please fasten your seat belts - Can you fasten this suitcase for me? <br> 2. to fix or tie one thing to another thing: Fasten this badge to your jacket

@@ -1,29 +1,29 @@
 # All Vocabulary
 
-**Total words: 849**
+**Total words: 870**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (68 words)](#spongebob-squarepants---vocabulary-68-words)
-  - [S1 (68 words)](#s1-68-words)
-    - [E1 (68 words)](#e1-68-words)
-- [Deep Learning with PyTorch - Vocabulary (574 words)](#deep-learning-with-pytorch---vocabulary-574-words)
+- [SpongeBob SquarePants - Vocabulary (69 words)](#spongebob-squarepants---vocabulary-69-words)
+  - [S1 (69 words)](#s1-69-words)
+    - [E1 (69 words)](#e1-69-words)
+- [Deep Learning with PyTorch - Vocabulary (579 words)](#deep-learning-with-pytorch---vocabulary-579-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
   - [acknowledgments (61 words)](#acknowledgments-61-words)
-  - [about this book (165 words)](#about-this-book-165-words)
+  - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (101 words)](#part-1-core-pytorch-101-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (88 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-88-words)
-- [Duolingo - Vocabulary (145 words)](#duolingo---vocabulary-145-words)
-  - [SECTION 1 (145 words)](#section-1-145-words)
+  - [Part 1: Core PyTorch (107 words)](#part-1-core-pytorch-107-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (94 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-94-words)
+- [Duolingo - Vocabulary (160 words)](#duolingo---vocabulary-160-words)
+  - [SECTION 1 (160 words)](#section-1-160-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (27 words)](#interview-27-words)
-    - [Chores (16 words)](#chores-16-words)
+    - [Chores (31 words)](#chores-31-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -41,11 +41,11 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (68 words)
+## SpongeBob SquarePants - Vocabulary (69 words)
 
-### S1 (68 words)
+### S1 (69 words)
 
-#### E1 (68 words)
+#### E1 (69 words)
 - **aye** /aɪ/ : another word for 'yes'
 - **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
@@ -100,7 +100,8 @@
 - **smelly** /ˈsmeli/ : having a bad smell: smelly socks
 - **anchovy** /ˈæntʃoʊvi/ : a small or medium-sized oily sea fish <br> <img src='images/anchovies.jpg' alt='anchovies' width='200'>
 - **decency** /ˈdiːsnsi/ : behaviour that is good, moral, and acceptable in society
-- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy: keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **neat** /niːt/ : 1. with everything in the right place and done carefully (SAME MEANING: tidy): keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
+- **tidy** /ˈtaɪ.di/ : 1. with everything in the right place: Her room is very tidy <br> 2. liking to have everything in the right place: a tidy boy (OPPOSITE: untidy)
 - **anchor** /ˈæŋkər/ : <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
 - **batten down the hatches** : to fasten or secure something tightly, especially on a ship before a storm
 - **fasten** /ˈfæsn/ : 1. to join or close something so that it will not come open: Please fasten your seat belts - Can you fasten this suitcase for me? <br> 2. to fix or tie one thing to another thing: Fasten this badge to your jacket
@@ -118,7 +119,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (574 words)
+## Deep Learning with PyTorch - Vocabulary (579 words)
 
 ### Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -256,7 +257,7 @@
 - **complicated** : complex - پیچیده
 - **observation** : مشاهده
 - **kids-of-the-80s** : کودکان دهه ۸۰ میلادی
-- **minds** : فکرها
+- **mind (noun)** : the part of you that thinks and remembers: He has a very quick mind <br> **be or go out of your mind** to be or become mad or very worried: Where were you? I was going out of my mind with worry <br> **change your mind** to have an idea, then decide to do something different: I planned a holiday in France and then changed my mind and went to Italy <br> **have something on your mind** to be worried about something: I've got a lot on my mind at the moment <br> **make up your mind** to decide something: Shall I buy the blue shirt or the red one? I can't make up my mind - ذهن
 - **horizon** : افق
 - **overnight** : یک شبه
 - **getting our hands dirty** : کار عملی کردن ، به‌جای فقط مطالعه تئوری
@@ -358,7 +359,7 @@
 - **proofreader** : ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
 - **behind** : پشتِ
 - **scenes** : صحنه‌ها
-- **glimpsed** : به‌طور گذرا دیده شده
+- **glimpse (verb)** /ɡlɪmps/ : to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - **cc** : Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - **threads** : زنجیره پیام‌ها
 - **necessary** : ضروری
@@ -374,7 +375,7 @@
 - **these** : this جمعِ
 ---
 
-### about this book (165 words)
+### about this book (164 words)
 - **aim** : target
 - **foundations** : basics
 - **strive** : try
@@ -530,7 +531,6 @@
 - **encourage** : تشویق کردن
 - **build up** : ساختن، ایجاد کردن (به تدریج)
 - **intuitive** : based on feelings rather than facts
-- **either ... or** : used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
 - **mental** : related to the mind or thinking
 - **intuition** : the ability to understand something without conscious reasoning
 - **conscious** : aware
@@ -614,7 +614,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (101 words)
+### Part 1: Core PyTorch (107 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -629,7 +629,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (88 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (94 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -718,13 +718,19 @@
 - **lead (verb)** /liːd/ : 1. to take a person or an animal somewhere by going with them or in front of them: He led me to the classroom <br> 2. to go to a place: This path leads to the river <br> 3. to make something happen: Smoking can lead to heart disease <br> 4. to have a particular type of life: They lead a very busy life <br> 5. to be the first or the best, for example in a race or game: Who's leading in the race? <br> 6. to control a group of people: The team was led by Gwen Hollis
 - **hierarchical (adjective)** /ˌhaɪˈrɑːr.kɪ.kəl/ : relating to a system that is organized based on social ranking or levels of authority <br> <img src='images/hierarchical.jpg' alt='hierarchical' width='200'>
 - **own (adjective)** /oʊn/ : used for showing that someone or something belongs to or is connected with a particular person or thing: Is that your own camera or did you borrow it? - I have my own room now that my sister has left home - I want a home of my own <br> <img src='images/own.jpg' alt='own' width='200'>
+- **glimpse (noun)** /ɡlɪmps/ : a view of somebody or something that is quick and not clear: I caught a glimpse of myself in the mirror
+- **whatever** /wʌt.ɛ.vər/ : 1. any or every; anything or everything: These animals eat whatever food they can find - I'll do whatever I can to help you <br> 2. it does not matter what: Whatever you do, don't be late <br> 3. a word that you say to show that you do not mind what you do or have: 'What shall we do tomorrow?' 'Whatever'
+- **mind (verb)** /maɪnd/ : 1. to feel unhappy or angry about something: Do you mind if I smoke? - I don't mind the heat at all <br> 2. to be careful of somebody or something (SAME MEANING: watch): Mind the step <br> **do you mind ...?; would you mind ...?** please could you ...?: It's cold _ would you mind closing the window? <br> **I don't mind** it is not important to me which thing: 'Do you want tea or coffee?' 'I don't mind' <br> **mind out** used to tell somebody to get out of the way or to be careful: Mind out! There's a dog in the road <br> **never mind** don't worry; it doesn't matter: 'I forgot your book' 'Never mind, I don't need it today'
+- **somehow** /ˈsʌm.haʊ/ : in a way or by some method that is not known or certain - به‌نوعی
+- **obtain** /əbˈteɪn/ : to get something, often with difficulty: Where can I obtain tickets for the play
+- **desire** /dɪ.ˈzaɪər/ : a feeling of wanting something very much: a desire for peace
 ---
 
 ---
 
-## Duolingo - Vocabulary (145 words)
+## Duolingo - Vocabulary (160 words)
 
-### SECTION 1 (145 words)
+### SECTION 1 (160 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -748,7 +754,7 @@
 - **desk** /desk/ : 1. a type of table, often with drawers, that you sit at to write or work: The pupils took their books out of their desks <br> 2. a table or place in a building where somebody gives information, etc.: Ask at the information desk
 - **patio** /ˈpætioʊ/ : an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc
 - **sauce** /sɔːs/ : a thick liquid that you eat on or with other food: pasta with tomato sauce <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
-- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down
+- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down <br> **hang out** to spend a lot of time in a place or with someone
 - **plate** /pleɪt/ : a round dish that you put food on <br> <img src='images/plate.jpg' alt='plate' width='200'>
 - **sense (verb)** /sens/ : to understand or feel something: I sensed that he was worried
 - **meal** /miːl/ : food that you eat at a certain time of the day: What's your favourite meal of the day? - We had a nice meal in that restaurant
@@ -863,8 +869,8 @@
 - **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
 - **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 
-#### Chores (16 words)
-- **chore** /tʃɔːr/ : 1. the regular or daily light work of a household or farm <br> 2. a routine task or job: The children were each assigned household chores <br> 3. a difficult or disagreeable task: doing taxes can be a real chore
+#### Chores (31 words)
+- **chore** /tʃɔːr/ : a routine task, especially a household one
 - **regular** /ˈrɛ.gjʊ.lər/ : 1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?
 - **garbage** /ˈɡɑːr.bɪdʒ/ : (Brithis: rubbish) - زباله
 - **messy** /ˈmes.i/ : 1. untidy or dirty: a messy kitchen <br> 2. Painting is a messy job
@@ -880,6 +886,21 @@
 - **bored** /bɔːrd/ : not interested; unhappy because you have nothing interesting to do: I'm bored with this book - The children were bored stiff
 - **dumpster** /ˈdʌmp.stər/ : a very large container for rubbish (= garbage) <br> <img src='images/dumpster.jpg' alt='dumpster' width='200'>
 - **closet** /ˈklɑː.zət/ : a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>
+- **mop** /mɑːp/ : a thing with a long handle that you use for washing floors <br> <img src='images/mop.jpg' alt='mop' width='200'>
+- **either (adverb)** /ˈi.ðər/ : (used in sentences with 'not') also: Lydia can't swim and I can't either <br> **either ... or** used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
+- **audition** /ɑ.ˈdɪ.ʃən/ : a test to show your talent
+- **household** : related to the home
+- **scrub** /skrʌb/ : to rub something hard to clean it, usually with a brush and soap and water: He scrubbed the floor <br> <img src='images/scrub.jpg' alt='scrub' width='200'>
+- **rub** /rʌb/ : to move something backwards and forwards on another thing: I rubbed my hands together to keep them warm - The cat rubbed its head against my leg <br> **rub something out** to take writing or marks off something by using a rubber or a cloth: I rubbed the word out and wrote it again
+- **towel** /taʊəl/ : a piece of cloth or paper that you use for drying your body or things such as dishes <br> <img src='images/towel.jpg' alt='towel' width='200'>
+- **rug** /rʌɡ/ : something we use to cover or decorate a part of the floor that is usually made of thick materials or animal skin <br> <img src='images/rug.jpg' alt='rug' width='200'>
+- **thick** /θɪk/ : 1. far from one side to the other: The walls are very thick - It's cold outside, so wear a thick coat (OPPOSITE: thin) <br> 2. You use thick to say or ask how far something is from one side to the other: The ice is six centimetres thick <br> 3. with a lot of people or things close together: thick dark hair <br> 4. if a liquid is thick, it does not flow easily: This paint is too thick (OPPOSITE: thin) <br> 5. difficult to see through: thick smoke
+- **vacuum** /ˈvæk.juːm/ : a machine for cleaning <br> <img src='images/vacuum.jpg' alt='vacuum' width='200'>
+- **vase** /veɪs/ : a container for flowers <br> <img src='images/vase.jpg' alt='vase' width='200'>
+- **spill** /spɪl/ : drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>
+- **disaster** /dɪ.zæs.tər/ : a very bad event
+- **stain** /steɪn/ : a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
+- **pot** /pɒt/ : a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
 ---
 
 ---
