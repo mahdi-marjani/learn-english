@@ -1,19 +1,19 @@
 # Duolingo - Vocabulary
 
-**Total words: 160**
+**Total words: 168**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (160 words)](#section-1-160-words)
+- [SECTION 1 (168 words)](#section-1-168-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (27 words)](#interview-27-words)
-  - [Chores (31 words)](#chores-31-words)
+  - [Chores (39 words)](#chores-39-words)
 
 ---
 
-## SECTION 1 (160 words)
+## SECTION 1 (168 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -152,7 +152,7 @@
 - **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
 - **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 
-### Chores (31 words)
+### Chores (39 words)
 - **chore** /tʃɔːr/ : a routine task, especially a household one
 - **regular** /ˈrɛ.gjʊ.lər/ : 1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?
 - **garbage** /ˈɡɑːr.bɪdʒ/ : (Brithis: rubbish) - زباله
@@ -184,4 +184,12 @@
 - **disaster** /dɪ.zæs.tər/ : a very bad event
 - **stain** /steɪn/ : a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
 - **pot** /pɒt/ : a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
+- **make** : 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> **make do with something** to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> **make something into something** to change something so that it becomes a different thing: They made the bedroom into an office <br> **make something or somebody out** to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> **make something up** to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> **make up** to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)
+- **blanket** /ˈblæŋ.kɪt/ : covers for keeping warm <br> <img src='images/blanket.jpg' alt='blanket' width='200'>
+- **stove** /stoʊv/ : a device for cooking food <br> <img src='images/stove.jpg' alt='stove' width='200'>
+- **corner** /ˈkɔr.nɜr/ : where two walls meet <br> <img src='images/corner.jpg' alt='corner' width='200'>
+- **trouble** /ˈtrʌb.əl/ : problems or difficulties
+- **glove** /ɡlʌv/ : a thing that you wear to keep your hand warm or safe <br> <img src='images/glove.jpg' alt='glove' width='200'>
+- **genius** /ˈdʒiː.ni.əs/ : a very smart person
+- **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
 ---
