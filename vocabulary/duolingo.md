@@ -99,7 +99,7 @@
 - **loneliness** /ˈloʊnlinəs/ : feeling of being alone
 - **talent** /ˈtæl.ənt/ : a natural ability to do something very well: She has a talent for drawing
 - **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
-- **judges (noun)** /ˈdʒʌdʒɪz/ : people who decide in a court or competition; a person who chooses the winner of a competition
+- **judge (noun)** /dʒʌdʒ/ : 1. the person in a court of law who decides how to punish somebody: The judge sent him to prison for 20 years <br> <img src='images/judge.jpg' alt='judge' width='200'> <br> 2. a person who chooses the winner of a competition
 - **campus** /ˈkæm.pəs/ : the buildings of a college or university and the land that surrounds them
 - **borrow (verb)** /ˈbɑːr.oʊ/ : to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library
 - **floor** /flɔːr/ : 1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor

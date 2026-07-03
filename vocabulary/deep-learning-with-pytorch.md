@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 579**
+**Total words: 587**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (107 words)](#part-1-core-pytorch-107-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (94 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-94-words)
+- [Part 1: Core PyTorch (115 words)](#part-1-core-pytorch-115-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (102 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-102-words)
 
 ---
 
@@ -509,7 +509,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (107 words)
+## Part 1: Core PyTorch (115 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +524,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (94 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (102 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -619,4 +619,12 @@
 - **somehow** /ˈsʌm.haʊ/ : in a way or by some method that is not known or certain - به‌نوعی
 - **obtain** /əbˈteɪn/ : to get something, often with difficulty: Where can I obtain tickets for the play
 - **desire** /dɪ.ˈzaɪər/ : a feeling of wanting something very much: a desire for peace
+- **criterion** /kraɪˈtɪr.i.ən/ : a standard by which you judge, decide about, or deal with something
+- **judge (verb)** /dʒʌdʒ/ : 1. to have or to form an opinion about somebody or something: It's difficult to judge how long the project will take <br> 2. to decide who or what wins a competition: The headmaster judged the painting competition
+- **provide** /prəˈvaɪd/ : to give something to somebody who needs it: I'll provide the food for the party - The company have provided me with a car
+- **discrepancy** /dɪˈskrep.ən.si/ : a difference between two things that should be the same: There is some discrepancy between the two accounts
+- **convention** /kənˈven.ʃən/ : 1. a formal agreement between two or more people, groups, organizations, or countries <br> <img src='images/convention.jpg' alt='convention' width='200'> <br> 2. behavior and actions that most members of a society expect and consider appropriate
+- **incremental** /ˌɪnk.rə.ˈmen.təl/ : changing or progressing in small, steady steps rather than in sudden leaps or bounds <br> <img src='images/incremental.jpg' alt='incremental' width='200'>
+- **modify** /ˈmɑːdɪfaɪ/ : to make partial or small changes to something, especially to improve it
+- **achieve** /əˈtʃiːv/ : to successfully reach a goal or obtain something through effort
 ---
