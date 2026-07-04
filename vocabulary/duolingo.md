@@ -1,19 +1,20 @@
 # Duolingo - Vocabulary
 
-**Total words: 168**
+**Total words: 182**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (168 words)](#section-1-168-words)
+- [SECTION 1 (182 words)](#section-1-182-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (27 words)](#interview-27-words)
   - [Chores (39 words)](#chores-39-words)
+  - [Meeting (14 words)](#meeting-14-words)
 
 ---
 
-## SECTION 1 (168 words)
+## SECTION 1 (182 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -192,4 +193,20 @@
 - **glove** /ɡlʌv/ : a thing that you wear to keep your hand warm or safe <br> <img src='images/glove.jpg' alt='glove' width='200'>
 - **genius** /ˈdʒiː.ni.əs/ : a very smart person
 - **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
+
+### Meeting (14 words)
+- **cushion** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
+- **furniture** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
+- **date** /deɪt/ : a meeting with someone special
+- **coworker** /koʊ.wɜ:r.kər/ : someone who works with someone else, having the same job
+- **sick** /sɪk/ : not well (SAME MEANING: ill)
+- **colleague** /ˈkɑː.liːɡ/ : work friend
+- **compete** /kəmˈpiːt/ : to try to win a race or a competition
+- **outfit** /ˈaʊt.fɪt/ : a set of clothes
+- **disbelief** /ˌdɪs.bɪˈliːf/ : the feeling of not being able to believe that something is true or real
+- **greatness** /ˈɡreɪt.nəs/ : being very good or important
+- **curtain** /ˈkɜr.tən/ : a piece of cloth that you can move to cover a window: Could you draw the curtains (= open or close the curtains), please? <br> <img src='images/curtain.jpg' alt='curtain' width='200'>
+- **bark (verb)** /bɑːrk/ : if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know
+- **pajamas** /pəˈdʒɑː.məz/ : clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>
+- **few** /fjuː/ : not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> **a few** some, but not many: Only a few people came to the meeting - I have read a few of her books <br> **quite a few** quite a lot: It's been quite a few years since I saw him last
 ---

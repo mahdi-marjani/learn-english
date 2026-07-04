@@ -1036,6 +1036,95 @@
               "mean_en": "a person who you share a room with for a period of time: Jean was my roommate during our first year at college"
             }
           ]
+        },
+        {
+          "heading": "Meeting",
+          "words": [
+            {
+              "word": "cushion",
+              "phonetic": "/ˈkʊʃ.ən/",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/cushion.jpg' alt='cushion' width='200'>"
+            },
+            {
+              "word": "furniture",
+              "phonetic": "/fɜr:nɪʧər/",
+              "mean_fa": "مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>",
+              "mean_en": ""
+            },
+            {
+              "word": "date",
+              "phonetic": "/deɪt/",
+              "mean_fa": "",
+              "mean_en": "a meeting with someone special"
+            },
+            {
+              "word": "coworker",
+              "phonetic": "/koʊ.wɜ:r.kər/",
+              "mean_fa": "",
+              "mean_en": "someone who works with someone else, having the same job"
+            },
+            {
+              "word": "sick",
+              "phonetic": "/sɪk/",
+              "mean_fa": "",
+              "mean_en": "not well (SAME MEANING: ill)"
+            },
+            {
+              "word": "colleague",
+              "phonetic": "/ˈkɑː.liːɡ/",
+              "mean_fa": "",
+              "mean_en": "work friend"
+            },
+            {
+              "word": "compete",
+              "phonetic": "/kəmˈpiːt/",
+              "mean_fa": "",
+              "mean_en": "to try to win a race or a competition"
+            },
+            {
+              "word": "outfit",
+              "phonetic": "/ˈaʊt.fɪt/",
+              "mean_fa": "",
+              "mean_en": "a set of clothes"
+            },
+            {
+              "word": "disbelief",
+              "phonetic": "/ˌdɪs.bɪˈliːf/",
+              "mean_fa": "",
+              "mean_en": "the feeling of not being able to believe that something is true or real"
+            },
+            {
+              "word": "greatness",
+              "phonetic": "/ˈɡreɪt.nəs/",
+              "mean_fa": "",
+              "mean_en": "being very good or important"
+            },
+            {
+              "word": "curtain",
+              "phonetic": "/ˈkɜr.tən/",
+              "mean_fa": "",
+              "mean_en": "a piece of cloth that you can move to cover a window: Could you draw the curtains (= open or close the curtains), please? <br> <img src='images/curtain.jpg' alt='curtain' width='200'>"
+            },
+            {
+              "word": "bark (verb)",
+              "phonetic": "/bɑːrk/",
+              "mean_fa": "",
+              "mean_en": "if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know"
+            },
+            {
+              "word": "pajamas",
+              "phonetic": "/pəˈdʒɑː.məz/",
+              "mean_fa": "",
+              "mean_en": "clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>"
+            },
+            {
+              "word": "few",
+              "phonetic": "/fjuː/",
+              "mean_fa": "",
+              "mean_en": "not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> **a few** some, but not many: Only a few people came to the meeting - I have read a few of her books <br> **quite a few** quite a lot: It's been quite a few years since I saw him last"
+            }
+          ]
         }
       ]
     }

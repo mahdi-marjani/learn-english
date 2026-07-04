@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 894**
+**Total words: 909**
 
 ## 📑 Table of Contents
 
@@ -17,13 +17,14 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (123 words)](#part-1-core-pytorch-123-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (110 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-110-words)
-- [Duolingo - Vocabulary (168 words)](#duolingo---vocabulary-168-words)
-  - [SECTION 1 (168 words)](#section-1-168-words)
+- [Duolingo - Vocabulary (182 words)](#duolingo---vocabulary-182-words)
+  - [SECTION 1 (182 words)](#section-1-182-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (27 words)](#interview-27-words)
     - [Chores (39 words)](#chores-39-words)
+    - [Meeting (14 words)](#meeting-14-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -33,11 +34,11 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (47 words)](#general---vocabulary-47-words)
+- [General - Vocabulary (48 words)](#general---vocabulary-48-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (22 words)](#social-media-22-words)
-  - [other (14 words)](#other-14-words)
+  - [other (15 words)](#other-15-words)
 
 ---
 
@@ -744,9 +745,9 @@
 
 ---
 
-## Duolingo - Vocabulary (168 words)
+## Duolingo - Vocabulary (182 words)
 
-### SECTION 1 (168 words)
+### SECTION 1 (182 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -925,6 +926,22 @@
 - **glove** /ɡlʌv/ : a thing that you wear to keep your hand warm or safe <br> <img src='images/glove.jpg' alt='glove' width='200'>
 - **genius** /ˈdʒiː.ni.əs/ : a very smart person
 - **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
+
+#### Meeting (14 words)
+- **cushion** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
+- **furniture** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
+- **date** /deɪt/ : a meeting with someone special
+- **coworker** /koʊ.wɜ:r.kər/ : someone who works with someone else, having the same job
+- **sick** /sɪk/ : not well (SAME MEANING: ill)
+- **colleague** /ˈkɑː.liːɡ/ : work friend
+- **compete** /kəmˈpiːt/ : to try to win a race or a competition
+- **outfit** /ˈaʊt.fɪt/ : a set of clothes
+- **disbelief** /ˌdɪs.bɪˈliːf/ : the feeling of not being able to believe that something is true or real
+- **greatness** /ˈɡreɪt.nəs/ : being very good or important
+- **curtain** /ˈkɜr.tən/ : a piece of cloth that you can move to cover a window: Could you draw the curtains (= open or close the curtains), please? <br> <img src='images/curtain.jpg' alt='curtain' width='200'>
+- **bark (verb)** /bɑːrk/ : if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know
+- **pajamas** /pəˈdʒɑː.məz/ : clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>
+- **few** /fjuː/ : not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> **a few** some, but not many: Only a few people came to the meeting - I have read a few of her books <br> **quite a few** quite a lot: It's been quite a few years since I saw him last
 ---
 
 ---
@@ -967,7 +984,7 @@
 
 ---
 
-## General - Vocabulary (47 words)
+## General - Vocabulary (48 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1011,7 +1028,7 @@
 - **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 ---
 
-### other (14 words)
+### other (15 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -1026,6 +1043,7 @@
 - **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
 - **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - **ahead** /əˈhed/ : 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> **go ahead** used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead'
+- **likely** : if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
 ---
 
 ---
