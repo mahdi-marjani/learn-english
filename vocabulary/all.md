@@ -1,13 +1,13 @@
 # All Vocabulary
 
-**Total words: 886**
+**Total words: 894**
 
 ## 📑 Table of Contents
 
 - [SpongeBob SquarePants - Vocabulary (69 words)](#spongebob-squarepants---vocabulary-69-words)
   - [S1 (69 words)](#s1-69-words)
     - [E1 (69 words)](#e1-69-words)
-- [Deep Learning with PyTorch - Vocabulary (587 words)](#deep-learning-with-pytorch---vocabulary-587-words)
+- [Deep Learning with PyTorch - Vocabulary (595 words)](#deep-learning-with-pytorch---vocabulary-595-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
@@ -15,8 +15,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (115 words)](#part-1-core-pytorch-115-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (102 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-102-words)
+  - [Part 1: Core PyTorch (123 words)](#part-1-core-pytorch-123-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (110 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-110-words)
 - [Duolingo - Vocabulary (168 words)](#duolingo---vocabulary-168-words)
   - [SECTION 1 (168 words)](#section-1-168-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -119,7 +119,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (587 words)
+## Deep Learning with PyTorch - Vocabulary (595 words)
 
 ### Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -167,7 +167,7 @@
 - **author** : نویسنده
 - **instrumental** : تأثیرگذار
 - **flexible** : انعطاف پذیر
-- **express** : بیان کردن
+- **express** : to say or show how you think or feel: She expressed her ideas well - بیان کردن
 - **executed** : اجرا کردن
 - **relatively** : نسبتاً
 - **polished** : صیقل داده‌شده
@@ -265,7 +265,7 @@
 - **precursor** : پیش‌کسوت
 - **nimble** : سریع در عملکرد یا واکنش
 - **lightweight** : سبک
-- **approachable** : قابل‌درک
+- **approachable** /əˈproʊ.tʃə.bəl/ : easy to understand - قابل‌درک
 - **plain (adjective)** /pleɪn/ : 1. easy to see, hear or understand (SAME MEANING: clear): It's plain that he's unhappy <br> 2. simple and ordinary: plain food <br> 3. with no pattern; all one colour: She wore a plain blue dress <br> 4. not pretty: She was a plain child
 - **supportive** : پشتیبان
 - **history behind it** : تاریخچه‌ای پشت آن
@@ -328,7 +328,7 @@
 - **testament** : گواه، نشانه محکم، شاهد
 - **relentless** : بی‌وقفه
 - **individuals** : اشخاص
-- **adopters** : کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند
+- **adopter** /əˈdɑːptər/ : a person who starts to use a new product, method, or idea
 - **honorable** : قابل احترام
 - **deserves** : لایق بودن
 - **particular** : specific - خاص، ویژه
@@ -614,7 +614,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (115 words)
+### Part 1: Core PyTorch (123 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -629,7 +629,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (102 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (110 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -732,6 +732,14 @@
 - **incremental** /ˌɪnk.rə.ˈmen.təl/ : changing or progressing in small, steady steps rather than in sudden leaps or bounds <br> <img src='images/incremental.jpg' alt='incremental' width='200'>
 - **modify** /ˈmɑːdɪfaɪ/ : to make partial or small changes to something, especially to improve it
 - **achieve** /əˈtʃiːv/ : to successfully reach a goal or obtain something through effort
+- **emphasize** /ˈem.fə.saɪz/ : to say something strongly to show that it is important (SAME MEANING: stress): She emphasized the importance of hard work
+- **ease (noun)** /iːz/ : سادگی; آسانی
+- **prominent** /ˈprɑːmənənt/ : 1. easy to see, for example because it is bigger than usual: prominent teeth <br> 2. important and famous: a prominent writer
+- **proven** /ˈpruː.vən/ : shown to be true (SAME MEANING: sure) - اثبات شده
+- **qualified** /ˈkwɑː.lə.faɪd/ : having passed the exams or done the training necessary to do a particular job: Tim is now a qualified architect
+- **context** /ˈkɑːn.tekst/ : the situation within which something exists or happens, and that can help explain it - زمینه
+- **streamline** /ˈstriːmlaɪn/ : to make a system or process simpler and more efficient
+- **ought to** /ɔ:t tu:/ : 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
 ---
 
 ---

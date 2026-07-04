@@ -265,7 +265,7 @@
           "word": "express",
           "phonetic": "",
           "mean_fa": "بیان کردن",
-          "mean_en": ""
+          "mean_en": "to say or show how you think or feel: She expressed her ideas well"
         },
         {
           "word": "executed",
@@ -838,9 +838,9 @@
         },
         {
           "word": "approachable",
-          "phonetic": "",
+          "phonetic": "/əˈproʊ.tʃə.bəl/",
           "mean_fa": "قابل‌درک",
-          "mean_en": ""
+          "mean_en": "easy to understand"
         },
         {
           "word": "plain (adjective)",
@@ -1202,10 +1202,10 @@
           "mean_en": ""
         },
         {
-          "word": "adopters",
-          "phonetic": "",
-          "mean_fa": "کسانی که یک چیز جدید را می‌پذیرند یا شروع به استفاده از آن می‌کنند",
-          "mean_en": ""
+          "word": "adopter",
+          "phonetic": "/əˈdɑːptər/",
+          "mean_fa": "",
+          "mean_en": "a person who starts to use a new product, method, or idea"
         },
         {
           "word": "honorable",
@@ -3565,6 +3565,54 @@
               "phonetic": "/əˈtʃiːv/",
               "mean_fa": "",
               "mean_en": "to successfully reach a goal or obtain something through effort"
+            },
+            {
+              "word": "emphasize",
+              "phonetic": "/ˈem.fə.saɪz/",
+              "mean_fa": "",
+              "mean_en": "to say something strongly to show that it is important (SAME MEANING: stress): She emphasized the importance of hard work"
+            },
+            {
+              "word": "ease (noun)",
+              "phonetic": "/iːz/",
+              "mean_fa": "سادگی; آسانی",
+              "mean_en": ""
+            },
+            {
+              "word": "prominent",
+              "phonetic": "/ˈprɑːmənənt/",
+              "mean_fa": "",
+              "mean_en": "1. easy to see, for example because it is bigger than usual: prominent teeth <br> 2. important and famous: a prominent writer"
+            },
+            {
+              "word": "proven",
+              "phonetic": "/ˈpruː.vən/",
+              "mean_fa": "اثبات شده",
+              "mean_en": "shown to be true (SAME MEANING: sure)"
+            },
+            {
+              "word": "qualified",
+              "phonetic": "/ˈkwɑː.lə.faɪd/",
+              "mean_fa": "",
+              "mean_en": "having passed the exams or done the training necessary to do a particular job: Tim is now a qualified architect"
+            },
+            {
+              "word": "context",
+              "phonetic": "/ˈkɑːn.tekst/",
+              "mean_fa": "زمینه",
+              "mean_en": "the situation within which something exists or happens, and that can help explain it"
+            },
+            {
+              "word": "streamline",
+              "phonetic": "/ˈstriːmlaɪn/",
+              "mean_fa": "",
+              "mean_en": "to make a system or process simpler and more efficient"
+            },
+            {
+              "word": "ought to",
+              "phonetic": "/ɔ:t tu:/",
+              "mean_fa": "",
+              "mean_en": "1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam"
             }
           ]
         }
