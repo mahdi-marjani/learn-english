@@ -1,18 +1,18 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 595**
+**Total words: 601**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
 - [foreword (52 words)](#foreword-52-words)
 - [preface (90 words)](#preface-90-words)
-- [acknowledgments (61 words)](#acknowledgments-61-words)
+- [acknowledgments (60 words)](#acknowledgments-60-words)
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (123 words)](#part-1-core-pytorch-123-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (110 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-110-words)
+- [Part 1: Core PyTorch (130 words)](#part-1-core-pytorch-130-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (117 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-117-words)
 
 ---
 
@@ -143,7 +143,7 @@
 - **lesions** : آسیب موضعی
 - **decade** /ˈdek.eɪd/ : a period of ten years - دهه
 - **appeared** : ظاهر شد
-- **individual** : one person, considered separately from a group - شخصی
+- **individual** /ˌɪndɪˈvɪdʒuəl/ : a single person or thing, especially when considered as separate from a group or set - شخصی، مجزا، جداگانه
 - **took a bit** : کمی طول کشید
 - **realize** : فهمیدن
 - **represented** : نشان می‌داد
@@ -199,14 +199,14 @@
 - **demonstrate** : show
 - **greatest** : بزرگ‌ترین
 - **decide** /dɪˈsaɪd/ : to choose something after thinking about the possibilities: I can't decide what colour to paint my room - We've decided to go to Eqypt for our holidays - She decided that she didn't want to come
-- **devote** : اختصاص دادن
+- **devote** /dɪˈvoʊt/ : to give a lot of time or energy to something: She devoted her life to helping the poor
 - **concepts** : مفاهیم
 - **underlying** : زیربنایی
 - **get to the point** : مستقیم رفتن سر اصل مطلب
 - **chose** : past of choose
 ---
 
-## acknowledgments (61 words)
+## acknowledgments (60 words)
 - **acknowledgments** : تشکرها
 - **deeply** : عمیقاً
 - **indebted** : مدیون
@@ -222,7 +222,6 @@
 - **inclusiveness** : فراگیری
 - **testament** : گواه، نشانه محکم، شاهد
 - **relentless** : بی‌وقفه
-- **individuals** : اشخاص
 - **adopter** /əˈdɑːptər/ : a person who starts to use a new product, method, or idea
 - **honorable** : قابل احترام
 - **deserves** : لایق بودن
@@ -241,7 +240,7 @@
 - **we'd** : we had یا we would
 - **tricking** : حقه زدن، trick
 - **above and beyond** : بیش از حد انتظار
-- **above** : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below <br> 2. more than a number or price: Temperatures above 40°C
+- **above** /əˈbʌv/ : 1. in or to a higher place; higher than somebody or something: The sun is above the clouds (OPPOSITE: below) <br> 2. more than a number or price: Temperatures above 40°C
 - **beyond** : بیش از
 - **reviewer** : بازبین
 - **duty** : وظیفه
@@ -272,7 +271,7 @@
 
 ## about this book (164 words)
 - **aim** : target
-- **foundations** : basics
+- **foundation** /faʊnˈdeɪʃən/ : base
 - **strive** : try
 - **practitioners** : افرادِ حرفه‌ای
 - **further** : more
@@ -509,7 +508,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (123 words)
+## Part 1: Core PyTorch (130 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -524,7 +523,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (110 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (117 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -585,7 +584,7 @@
 - **broad** /brɔːd/ : large from one side to the other (SAME MEANING: wide): a broad river (noun: breadth) (OPPOSITE: narrow)
 - **rely** /rɪˈlaɪ/ : 1. to need somebody or something (SAME MEANING: depend on somebody or something): I rely on my parents for money <br> 2. to feel sure that somebody or something will do what they say they will do: You can rely on him to help you (adjective: reliable)
 - **transform** /trænsˈfɔːrm/ : to change a person or thing completely: Electricity has transformed people's lives
-- **facilitate** /fəˈsɪlɪteɪt/ : to make an action or process easier
+- **facilitate** /fəˈsɪlɪteɪt/ : to make an action or process easier or possible
 - **downstream** /ˌdaʊnˈstriːm/ : later in a process or pipeline. It refers to steps that come after some initial processing: First we extract features from the image. Then a downstream classifier uses those features to recognize the digit
 - **outcome** : result
 - **consist** /kənˈsɪst/ : consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
@@ -635,4 +634,11 @@
 - **context** /ˈkɑːn.tekst/ : the situation within which something exists or happens, and that can help explain it - زمینه
 - **streamline** /ˈstriːmlaɪn/ : to make a system or process simpler and more efficient
 - **ought to** /ɔ:t tu:/ : 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
+- **map (verb)** : to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label
+- **multidimensional** /ˌmʌl.ti.dɪˈmen.ʃən.əl/ : having more than two dimensions (for example, a 3D or 4D array)
+- **feature** /ˈfiːtʃər/ : 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
+- **accelerate** /ə.ˈksɛ.lə.reɪt/ : to make something happen faster or more quickly
+- **dedicate** /ˈded.ə.keɪt/ : to give all or most of one's time, effort, or resources to a particular activity, cause, or person - اختصاص دادن
+- **convenient** /kənˈviːniənt/ : 1. useful, easy or quick to do; not causing problems: Let's meet on Friday. What's the most convenient time for you? (OPPOSITE: inconvenient) <br> 2. near to a place or easy to get to: The house is very convenient for the station (OPPOSITE: inconvenient)
+- **parallel** /ˈper.ə.lel/ : 1. Parallel lines have the same distance from each other at every point <br> <img src='images/parallel.jpg' alt='parallel' width='200'> <br> 2. happening at the same time; in computing, doing many calculations at once
 ---

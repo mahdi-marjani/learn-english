@@ -736,9 +736,9 @@
         },
         {
           "word": "individual",
-          "phonetic": "",
-          "mean_fa": "شخصی",
-          "mean_en": "one person, considered separately from a group"
+          "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+          "mean_fa": "شخصی، مجزا، جداگانه",
+          "mean_en": "a single person or thing, especially when considered as separate from a group or set"
         },
         {
           "word": "took a bit",
@@ -1072,9 +1072,9 @@
         },
         {
           "word": "devote",
-          "phonetic": "",
-          "mean_fa": "اختصاص دادن",
-          "mean_en": ""
+          "phonetic": "/dɪˈvoʊt/",
+          "mean_fa": "",
+          "mean_en": "to give a lot of time or energy to something: She devoted her life to helping the poor"
         },
         {
           "word": "concepts",
@@ -1196,12 +1196,6 @@
           "mean_en": ""
         },
         {
-          "word": "individuals",
-          "phonetic": "",
-          "mean_fa": "اشخاص",
-          "mean_en": ""
-        },
-        {
           "word": "adopter",
           "phonetic": "/əˈdɑːptər/",
           "mean_fa": "",
@@ -1311,9 +1305,9 @@
         },
         {
           "word": "above",
-          "phonetic": "",
+          "phonetic": "/əˈbʌv/",
           "mean_fa": "",
-          "mean_en": "1. in or to a higher place; higher than somebody or something: The sun is above the clouds -> opposite = below <br> 2. more than a number or price: Temperatures above 40°C"
+          "mean_en": "1. in or to a higher place; higher than somebody or something: The sun is above the clouds (OPPOSITE: below) <br> 2. more than a number or price: Temperatures above 40°C"
         },
         {
           "word": "beyond",
@@ -1483,10 +1477,10 @@
           "mean_en": "target"
         },
         {
-          "word": "foundations",
-          "phonetic": "",
+          "word": "foundation",
+          "phonetic": "/faʊnˈdeɪʃən/",
           "mean_fa": "",
-          "mean_en": "basics"
+          "mean_en": "base"
         },
         {
           "word": "strive",
@@ -3318,7 +3312,7 @@
               "word": "facilitate",
               "phonetic": "/fəˈsɪlɪteɪt/",
               "mean_fa": "",
-              "mean_en": "to make an action or process easier"
+              "mean_en": "to make an action or process easier or possible"
             },
             {
               "word": "downstream",
@@ -3613,6 +3607,48 @@
               "phonetic": "/ɔ:t tu:/",
               "mean_fa": "",
               "mean_en": "1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam"
+            },
+            {
+              "word": "map (verb)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label"
+            },
+            {
+              "word": "multidimensional",
+              "phonetic": "/ˌmʌl.ti.dɪˈmen.ʃən.əl/",
+              "mean_fa": "",
+              "mean_en": "having more than two dimensions (for example, a 3D or 4D array)"
+            },
+            {
+              "word": "feature",
+              "phonetic": "/ˈfiːtʃər/",
+              "mean_fa": "",
+              "mean_en": "1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education"
+            },
+            {
+              "word": "accelerate",
+              "phonetic": "/ə.ˈksɛ.lə.reɪt/",
+              "mean_fa": "",
+              "mean_en": "to make something happen faster or more quickly"
+            },
+            {
+              "word": "dedicate",
+              "phonetic": "/ˈded.ə.keɪt/",
+              "mean_fa": "اختصاص دادن",
+              "mean_en": "to give all or most of one's time, effort, or resources to a particular activity, cause, or person"
+            },
+            {
+              "word": "convenient",
+              "phonetic": "/kənˈviːniənt/",
+              "mean_fa": "",
+              "mean_en": "1. useful, easy or quick to do; not causing problems: Let's meet on Friday. What's the most convenient time for you? (OPPOSITE: inconvenient) <br> 2. near to a place or easy to get to: The house is very convenient for the station (OPPOSITE: inconvenient)"
+            },
+            {
+              "word": "parallel",
+              "phonetic": "/ˈper.ə.lel/",
+              "mean_fa": "",
+              "mean_en": "1. Parallel lines have the same distance from each other at every point <br> <img src='images/parallel.jpg' alt='parallel' width='200'> <br> 2. happening at the same time; in computing, doing many calculations at once"
             }
           ]
         }

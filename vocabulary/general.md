@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 48**
+**Total words: 49**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
-- [social media (22 words)](#social-media-22-words)
+- [social media (23 words)](#social-media-23-words)
 - [other (15 words)](#other-15-words)
 
 ---
@@ -28,7 +28,7 @@
 - **lonely** /ˈloʊnli/ : 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-## social media (22 words)
+## social media (23 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -51,6 +51,7 @@
 - **worse** /wɜːrs/ : bad
 - **adopt** /əˈdɑːpt/ : to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - **rarely** /ˈrerli/ : not very often: We rarely agree with each other
+- **stranger** /ˈstreɪndʒər/ : someone you do not know
 ---
 
 ## other (15 words)
