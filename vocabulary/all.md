@@ -1,13 +1,13 @@
 # All Vocabulary
 
-**Total words: 916**
+**Total words: 921**
 
 ## 📑 Table of Contents
 
 - [SpongeBob SquarePants - Vocabulary (69 words)](#spongebob-squarepants---vocabulary-69-words)
   - [S1 (69 words)](#s1-69-words)
     - [E1 (69 words)](#e1-69-words)
-- [Deep Learning with PyTorch - Vocabulary (601 words)](#deep-learning-with-pytorch---vocabulary-601-words)
+- [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
@@ -15,8 +15,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (130 words)](#part-1-core-pytorch-130-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (117 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-117-words)
+  - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
 - [Duolingo - Vocabulary (182 words)](#duolingo---vocabulary-182-words)
   - [SECTION 1 (182 words)](#section-1-182-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -120,7 +120,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (601 words)
+## Deep Learning with PyTorch - Vocabulary (606 words)
 
 ### Deep Learning with PyTorch (39 words)
 - **foreword** : پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -206,7 +206,7 @@
 - **subjects** : موضوعات
 - **jit** : Just-In-Time
 - **aspect** : وجه
-- **through** : از طریق
+- **through** /θruː/ : 1. from one side or end of something to the other side or end: We drove through the tunnel - What can you see through the window? - She opened the gate and we walked through <br> 2. from the beginning to the end of something: We travelled through the night <br> 3. connected by telephone: Can you put me through to jill knight, please? - I tried to phone you but I couldn't get through <br> 4. (American) (also informal thru) until, and including: We'll be in New York Tuesday through Friday <br> 5. because of or with the help of somebody or something: She got the job through her father <br> **be through with** having finished or completed something: By the time we are through with the book - از طریق
 - **expertise** : تخصص
 - **bioengineering** : مهندسی زیستی
 - **imaging** : تصویربرداری
@@ -306,7 +306,7 @@
 - **greatest** : بزرگ‌ترین
 - **decide** /dɪˈsaɪd/ : to choose something after thinking about the possibilities: I can't decide what colour to paint my room - We've decided to go to Eqypt for our holidays - She decided that she didn't want to come
 - **devote** /dɪˈvoʊt/ : to give a lot of time or energy to something: She devoted her life to helping the poor
-- **concepts** : مفاهیم
+- **concept** /ˈkɑːn.sept/ : مفهوم
 - **underlying** : زیربنایی
 - **get to the point** : مستقیم رفتن سر اصل مطلب
 - **chose** : past of choose
@@ -380,7 +380,7 @@
 - **foundation** /faʊnˈdeɪʃən/ : base
 - **strive** : try
 - **practitioners** : افرادِ حرفه‌ای
-- **further** : more
+- **further** /ˈfɜr.ðɜr/ : 1. at or to a greater distance (SAME MEANING: farther): The hospital is further down the road - We couldn't go any further because the road was closed <br> 2. more; extra: Do you have any further questions?
 - **exploration** : research
 - **delve** : explore
 - **behind the curtain** : behind the scenes
@@ -528,7 +528,7 @@
 - **as long as** : تا زمانی که، به شرطی که
 - **introduction** : preface
 - **proficiency** : skill, high level of skill or ability
-- **encourage** : تشویق کردن
+- **encourage** /ɪnˈkɜːrɪdʒ/ : to give somebody hope or help so that they do something or continue doing something: We encouraged him to write a book about his adventures (OPPOSITE: discourage) <br> <img src='images/encourage.jpg' alt='encourage' width='200'>
 - **build up** : ساختن، ایجاد کردن (به تدریج)
 - **intuitive** : based on feelings rather than facts
 - **mental** : related to the mind or thinking
@@ -614,7 +614,7 @@
 - **brought back** : دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (130 words)
+### Part 1: Core PyTorch (135 words)
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -629,7 +629,7 @@
 - **much (adverb)** /mʌtʃ/ : a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - **by** : 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (117 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (122 words)
 - **poor** /pʊr/ : not good enough; of low quality
 - **term** /tɜːrm/ : a word or group of words used to describe something
 - **set** : a group of similar things that belong together
@@ -747,6 +747,11 @@
 - **dedicate** /ˈded.ə.keɪt/ : to give all or most of one's time, effort, or resources to a particular activity, cause, or person - اختصاص دادن
 - **convenient** /kənˈviːniənt/ : 1. useful, easy or quick to do; not causing problems: Let's meet on Friday. What's the most convenient time for you? (OPPOSITE: inconvenient) <br> 2. near to a place or easy to get to: The house is very convenient for the station (OPPOSITE: inconvenient)
 - **parallel** /ˈper.ə.lel/ : 1. Parallel lines have the same distance from each other at every point <br> <img src='images/parallel.jpg' alt='parallel' width='200'> <br> 2. happening at the same time; in computing, doing many calculations at once
+- **motivate** /ˈmoʊtɪveɪt/ : to make somebody want to do something: The best teachers know how to motivate children to learn
+- **fluent** /ˈfluːənt/ : 1. able to speak easily and correctly: Ramon is fluent in English and French <br> 2. spoken easily and correctly: She speaks fluent Arabic
+- **accessible** /əkˈses.ə.bəl/ : able to be reached or easily obtained
+- **reach (verb)** /riːtʃ/ : 1. to arrive somewhere: It was dark when we reached Paris - Have you reached the end of the book yet? <br> 2. to put out your hand to do or get something: I reached for the telephone <br> 3. to be able to touch something: Can you get that book from the top shelf for me? I can't reach
+- **hands-on** /hændz-ɑ:n/ : عملی، تجربی، مبتنی بر انجام کار با دست
 ---
 
 ---

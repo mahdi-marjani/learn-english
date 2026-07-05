@@ -491,9 +491,9 @@
         },
         {
           "word": "through",
-          "phonetic": "",
+          "phonetic": "/θruː/",
           "mean_fa": "از طریق",
-          "mean_en": ""
+          "mean_en": "1. from one side or end of something to the other side or end: We drove through the tunnel - What can you see through the window? - She opened the gate and we walked through <br> 2. from the beginning to the end of something: We travelled through the night <br> 3. connected by telephone: Can you put me through to jill knight, please? - I tried to phone you but I couldn't get through <br> 4. (American) (also informal thru) until, and including: We'll be in New York Tuesday through Friday <br> 5. because of or with the help of somebody or something: She got the job through her father <br> **be through with** having finished or completed something: By the time we are through with the book"
         },
         {
           "word": "expertise",
@@ -1077,9 +1077,9 @@
           "mean_en": "to give a lot of time or energy to something: She devoted her life to helping the poor"
         },
         {
-          "word": "concepts",
-          "phonetic": "",
-          "mean_fa": "مفاهیم",
+          "word": "concept",
+          "phonetic": "/ˈkɑːn.sept/",
+          "mean_fa": "مفهوم",
           "mean_en": ""
         },
         {
@@ -1496,9 +1496,9 @@
         },
         {
           "word": "further",
-          "phonetic": "",
+          "phonetic": "/ˈfɜr.ðɜr/",
           "mean_fa": "",
-          "mean_en": "more"
+          "mean_en": "1. at or to a greater distance (SAME MEANING: farther): The hospital is further down the road - We couldn't go any further because the road was closed <br> 2. more; extra: Do you have any further questions?"
         },
         {
           "word": "exploration",
@@ -2384,9 +2384,9 @@
         },
         {
           "word": "encourage",
-          "phonetic": "",
-          "mean_fa": "تشویق کردن",
-          "mean_en": ""
+          "phonetic": "/ɪnˈkɜːrɪdʒ/",
+          "mean_fa": "",
+          "mean_en": "to give somebody hope or help so that they do something or continue doing something: We encouraged him to write a book about his adventures (OPPOSITE: discourage) <br> <img src='images/encourage.jpg' alt='encourage' width='200'>"
         },
         {
           "word": "build up",
@@ -3649,6 +3649,36 @@
               "phonetic": "/ˈper.ə.lel/",
               "mean_fa": "",
               "mean_en": "1. Parallel lines have the same distance from each other at every point <br> <img src='images/parallel.jpg' alt='parallel' width='200'> <br> 2. happening at the same time; in computing, doing many calculations at once"
+            },
+            {
+              "word": "motivate",
+              "phonetic": "/ˈmoʊtɪveɪt/",
+              "mean_fa": "",
+              "mean_en": "to make somebody want to do something: The best teachers know how to motivate children to learn"
+            },
+            {
+              "word": "fluent",
+              "phonetic": "/ˈfluːənt/",
+              "mean_fa": "",
+              "mean_en": "1. able to speak easily and correctly: Ramon is fluent in English and French <br> 2. spoken easily and correctly: She speaks fluent Arabic"
+            },
+            {
+              "word": "accessible",
+              "phonetic": "/əkˈses.ə.bəl/",
+              "mean_fa": "",
+              "mean_en": "able to be reached or easily obtained"
+            },
+            {
+              "word": "reach (verb)",
+              "phonetic": "/riːtʃ/",
+              "mean_fa": "",
+              "mean_en": "1. to arrive somewhere: It was dark when we reached Paris - Have you reached the end of the book yet? <br> 2. to put out your hand to do or get something: I reached for the telephone <br> 3. to be able to touch something: Can you get that book from the top shelf for me? I can't reach"
+            },
+            {
+              "word": "hands-on",
+              "phonetic": "/hændz-ɑ:n/",
+              "mean_fa": "عملی، تجربی، مبتنی بر انجام کار با دست",
+              "mean_en": ""
             }
           ]
         }
