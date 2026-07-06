@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 49**
+**Total words: 50**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
 - [social media (23 words)](#social-media-23-words)
-- [other (15 words)](#other-15-words)
+- [other (16 words)](#other-16-words)
 
 ---
 
@@ -54,7 +54,7 @@
 - **stranger** /ˈstreɪndʒər/ : someone you do not know
 ---
 
-## other (15 words)
+## other (16 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -70,4 +70,5 @@
 - **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - **ahead** /əˈhed/ : 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> **go ahead** used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead'
 - **likely** : if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
+- **interesting** : A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
 ---

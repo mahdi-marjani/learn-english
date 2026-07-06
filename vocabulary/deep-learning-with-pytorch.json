@@ -606,7 +606,7 @@
           "word": "take",
           "phonetic": "",
           "mean_fa": "بردن",
-          "mean_en": "1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital"
+          "mean_en": "1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> **take your time** do not rush; use as much time as you need"
         },
         {
           "word": "collective",
@@ -2819,10 +2819,10 @@
           "mean_en": "1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'"
         },
         {
-          "word": "doubt",
+          "word": "doubt (noun)",
           "phonetic": "/daʊt/",
-          "mean_fa": "شک، تردید",
-          "mean_en": "a feeling of not being sure: I have doubts about this plan"
+          "mean_fa": "",
+          "mean_en": "a feeling that you are not sure about something: She says the story is true but I have my doubts about it <br> **in doubt** not sure: if you are in doubt, ask your teacher <br> **no doubt** I am sure: Paul isn't here yet, but no doubt he will come later"
         },
         {
           "word": "fast-paced",
@@ -2887,7 +2887,7 @@
           "word": "give",
           "phonetic": "/ɡɪv/",
           "mean_fa": "",
-          "mean_en": "1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?"
+          "mean_en": "1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> **give up** to stop trying to do something: I give up _ what's the answer?"
         },
         {
           "word": "chance",

@@ -1,12 +1,13 @@
 # All Vocabulary
 
-**Total words: 932**
+**Total words: 961**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (69 words)](#spongebob-squarepants---vocabulary-69-words)
-  - [S1 (69 words)](#s1-69-words)
+- [SpongeBob SquarePants - Vocabulary (97 words)](#spongebob-squarepants---vocabulary-97-words)
+  - [S1 (97 words)](#s1-97-words)
     - [E1 (69 words)](#e1-69-words)
+    - [E3 (28 words)](#e3-28-words)
 - [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
@@ -34,17 +35,17 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (49 words)](#general---vocabulary-49-words)
+- [General - Vocabulary (50 words)](#general---vocabulary-50-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (23 words)](#social-media-23-words)
-  - [other (15 words)](#other-15-words)
+  - [other (16 words)](#other-16-words)
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (69 words)
+## SpongeBob SquarePants - Vocabulary (97 words)
 
-### S1 (69 words)
+### S1 (97 words)
 
 #### E1 (69 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -116,6 +117,36 @@
 - **quarters** /ˈkwɔːrtərz/ : a place to live, especially rooms or housing for soldiers, sailors, or servants
 - **booty** /ˈbuːti/ : any valuable things or money stolen by an army at war or by thieves
 - **employee** /ɪmˈplɔɪiː/ : a person who works for someone else for money: The company has 500 employees
+
+#### E3 (28 words)
+- **treedome** : <br> <img src='images/treedome.jpg' alt='treedome' width='200'>
+- **stinger** /ˈstɪŋər/ : the sharp pointed part of an insect or creature that can go into the skin leaving a smal, painful wound, sometimes with poison in it: a bee's stinger <br> <img src='images/stinger.jpg' alt='stinger' width='200'>
+- **squirrel** /skwɜr:əl/ : <br> <img src='images/squirrel.jpg' alt='squirrel' width='200'>
+- **clam** /klæm/ : a kind of shellfish which can be eaten <br> <img src='images/clam.jpg' alt='clam' width='200'>
+- **shellfish** : a type of sea creature with a shell, such as clams, oysters, mussels, shrimp, lobster, etc <br> <img src='images/shellfish.jpg' alt='shellfish' width='200'>
+- **manner** /ˈmæ.nɜr/ : 1. the way that you do something or the way that something happens: Don't get angry. Let's try to talk about this in a calm manner <br> 2. manners (plural) the way you behave when you are with other people: It's bad manners to talk with your mouth full
+- **fought** /fɑːt/ : past simple and past participle of fight
+- **vanquish** /ˈvæŋ.kwɪʃ/ : to defeat someone <br> <img src='images/vanquish.jpg' alt='vanquish' width='200'>
+- **shell** /ʃel/ : the hard protective outer covering of some animals such as a snail, mussel, crab, or turtle, or of a bird's egg <br> <img src='images/shell.jpg' alt='shell' width='200'>
+- **dude** /du:d/ : a word that we use to call a man
+- **karate** /kəˈrɑː.t̬i/ : کاراته
+- **take a gander** : look at; to have a quick look: Let's take a gander at your new car
+- **bark (noun)** /bɑːrk/ : the hard outer covering of a tree <br> <img src='images/bark.jpg' alt='bark' width='200'>
+- **helmet** /ˈhel.mət/ : a strong, hard hat that covers and protects the head: a bicycle helmet - a war helmet <br> <img src='images/helmet.jpg' alt='helmet' width='200'>
+- **breathe** /briːð/ : to move air or something else into and out of the lungs <br> <img src='images/breathe.jpg' alt='breathe' width='200'>
+- **kid (verb)** /kɪd/ : to say something that it not true as a joke: I didn't mean it. I was only kidding - Are you kidding me?
+- **grand tour** /ˌɡrænd ˈtʊr/ : a visit to the most important countries and cities of Europe that rich young people made in the past as part of their education
+- **bubble** /ˈbʌb.əl/ : a ball of gas that appears in a liquid, or a ball formed of air surrounded by liquid that floats in the air <br> <img src='images/bubble.jpg' alt='bubble' width='200'>
+- **surround** /səˈraʊnd/ : to be or go all around something: Gwen sat at her desk, surrounded by books and papers
+- **pure** /pjʊr/ : 1. not mixed with anything else: pure orange juice <br> 2. clean and healthy: pure mountain air <br> 3. complete or total: What she said was pure nonsense
+- **oak tree** /oʊk tri:/ : درخت بلوط
+- **dome** /doʊm/ : a building's roof that is rounded <br> <img src='images/dome.jpg' alt='dome' width='200'>
+- **critter** /ˈkrɪ.tɜr/ : a creature
+- **quitter** /ˈkwɪtər/ : a person who gives up easily instead of finishing something: I'm no quitter.
+- **there** : 1. a word that you use with verbs like 'be', 'seem' and 'appear' to show that something is true or that something is happening: There is a man at the door - Is there a film on TV tonight? - There aren't any shops in this village <br> 2. in, at or to that place: Don't put the box there _ put it here - Have you been to Khartoum? I'm going there next week <br> 3. a word that makes people look or listen: Oh look, there's Kate <br> **there you are** words that you say when you give something to somebody: 'There you are,' she said, giving me a cake
+- **blow (verb)** /bloʊ/ : 1. When air or wind blows, it moves: The wind was from the sea <br> 2. to move something through the air: The wind blew my hat off <br> 3. to send air out from your mouth: He blew on the soup to cool it down - Please blow into this tube <br> 4. to send air out from your mouth into a musical instrument, for example, to make a noise: The referee blew his whistle <br> **blow up; blow something up** 1. to explode or make something explode, for example with a bomb: The plane blew up - They blew up the bridge <br> 2. to fill something with air: We blew up some balloons for the party <br> **blow your nose** to clear your nose by blowing strongly through it onto a piece of cloth or paper (called a handkerchief) <br> **blow it** 1. to fail at something: I really blew it in the exam <br> 2. an expression of anger: Oh, blow it! I've forgotten to invite Paul to the party
+- **buddy** /ˈbʌd.i/ : (American, informal) (British mate) a friend: Hey buddy, how are you? - Don't worry buddy, You're doing fine
+- **ask** : 1. to try to get an answer by using a question: I asked him what the time was - 'What's your name?' she asked - Liz asked the teacher a question <br> 2. to say that you would like somebody to do something for you: I asked Sara to drive me to the station <br> 3. to try to get permission to do something: I asked my teacher if I could go home - I asked if I could go home early <br> 4. to invite somebody to go somewhere with you: Mark has asked me to a party on Saturday <br> **ask for somebody** to say that you want to speak to somebody: Phone this number and ask for Mrs Green <br> **ask for something** to say that you want somebody to give you something: He asked for a new bike for his birthday
 ---
 
 ---
@@ -227,7 +258,7 @@
 - **commodore c16 (thomas)** : نام چند کامپیوتر قدیمی
 - **dawn** : start (of something big or new)
 - **dreamed** : رؤیا دیدیم
-- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital - بردن
+- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> **take your time** do not rush; use as much time as you need - بردن
 - **collective** : دسته‌جمعی
 - **rolling our eyes** : چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - **spy** : جاسوس
@@ -605,7 +636,7 @@
 - **perhaps** /pərˈhæps/ : maybe
 - **varied** /ˈverid/ : diverse, consisting of many different kinds
 - **certainly** /ˈsɜːrtnli/ : 1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
-- **doubt** /daʊt/ : a feeling of not being sure: I have doubts about this plan - شک، تردید
+- **doubt (noun)** /daʊt/ : a feeling that you are not sure about something: She says the story is true but I have my doubts about it <br> **in doubt** not sure: if you are in doubt, ask your teacher <br> **no doubt** I am sure: Paul isn't here yet, but no doubt he will come later
 - **fast-paced** /fæst peɪst/ : happening very quickly - سریع، با سرعت بالا (زندگی یا تکنولوژی)
 - **celebrate** /ˈsel.ə.breɪt/ : to do something to show that you are happy for a special reason or because it is a special day: If you pass your exams, we'll have a party to celebrate - Grandma celebrated her 90th birthday last week
 - **inventiveness** /ɪnˈven.t̬ɪv.nəs/ : the ability to create new things or think of new ideas
@@ -618,7 +649,7 @@
 - **gain** /ɡeɪn/ : 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - **work out** : to find a solution to a problem or understand how something works
 - **relate** /rɪˈleɪt/ : 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
-- **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea?
+- **give** /ɡɪv/ : 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> **give up** to stop trying to do something: I give up _ what's the answer?
 - **chance** /tʃæns/ : 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - **serious** /ˈsɪriəs/ : 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - **across** /əˈkrɔːs/ : over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
@@ -1006,7 +1037,7 @@
 
 ---
 
-## General - Vocabulary (49 words)
+## General - Vocabulary (50 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1051,7 +1082,7 @@
 - **stranger** /ˈstreɪndʒər/ : someone you do not know
 ---
 
-### other (15 words)
+### other (16 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -1067,6 +1098,7 @@
 - **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - **ahead** /əˈhed/ : 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> **go ahead** used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead'
 - **likely** : if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
+- **interesting** : A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
 ---
 
 ---
