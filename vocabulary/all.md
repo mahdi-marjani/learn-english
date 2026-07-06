@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 921**
+**Total words: 932**
 
 ## 📑 Table of Contents
 
@@ -17,14 +17,14 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (182 words)](#duolingo---vocabulary-182-words)
-  - [SECTION 1 (182 words)](#section-1-182-words)
+- [Duolingo - Vocabulary (193 words)](#duolingo---vocabulary-193-words)
+  - [SECTION 1 (193 words)](#section-1-193-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (27 words)](#interview-27-words)
     - [Chores (39 words)](#chores-39-words)
-    - [Meeting (14 words)](#meeting-14-words)
+    - [Meeting (25 words)](#meeting-25-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -756,9 +756,9 @@
 
 ---
 
-## Duolingo - Vocabulary (182 words)
+## Duolingo - Vocabulary (193 words)
 
-### SECTION 1 (182 words)
+### SECTION 1 (193 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -938,7 +938,7 @@
 - **genius** /ˈdʒiː.ni.əs/ : a very smart person
 - **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
 
-#### Meeting (14 words)
+#### Meeting (25 words)
 - **cushion** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
 - **furniture** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
 - **date** /deɪt/ : a meeting with someone special
@@ -953,6 +953,17 @@
 - **bark (verb)** /bɑːrk/ : if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know
 - **pajamas** /pəˈdʒɑː.məz/ : clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>
 - **few** /fjuː/ : not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> **a few** some, but not many: Only a few people came to the meeting - I have read a few of her books <br> **quite a few** quite a lot: It's been quite a few years since I saw him last
+- **remind** /rɪˈmaɪnd/ : 1. to help somebody remember something that they must do: Please remind me to buy some bread on the way home <br> 2. to make somebody remember somebody or something: She reminds me of her mother
+- **spot (noun)** : 1. a small round mark: a blue dress with green spots <br> <img src='images/spot.jpg' alt='spot' width='200'> <br> 2. (British) a small red mark on your skin: A lot of teenagers get spots on their faces <br> 3. a place: This is a good spot for a picnic
+- **reliable** /ri:.laɪə.bəl/ : that you can trust: My car is very reliable - He is a reliable person (OPPOSITE: unreliable)
+- **admit** /əd.ˈmɪt/ : 1. to say that you have done something wrong or that something bad is true: He admitted stealing the money - I admit that I made a mistake (OPPOSITE: deny) <br> 2. to allow somebody or something to go into a place: This ticket admits one person to the museum - اعتراف کردن
+- **suppose** /səˈpoʊz/ : 1. to think that something is probably true or will probably happen: 'Where's Jenny?' 'I don't know _ suppose she's still at work <br> 2. a word that you use when you agree with something but are not happy about it: 'Can I borrow your pen?' 'Yes, I suppose so _ but don't lose it <br> **be supposed to** if you are supposed to do something, you should do it: They were supposed to meet us here - You're not supposed to smoke in this room <br> 2. (informal) if something is supposed to be true, people say it is true: This is supposed to be a good restaurant
+- **storm** /stɔːrm/ : bad weather with rain and wind
+- **scary** /ˈsker.i/ : makes you feel afraid
+- **hike** /haɪk/ : long walks in nature
+- **sweater** /ˈswɛ.tər/ : heavy shirt for cold weather
+- **dry** /draɪ/ : 1. with no water or liquid in it or on it: The washing isn't dry yet (OPPOSITE: wet) <br> 2. with no rain: dry weather (OPPOSITE: wet) <br> 3. not sweet: dry white wine
+- **cool (adjective)** /kuːl/ : 1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool!'
 ---
 
 ---
