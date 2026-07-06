@@ -1,20 +1,20 @@
 # Duolingo - Vocabulary
 
-**Total words: 193**
+**Total words: 205**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (193 words)](#section-1-193-words)
+- [SECTION 1 (205 words)](#section-1-205-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (27 words)](#interview-27-words)
   - [Chores (39 words)](#chores-39-words)
-  - [Meeting (25 words)](#meeting-25-words)
+  - [Meeting (37 words)](#meeting-37-words)
 
 ---
 
-## SECTION 1 (193 words)
+## SECTION 1 (205 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -194,7 +194,7 @@
 - **genius** /ˈdʒiː.ni.əs/ : a very smart person
 - **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
 
-### Meeting (25 words)
+### Meeting (37 words)
 - **cushion** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
 - **furniture** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
 - **date** /deɪt/ : a meeting with someone special
@@ -219,5 +219,17 @@
 - **hike** /haɪk/ : long walks in nature
 - **sweater** /ˈswɛ.tər/ : heavy shirt for cold weather
 - **dry** /draɪ/ : 1. with no water or liquid in it or on it: The washing isn't dry yet (OPPOSITE: wet) <br> 2. with no rain: dry weather (OPPOSITE: wet) <br> 3. not sweet: dry white wine
-- **cool (adjective)** /kuːl/ : 1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool!'
+- **cool (adjective)** /kuːl/ : 1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool! (verb)'
+- **thunder** /ˈθʌn.dər/ : a loud sound in a storm <br> <img src='images/thunder.jpg' alt='thunder' width='200'>
+- **hard** : 1. a lot: She works very hard - You must try harder <br> 2. strongly: It's raining hard - She hit him hard
+- **practice** /ˈpræk.tɪs/ : doing something many times so that you will do it well
+- **glacier** /ˈgleɪ.ʃɜr/ : a large river of ice that moves slowly down a mountain <br> <img src='images/glacier.jpg' alt='glacier' width='200'>
+- **cave** /keɪv/ : a large hole in the side of a mountain or under the ground: Thousands of years ago, people lived in caves <br> <img src='images/cave.jpg' alt='cave' width='200'>
+- **agenda** /əˈdʒen.də/ : a list of all the things to be talked about in a meeting
+- **counter** /ˈkaʊn.tər/ : 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
+- **sigh (verb)** /saɪ/ : to let out a deep breath, for example because you are sad, tired or pleased
+- **proud** /praʊd/ : feeling good about someone or something
+- **annoyed** /ə.ˈnɔɪd/ : feeling a little angry
+- **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
+- **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 ---

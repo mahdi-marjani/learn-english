@@ -1188,7 +1188,79 @@
               "word": "cool (adjective)",
               "phonetic": "/kuːl/",
               "mean_fa": "",
-              "mean_en": "1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool!'"
+              "mean_en": "1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool! (verb)'"
+            },
+            {
+              "word": "thunder",
+              "phonetic": "/ˈθʌn.dər/",
+              "mean_fa": "",
+              "mean_en": "a loud sound in a storm <br> <img src='images/thunder.jpg' alt='thunder' width='200'>"
+            },
+            {
+              "word": "hard",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "1. a lot: She works very hard - You must try harder <br> 2. strongly: It's raining hard - She hit him hard"
+            },
+            {
+              "word": "practice",
+              "phonetic": "/ˈpræk.tɪs/",
+              "mean_fa": "",
+              "mean_en": "doing something many times so that you will do it well"
+            },
+            {
+              "word": "glacier",
+              "phonetic": "/ˈgleɪ.ʃɜr/",
+              "mean_fa": "",
+              "mean_en": "a large river of ice that moves slowly down a mountain <br> <img src='images/glacier.jpg' alt='glacier' width='200'>"
+            },
+            {
+              "word": "cave",
+              "phonetic": "/keɪv/",
+              "mean_fa": "",
+              "mean_en": "a large hole in the side of a mountain or under the ground: Thousands of years ago, people lived in caves <br> <img src='images/cave.jpg' alt='cave' width='200'>"
+            },
+            {
+              "word": "agenda",
+              "phonetic": "/əˈdʒen.də/",
+              "mean_fa": "",
+              "mean_en": "a list of all the things to be talked about in a meeting"
+            },
+            {
+              "word": "counter",
+              "phonetic": "/ˈkaʊn.tər/",
+              "mean_fa": "",
+              "mean_en": "1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games"
+            },
+            {
+              "word": "sigh (verb)",
+              "phonetic": "/saɪ/",
+              "mean_fa": "",
+              "mean_en": "to let out a deep breath, for example because you are sad, tired or pleased"
+            },
+            {
+              "word": "proud",
+              "phonetic": "/praʊd/",
+              "mean_fa": "",
+              "mean_en": "feeling good about someone or something"
+            },
+            {
+              "word": "annoyed",
+              "phonetic": "/ə.ˈnɔɪd/",
+              "mean_fa": "",
+              "mean_en": "feeling a little angry"
+            },
+            {
+              "word": "ruin",
+              "phonetic": "/ˈruːɪn/",
+              "mean_fa": "",
+              "mean_en": "to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic"
+            },
+            {
+              "word": "awful",
+              "phonetic": "/ˈɑː.fəl/",
+              "mean_fa": "",
+              "mean_en": "very bad: The pain was awful - What awful weather"
             }
           ]
         }
