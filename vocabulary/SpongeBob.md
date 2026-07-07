@@ -5,14 +5,14 @@
 ## 📑 Table of Contents
 
 - [S1 (97 words)](#s1-97-words)
-  - [E1 (69 words)](#e1-69-words)
-  - [E3 (28 words)](#e3-28-words)
+  - [E1 (68 words)](#e1-68-words)
+  - [E3 (29 words)](#e3-29-words)
 
 ---
 
 ## S1 (97 words)
 
-### E1 (69 words)
+### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
 - **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
@@ -27,7 +27,6 @@
 - **laugh (verb)** /læf/ : to make sounds to show that you are happy or that you think something is funny: His jokes always make me laugh <br> **laugh at somebody or something** to laugh to show that you think somebody or something is funny or silly: The children laughed at the clown - They all laughed at me when I said I was afraid of dogs
 - **narrator** /nəˈreɪ.tər/ : the character who tells you what is happening in a book or film
 - **fascinating** /ˈfæsɪneɪtɪŋ/ : very interesting: She told us fascinating stories about her life
-- **wonderful** /ˈwʌndərfl/ : very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
 - **teeming** /ˈtiːmɪŋ/ : If a place is teeming, it is full of people
 - **creature** /ˈkriːtʃər/ : any living thing that is not a plant: birds, fish and other creatures - This story is about creatures from another planet
 - **naked** /ˈneɪkɪd/ : not wearing any clothes (SAME MEANING: nude)
@@ -83,7 +82,7 @@
 - **booty** /ˈbuːti/ : any valuable things or money stolen by an army at war or by thieves
 - **employee** /ɪmˈplɔɪiː/ : a person who works for someone else for money: The company has 500 employees
 
-### E3 (28 words)
+### E3 (29 words)
 - **treedome** : <br> <img src='images/treedome.jpg' alt='treedome' width='200'>
 - **stinger** /ˈstɪŋər/ : the sharp pointed part of an insect or creature that can go into the skin leaving a smal, painful wound, sometimes with poison in it: a bee's stinger <br> <img src='images/stinger.jpg' alt='stinger' width='200'>
 - **squirrel** /skwɜr:əl/ : <br> <img src='images/squirrel.jpg' alt='squirrel' width='200'>
@@ -100,6 +99,7 @@
 - **helmet** /ˈhel.mət/ : a strong, hard hat that covers and protects the head: a bicycle helmet - a war helmet <br> <img src='images/helmet.jpg' alt='helmet' width='200'>
 - **breathe** /briːð/ : to move air or something else into and out of the lungs <br> <img src='images/breathe.jpg' alt='breathe' width='200'>
 - **kid (verb)** /kɪd/ : to say something that it not true as a joke: I didn't mean it. I was only kidding - Are you kidding me?
+- **fancy (adjective)** /ˈfæn.si/ : not simple or ordinary; complicated or including a lot of features: I wanted a simple black dress, nothing fancy - a fancy restaurant
 - **grand tour** /ˌɡrænd ˈtʊr/ : a visit to the most important countries and cities of Europe that rich young people made in the past as part of their education
 - **bubble** /ˈbʌb.əl/ : a ball of gas that appears in a liquid, or a ball formed of air surrounded by liquid that floats in the air <br> <img src='images/bubble.jpg' alt='bubble' width='200'>
 - **surround** /səˈraʊnd/ : to be or go all around something: Gwen sat at her desk, surrounded by books and papers

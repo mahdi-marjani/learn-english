@@ -1,20 +1,21 @@
 # Duolingo - Vocabulary
 
-**Total words: 205**
+**Total words: 211**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (205 words)](#section-1-205-words)
+- [SECTION 1 (211 words)](#section-1-211-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (27 words)](#interview-27-words)
   - [Chores (39 words)](#chores-39-words)
   - [Meeting (37 words)](#meeting-37-words)
+  - [Reunion (6 words)](#reunion-6-words)
 
 ---
 
-## SECTION 1 (205 words)
+## SECTION 1 (211 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -72,7 +73,7 @@
 - **push** /pʊʃ/ : 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
 - **dessert** /dɪˈzɜːrt/ : sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
 - **sour** /ˈsaʊər/ : 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
-- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream
+- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>
 - **coconut** /ˈkoʊkənʌt/ : <br> <img src='images/coconut.jpg' alt='coconut' width='200'>
 - **yogurt** /ˈjoʊɡərt/ : (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
 - **beverage** /ˈbevərɪdʒ/ : a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
@@ -232,4 +233,12 @@
 - **annoyed** /ə.ˈnɔɪd/ : feeling a little angry
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
+
+### Reunion (6 words)
+- **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
+- **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
+- **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
+- **spotless** /ˈspɑːt.ləs/ : absolutely clean or pure
+- **exhausted** /ɪɡˈzɑː.stɪd/ : very tired
+- **festival** /ˈfes.tə.vəl/ : 1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival
 ---

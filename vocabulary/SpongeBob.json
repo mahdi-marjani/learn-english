@@ -92,12 +92,6 @@
               "mean_en": "very interesting: She told us fascinating stories about her life"
             },
             {
-              "word": "wonderful",
-              "phonetic": "/ˈwʌndərfl/",
-              "mean_fa": "",
-              "mean_en": "very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful"
-            },
-            {
               "word": "teeming",
               "phonetic": "/ˈtiːmɪŋ/",
               "mean_fa": "",
@@ -521,6 +515,12 @@
               "phonetic": "/kɪd/",
               "mean_fa": "",
               "mean_en": "to say something that it not true as a joke: I didn't mean it. I was only kidding - Are you kidding me?"
+            },
+            {
+              "word": "fancy (adjective)",
+              "phonetic": "/ˈfæn.si/",
+              "mean_fa": "",
+              "mean_en": "not simple or ordinary; complicated or including a lot of features: I wanted a simple black dress, nothing fancy - a fancy restaurant"
             },
             {
               "word": "grand tour",

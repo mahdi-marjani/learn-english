@@ -1,13 +1,13 @@
 # All Vocabulary
 
-**Total words: 973**
+**Total words: 981**
 
 ## 📑 Table of Contents
 
 - [SpongeBob SquarePants - Vocabulary (97 words)](#spongebob-squarepants---vocabulary-97-words)
   - [S1 (97 words)](#s1-97-words)
-    - [E1 (69 words)](#e1-69-words)
-    - [E3 (28 words)](#e3-28-words)
+    - [E1 (68 words)](#e1-68-words)
+    - [E3 (29 words)](#e3-29-words)
 - [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
@@ -18,14 +18,15 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (205 words)](#duolingo---vocabulary-205-words)
-  - [SECTION 1 (205 words)](#section-1-205-words)
+- [Duolingo - Vocabulary (211 words)](#duolingo---vocabulary-211-words)
+  - [SECTION 1 (211 words)](#section-1-211-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (27 words)](#interview-27-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
+    - [Reunion (6 words)](#reunion-6-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -35,11 +36,12 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (50 words)](#general---vocabulary-50-words)
+- [General - Vocabulary (52 words)](#general---vocabulary-52-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (23 words)](#social-media-23-words)
-  - [other (16 words)](#other-16-words)
+  - [other (13 words)](#other-13-words)
+  - [Wow! Words (5 words)](#wow-words-5-words)
 
 ---
 
@@ -47,7 +49,7 @@
 
 ### S1 (97 words)
 
-#### E1 (69 words)
+#### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
 - **pineapple** /ˈpaɪnæpl/ : a big fruit that is yellow inside and has a rough brown skin <br> <img src='images/pineapple.jpg' alt='pineapple' width='200'>
 - **absorbent** /əbˈzɔːrbənt/ : able to take in and hold something,especially liquid: an absorbent cloth
@@ -62,7 +64,6 @@
 - **laugh (verb)** /læf/ : to make sounds to show that you are happy or that you think something is funny: His jokes always make me laugh <br> **laugh at somebody or something** to laugh to show that you think somebody or something is funny or silly: The children laughed at the clown - They all laughed at me when I said I was afraid of dogs
 - **narrator** /nəˈreɪ.tər/ : the character who tells you what is happening in a book or film
 - **fascinating** /ˈfæsɪneɪtɪŋ/ : very interesting: She told us fascinating stories about her life
-- **wonderful** /ˈwʌndərfl/ : very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
 - **teeming** /ˈtiːmɪŋ/ : If a place is teeming, it is full of people
 - **creature** /ˈkriːtʃər/ : any living thing that is not a plant: birds, fish and other creatures - This story is about creatures from another planet
 - **naked** /ˈneɪkɪd/ : not wearing any clothes (SAME MEANING: nude)
@@ -118,7 +119,7 @@
 - **booty** /ˈbuːti/ : any valuable things or money stolen by an army at war or by thieves
 - **employee** /ɪmˈplɔɪiː/ : a person who works for someone else for money: The company has 500 employees
 
-#### E3 (28 words)
+#### E3 (29 words)
 - **treedome** : <br> <img src='images/treedome.jpg' alt='treedome' width='200'>
 - **stinger** /ˈstɪŋər/ : the sharp pointed part of an insect or creature that can go into the skin leaving a smal, painful wound, sometimes with poison in it: a bee's stinger <br> <img src='images/stinger.jpg' alt='stinger' width='200'>
 - **squirrel** /skwɜr:əl/ : <br> <img src='images/squirrel.jpg' alt='squirrel' width='200'>
@@ -135,6 +136,7 @@
 - **helmet** /ˈhel.mət/ : a strong, hard hat that covers and protects the head: a bicycle helmet - a war helmet <br> <img src='images/helmet.jpg' alt='helmet' width='200'>
 - **breathe** /briːð/ : to move air or something else into and out of the lungs <br> <img src='images/breathe.jpg' alt='breathe' width='200'>
 - **kid (verb)** /kɪd/ : to say something that it not true as a joke: I didn't mean it. I was only kidding - Are you kidding me?
+- **fancy (adjective)** /ˈfæn.si/ : not simple or ordinary; complicated or including a lot of features: I wanted a simple black dress, nothing fancy - a fancy restaurant
 - **grand tour** /ˌɡrænd ˈtʊr/ : a visit to the most important countries and cities of Europe that rich young people made in the past as part of their education
 - **bubble** /ˈbʌb.əl/ : a ball of gas that appears in a liquid, or a ball formed of air surrounded by liquid that floats in the air <br> <img src='images/bubble.jpg' alt='bubble' width='200'>
 - **surround** /səˈraʊnd/ : to be or go all around something: Gwen sat at her desk, surrounded by books and papers
@@ -787,9 +789,9 @@
 
 ---
 
-## Duolingo - Vocabulary (205 words)
+## Duolingo - Vocabulary (211 words)
 
-### SECTION 1 (205 words)
+### SECTION 1 (211 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -847,7 +849,7 @@
 - **push** /pʊʃ/ : 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
 - **dessert** /dɪˈzɜːrt/ : sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
 - **sour** /ˈsaʊər/ : 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
-- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream
+- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>
 - **coconut** /ˈkoʊkənʌt/ : <br> <img src='images/coconut.jpg' alt='coconut' width='200'>
 - **yogurt** /ˈjoʊɡərt/ : (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
 - **beverage** /ˈbevərɪdʒ/ : a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
@@ -1007,6 +1009,14 @@
 - **annoyed** /ə.ˈnɔɪd/ : feeling a little angry
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
+
+#### Reunion (6 words)
+- **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
+- **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
+- **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
+- **spotless** /ˈspɑːt.ləs/ : absolutely clean or pure
+- **exhausted** /ɪɡˈzɑː.stɪd/ : very tired
+- **festival** /ˈfes.tə.vəl/ : 1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival
 ---
 
 ---
@@ -1049,7 +1059,7 @@
 
 ---
 
-## General - Vocabulary (50 words)
+## General - Vocabulary (52 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1094,7 +1104,7 @@
 - **stranger** /ˈstreɪndʒər/ : someone you do not know
 ---
 
-### other (16 words)
+### other (13 words)
 - **benefit (verb)** /ˈbenɪfɪt/ : to be good or helpful for somebody: The new law will benefit families with children <br> **benefit from something** to get something good or useful from something: She will benefit from a holiday
 - **purpose** /ˈpɜːrpəs/ : the reason for doing something: What is the purpose of your visit?
 - **reason** /ˈriːzn/ : a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -1102,15 +1112,20 @@
 - **against** /əˈɡenst/ : 1. on the other side in a game, fight, etc.: They played against a football team from another vilage <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
 - **vehicle** /ˈviːəkl/ : a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
 - **vacation** /veɪˈkeɪʃən/ : (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
-- **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
 - **to** : 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)
 - **for (preposition)** : 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
-- **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - **abbreviation** /əˌbriːviˈeɪʃən/ : a short form of a word or phrase
 - **autumn** /ˈɑːtəm/ : the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - **ahead** /əˈhed/ : 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> **go ahead** used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead'
 - **likely** : if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
-- **interesting** : A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
+---
+
+### Wow! Words (5 words)
+- **interesting** /ˈɪn.trəs.tɪng/ : A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
+- **exciting** /ˈɪks.aɪ.tɪng/ : making us feel interested, happy, and energetic
+- **wonderful** /ˈwʌndərfl/ : very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
+- **fantastic** /fænˈtæstɪk/ : very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
+- **amazing** /əˈmeɪzɪŋ/ : if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
 ---
 
 ---

@@ -334,7 +334,7 @@
               "word": "flavor",
               "phonetic": "/ˈfleɪvər/",
               "mean_fa": "",
-              "mean_en": "(American) (British flavour) the taste of food: They sell 20 different flavors of ice cream"
+              "mean_en": "(American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>"
             },
             {
               "word": "coconut",
@@ -1261,6 +1261,47 @@
               "phonetic": "/ˈɑː.fəl/",
               "mean_fa": "",
               "mean_en": "very bad: The pain was awful - What awful weather"
+            }
+          ]
+        },
+        {
+          "heading": "Reunion",
+          "words": [
+            {
+              "word": "reunion",
+              "phonetic": "/ˌriːˈjuː.njən/",
+              "mean_fa": "",
+              "mean_en": "a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students"
+            },
+            {
+              "word": "annual",
+              "phonetic": "/ˈæn.ju.əl/",
+              "mean_fa": "",
+              "mean_en": "happening once every year: an annual event/visit/holiday"
+            },
+            {
+              "word": "contact (noun)",
+              "phonetic": "/ˈkɑːn.tækt/",
+              "mean_fa": "",
+              "mean_en": "meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people"
+            },
+            {
+              "word": "spotless",
+              "phonetic": "/ˈspɑːt.ləs/",
+              "mean_fa": "",
+              "mean_en": "absolutely clean or pure"
+            },
+            {
+              "word": "exhausted",
+              "phonetic": "/ɪɡˈzɑː.stɪd/",
+              "mean_fa": "",
+              "mean_en": "very tired"
+            },
+            {
+              "word": "festival",
+              "phonetic": "/ˈfes.tə.vəl/",
+              "mean_fa": "",
+              "mean_en": "1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival"
             }
           ]
         }
