@@ -1,13 +1,14 @@
 # All Vocabulary
 
-**Total words: 981**
+**Total words: 1001**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (97 words)](#spongebob-squarepants---vocabulary-97-words)
-  - [S1 (97 words)](#s1-97-words)
+- [SpongeBob SquarePants - Vocabulary (116 words)](#spongebob-squarepants---vocabulary-116-words)
+  - [S1 (116 words)](#s1-116-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
+    - [E4 (19 words)](#e4-19-words)
 - [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
@@ -18,12 +19,12 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (211 words)](#duolingo---vocabulary-211-words)
-  - [SECTION 1 (211 words)](#section-1-211-words)
+- [Duolingo - Vocabulary (210 words)](#duolingo---vocabulary-210-words)
+  - [SECTION 1 (210 words)](#section-1-210-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
-    - [Interview (27 words)](#interview-27-words)
+    - [Interview (26 words)](#interview-26-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
     - [Reunion (6 words)](#reunion-6-words)
@@ -36,18 +37,18 @@
   - [Part 2: Deep Learning (6 words)](#part-2-deep-learning-6-words)
     - [Chapter 4: Neural Networks (3 words)](#chapter-4-neural-networks-3-words)
     - [Chapter 5: Training (3 words)](#chapter-5-training-3-words)
-- [General - Vocabulary (52 words)](#general---vocabulary-52-words)
+- [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
-  - [social media (23 words)](#social-media-23-words)
+  - [social media (25 words)](#social-media-25-words)
   - [other (13 words)](#other-13-words)
   - [Wow! Words (5 words)](#wow-words-5-words)
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (97 words)
+## SpongeBob SquarePants - Vocabulary (116 words)
 
-### S1 (97 words)
+### S1 (116 words)
 
 #### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -149,6 +150,27 @@
 - **blow (verb)** /bloʊ/ : 1. When air or wind blows, it moves: The wind was from the sea <br> 2. to move something through the air: The wind blew my hat off <br> 3. to send air out from your mouth: He blew on the soup to cool it down - Please blow into this tube <br> 4. to send air out from your mouth into a musical instrument, for example, to make a noise: The referee blew his whistle <br> **blow up; blow something up** 1. to explode or make something explode, for example with a bomb: The plane blew up - They blew up the bridge <br> 2. to fill something with air: We blew up some balloons for the party <br> **blow your nose** to clear your nose by blowing strongly through it onto a piece of cloth or paper (called a handkerchief) <br> **blow it** 1. to fail at something: I really blew it in the exam <br> 2. an expression of anger: Oh, blow it! I've forgotten to invite Paul to the party
 - **buddy** /ˈbʌd.i/ : (American, informal) (British mate) a friend: Hey buddy, how are you? - Don't worry buddy, You're doing fine
 - **ask** : 1. to try to get an answer by using a question: I asked him what the time was - 'What's your name?' she asked - Liz asked the teacher a question <br> 2. to say that you would like somebody to do something for you: I asked Sara to drive me to the station <br> 3. to try to get permission to do something: I asked my teacher if I could go home - I asked if I could go home early <br> 4. to invite somebody to go somewhere with you: Mark has asked me to a party on Saturday <br> **ask for somebody** to say that you want to speak to somebody: Phone this number and ask for Mrs Green <br> **ask for something** to say that you want somebody to give you something: He asked for a new bike for his birthday
+
+#### E4 (19 words)
+- **shimmering** /ˈʃɪ.mɜ.rɪng/ : درخشان
+- **scallop** /ˈskæl.əp/ : a sea creature that lives inside two joined flat, round shells and can be eaten <br> <img src='images/scallop.jpg' alt='scallop' width='200'>
+- **chirp** /ʧɜrp/ : to make the short high sound that small birds make
+- **peaceful** /ˈpiːs.fəl/ : 1. with no fighting: a peaceful demonstration <br> 2. quiet and calm: It's so peaceful here
+- **soothing** /ˈsu.ðɪng/ : making you feel calm: Her words had a soothing effect - I put on some nice soothing music
+- **clarinet** /ˌkler.ɪˈnet/ : <br> <img src='images/clarinet.jpg' alt='clarinet' width='200'>
+- **quarter** /ˈkwɔr.tər/ : 1. one of four equal parts of something; ¼: a mile and a quarter - The film starts in three quarters of an hour <br> 2. three months: You get a telephone bill every quarter <br> 3. a part of a town: the Chinese quarter
+- **reasonable** /ˈriː.zən.ə.bəl/ : 1. fair and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
+- **booming (adjective)** : 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
+- **bubble wand** : <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
+- **dip** /dɪp/ : to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil
+- **giraffe** /dʒɪˈræf/ : <br> <img src='images/giraffe.jpg' alt='giraffe' width='200'>
+- **carefully** : with great attention: Drive carefully on those icy roads
+- **annoying** /əˈnɔɪ.ɪŋ/ : if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
+- **ashamed** /əˈʃeɪmd/ : feeling sory and unhappy because you have done something wrong, or because you are not as good as other people: I was ashamed about lying to my parents - She was ashamed of her old clothes
+- **mere** /mɪər/ : only; not more than: She was a mere child when her parents died
+- **step (verb)** : to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
+- **spin** : to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
+- **gene** /dʒiːn/ : a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 ---
 
 ---
@@ -789,9 +811,9 @@
 
 ---
 
-## Duolingo - Vocabulary (211 words)
+## Duolingo - Vocabulary (210 words)
 
-### SECTION 1 (211 words)
+### SECTION 1 (210 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -889,7 +911,7 @@
 - **horror** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment
 - **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
 - **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
-- **ridiculous** /rɪˈdɪkjələs/ : so silly that it makes people laugh: I look ridiculous in this hat
+- **ridiculous** /rɪˈdɪk.jə.ləs/ : so silly that it makes people laugh: I look ridiculous in this hat
 - **schedule**  /ˈskedʒ.uːl/ : a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)
 - **yell** /jel/ : to shout loudly: Stop yelling at me
 - **loud** /laʊd/ : making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> **out loud** so that other people can hear it: I read the story out loud
@@ -901,9 +923,8 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-#### Interview (27 words)
+#### Interview (26 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
-- **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - **crowd** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
 - **care(verb)** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> **care for somebody** to do the things for somebody that they need: After the accident, her parents cared for her until she was better
@@ -1059,7 +1080,7 @@
 
 ---
 
-## General - Vocabulary (52 words)
+## General - Vocabulary (54 words)
 
 ### game (5 words)
 - **swipe** /swaɪp/ : 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1078,7 +1099,7 @@
 - **lonely** /ˈloʊnli/ : 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-### social media (23 words)
+### social media (25 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -1102,6 +1123,8 @@
 - **adopt** /əˈdɑːpt/ : to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 - **stranger** /ˈstreɪndʒər/ : someone you do not know
+- **tradition** /trəˈdɪʃ.ən/ : a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group
+- **mustard** /ˈmʌstərd/ : a thick yellow or brown sauce that tastes spicy and is eaten cold in small amounts, especially with meat <br> <img src='images/mustard.jpg' alt='mustard' width='200'>
 ---
 
 ### other (13 words)

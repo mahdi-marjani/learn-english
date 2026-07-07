@@ -1,21 +1,21 @@
 # Duolingo - Vocabulary
 
-**Total words: 211**
+**Total words: 210**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (211 words)](#section-1-211-words)
+- [SECTION 1 (210 words)](#section-1-210-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
-  - [Interview (27 words)](#interview-27-words)
+  - [Interview (26 words)](#interview-26-words)
   - [Chores (39 words)](#chores-39-words)
   - [Meeting (37 words)](#meeting-37-words)
   - [Reunion (6 words)](#reunion-6-words)
 
 ---
 
-## SECTION 1 (211 words)
+## SECTION 1 (210 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -113,7 +113,7 @@
 - **horror** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment
 - **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
 - **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
-- **ridiculous** /rɪˈdɪkjələs/ : so silly that it makes people laugh: I look ridiculous in this hat
+- **ridiculous** /rɪˈdɪk.jə.ləs/ : so silly that it makes people laugh: I look ridiculous in this hat
 - **schedule**  /ˈskedʒ.uːl/ : a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)
 - **yell** /jel/ : to shout loudly: Stop yelling at me
 - **loud** /laʊd/ : making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> **out loud** so that other people can hear it: I read the story out loud
@@ -125,9 +125,8 @@
 - **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
 - **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-### Interview (27 words)
+### Interview (26 words)
 - **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
-- **care(verb)  approaches(verb) ** : 
 - **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - **crowd** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
 - **care(verb)** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> **care for somebody** to do the things for somebody that they need: After the accident, her parents cared for her until she was better

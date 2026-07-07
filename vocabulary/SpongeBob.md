@@ -1,16 +1,17 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 97**
+**Total words: 116**
 
 ## 📑 Table of Contents
 
-- [S1 (97 words)](#s1-97-words)
+- [S1 (116 words)](#s1-116-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
+  - [E4 (19 words)](#e4-19-words)
 
 ---
 
-## S1 (97 words)
+## S1 (116 words)
 
 ### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -112,4 +113,25 @@
 - **blow (verb)** /bloʊ/ : 1. When air or wind blows, it moves: The wind was from the sea <br> 2. to move something through the air: The wind blew my hat off <br> 3. to send air out from your mouth: He blew on the soup to cool it down - Please blow into this tube <br> 4. to send air out from your mouth into a musical instrument, for example, to make a noise: The referee blew his whistle <br> **blow up; blow something up** 1. to explode or make something explode, for example with a bomb: The plane blew up - They blew up the bridge <br> 2. to fill something with air: We blew up some balloons for the party <br> **blow your nose** to clear your nose by blowing strongly through it onto a piece of cloth or paper (called a handkerchief) <br> **blow it** 1. to fail at something: I really blew it in the exam <br> 2. an expression of anger: Oh, blow it! I've forgotten to invite Paul to the party
 - **buddy** /ˈbʌd.i/ : (American, informal) (British mate) a friend: Hey buddy, how are you? - Don't worry buddy, You're doing fine
 - **ask** : 1. to try to get an answer by using a question: I asked him what the time was - 'What's your name?' she asked - Liz asked the teacher a question <br> 2. to say that you would like somebody to do something for you: I asked Sara to drive me to the station <br> 3. to try to get permission to do something: I asked my teacher if I could go home - I asked if I could go home early <br> 4. to invite somebody to go somewhere with you: Mark has asked me to a party on Saturday <br> **ask for somebody** to say that you want to speak to somebody: Phone this number and ask for Mrs Green <br> **ask for something** to say that you want somebody to give you something: He asked for a new bike for his birthday
+
+### E4 (19 words)
+- **shimmering** /ˈʃɪ.mɜ.rɪng/ : درخشان
+- **scallop** /ˈskæl.əp/ : a sea creature that lives inside two joined flat, round shells and can be eaten <br> <img src='images/scallop.jpg' alt='scallop' width='200'>
+- **chirp** /ʧɜrp/ : to make the short high sound that small birds make
+- **peaceful** /ˈpiːs.fəl/ : 1. with no fighting: a peaceful demonstration <br> 2. quiet and calm: It's so peaceful here
+- **soothing** /ˈsu.ðɪng/ : making you feel calm: Her words had a soothing effect - I put on some nice soothing music
+- **clarinet** /ˌkler.ɪˈnet/ : <br> <img src='images/clarinet.jpg' alt='clarinet' width='200'>
+- **quarter** /ˈkwɔr.tər/ : 1. one of four equal parts of something; ¼: a mile and a quarter - The film starts in three quarters of an hour <br> 2. three months: You get a telephone bill every quarter <br> 3. a part of a town: the Chinese quarter
+- **reasonable** /ˈriː.zən.ə.bəl/ : 1. fair and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
+- **booming (adjective)** : 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
+- **bubble wand** : <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
+- **dip** /dɪp/ : to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil
+- **giraffe** /dʒɪˈræf/ : <br> <img src='images/giraffe.jpg' alt='giraffe' width='200'>
+- **carefully** : with great attention: Drive carefully on those icy roads
+- **annoying** /əˈnɔɪ.ɪŋ/ : if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
+- **ashamed** /əˈʃeɪmd/ : feeling sory and unhappy because you have done something wrong, or because you are not as good as other people: I was ashamed about lying to my parents - She was ashamed of her old clothes
+- **mere** /mɪər/ : only; not more than: She was a mere child when her parents died
+- **step (verb)** : to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
+- **spin** : to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
+- **gene** /dʒiːn/ : a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 ---

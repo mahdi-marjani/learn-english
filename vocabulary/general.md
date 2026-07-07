@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 52**
+**Total words: 54**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
-- [social media (23 words)](#social-media-23-words)
+- [social media (25 words)](#social-media-25-words)
 - [other (13 words)](#other-13-words)
 - [Wow! Words (5 words)](#wow-words-5-words)
 
@@ -29,7 +29,7 @@
 - **lonely** /ˈloʊnli/ : 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-## social media (23 words)
+## social media (25 words)
 - **teenager** /ˈtiːneɪdʒər/ : a person who is between 13 and 19 years old
 - **genuinely** /ˈdʒɛnjuɪnli/ : realy: Do you think he's genuinely sorry?
 - **deserve** /dɪˈzɜːrv/ : to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -53,6 +53,8 @@
 - **adopt** /əˈdɑːpt/ : to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - **rarely** /ˈrerli/ : not very often: We rarely agree with each other
 - **stranger** /ˈstreɪndʒər/ : someone you do not know
+- **tradition** /trəˈdɪʃ.ən/ : a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group
+- **mustard** /ˈmʌstərd/ : a thick yellow or brown sauce that tastes spicy and is eaten cold in small amounts, especially with meat <br> <img src='images/mustard.jpg' alt='mustard' width='200'>
 ---
 
 ## other (13 words)
