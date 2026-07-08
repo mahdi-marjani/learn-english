@@ -228,7 +228,7 @@
 - **particular** : specific - خاص، ویژه
 - **gratitude** : قدردانی
 - **shoutout** : یک تشکر رسمی یا عمومی
-- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> **bring something back** 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> **bring somebody up** to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> **bring something up** 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting?
+- **bring** /brɪŋ/ : 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> **bring something back** 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> **bring somebody up** to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> **bring something up** 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting? <br> **bring something in** to introduce something new such as a product or a law
 - **incredible** : باور نکردنی
 - **fruition** : به ثمر رسیدن
 - **excerpt** : گزیده، بخش کوتاهی از متن
@@ -304,7 +304,7 @@
 - **dot product** : ضرب نقطه‌ای (در جبر خطی)
 - **distinct** : separate
 - **end-to-end** : از ابتدا تا انتها
-- **introduced** : معرفی شد، ارائه شد
+- **introduce** /ˌɪn.trəˈduːs/ : 1. to tell someone our name so they can know us, or to tell them someone else's name so they can know each other, normally happening in the first meeting: She introduced me to her brother - He introduced himself to me (= told me his name) <br> 2. to bring in something new: This law was introduced in 2002
 - **rounds** : بخش‌های پایانی
 - **tour** /tʊr/ : 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
 - **notice** : متوجه شدن
