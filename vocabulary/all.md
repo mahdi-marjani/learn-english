@@ -1,14 +1,15 @@
 # All Vocabulary
 
-**Total words: 1010**
+**Total words: 1029**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (116 words)](#spongebob-squarepants---vocabulary-116-words)
-  - [S1 (116 words)](#s1-116-words)
+- [SpongeBob SquarePants - Vocabulary (132 words)](#spongebob-squarepants---vocabulary-132-words)
+  - [S1 (132 words)](#s1-132-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
+    - [E5 (16 words)](#e5-16-words)
 - [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
@@ -19,15 +20,15 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (219 words)](#duolingo---vocabulary-219-words)
-  - [SECTION 1 (219 words)](#section-1-219-words)
+- [Duolingo - Vocabulary (222 words)](#duolingo---vocabulary-222-words)
+  - [SECTION 1 (222 words)](#section-1-222-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (26 words)](#interview-26-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
-    - [Reunion (15 words)](#reunion-15-words)
+    - [Reunion (18 words)](#reunion-18-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -46,9 +47,9 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (116 words)
+## SpongeBob SquarePants - Vocabulary (132 words)
 
-### S1 (116 words)
+### S1 (132 words)
 
 #### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -171,6 +172,24 @@
 - **step (verb)** : to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
 - **spin** : to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - **gene** /dʒiːn/ : a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
+
+#### E5 (16 words)
+- **rip** /rɪp/ : to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
+- **stinky** /ˈstɪŋ.ki/ : smelling very bad
+- **mud** /mʌd/ : earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
+- **puddle** /ˈpʌd.əl/ : a small pool of liquid on the ground, especially from rain <br> <img src='images/puddle.jpg' alt='puddle' width='200'>
+- **inhabitant** /ɪnˈhæb.ɪ.tənt/ : a person or animal that lives in a particular place: a city of five million inhabitants
+- **observe** /əb.ˈzɜrv/ : to carefully watch something in order gain knowledge or understanding about the subject
+- **hilarious** /hɪˈler.i.əs/ : If something is hilarious, it is extremely funny and makes you laugh a lot
+- **extremely** /ɪkˈstriːm.li/ : very: They played extremely well - She's extremely beautiful
+- **throw** /θroʊ/ : to make something move through the air by quickly moving your arm and hand <br> <img src='images/throw.jpg' alt='throw' width='200'>
+- **except** /ɪkˈsept/ : not including somebody or something: The restaurant is open every day except Sunday - Everyone went to the party except for me <br> **except that** apart from the fact that: I don't know what he looks like, except that he's very tall
+- **announcer** /ə.ˈnaʊn.sər/ : someone who introduces programmes or reads the news on the television or radio <br> <img src='images/announcer.jpg' alt='announcer' width='200'>
+- **surf** /sɜr:f/ : to move on sea waves by standing or lying on a special board <br> <img src='images/surf.jpg' alt='surf' width='200'>
+- **trademark** /ˈtreɪd.ˌmɑrk/ : 1. a distinctive characteristic or attribute <br> 2. a name or symbol on a product that shows it was made by a particular company, and that it cannot be used by other companies without permission
+- **distinctive** /dɪˈstɪŋk.tɪv/ : Something that is distinctive is easy to recognize because it is different from other things
+- **characteristic** /ˌker.ək.təˈrɪs.tɪk/ : a feature or quality that somebody or something has
+- **guy** /ɡaɪ/ : 1. (informal) a man: He's a nice guy <br> 2. guys (plural) (informal) used when speaking to a group of men and women or boys and girls: Come on guys, Let's go
 ---
 
 ---
@@ -700,7 +719,7 @@
 - **sanguine** /ˈsæŋɡwɪn/ : hopeful - خوش‌بین، امیدوار
 - **disingenuous** /ˌdɪsɪnˈdʒenjuəs/ : دورو، غیرصادقانه
 - **assert** /əˈsɜːrt/ : ادعا کردن، به طور قاطع گفتن
-- **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses
+- **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses <br> **make sense** to be possible to understand: What does this sentence mean? It doesn't make sense to me
 - **approximate (verb)** /əˈprɑːksɪmeɪt/ : to be close to a particular number or state without being exact
 - **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
@@ -811,9 +830,9 @@
 
 ---
 
-## Duolingo - Vocabulary (219 words)
+## Duolingo - Vocabulary (222 words)
 
-### SECTION 1 (219 words)
+### SECTION 1 (222 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1031,7 +1050,7 @@
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 
-#### Reunion (15 words)
+#### Reunion (18 words)
 - **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
 - **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
 - **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
@@ -1047,6 +1066,9 @@
 - **polite** /pəˈlaɪt/ : showing good manners and respectful behavior towards others; speaking or behaving in a way that shows respect: it is polite to say 'please' when you ask for something (OPPOSITE: impolite, rude)
 - **memorable** : easy to remember because it is special in some way: Their wedding was a very memorable day
 - **wedding** /ˈwed.ɪŋ/ : the time when a man and a woman get married: Billy and Elena invited me to their wedding - She wore a long white wedding dress
+- **outgoing** /ˈaʊt.ɡoʊ.ɪŋ/ : (of a person) friendly and energetic and finding it easy and enjoyable to be with others; enjoys making new friends
+- **bald** /bɑːld/ : with little or no hair on the head <br> <img src='images/bald.jpg' alt='bald' width='200'>
+- **handsome** /ˈhæn.səm/ : (of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>
 ---
 
 ---

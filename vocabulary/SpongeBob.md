@@ -1,17 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 116**
+**Total words: 132**
 
 ## 📑 Table of Contents
 
-- [S1 (116 words)](#s1-116-words)
+- [S1 (132 words)](#s1-132-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
   - [E4 (19 words)](#e4-19-words)
+  - [E5 (16 words)](#e5-16-words)
 
 ---
 
-## S1 (116 words)
+## S1 (132 words)
 
 ### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -134,4 +135,22 @@
 - **step (verb)** : to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
 - **spin** : to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - **gene** /dʒiːn/ : a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
+
+### E5 (16 words)
+- **rip** /rɪp/ : to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
+- **stinky** /ˈstɪŋ.ki/ : smelling very bad
+- **mud** /mʌd/ : earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
+- **puddle** /ˈpʌd.əl/ : a small pool of liquid on the ground, especially from rain <br> <img src='images/puddle.jpg' alt='puddle' width='200'>
+- **inhabitant** /ɪnˈhæb.ɪ.tənt/ : a person or animal that lives in a particular place: a city of five million inhabitants
+- **observe** /əb.ˈzɜrv/ : to carefully watch something in order gain knowledge or understanding about the subject
+- **hilarious** /hɪˈler.i.əs/ : If something is hilarious, it is extremely funny and makes you laugh a lot
+- **extremely** /ɪkˈstriːm.li/ : very: They played extremely well - She's extremely beautiful
+- **throw** /θroʊ/ : to make something move through the air by quickly moving your arm and hand <br> <img src='images/throw.jpg' alt='throw' width='200'>
+- **except** /ɪkˈsept/ : not including somebody or something: The restaurant is open every day except Sunday - Everyone went to the party except for me <br> **except that** apart from the fact that: I don't know what he looks like, except that he's very tall
+- **announcer** /ə.ˈnaʊn.sər/ : someone who introduces programmes or reads the news on the television or radio <br> <img src='images/announcer.jpg' alt='announcer' width='200'>
+- **surf** /sɜr:f/ : to move on sea waves by standing or lying on a special board <br> <img src='images/surf.jpg' alt='surf' width='200'>
+- **trademark** /ˈtreɪd.ˌmɑrk/ : 1. a distinctive characteristic or attribute <br> 2. a name or symbol on a product that shows it was made by a particular company, and that it cannot be used by other companies without permission
+- **distinctive** /dɪˈstɪŋk.tɪv/ : Something that is distinctive is easy to recognize because it is different from other things
+- **characteristic** /ˌker.ək.təˈrɪs.tɪk/ : a feature or quality that somebody or something has
+- **guy** /ɡaɪ/ : 1. (informal) a man: He's a nice guy <br> 2. guys (plural) (informal) used when speaking to a group of men and women or boys and girls: Come on guys, Let's go
 ---

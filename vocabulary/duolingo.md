@@ -1,21 +1,21 @@
 # Duolingo - Vocabulary
 
-**Total words: 219**
+**Total words: 222**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (219 words)](#section-1-219-words)
+- [SECTION 1 (222 words)](#section-1-222-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (26 words)](#interview-26-words)
   - [Chores (39 words)](#chores-39-words)
   - [Meeting (37 words)](#meeting-37-words)
-  - [Reunion (15 words)](#reunion-15-words)
+  - [Reunion (18 words)](#reunion-18-words)
 
 ---
 
-## SECTION 1 (219 words)
+## SECTION 1 (222 words)
 
 ### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -233,7 +233,7 @@
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 
-### Reunion (15 words)
+### Reunion (18 words)
 - **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
 - **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
 - **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
@@ -249,4 +249,7 @@
 - **polite** /pəˈlaɪt/ : showing good manners and respectful behavior towards others; speaking or behaving in a way that shows respect: it is polite to say 'please' when you ask for something (OPPOSITE: impolite, rude)
 - **memorable** : easy to remember because it is special in some way: Their wedding was a very memorable day
 - **wedding** /ˈwed.ɪŋ/ : the time when a man and a woman get married: Billy and Elena invited me to their wedding - She wore a long white wedding dress
+- **outgoing** /ˈaʊt.ɡoʊ.ɪŋ/ : (of a person) friendly and energetic and finding it easy and enjoyable to be with others; enjoys making new friends
+- **bald** /bɑːld/ : with little or no hair on the head <br> <img src='images/bald.jpg' alt='bald' width='200'>
+- **handsome** /ˈhæn.səm/ : (of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>
 ---

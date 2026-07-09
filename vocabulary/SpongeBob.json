@@ -714,6 +714,107 @@
               "mean_en": "a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "E5",
+          "words": [
+            {
+              "word": "rip",
+              "phonetic": "/rɪp/",
+              "mean_fa": "",
+              "mean_en": "to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>"
+            },
+            {
+              "word": "stinky",
+              "phonetic": "/ˈstɪŋ.ki/",
+              "mean_fa": "",
+              "mean_en": "smelling very bad"
+            },
+            {
+              "word": "mud",
+              "phonetic": "/mʌd/",
+              "mean_fa": "",
+              "mean_en": "earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>"
+            },
+            {
+              "word": "puddle",
+              "phonetic": "/ˈpʌd.əl/",
+              "mean_fa": "",
+              "mean_en": "a small pool of liquid on the ground, especially from rain <br> <img src='images/puddle.jpg' alt='puddle' width='200'>"
+            },
+            {
+              "word": "inhabitant",
+              "phonetic": "/ɪnˈhæb.ɪ.tənt/",
+              "mean_fa": "",
+              "mean_en": "a person or animal that lives in a particular place: a city of five million inhabitants"
+            },
+            {
+              "word": "observe",
+              "phonetic": "/əb.ˈzɜrv/",
+              "mean_fa": "",
+              "mean_en": "to carefully watch something in order gain knowledge or understanding about the subject"
+            },
+            {
+              "word": "hilarious",
+              "phonetic": "/hɪˈler.i.əs/",
+              "mean_fa": "",
+              "mean_en": "If something is hilarious, it is extremely funny and makes you laugh a lot"
+            },
+            {
+              "word": "extremely",
+              "phonetic": "/ɪkˈstriːm.li/",
+              "mean_fa": "",
+              "mean_en": "very: They played extremely well - She's extremely beautiful"
+            },
+            {
+              "word": "throw",
+              "phonetic": "/θroʊ/",
+              "mean_fa": "",
+              "mean_en": "to make something move through the air by quickly moving your arm and hand <br> <img src='images/throw.jpg' alt='throw' width='200'>"
+            },
+            {
+              "word": "except",
+              "phonetic": "/ɪkˈsept/",
+              "mean_fa": "",
+              "mean_en": "not including somebody or something: The restaurant is open every day except Sunday - Everyone went to the party except for me <br> **except that** apart from the fact that: I don't know what he looks like, except that he's very tall"
+            },
+            {
+              "word": "announcer",
+              "phonetic": "/ə.ˈnaʊn.sər/",
+              "mean_fa": "",
+              "mean_en": "someone who introduces programmes or reads the news on the television or radio <br> <img src='images/announcer.jpg' alt='announcer' width='200'>"
+            },
+            {
+              "word": "surf",
+              "phonetic": "/sɜr:f/",
+              "mean_fa": "",
+              "mean_en": "to move on sea waves by standing or lying on a special board <br> <img src='images/surf.jpg' alt='surf' width='200'>"
+            },
+            {
+              "word": "trademark",
+              "phonetic": "/ˈtreɪd.ˌmɑrk/",
+              "mean_fa": "",
+              "mean_en": "1. a distinctive characteristic or attribute <br> 2. a name or symbol on a product that shows it was made by a particular company, and that it cannot be used by other companies without permission"
+            },
+            {
+              "word": "distinctive",
+              "phonetic": "/dɪˈstɪŋk.tɪv/",
+              "mean_fa": "",
+              "mean_en": "Something that is distinctive is easy to recognize because it is different from other things"
+            },
+            {
+              "word": "characteristic",
+              "phonetic": "/ˌker.ək.təˈrɪs.tɪk/",
+              "mean_fa": "",
+              "mean_en": "a feature or quality that somebody or something has"
+            },
+            {
+              "word": "guy",
+              "phonetic": "/ɡaɪ/",
+              "mean_fa": "",
+              "mean_en": "1. (informal) a man: He's a nice guy <br> 2. guys (plural) (informal) used when speaking to a group of men and women or boys and girls: Come on guys, Let's go"
+            }
+          ]
         }
       ]
     }

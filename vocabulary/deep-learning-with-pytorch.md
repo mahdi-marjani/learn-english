@@ -539,7 +539,7 @@
 - **sanguine** /ˈsæŋɡwɪn/ : hopeful - خوش‌بین، امیدوار
 - **disingenuous** /ˌdɪsɪnˈdʒenjuəs/ : دورو، غیرصادقانه
 - **assert** /əˈsɜːrt/ : ادعا کردن، به طور قاطع گفتن
-- **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses
+- **sense (noun)** /sens/ : 1. the power to see, hear, smell, taste or touch: Dogs have a very good sense of smell <br> 2. the ability to feel or understand something: The boy had no sense of right and wrong - I like him he's got a great sense of humour <br> 3. the ability to think carefully about something and to do the right thing: Did anybody have the sense to call the police? <br> 4. a meaning: This word has four senses <br> **make sense** to be possible to understand: What does this sentence mean? It doesn't make sense to me
 - **approximate (verb)** /əˈprɑːksɪmeɪt/ : to be close to a particular number or state without being exact
 - **close (adjective)** /kloʊs/ : 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - **coherent** /koʊˈhɪrənt/ : logical and well-organized; easy to understand and follow
