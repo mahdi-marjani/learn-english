@@ -809,10 +809,118 @@
               "mean_en": "a feature or quality that somebody or something has"
             },
             {
+              "word": "cardboard",
+              "phonetic": "/ˈkɑːrd.bɔːrd/",
+              "mean_fa": "",
+              "mean_en": "a thick and stiff type of paper material that is often used for packaging and making boxes <br> <img src='images/cardboard.jpg' alt='cardboard' width='200'>"
+            },
+            {
               "word": "guy",
               "phonetic": "/ɡaɪ/",
               "mean_fa": "",
               "mean_en": "1. (informal) a man: He's a nice guy <br> 2. guys (plural) (informal) used when speaking to a group of men and women or boys and girls: Come on guys, Let's go"
+            },
+            {
+              "word": "tailor",
+              "phonetic": "/ˈteɪ.lər/",
+              "mean_fa": "",
+              "mean_en": "a person whose job is making clothes, especially for men <br> <img src='images/tailor.jpg' alt='tailor' width='200'>"
+            },
+            {
+              "word": "spectator",
+              "phonetic": "/ˈspɛk.teɪ.tɜr/",
+              "mean_fa": "",
+              "mean_en": "a person who is watching an event, especially a sports event: There were 2000 spectators at the football match"
+            },
+            {
+              "word": "uncalled for",
+              "phonetic": "",
+              "mean_fa": "بی‌جا، نابجا، نامناسب، غیرضروری (معمولاً برای رفتار یا حرفی که زننده، توهین‌آمیز یا بی‌ادبانه است)",
+              "mean_en": ""
+            },
+            {
+              "word": "frisbee",
+              "phonetic": "/ˈfrɪz.bi/",
+              "mean_fa": "",
+              "mean_en": "a round plastic disc used in some games that people can throw and catch in the air <br> <img src='images/frisbee.jpg' alt='frisbee' width='200'>"
+            },
+            {
+              "word": "drown",
+              "phonetic": "/draʊn/",
+              "mean_fa": "",
+              "mean_en": "to die under water because you cannot breathe; to make somebody die in this way: The boy fell in the river and drowned - Twenty people were drowned in the floods"
+            },
+            {
+              "word": "thief",
+              "phonetic": "/θiːf/",
+              "mean_fa": "",
+              "mean_en": "a person who steals <br> <img src='images/thief.jpg' alt='thief' width='200'>"
+            },
+            {
+              "word": "steal",
+              "phonetic": "/stiːl/",
+              "mean_fa": "",
+              "mean_en": "to secretly take something that is not yours: Her money has been stolen"
+            },
+            {
+              "word": "fool",
+              "phonetic": "/fuːl/",
+              "mean_fa": "",
+              "mean_en": "a person who behaves in a silly way without thinking: You fool, you missed your chance"
+            },
+            {
+              "word": "sunscreen",
+              "phonetic": "/ˈsʌn.skriːn/",
+              "mean_fa": "",
+              "mean_en": "a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>"
+            },
+            {
+              "word": "ouch",
+              "phonetic": "/aʊtʃ/",
+              "mean_fa": "",
+              "mean_en": "used to express pain: Ouch! That hurts!"
+            },
+            {
+              "word": "hurt",
+              "phonetic": "/hɜrt/",
+              "mean_fa": "",
+              "mean_en": "to feel pain in a part of your body, or to injure someone or cause them pain: My head hurts"
+            },
+            {
+              "word": "injure",
+              "phonetic": "/ˈɪn.dʒɜr/",
+              "mean_fa": "",
+              "mean_en": "to hurt yourself or somebody else, especially in an accident: She injured her arm when she was playing tennis - Joe was injured in a car accident"
+            },
+            {
+              "word": "bun",
+              "phonetic": "/bʌn/",
+              "mean_fa": "",
+              "mean_en": "a small round cake or piece of bread <br> <img src='images/bun.jpg' alt='bun' width='200'>"
+            },
+            {
+              "word": "bury",
+              "phonetic": "/ˈber.i/",
+              "mean_fa": "",
+              "mean_en": "1. to put a dead body in the ground <br> 2. to put something in the ground or under something: The dog buried the bone in the garden"
+            },
+            {
+              "word": "clown",
+              "phonetic": "/klaʊn/",
+              "mean_fa": "",
+              "mean_en": "a person who wears funny clothes, has a painted face, and makes people laugh by performing tricks and behaving in a silly way <br> <img src='images/clown.jpg' alt='clown' width='200'>"
+            },
+            {
+              "word": "regret (verb)",
+              "phonetic": "/rɪˈɡret/",
+              "mean_fa": "",
+              "mean_en": "to feel sorry about something that you did or did not do: He regrets selling his car - I don't regret what I said to her"
+            },
+            {
+              "word": "righteous",
+              "phonetic": "/ˈraɪ.tʃəs/",
+              "mean_fa": "",
+              "mean_en": "morally correct"
             }
           ]
         }

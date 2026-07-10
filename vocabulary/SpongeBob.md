@@ -1,18 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 132**
+**Total words: 150**
 
 ## 📑 Table of Contents
 
-- [S1 (132 words)](#s1-132-words)
+- [S1 (150 words)](#s1-150-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
   - [E4 (19 words)](#e4-19-words)
-  - [E5 (16 words)](#e5-16-words)
+  - [E5 (34 words)](#e5-34-words)
 
 ---
 
-## S1 (132 words)
+## S1 (150 words)
 
 ### E1 (68 words)
 - **aye** /aɪ/ : another word for 'yes'
@@ -136,7 +136,7 @@
 - **spin** : to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - **gene** /dʒiːn/ : a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
-### E5 (16 words)
+### E5 (34 words)
 - **rip** /rɪp/ : to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
 - **stinky** /ˈstɪŋ.ki/ : smelling very bad
 - **mud** /mʌd/ : earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
@@ -152,5 +152,23 @@
 - **trademark** /ˈtreɪd.ˌmɑrk/ : 1. a distinctive characteristic or attribute <br> 2. a name or symbol on a product that shows it was made by a particular company, and that it cannot be used by other companies without permission
 - **distinctive** /dɪˈstɪŋk.tɪv/ : Something that is distinctive is easy to recognize because it is different from other things
 - **characteristic** /ˌker.ək.təˈrɪs.tɪk/ : a feature or quality that somebody or something has
+- **cardboard** /ˈkɑːrd.bɔːrd/ : a thick and stiff type of paper material that is often used for packaging and making boxes <br> <img src='images/cardboard.jpg' alt='cardboard' width='200'>
 - **guy** /ɡaɪ/ : 1. (informal) a man: He's a nice guy <br> 2. guys (plural) (informal) used when speaking to a group of men and women or boys and girls: Come on guys, Let's go
+- **tailor** /ˈteɪ.lər/ : a person whose job is making clothes, especially for men <br> <img src='images/tailor.jpg' alt='tailor' width='200'>
+- **spectator** /ˈspɛk.teɪ.tɜr/ : a person who is watching an event, especially a sports event: There were 2000 spectators at the football match
+- **uncalled for** : بی‌جا، نابجا، نامناسب، غیرضروری (معمولاً برای رفتار یا حرفی که زننده، توهین‌آمیز یا بی‌ادبانه است)
+- **frisbee** /ˈfrɪz.bi/ : a round plastic disc used in some games that people can throw and catch in the air <br> <img src='images/frisbee.jpg' alt='frisbee' width='200'>
+- **drown** /draʊn/ : to die under water because you cannot breathe; to make somebody die in this way: The boy fell in the river and drowned - Twenty people were drowned in the floods
+- **thief** /θiːf/ : a person who steals <br> <img src='images/thief.jpg' alt='thief' width='200'>
+- **steal** /stiːl/ : to secretly take something that is not yours: Her money has been stolen
+- **fool** /fuːl/ : a person who behaves in a silly way without thinking: You fool, you missed your chance
+- **sunscreen** /ˈsʌn.skriːn/ : a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>
+- **ouch** /aʊtʃ/ : used to express pain: Ouch! That hurts!
+- **hurt** /hɜrt/ : to feel pain in a part of your body, or to injure someone or cause them pain: My head hurts
+- **injure** /ˈɪn.dʒɜr/ : to hurt yourself or somebody else, especially in an accident: She injured her arm when she was playing tennis - Joe was injured in a car accident
+- **bun** /bʌn/ : a small round cake or piece of bread <br> <img src='images/bun.jpg' alt='bun' width='200'>
+- **bury** /ˈber.i/ : 1. to put a dead body in the ground <br> 2. to put something in the ground or under something: The dog buried the bone in the garden
+- **clown** /klaʊn/ : a person who wears funny clothes, has a painted face, and makes people laugh by performing tricks and behaving in a silly way <br> <img src='images/clown.jpg' alt='clown' width='200'>
+- **regret (verb)** /rɪˈɡret/ : to feel sorry about something that you did or did not do: He regrets selling his car - I don't regret what I said to her
+- **righteous** /ˈraɪ.tʃəs/ : morally correct
 ---
