@@ -1368,6 +1368,30 @@
               "phonetic": "/ˈhæn.səm/",
               "mean_fa": "",
               "mean_en": "(of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>"
+            },
+            {
+              "word": "bean",
+              "phonetic": "/bi:n/",
+              "mean_fa": "",
+              "mean_en": "small seed you can eat <br> <img src='images/bean.jpg' alt='bean' width='200'>"
+            },
+            {
+              "word": "chew",
+              "phonetic": "/tʃuː/",
+              "mean_fa": "",
+              "mean_en": "to use your teeth to break up food in your mouth when you are eating: This meat is difficult to chew"
+            },
+            {
+              "word": "obviously",
+              "phonetic": "/ˈɑːb.vi.əs.li/",
+              "mean_fa": "",
+              "mean_en": "clearly or without a doubt"
+            },
+            {
+              "word": "entirely",
+              "phonetic": "/ɪnˈtaɪr.li/",
+              "mean_fa": "",
+              "mean_en": "completely: I entirely agree with you"
             }
           ]
         }

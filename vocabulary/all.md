@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1047**
+**Total words: 1051**
 
 ## 📑 Table of Contents
 
@@ -20,15 +20,15 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (222 words)](#duolingo---vocabulary-222-words)
-  - [SECTION 1 (222 words)](#section-1-222-words)
+- [Duolingo - Vocabulary (226 words)](#duolingo---vocabulary-226-words)
+  - [SECTION 1 (226 words)](#section-1-226-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (26 words)](#interview-26-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
-    - [Reunion (18 words)](#reunion-18-words)
+    - [Reunion (22 words)](#reunion-22-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -848,9 +848,9 @@
 
 ---
 
-## Duolingo - Vocabulary (222 words)
+## Duolingo - Vocabulary (226 words)
 
-### SECTION 1 (222 words)
+### SECTION 1 (226 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1068,7 +1068,7 @@
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 
-#### Reunion (18 words)
+#### Reunion (22 words)
 - **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
 - **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
 - **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
@@ -1087,6 +1087,10 @@
 - **outgoing** /ˈaʊt.ɡoʊ.ɪŋ/ : (of a person) friendly and energetic and finding it easy and enjoyable to be with others; enjoys making new friends
 - **bald** /bɑːld/ : with little or no hair on the head <br> <img src='images/bald.jpg' alt='bald' width='200'>
 - **handsome** /ˈhæn.səm/ : (of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>
+- **bean** /bi:n/ : small seed you can eat <br> <img src='images/bean.jpg' alt='bean' width='200'>
+- **chew** /tʃuː/ : to use your teeth to break up food in your mouth when you are eating: This meat is difficult to chew
+- **obviously** /ˈɑːb.vi.əs.li/ : clearly or without a doubt
+- **entirely** /ɪnˈtaɪr.li/ : completely: I entirely agree with you
 ---
 
 ---
