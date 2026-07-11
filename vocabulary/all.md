@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1051**
+**Total words: 1063**
 
 ## 📑 Table of Contents
 
@@ -20,15 +20,15 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (226 words)](#duolingo---vocabulary-226-words)
-  - [SECTION 1 (226 words)](#section-1-226-words)
+- [Duolingo - Vocabulary (238 words)](#duolingo---vocabulary-238-words)
+  - [SECTION 1 (238 words)](#section-1-238-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
     - [Interview (26 words)](#interview-26-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
-    - [Reunion (22 words)](#reunion-22-words)
+    - [Reunion (34 words)](#reunion-34-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -319,7 +319,7 @@
 - **commodore c16 (thomas)** : نام چند کامپیوتر قدیمی
 - **dawn** : start (of something big or new)
 - **dreamed** : رؤیا دیدیم
-- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> **take your time** do not rush; use as much time as you need - بردن
+- **take** : 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> **take your time** do not rush; use as much time as you need <br> **take a break** to stop something for a short period, often to rest, to eat food, or to have a drink
 - **collective** : دسته‌جمعی
 - **rolling our eyes** : چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - **spy** : جاسوس
@@ -848,9 +848,9 @@
 
 ---
 
-## Duolingo - Vocabulary (226 words)
+## Duolingo - Vocabulary (238 words)
 
-### SECTION 1 (226 words)
+### SECTION 1 (238 words)
 
 #### Solo trip (36 words)
 - **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1068,7 +1068,7 @@
 - **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 
-#### Reunion (22 words)
+#### Reunion (34 words)
 - **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
 - **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
 - **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
@@ -1091,6 +1091,18 @@
 - **chew** /tʃuː/ : to use your teeth to break up food in your mouth when you are eating: This meat is difficult to chew
 - **obviously** /ˈɑːb.vi.əs.li/ : clearly or without a doubt
 - **entirely** /ɪnˈtaɪr.li/ : completely: I entirely agree with you
+- **cheers** /tʃɪrz/ : expressing good wishes before drinking <br> <img src='images/cheers.jpg' alt='cheers' width='200'>
+- **champagne** /ʃæm.ˈpeɪn/ : a type of fizzy wine made originally in France, often drunk to celebrate an event <br> <img src='images/champagne.jpg' alt='champagne' width='200'>
+- **equipment** /ɪˈkwɪp.mənt/ : tools or machines for a purpose
+- **gig** : a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'>
+- **bar** /bɑːr/ : a place to drink alcohol
+- **turntable** /ˈtɜrn.ˌteɪ.bəl/ : a circular surface on a record player on which the record is played <br> <img src='images/turntable.jpg' alt='turntable' width='200'>
+- **exclusively** /ɪksˈkluː.sɪv.li/ : only
+- **shame** /ʃeɪm/ : an uneasy feeling that we get because of our own or someone else's mistake or bad manner <br> <img src='images/shame.jpg' alt='shame' width='200'>
+- **critic** /ˈkrɪ.tɪk/ : someone who evaluates and provides opinions or judgments about various forms of art, literature, performances, or other creative works <br> <img src='images/critic.jpg' alt='critic' width='200'>
+- **hallway** /hɑ:l.weɪ/ : a space inside a building entrance, which connects to the other rooms <br> <img src='images/hallway.jpg' alt='hallway' width='200'>
+- **turn (verb)** /tɜrn/ : 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> **turn something down** 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> **turn into something** to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> **turn something off** to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> **turn something on** to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> **turn out** to be something in the end: It has turned out to be a lovely day <br> **turn something out** to switch off a light: can you turn the lights out before you leave? <br> **turn over** to move so that the other side is on top: She turned over and went back to sleep <br> **turn something over** to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> **turn up** (used about a person) to arrive: Has David turned up yet? <br> **turn something up** to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
+- **properly** /ˈprɑ.pər.li/ : well or correctly: Close the door properly - I can't see properly without my glasses
 ---
 
 ---
