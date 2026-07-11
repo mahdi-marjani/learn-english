@@ -94,7 +94,7 @@ def write_section(section, level, md_lines, toc_lines, level_offset=0):
         mean_en = word_obj.get('mean_en', '')
         mean_fa = word_obj.get('mean_fa', '')
         separator = ' - ' if mean_en and mean_fa else ''
-        md_lines.append(f"- **`{word_obj['word']}`**{phonetic} : {mean_en}")
+        md_lines.append(f"- `   {word_obj['word']}   ` {phonetic} <br> {mean_en}")
         md_lines.append(f"{separator}{mean_fa}\n")
 
     for sub in section.get('subsections', []):
