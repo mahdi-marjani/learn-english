@@ -18,254 +18,254 @@
 ## SECTION 1 (238 words)
 
 ### Solo trip (36 words)
-- **fare** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
-- **stomach** /ˈstʌm.ək/ : 1. the part inside your body where food goes after you eat it <br> 2. the front part of your body below your chest and above your legs
-- **arrive** /əˈraɪv/ : 1. to come to a place: What time did you arrive home? - What time does the train arrive in Paris? - They arrive at the station ten minute late (OPPOSITE: leave, depart) <br> 2. to come or happen: Summer has arrived
-- **laundry** /ˈlɔːndri/ : clothes and sheets that you must wash or that you have washed (SAME MEANING: washing): a pile of dirty laundry
-- **shuttle (noun)** /ˈʃʌtl/ : a plane, bus or train that travels regularly between two places
-- **continent** /ˈkɑːntənənt/ : one of the seven main areas of land in the world, for example Africa, Asia or Europe
-- **much (adjective, pronoun)** : (more, most) a big amount of something; a lot of something: I haven't got much money - There was so much food that we couldn't eat it all - Eat as much as you can - How much paper do you want? - How much is this shirt?
-- **many (adjective, pronoun)** : 1. a large number of people or things: Many people in this country are very poor - There aren't many students in my class - Many of these books are very old - There are too many mistakes in your homework <br> 2. a word that you use to ask or talk about the number of people or things: How many brothers and sisters have you got? - Take as many cakes as you want
-- **than** : You use 'than' when you compare people or things: I'm older than him - You speak Spanish much better than she does - We live less than a kilometre from the beach
-- **luggage** /ˈlʌɡɪdʒ/ : bags and suitcases that you take with you when you travel (SAME MEANING: baggage): 'How much luggage have you got?' 'Only one suitcase'
-- **seat** /siːt/ : something that you sit on: the book seat of a car - We had seats at the front of the theatre - Please take a seat (= sit down)
-- **twice** /twaɪs/ : two times: I have been to Japan twice - He ate twice as much as I did
-- **once (adverb)** /wʌns/ : 1. one time: I've only been to Spain once - He phones us once a week (= once every week) <br> 2. at some time in the past: This house was once a school <br> **at once** 1. immediately (SAME MEANING: now): Come here at once <br> 2. at the same time: I can't do two things at once <br> **for once** this time only: For once I agree with you <br> **once again; once more** again; one more time: Can you explain it to me once more? <br> **once or twice** a few times; not often: I've only met them once or twice <br> **once upon a time** (used at the beginning of a children's story) a long time ago: Once upon a time there was a beautiful princess ...
-- **once (conjunction)** /wʌns/ : as soon as; when: Once you've finished your homework you can go out
-- **probably** /ˈprɑːbəbli/ : almost certainly; likely to happen: I will probably see you on Thursday
-- **sleepover** /ˈsliːpoʊvər/ : a type of party when a young person or a group of young people stay for the night at the house of a friend
-- **nightmare** /ˈnaɪtmer/ : 1. a very bad or frightening dream: I shouldn't have watched that movie - it'll give me nightmares <br> 2. something that is very bad or frightening: Travelling through the snow was a nightmare
-- **deal (noun)** /diːl/ : an agreement, usually about buying, selling or working: Let's make a deal _ I'll help you today if you help me tomorrow <br> **a good deal** or **a great deal** a lot: I've spent a great deal of time on this report
-- **desk** /desk/ : 1. a type of table, often with drawers, that you sit at to write or work: The pupils took their books out of their desks <br> 2. a table or place in a building where somebody gives information, etc.: Ask at the information desk
-- **patio** /ˈpætioʊ/ : an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc
-- **sauce** /sɔːs/ : a thick liquid that you eat on or with other food: pasta with tomato sauce <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
-- **hang** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> **hang about; hang around** (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> **hang on** (informal) to wait for a short time: Hang on _ I'm not ready <br> **hang on to somebody or something** to hold somebody or something firmly: Hang on to your purse <br> **hang up** to end a telephone call by putting the telephone down <br> **hang out** to spend a lot of time in a place or with someone
-- **plate** /pleɪt/ : a round dish that you put food on <br> <img src='images/plate.jpg' alt='plate' width='200'>
-- **sense (verb)** /sens/ : to understand or feel something: I sensed that he was worried
-- **meal** /miːl/ : food that you eat at a certain time of the day: What's your favourite meal of the day? - We had a nice meal in that restaurant
-- **dish** /dɪʃ/ : 1. a container for food. You can use a dish to cook food in an oven, or to put food on the table <br> 2. **the dishes** (plural) all the plates, bowls, cups, etc. that you must wash after a meal: I'll wash the dishes <br> 3. a part of a meal: We had a fish dish and a vegetarian dish
-- **quest** /kwest/ : a long search for something that is difficult to find, or an attempt to achieve something difficult
-- **in (preposition)** : 1. a word that shows where somebody or something is: a country in Africa - He put his hand in the water - She was lying in bed <br> 2. making all or part of something: There are 100 centimetres in a metre <br> 3. a word that shows when something happens: My birthday is in May - He started school in 1987 <br> 4. a word that shows how long something takes: I'll be ready in ten minutes <br> 5. a word that shows what clothes somebody is wearing: He was dressed in a suit <br> 6. a word that shows how somebody or something is: This room is in a mess - Jenny was in tears (= she was crying) - Sit in a circle <br> 7. a word that shows somebody's job: He's in the army <br> 8. a word that shows in what way or in what language: Write your name in capital letters - They were speaking in French
-- **in (adverb)** : 1. to a place, from outside: I opened the door and went in (OPPOSITE: out) <br> 2. at home or at work: Nobody was in when we called (OPPOSITE: out)
-- **on (preposition, adverb)** : 1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> **on and on** without stopping: He went (= talked) on and on about his girlfriend
-- **couch** : a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
-- **snack** /snæk/ : a small quick meal: We had a snack on the train
-- **stuff** /ˈstʌf/ : the people who work in a place: The hotel staff were very friendly
-- **homesick** /ˈhoʊmsɪk/ : sad because you are away from home
-- **exact** /ɪɡˈzækt/ : completely correct: We need to know the exact time the incident occurred
-- **adventure** /ədˈventʃər/ : something exciting that you do or that happens to you: She wrote a book about her adventures in Africa
+- **`fare`** /fer/ : the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
+- **`stomach`** /ˈstʌm.ək/ : 1. the part inside your body where food goes after you eat it <br> 2. the front part of your body below your chest and above your legs
+- **`arrive`** /əˈraɪv/ : 1. to come to a place: What time did you arrive home? - What time does the train arrive in Paris? - They arrive at the station ten minute late (OPPOSITE: leave, depart) <br> 2. to come or happen: Summer has arrived
+- **`laundry`** /ˈlɔːndri/ : clothes and sheets that you must wash or that you have washed (SAME MEANING: washing): a pile of dirty laundry
+- **`shuttle (noun)`** /ˈʃʌtl/ : a plane, bus or train that travels regularly between two places
+- **`continent`** /ˈkɑːntənənt/ : one of the seven main areas of land in the world, for example Africa, Asia or Europe
+- **`much (adjective, pronoun)`** : (more, most) a big amount of something; a lot of something: I haven't got much money - There was so much food that we couldn't eat it all - Eat as much as you can - How much paper do you want? - How much is this shirt?
+- **`many (adjective, pronoun)`** : 1. a large number of people or things: Many people in this country are very poor - There aren't many students in my class - Many of these books are very old - There are too many mistakes in your homework <br> 2. a word that you use to ask or talk about the number of people or things: How many brothers and sisters have you got? - Take as many cakes as you want
+- **`than`** : You use 'than' when you compare people or things: I'm older than him - You speak Spanish much better than she does - We live less than a kilometre from the beach
+- **`luggage`** /ˈlʌɡɪdʒ/ : bags and suitcases that you take with you when you travel (SAME MEANING: baggage): 'How much luggage have you got?' 'Only one suitcase'
+- **`seat`** /siːt/ : something that you sit on: the book seat of a car - We had seats at the front of the theatre - Please take a seat (= sit down)
+- **`twice`** /twaɪs/ : two times: I have been to Japan twice - He ate twice as much as I did
+- **`once (adverb)`** /wʌns/ : 1. one time: I've only been to Spain once - He phones us once a week (= once every week) <br> 2. at some time in the past: This house was once a school <br> `at once` 1. immediately (SAME MEANING: now): Come here at once <br> 2. at the same time: I can't do two things at once <br> `for once` this time only: For once I agree with you <br> `once again; once more` again; one more time: Can you explain it to me once more? <br> `once or twice` a few times; not often: I've only met them once or twice <br> `once upon a time` (used at the beginning of a children's story) a long time ago: Once upon a time there was a beautiful princess ...
+- **`once (conjunction)`** /wʌns/ : as soon as; when: Once you've finished your homework you can go out
+- **`probably`** /ˈprɑːbəbli/ : almost certainly; likely to happen: I will probably see you on Thursday
+- **`sleepover`** /ˈsliːpoʊvər/ : a type of party when a young person or a group of young people stay for the night at the house of a friend
+- **`nightmare`** /ˈnaɪtmer/ : 1. a very bad or frightening dream: I shouldn't have watched that movie - it'll give me nightmares <br> 2. something that is very bad or frightening: Travelling through the snow was a nightmare
+- **`deal (noun)`** /diːl/ : an agreement, usually about buying, selling or working: Let's make a deal _ I'll help you today if you help me tomorrow <br> `a good deal` or `a great deal` a lot: I've spent a great deal of time on this report
+- **`desk`** /desk/ : 1. a type of table, often with drawers, that you sit at to write or work: The pupils took their books out of their desks <br> 2. a table or place in a building where somebody gives information, etc.: Ask at the information desk
+- **`patio`** /ˈpætioʊ/ : an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc
+- **`sauce`** /sɔːs/ : a thick liquid that you eat on or with other food: pasta with tomato sauce <br> <img src='images/sauce.jpg' alt='sauce' width='200'>
+- **`hang`** /hæŋ/ : 1. to fix something, or to be fixed at the top so that the lower part is free: Hang your coat up in the hall - I hung the washing on the line to dry <br> 2. to kill yourself or another person by putting a rope around the neck and allowing the body to drop downwards: She was hanged for murder <br> `hang about; hang around` (informal) to stay somewhere with nothing special to do: My plane was late so I had to hang about in the airport all morning <br> `hang on` (informal) to wait for a short time: Hang on _ I'm not ready <br> `hang on to somebody or something` to hold somebody or something firmly: Hang on to your purse <br> `hang up` to end a telephone call by putting the telephone down <br> `hang out` to spend a lot of time in a place or with someone
+- **`plate`** /pleɪt/ : a round dish that you put food on <br> <img src='images/plate.jpg' alt='plate' width='200'>
+- **`sense (verb)`** /sens/ : to understand or feel something: I sensed that he was worried
+- **`meal`** /miːl/ : food that you eat at a certain time of the day: What's your favourite meal of the day? - We had a nice meal in that restaurant
+- **`dish`** /dɪʃ/ : 1. a container for food. You can use a dish to cook food in an oven, or to put food on the table <br> 2. `the dishes` (plural) all the plates, bowls, cups, etc. that you must wash after a meal: I'll wash the dishes <br> 3. a part of a meal: We had a fish dish and a vegetarian dish
+- **`quest`** /kwest/ : a long search for something that is difficult to find, or an attempt to achieve something difficult
+- **`in (preposition)`** : 1. a word that shows where somebody or something is: a country in Africa - He put his hand in the water - She was lying in bed <br> 2. making all or part of something: There are 100 centimetres in a metre <br> 3. a word that shows when something happens: My birthday is in May - He started school in 1987 <br> 4. a word that shows how long something takes: I'll be ready in ten minutes <br> 5. a word that shows what clothes somebody is wearing: He was dressed in a suit <br> 6. a word that shows how somebody or something is: This room is in a mess - Jenny was in tears (= she was crying) - Sit in a circle <br> 7. a word that shows somebody's job: He's in the army <br> 8. a word that shows in what way or in what language: Write your name in capital letters - They were speaking in French
+- **`in (adverb)`** : 1. to a place, from outside: I opened the door and went in (OPPOSITE: out) <br> 2. at home or at work: Nobody was in when we called (OPPOSITE: out)
+- **`on (preposition, adverb)`** : 1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> `on and on` without stopping: He went (= talked) on and on about his girlfriend
+- **`couch`** : a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
+- **`snack`** /snæk/ : a small quick meal: We had a snack on the train
+- **`stuff`** /ˈstʌf/ : the people who work in a place: The hotel staff were very friendly
+- **`homesick`** /ˈhoʊmsɪk/ : sad because you are away from home
+- **`exact`** /ɪɡˈzækt/ : completely correct: We need to know the exact time the incident occurred
+- **`adventure`** /ədˈventʃər/ : something exciting that you do or that happens to you: She wrote a book about her adventures in Africa
 
 ### Delivery (29 words)
-- **tuna** /ˈtuːnə/ : 1. a type of large fish that is found in warm seas <br> <img src='images/tuna1.jpg' alt='tuna1' width='200'> <br> 2. the meat of a large fish named tuna that lives in warm waters <br> <img src='images/tuna2.jpg' alt='tuna2' width='200'>
-- **strawberry** /ˈstrɔːberi/ : <br> <img src='images/strawberry.jpg' alt='strawberry' width='200'>
-- **soda** /ˈsoʊdə/ : 1. water with bubbles in it that is used for mixing with other drinks: whisky and soda <br> 2. (American) a sweet drink with bubbles in it that is made from soda water and a fruit flavour
-- **ingredient** /ɪnˈɡriːdiənt/ : one of the things that you put in when you make something to eat: The ingredients for this cake are flour, butter, sugar and eggs
-- **taste (noun)** /teɪst/ : the feeling that a certain food or drink gives in your mouth: Sugar has a sweet taste and lemons have a sour taste - I don't like the taste of this cheese <br> 2. the power to know about food and drink with your mouth: When you have a cold, you often lose your sense of taste <br> 3. a little bit of food or drink: Have a taste of the fish to see if you like it <br> 4. being able to choose nice things: She has good taste in clothes
-- **taste (verb)** /teɪst/ : 1. to have a certain flavour: This tastes of oranges - Honey tastes sweet <br> 2. to feel or know a certain food or drink in your mouth: Can you taste onions in this soup? <br> 3. to eat or drink a little of something, to test its flavour: Taste this cheese to see if you like it
-- **actually** /ˈæktʃuəli/ : 1. really; in fact: You don't actually believe her, do you? - I can't believe I'm actually going to Australia <br> 2. a word that you use to disagree politely or when you say something new: I don't agree. I thought the film was very good, actually - 'Let's go out tonight' 'Actually, I'd like to stay in and watch a film'
-- **different** /ˈdɪfərənt/ : is an adjective. It often goes before a noun (I have a different coat than her) or after the verb 'to be' (This test is different than last week's)
-- **difference** /ˈdɪfərəns/ : is a noun. It can be a subject (The difference is noticeable in their results) or object (I can't find a difference in the photographs)
-- **delicious** /dɪˈlɪʃəs/ : tasting very good; very good to eat: This soup is delicious
-- **sweet (adjective)** /swiːt/ : 1. containing or tasting of sugar: Honey is sweet <br> 2. with a good smell: the sweet smell of roses <br> 3. attractive; pretty (SAME MEANING: cute): What a sweet little girl <br> 4. having or showing a kind character: It was sweet of you to help me
-- **sausage** /ˈsɔːsɪdʒ/ : <br> <img src='images/sausage.jpg' alt='sausage' width='200'>
-- **downtown** /ˌdaʊnˈtaʊn/ : in or towards the centre of a city, especially its main business area: She works downtown
-- **pull** /pʊl/ : 1. to move somebody or something strangly towards you: She pulled the drawer open <br> 2. to go forward, moving something behind you: The cart was pulled by two horses <br> 3. to move something somewhere: He pulled up his trousers <br> **pull down** to destroy a building: The old school has been pulled down <br> **pull in** to drive a car to the side of the road and stop: I pulled in to look at the map <br> **pull somebody's leg** (informal) to try to make somebody believe something that is not true, for fun: I didn't really see on elephant _ I was only pulling your leg <br> **pull yourself together** to control your feelings after being upset: Pull yourself together and stop crying <br> **pull up** to stop a car: The driver pulled up at the traffic lights <br> <img src='images/pull.jpg' alt='pull' width='200'>
-- **push** /pʊʃ/ : 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
-- **dessert** /dɪˈzɜːrt/ : sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
-- **sour** /ˈsaʊər/ : 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
-- **flavor** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>
-- **coconut** /ˈkoʊkənʌt/ : <br> <img src='images/coconut.jpg' alt='coconut' width='200'>
-- **yogurt** /ˈjoʊɡərt/ : (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
-- **beverage** /ˈbevərɪdʒ/ : a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
-- **paradise** /ˈperədaɪs/ : the place where some people think good people go after they die (SAME MEANING: heaven)
-- **the tropics** /ðə ˈtrɑːpɪks/ : the part of the world where it is very hot and wet <br> **tropical** tropical fruit
-- **boba** /ˈboʊbə/ : are small, chewy balls made from tapioca. They are usually added to bubble tea (a sweet tea drink) <br> <img src='images/boba.jpg' alt='boba' width='200'>
-- **definitely** /ˈdefənɪtli/ : without any doubt / certainly / for sure: I'll definitely consider your advice - It's definitely the best restaurant in the town
-- **grab** /ɡræb/ : to take or hold something quickly or suddenly: The thief grabbed her bag and ran away
-- **already** /ɔːlˈredi/ : 1. before now or before a particular time: 'Would you like some lunch?' 'No, thank you—I’ve already eaten.' - We ran to the station but the train had already left <br> 2. now; sooner than expected: It's already 10 PM. - We've already finished the work <br> 3. even at this point; as early as now: We can already see the results. - Starting from the right side, we already get a glimpse of what we need - قبلاً، از قبل، تا الان، تاکنون، همین حالا، از همین مرحله
-- **mango** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
-- **utensil** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
+- **`tuna`** /ˈtuːnə/ : 1. a type of large fish that is found in warm seas <br> <img src='images/tuna1.jpg' alt='tuna1' width='200'> <br> 2. the meat of a large fish named tuna that lives in warm waters <br> <img src='images/tuna2.jpg' alt='tuna2' width='200'>
+- **`strawberry`** /ˈstrɔːberi/ : <br> <img src='images/strawberry.jpg' alt='strawberry' width='200'>
+- **`soda`** /ˈsoʊdə/ : 1. water with bubbles in it that is used for mixing with other drinks: whisky and soda <br> 2. (American) a sweet drink with bubbles in it that is made from soda water and a fruit flavour
+- **`ingredient`** /ɪnˈɡriːdiənt/ : one of the things that you put in when you make something to eat: The ingredients for this cake are flour, butter, sugar and eggs
+- **`taste (noun)`** /teɪst/ : the feeling that a certain food or drink gives in your mouth: Sugar has a sweet taste and lemons have a sour taste - I don't like the taste of this cheese <br> 2. the power to know about food and drink with your mouth: When you have a cold, you often lose your sense of taste <br> 3. a little bit of food or drink: Have a taste of the fish to see if you like it <br> 4. being able to choose nice things: She has good taste in clothes
+- **`taste (verb)`** /teɪst/ : 1. to have a certain flavour: This tastes of oranges - Honey tastes sweet <br> 2. to feel or know a certain food or drink in your mouth: Can you taste onions in this soup? <br> 3. to eat or drink a little of something, to test its flavour: Taste this cheese to see if you like it
+- **`actually`** /ˈæktʃuəli/ : 1. really; in fact: You don't actually believe her, do you? - I can't believe I'm actually going to Australia <br> 2. a word that you use to disagree politely or when you say something new: I don't agree. I thought the film was very good, actually - 'Let's go out tonight' 'Actually, I'd like to stay in and watch a film'
+- **`different`** /ˈdɪfərənt/ : is an adjective. It often goes before a noun (I have a different coat than her) or after the verb 'to be' (This test is different than last week's)
+- **`difference`** /ˈdɪfərəns/ : is a noun. It can be a subject (The difference is noticeable in their results) or object (I can't find a difference in the photographs)
+- **`delicious`** /dɪˈlɪʃəs/ : tasting very good; very good to eat: This soup is delicious
+- **`sweet (adjective)`** /swiːt/ : 1. containing or tasting of sugar: Honey is sweet <br> 2. with a good smell: the sweet smell of roses <br> 3. attractive; pretty (SAME MEANING: cute): What a sweet little girl <br> 4. having or showing a kind character: It was sweet of you to help me
+- **`sausage`** /ˈsɔːsɪdʒ/ : <br> <img src='images/sausage.jpg' alt='sausage' width='200'>
+- **`downtown`** /ˌdaʊnˈtaʊn/ : in or towards the centre of a city, especially its main business area: She works downtown
+- **`pull`** /pʊl/ : 1. to move somebody or something strangly towards you: She pulled the drawer open <br> 2. to go forward, moving something behind you: The cart was pulled by two horses <br> 3. to move something somewhere: He pulled up his trousers <br> `pull down` to destroy a building: The old school has been pulled down <br> `pull in` to drive a car to the side of the road and stop: I pulled in to look at the map <br> `pull somebody's leg` (informal) to try to make somebody believe something that is not true, for fun: I didn't really see on elephant _ I was only pulling your leg <br> `pull yourself together` to control your feelings after being upset: Pull yourself together and stop crying <br> `pull up` to stop a car: The driver pulled up at the traffic lights <br> <img src='images/pull.jpg' alt='pull' width='200'>
+- **`push`** /pʊʃ/ : 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
+- **`dessert`** /dɪˈzɜːrt/ : sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
+- **`sour`** /ˈsaʊər/ : 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
+- **`flavor`** /ˈfleɪvər/ : (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>
+- **`coconut`** /ˈkoʊkənʌt/ : <br> <img src='images/coconut.jpg' alt='coconut' width='200'>
+- **`yogurt`** /ˈjoʊɡərt/ : (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
+- **`beverage`** /ˈbevərɪdʒ/ : a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
+- **`paradise`** /ˈperədaɪs/ : the place where some people think good people go after they die (SAME MEANING: heaven)
+- **`the tropics`** /ðə ˈtrɑːpɪks/ : the part of the world where it is very hot and wet <br> `tropical` tropical fruit
+- **`boba`** /ˈboʊbə/ : are small, chewy balls made from tapioca. They are usually added to bubble tea (a sweet tea drink) <br> <img src='images/boba.jpg' alt='boba' width='200'>
+- **`definitely`** /ˈdefənɪtli/ : without any doubt / certainly / for sure: I'll definitely consider your advice - It's definitely the best restaurant in the town
+- **`grab`** /ɡræb/ : to take or hold something quickly or suddenly: The thief grabbed her bag and ran away
+- **`already`** /ɔːlˈredi/ : 1. before now or before a particular time: 'Would you like some lunch?' 'No, thank you—I’ve already eaten.' - We ran to the station but the train had already left <br> 2. now; sooner than expected: It's already 10 PM. - We've already finished the work <br> 3. even at this point; as early as now: We can already see the results. - Starting from the right side, we already get a glimpse of what we need - قبلاً، از قبل، تا الان، تاکنون، همین حالا، از همین مرحله
+- **`mango`** /ˈmæŋɡoʊ/ : <br> <img src='images/mango.jpg' alt='mango' width='200'>
+- **`utensil`** /juˈtensl/ : a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
 ### At School (37 words)
-- **dorm:a home for college students  president:leader of a country** : 
-- **essay** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
-- **dorm** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
-- **president** /ˈprez.ɪ.dənt/ : leader of a country
-- **knock (verb)** /nɑːk/ : 1. to hit something and make noise: I knocked on the door, but nobody answered <br> 2. to hit something hard, usually by accident: I knocked my head on the door - She knocked a glass off the table <br> **knock somebody down; knock somebody** over to hit somebody so that they fall onto the ground: The boy was knocked down by a car <br> **knock something down** to break a building so that it falls down (SAME MEANING: demolish): They're knocking down old house <br> **knock somebody out** to make somebody fall, asleep or become unconscious: The blow knocked him out <br> **knock something over** to hit something so that it falls over: I knocked over a vase of flowers
-- **have-to** : used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
-- **due** /duː/ : 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
-- **conclusion** /kənˈkluː.ʒən/ : the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
-- **contest (noun)** /ˈkɑːntest/ : a game or competition that people try to win: a boxing contest
-- **competition** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
-- **masterpiece** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
-- **loneliness** /ˈloʊnlinəs/ : feeling of being alone
-- **talent** /ˈtæl.ənt/ : a natural ability to do something very well: She has a talent for drawing
-- **principal (noun)** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
-- **judge (noun)** /dʒʌdʒ/ : 1. the person in a court of law who decides how to punish somebody: The judge sent him to prison for 20 years <br> <img src='images/judge.jpg' alt='judge' width='200'> <br> 2. a person who chooses the winner of a competition
-- **campus** /ˈkæm.pəs/ : the buildings of a college or university and the land that surrounds them
-- **borrow (verb)** /ˈbɑːr.oʊ/ : to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library
-- **floor** /flɔːr/ : 1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor
-- **assignment** : a job or piece of work that somebody is given to do: You have to complete three written assignments each term
-- **die** /daɪ/ : to stop living: People, animals and plants die if they don't have water - She died of cancer
-- **shrug** /ʃrʌɡ/ : to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged
-- **pretend** /prɪˈtend/ : to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself
-- **sketchbook** /ˈsketʃbʊk/ : book of plain paper for drawing on
-- **horror** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> **horrer film** a film which tries to frighten or shock you for entertainment <br> **horrer story** a story which tries to frighten or shock you for entertainment
-- **figure something/someone out** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
-- **find out about something** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
-- **ridiculous** /rɪˈdɪk.jə.ləs/ : so silly that it makes people laugh: I look ridiculous in this hat
-- **schedule**  /ˈskedʒ.uːl/ : a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)
-- **yell** /jel/ : to shout loudly: Stop yelling at me
-- **loud** /laʊd/ : making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> **out loud** so that other people can hear it: I read the story out loud
-- **loudly** /ˈlaʊdli/ : in a way that makes a lot of noise: She laughed loudly
-- **lecture (noun)** /ˈlektʃər/ : a talk to a group of people to teach them about something: She gave a fascinating lecture on Islamic history
-- **dining room** /ˈdaɪnɪŋ ruːm/ : a room where people eat
-- **hate (verb)** /heɪt/ : to have a very strong feeling of not liking somebody or something: Most cats hate water - I hate waiting for buses (OPPOSITE: love)
-- **attend** /əˈtend/ : to go to or be present at a place where something is happening: Did you attend the meeting?
-- **tasty** /ˈteɪsti/ : good to eat: The soup was very tasty
-- **blender** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
+- **`dorm:a home for college students  president:leader of a country`** : 
+- **`essay`** /ˈes.eɪ/ : a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
+- **`dorm`** /dɔːrm/ : a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
+- **`president`** /ˈprez.ɪ.dənt/ : leader of a country
+- **`knock (verb)`** /nɑːk/ : 1. to hit something and make noise: I knocked on the door, but nobody answered <br> 2. to hit something hard, usually by accident: I knocked my head on the door - She knocked a glass off the table <br> `knock somebody down; knock somebody` over to hit somebody so that they fall onto the ground: The boy was knocked down by a car <br> `knock something down` to break a building so that it falls down (SAME MEANING: demolish): They're knocking down old house <br> `knock somebody out` to make somebody fall, asleep or become unconscious: The blow knocked him out <br> `knock something over` to hit something so that it falls over: I knocked over a vase of flowers
+- **`have-to`** : used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
+- **`due`** /duː/ : 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
+- **`conclusion`** /kənˈkluː.ʒən/ : the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
+- **`contest (noun)`** /ˈkɑːntest/ : a game or competition that people try to win: a boxing contest
+- **`competition`** /ˌkɑːmpəˈtɪʃən/ : a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition
+- **`masterpiece`** /ˈmæstərpiːs/ : a great work of art:This painting is masterpiece
+- **`loneliness`** /ˈloʊnlinəs/ : feeling of being alone
+- **`talent`** /ˈtæl.ənt/ : a natural ability to do something very well: She has a talent for drawing
+- **`principal (noun)`** /ˈprɪnsəpəl/ : the head of a school:The principal spoke to the students
+- **`judge (noun)`** /dʒʌdʒ/ : 1. the person in a court of law who decides how to punish somebody: The judge sent him to prison for 20 years <br> <img src='images/judge.jpg' alt='judge' width='200'> <br> 2. a person who chooses the winner of a competition
+- **`campus`** /ˈkæm.pəs/ : the buildings of a college or university and the land that surrounds them
+- **`borrow (verb)`** /ˈbɑːr.oʊ/ : to get or receive something from someone with the intention of giving it back after a period of time: borrow a book from the library
+- **`floor`** /flɔːr/ : 1. the part of a room that you walk on: There wasn't any chairs so we sat on the floor <br> 2. all the rooms at the same height in a building: I live on the top floor - Our hotel room was on the sixth floor
+- **`assignment`** : a job or piece of work that somebody is given to do: You have to complete three written assignments each term
+- **`die`** /daɪ/ : to stop living: People, animals and plants die if they don't have water - She died of cancer
+- **`shrug`** /ʃrʌɡ/ : to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged
+- **`pretend`** /prɪˈtend/ : to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself
+- **`sketchbook`** /ˈsketʃbʊk/ : book of plain paper for drawing on
+- **`horror`** /ˈhɔːrər/ : a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> `horrer film` a film which tries to frighten or shock you for entertainment <br> `horrer story` a story which tries to frighten or shock you for entertainment
+- **`figure something/someone out`** /ˈfɪɡ.ər/ : to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
+- **`find out about something`** : to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
+- **`ridiculous`** /rɪˈdɪk.jə.ləs/ : so silly that it makes people laugh: I look ridiculous in this hat
+- **`schedule`**  /ˈskedʒ.uːl/ : a plan or list of times when things will happen or be done: I've got a busy schedule next week - We're behind schedule (= late) with the project - Filming began on schedule (= at the planned time)
+- **`yell`** /jel/ : to shout loudly: Stop yelling at me
+- **`loud`** /laʊd/ : making a lot of noise: I couldn't hear what he said because the music was too loud - loud voices - Please speak a bit louder _ I can't hear you (OPPOSITE: quiet) <br> `out loud` so that other people can hear it: I read the story out loud
+- **`loudly`** /ˈlaʊdli/ : in a way that makes a lot of noise: She laughed loudly
+- **`lecture (noun)`** /ˈlektʃər/ : a talk to a group of people to teach them about something: She gave a fascinating lecture on Islamic history
+- **`dining room`** /ˈdaɪnɪŋ ruːm/ : a room where people eat
+- **`hate (verb)`** /heɪt/ : to have a very strong feeling of not liking somebody or something: Most cats hate water - I hate waiting for buses (OPPOSITE: love)
+- **`attend`** /əˈtend/ : to go to or be present at a place where something is happening: Did you attend the meeting?
+- **`tasty`** /ˈteɪsti/ : good to eat: The soup was very tasty
+- **`blender`** /ˈblen.dər/ : an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
 ### Interview (26 words)
-- **interview** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
-- **dispute** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
-- **crowd** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
-- **care(verb)** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> **care for somebody** to do the things for somebody that they need: After the accident, her parents cared for her until she was better
-- **approach (verb)** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
-- **church** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
-- **boring** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
-- **wet** /wet/ : 1. covered in water or another liquid: a wet umbrella - wet hair <br> 2. with a lot of rain: a wet day (OPPOSITE: dry)
-- **receptionist** /rɪˈsep.ʃən.ɪst/ : a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone
-- **hospital** /ˈhɑ:s.pɪtl/ : <br> <img src='images/hospital.jpg' alt='hospital' width='200'>
-- **jog** /dʒɑːɡ/ : 1. to run slowly for exercise: I jogged round the park - I go jogging every morning <br> 2. to push or touch something a little, so that it moves: She jogged my arm and I spilled my drink
-- **coach** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
-- **positive** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
-- **actor** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
-- **act (verb)** /ækt/ : 1. to do something, or to behave in a certain way: Doctors acted quickly to save the boy's life after the accident - Stop acting like a child <br> 2. to pretend to be somebody else in a play film or television programme (SAME MEANING: perform) <br> **act as something** to do the job of another person, usually for a short time: He acted as a manager while his boss was ill
-- **adult** /ˈædʌlt/ : a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
-- **as** : 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. **as ... as** words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
-- **airline** : a company that takes people or things to different places by plane: Which airline are you flying with?
-- **lie (verb)** /laɪ/ : to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
-- **salary** /ˈsæləri/ : money that you receive every month for the work that you do
-- **confident** /ˈkɑːnfɪdənt/ : sure that you can do something well, or that something will happen: I'm confident that our team will win
-- **airport** : a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
-- **sign (verb)** /saɪn/ : to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature)
-- **strange** /streɪndʒ/ : 1. unusual or surprising: Did you hear that strange noise? <br> 2. that you do not know: We were lost in a strange town
-- **mystery** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
-- **keep** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> **keep away from somebody or something** to not go near somebody or something: Keep away from the river, children <br> **keep somebody from doing something** to stop somebody from doing something: You can't keep me from going out <br> **keep going** to continue: I was very tierd but I kept going to the end of the race <br> **keep off something** to not go on something: Keep off the grass <br> **keep on doing something** to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> **keep out** to stay outside: The sign on the door said 'Danger, Keep out!' <br> **keep somebody or something out** to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> **keep up with somebody or something** to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
+- **`interview`** /ˈɪntərvjuː/ : a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
+- **`dispute`** /ˈdɪspjuːt/ : an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
+- **`crowd`** /kraʊd/ : a large group of people who have come together: A crowd of about 15,000 attended the concert
+- **`care(verb)`** /ker/ : to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- **`approach (verb)`** /əˈproʊtʃ/ : to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
+- **`church`** /tʃɜːrtʃ/ : a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
+- **`boring`** : not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
+- **`wet`** /wet/ : 1. covered in water or another liquid: a wet umbrella - wet hair <br> 2. with a lot of rain: a wet day (OPPOSITE: dry)
+- **`receptionist`** /rɪˈsep.ʃən.ɪst/ : a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone
+- **`hospital`** /ˈhɑ:s.pɪtl/ : <br> <img src='images/hospital.jpg' alt='hospital' width='200'>
+- **`jog`** /dʒɑːɡ/ : 1. to run slowly for exercise: I jogged round the park - I go jogging every morning <br> 2. to push or touch something a little, so that it moves: She jogged my arm and I spilled my drink
+- **`coach`** : someone whose job is to teach people to improve at a sport, skill, or school subject: a tennis/maths coach <br> <img src='images/coach.jpg' alt='coach' width='200'>
+- **`positive`** /ˈpɑː.zə.t̬ɪv/ : 1. thinking or talking about the good parts of a situation: It's important to stay positive - The teacher was very positive about my work (OPPOSITE: negative) <br> 2. completely certain (SAME MEANING: sure): Are you positive that you closed the door?
+- **`actor`** /ˈæktər/ : a man or woman who acts in plays, films or television programmes - بازیگر
+- **`act (verb)`** /ækt/ : 1. to do something, or to behave in a certain way: Doctors acted quickly to save the boy's life after the accident - Stop acting like a child <br> 2. to pretend to be somebody else in a play film or television programme (SAME MEANING: perform) <br> `act as something` to do the job of another person, usually for a short time: He acted as a manager while his boss was ill
+- **`adult`** /ˈædʌlt/ : a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
+- **`as`** : 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
+- **`airline`** : a company that takes people or things to different places by plane: Which airline are you flying with?
+- **`lie (verb)`** /laɪ/ : to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- **`salary`** /ˈsæləri/ : money that you receive every month for the work that you do
+- **`confident`** /ˈkɑːnfɪdənt/ : sure that you can do something well, or that something will happen: I'm confident that our team will win
+- **`airport`** : a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
+- **`sign (verb)`** /saɪn/ : to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature)
+- **`strange`** /streɪndʒ/ : 1. unusual or surprising: Did you hear that strange noise? <br> 2. that you do not know: We were lost in a strange town
+- **`mystery`** /ˈmɪstəri/ : something strange that you cannot understand or explain: The police say that the man's death is still a mystery
+- **`keep`** : 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place Where do you keep the caffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> `keep away from somebody or something` to not go near somebody or something: Keep away from the river, children <br> `keep somebody from doing something` to stop somebody from doing something: You can't keep me from going out <br> `keep going` to continue: I was very tierd but I kept going to the end of the race <br> `keep off something` to not go on something: Keep off the grass <br> `keep on doing something` to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> `keep out` to stay outside: The sign on the door said 'Danger, Keep out!' <br> `keep somebody or something out` to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> `keep up with somebody or something` to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
 
 ### Chores (39 words)
-- **chore** /tʃɔːr/ : a routine task, especially a household one
-- **regular** /ˈrɛ.gjʊ.lər/ : 1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?
-- **garbage** /ˈɡɑːr.bɪdʒ/ : (Brithis: rubbish) - زباله
-- **messy** /ˈmes.i/ : 1. untidy or dirty: a messy kitchen <br> 2. Painting is a messy job
-- **untidy** /ʌnˈtaɪ.di/ : not tidy; not with everything in the right place (SAME MEANING: messy): Your room is always so untidy
-- **dirty** /dɜr:ti/ : not clean: Your hands are dirty _ go and wash them (OPPOSITE: clean)
-- **dust** /dʌst/ : dry dirt that is like powder: The old table was covered in dust
-- **shelf** /ʃelf/ : a long flat piece of wood on a wall or in a cupboard, where things can stand: Put the plates on the shelf - bookshelves <br> <img src='images/shelf.jpg' alt='shelf' width='200'>
-- **piece** /piːs/ : 1. a part of something: Would you like another piece of cake? - a piece of broken glass <br> 2. one single thing: Have you got a piece of paper - That's an interesting piece of news <br> 3. a coin: a 50p piece <br> **fall to pieces** to become very old and in bad condition; to break: The chair fell to pieces when I sat on it <br> **in pieces** broken: The teapot lay in pieces on the floor <br> **take something to pieces** to divide something into its parts: I took the bed to pieces because it was too big to go through the door <br> <img src='images/piece.jpg' alt='piece' width='200'>
-- **divide** /dɪˈvaɪd/ : 1. to share or cut something into smaller parts: The teacher divided the class into groups of three - The book is divided into ten chapters <br> 2. to go into parts: When the road divides, go left <br> 3. to find out how many times one number goes into a bigger number: 36 divided by 4 is 9 (36 ÷ 4 = 9)
-- **bookshelf** : <br> <img src='images/bookshelf.jpg' alt='bookshelf' width='200'>
-- **inspection** /ɪnˈspek.ʃən/ : the act of looking at something carefully, or an official visit to a building or organization to check that everything is correct and legal
-- **inspector** /ˌɪns.pɛk.tɜr/ : 1. a person whose job is to see that things are done correctly: a factory inspector <br> 2. a police officer
-- **bored** /bɔːrd/ : not interested; unhappy because you have nothing interesting to do: I'm bored with this book - The children were bored stiff
-- **dumpster** /ˈdʌmp.stər/ : a very large container for rubbish (= garbage) <br> <img src='images/dumpster.jpg' alt='dumpster' width='200'>
-- **closet** /ˈklɑː.zət/ : a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>
-- **mop** /mɑːp/ : a thing with a long handle that you use for washing floors <br> <img src='images/mop.jpg' alt='mop' width='200'>
-- **either (adverb)** /ˈi.ðər/ : (used in sentences with 'not') also: Lydia can't swim and I can't either <br> **either ... or** used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
-- **audition** /ɑ.ˈdɪ.ʃən/ : a test to show your talent
-- **household** : related to the home
-- **scrub** /skrʌb/ : to rub something hard to clean it, usually with a brush and soap and water: He scrubbed the floor <br> <img src='images/scrub.jpg' alt='scrub' width='200'>
-- **rub** /rʌb/ : to move something backwards and forwards on another thing: I rubbed my hands together to keep them warm - The cat rubbed its head against my leg <br> **rub something out** to take writing or marks off something by using a rubber or a cloth: I rubbed the word out and wrote it again
-- **towel** /taʊəl/ : a piece of cloth or paper that you use for drying your body or things such as dishes <br> <img src='images/towel.jpg' alt='towel' width='200'>
-- **rug** /rʌɡ/ : something we use to cover or decorate a part of the floor that is usually made of thick materials or animal skin <br> <img src='images/rug.jpg' alt='rug' width='200'>
-- **thick** /θɪk/ : 1. far from one side to the other: The walls are very thick - It's cold outside, so wear a thick coat (OPPOSITE: thin) <br> 2. You use thick to say or ask how far something is from one side to the other: The ice is six centimetres thick <br> 3. with a lot of people or things close together: thick dark hair <br> 4. if a liquid is thick, it does not flow easily: This paint is too thick (OPPOSITE: thin) <br> 5. difficult to see through: thick smoke
-- **vacuum** /ˈvæk.juːm/ : a machine for cleaning <br> <img src='images/vacuum.jpg' alt='vacuum' width='200'>
-- **vase** /veɪs/ : a container for flowers <br> <img src='images/vase.jpg' alt='vase' width='200'>
-- **spill** /spɪl/ : drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>
-- **disaster** /dɪ.zæs.tər/ : a very bad event
-- **stain** /steɪn/ : a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
-- **pot** /pɒt/ : a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
-- **make** : 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> **make do with something** to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> **make something into something** to change something so that it becomes a different thing: They made the bedroom into an office <br> **make something or somebody out** to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> **make something up** to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> **make up** to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)
-- **blanket** /ˈblæŋ.kɪt/ : covers for keeping warm <br> <img src='images/blanket.jpg' alt='blanket' width='200'>
-- **stove** /stoʊv/ : a device for cooking food <br> <img src='images/stove.jpg' alt='stove' width='200'>
-- **corner** /ˈkɔr.nɜr/ : where two walls meet <br> <img src='images/corner.jpg' alt='corner' width='200'>
-- **trouble** /ˈtrʌb.əl/ : problems or difficulties
-- **glove** /ɡlʌv/ : a thing that you wear to keep your hand warm or safe <br> <img src='images/glove.jpg' alt='glove' width='200'>
-- **genius** /ˈdʒiː.ni.əs/ : a very smart person
-- **roommate** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
+- **`chore`** /tʃɔːr/ : a routine task, especially a household one
+- **`regular`** /ˈrɛ.gjʊ.lər/ : 1. happening again and again with the same amount of space or time between: a regular heartbeat - A light flashed at regular intervals (OPPOSITE: irregular) <br> 2. going somewhere or doing something often: I've never seen him before _ he's not one of my regular customers <br> 3. usual: Who is your regular doctor?
+- **`garbage`** /ˈɡɑːr.bɪdʒ/ : (Brithis: rubbish) - زباله
+- **`messy`** /ˈmes.i/ : 1. untidy or dirty: a messy kitchen <br> 2. Painting is a messy job
+- **`untidy`** /ʌnˈtaɪ.di/ : not tidy; not with everything in the right place (SAME MEANING: messy): Your room is always so untidy
+- **`dirty`** /dɜr:ti/ : not clean: Your hands are dirty _ go and wash them (OPPOSITE: clean)
+- **`dust`** /dʌst/ : dry dirt that is like powder: The old table was covered in dust
+- **`shelf`** /ʃelf/ : a long flat piece of wood on a wall or in a cupboard, where things can stand: Put the plates on the shelf - bookshelves <br> <img src='images/shelf.jpg' alt='shelf' width='200'>
+- **`piece`** /piːs/ : 1. a part of something: Would you like another piece of cake? - a piece of broken glass <br> 2. one single thing: Have you got a piece of paper - That's an interesting piece of news <br> 3. a coin: a 50p piece <br> `fall to pieces` to become very old and in bad condition; to break: The chair fell to pieces when I sat on it <br> `in pieces` broken: The teapot lay in pieces on the floor <br> `take something to pieces` to divide something into its parts: I took the bed to pieces because it was too big to go through the door <br> <img src='images/piece.jpg' alt='piece' width='200'>
+- **`divide`** /dɪˈvaɪd/ : 1. to share or cut something into smaller parts: The teacher divided the class into groups of three - The book is divided into ten chapters <br> 2. to go into parts: When the road divides, go left <br> 3. to find out how many times one number goes into a bigger number: 36 divided by 4 is 9 (36 ÷ 4 = 9)
+- **`bookshelf`** : <br> <img src='images/bookshelf.jpg' alt='bookshelf' width='200'>
+- **`inspection`** /ɪnˈspek.ʃən/ : the act of looking at something carefully, or an official visit to a building or organization to check that everything is correct and legal
+- **`inspector`** /ˌɪns.pɛk.tɜr/ : 1. a person whose job is to see that things are done correctly: a factory inspector <br> 2. a police officer
+- **`bored`** /bɔːrd/ : not interested; unhappy because you have nothing interesting to do: I'm bored with this book - The children were bored stiff
+- **`dumpster`** /ˈdʌmp.stər/ : a very large container for rubbish (= garbage) <br> <img src='images/dumpster.jpg' alt='dumpster' width='200'>
+- **`closet`** /ˈklɑː.zət/ : a space in a wall with a door that reaches the ground, used for storing clothes, shoes, etc.: a walk-in closet <br> <img src='images/closet.jpg' alt='closet' width='200'>
+- **`mop`** /mɑːp/ : a thing with a long handle that you use for washing floors <br> <img src='images/mop.jpg' alt='mop' width='200'>
+- **`either (adverb)`** /ˈi.ðər/ : (used in sentences with 'not') also: Lydia can't swim and I can't either <br> `either ... or` used to show two different things or people that you can choose (examples: You can have either tea or coffee. / I will either write or telephone.)
+- **`audition`** /ɑ.ˈdɪ.ʃən/ : a test to show your talent
+- **`household`** : related to the home
+- **`scrub`** /skrʌb/ : to rub something hard to clean it, usually with a brush and soap and water: He scrubbed the floor <br> <img src='images/scrub.jpg' alt='scrub' width='200'>
+- **`rub`** /rʌb/ : to move something backwards and forwards on another thing: I rubbed my hands together to keep them warm - The cat rubbed its head against my leg <br> `rub something out` to take writing or marks off something by using a rubber or a cloth: I rubbed the word out and wrote it again
+- **`towel`** /taʊəl/ : a piece of cloth or paper that you use for drying your body or things such as dishes <br> <img src='images/towel.jpg' alt='towel' width='200'>
+- **`rug`** /rʌɡ/ : something we use to cover or decorate a part of the floor that is usually made of thick materials or animal skin <br> <img src='images/rug.jpg' alt='rug' width='200'>
+- **`thick`** /θɪk/ : 1. far from one side to the other: The walls are very thick - It's cold outside, so wear a thick coat (OPPOSITE: thin) <br> 2. You use thick to say or ask how far something is from one side to the other: The ice is six centimetres thick <br> 3. with a lot of people or things close together: thick dark hair <br> 4. if a liquid is thick, it does not flow easily: This paint is too thick (OPPOSITE: thin) <br> 5. difficult to see through: thick smoke
+- **`vacuum`** /ˈvæk.juːm/ : a machine for cleaning <br> <img src='images/vacuum.jpg' alt='vacuum' width='200'>
+- **`vase`** /veɪs/ : a container for flowers <br> <img src='images/vase.jpg' alt='vase' width='200'>
+- **`spill`** /spɪl/ : drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>
+- **`disaster`** /dɪ.zæs.tər/ : a very bad event
+- **`stain`** /steɪn/ : a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
+- **`pot`** /pɒt/ : a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
+- **`make`** : 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)
+- **`blanket`** /ˈblæŋ.kɪt/ : covers for keeping warm <br> <img src='images/blanket.jpg' alt='blanket' width='200'>
+- **`stove`** /stoʊv/ : a device for cooking food <br> <img src='images/stove.jpg' alt='stove' width='200'>
+- **`corner`** /ˈkɔr.nɜr/ : where two walls meet <br> <img src='images/corner.jpg' alt='corner' width='200'>
+- **`trouble`** /ˈtrʌb.əl/ : problems or difficulties
+- **`glove`** /ɡlʌv/ : a thing that you wear to keep your hand warm or safe <br> <img src='images/glove.jpg' alt='glove' width='200'>
+- **`genius`** /ˈdʒiː.ni.əs/ : a very smart person
+- **`roommate`** /ˈruːm.meɪt/ : a person who you share a room with for a period of time: Jean was my roommate during our first year at college
 
 ### Meeting (37 words)
-- **cushion** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
-- **furniture** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
-- **date** /deɪt/ : a meeting with someone special
-- **coworker** /koʊ.wɜ:r.kər/ : someone who works with someone else, having the same job
-- **sick** /sɪk/ : not well (SAME MEANING: ill)
-- **colleague** /ˈkɑː.liːɡ/ : work friend
-- **compete** /kəmˈpiːt/ : to try to win a race or a competition
-- **outfit** /ˈaʊt.fɪt/ : a set of clothes
-- **disbelief** /ˌdɪs.bɪˈliːf/ : the feeling of not being able to believe that something is true or real
-- **greatness** /ˈɡreɪt.nəs/ : being very good or important
-- **curtain** /ˈkɜr.tən/ : a piece of cloth that you can move to cover a window: Could you draw the curtains (= open or close the curtains), please? <br> <img src='images/curtain.jpg' alt='curtain' width='200'>
-- **bark (verb)** /bɑːrk/ : if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know
-- **pajamas** /pəˈdʒɑː.məz/ : clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>
-- **few** /fjuː/ : not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> **a few** some, but not many: Only a few people came to the meeting - I have read a few of her books <br> **quite a few** quite a lot: It's been quite a few years since I saw him last
-- **remind** /rɪˈmaɪnd/ : 1. to help somebody remember something that they must do: Please remind me to buy some bread on the way home <br> 2. to make somebody remember somebody or something: She reminds me of her mother
-- **spot (noun)** : 1. a small round mark: a blue dress with green spots <br> <img src='images/spot.jpg' alt='spot' width='200'> <br> 2. (British) a small red mark on your skin: A lot of teenagers get spots on their faces <br> 3. a place: This is a good spot for a picnic
-- **reliable** /ri:.laɪə.bəl/ : that you can trust: My car is very reliable - He is a reliable person (OPPOSITE: unreliable)
-- **admit** /əd.ˈmɪt/ : 1. to say that you have done something wrong or that something bad is true: He admitted stealing the money - I admit that I made a mistake (OPPOSITE: deny) <br> 2. to allow somebody or something to go into a place: This ticket admits one person to the museum - اعتراف کردن
-- **suppose** /səˈpoʊz/ : 1. to think that something is probably true or will probably happen: 'Where's Jenny?' 'I don't know _ suppose she's still at work <br> 2. a word that you use when you agree with something but are not happy about it: 'Can I borrow your pen?' 'Yes, I suppose so _ but don't lose it <br> **be supposed to** if you are supposed to do something, you should do it: They were supposed to meet us here - You're not supposed to smoke in this room <br> 2. (informal) if something is supposed to be true, people say it is true: This is supposed to be a good restaurant
-- **storm** /stɔːrm/ : bad weather with rain and wind
-- **scary** /ˈsker.i/ : makes you feel afraid
-- **hike** /haɪk/ : long walks in nature
-- **sweater** /ˈswɛ.tər/ : heavy shirt for cold weather
-- **dry** /draɪ/ : 1. with no water or liquid in it or on it: The washing isn't dry yet (OPPOSITE: wet) <br> 2. with no rain: dry weather (OPPOSITE: wet) <br> 3. not sweet: dry white wine
-- **cool (adjective)** /kuːl/ : 1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool! (verb)'
-- **thunder** /ˈθʌn.dər/ : a loud sound in a storm <br> <img src='images/thunder.jpg' alt='thunder' width='200'>
-- **hard** : 1. a lot: She works very hard - You must try harder <br> 2. strongly: It's raining hard - She hit him hard
-- **practice** /ˈpræk.tɪs/ : doing something many times so that you will do it well
-- **glacier** /ˈgleɪ.ʃɜr/ : a large river of ice that moves slowly down a mountain <br> <img src='images/glacier.jpg' alt='glacier' width='200'>
-- **cave** /keɪv/ : a large hole in the side of a mountain or under the ground: Thousands of years ago, people lived in caves <br> <img src='images/cave.jpg' alt='cave' width='200'>
-- **agenda** /əˈdʒen.də/ : a list of all the things to be talked about in a meeting
-- **counter** /ˈkaʊn.tər/ : 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
-- **sigh (verb)** /saɪ/ : to let out a deep breath, for example because you are sad, tired or pleased
-- **proud** /praʊd/ : feeling good about someone or something
-- **annoyed** /ə.ˈnɔɪd/ : feeling a little angry
-- **ruin** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
-- **awful** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
+- **`cushion`** /ˈkʊʃ.ən/ : <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
+- **`furniture`** /fɜr:nɪʧər/ : مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
+- **`date`** /deɪt/ : a meeting with someone special
+- **`coworker`** /koʊ.wɜ:r.kər/ : someone who works with someone else, having the same job
+- **`sick`** /sɪk/ : not well (SAME MEANING: ill)
+- **`colleague`** /ˈkɑː.liːɡ/ : work friend
+- **`compete`** /kəmˈpiːt/ : to try to win a race or a competition
+- **`outfit`** /ˈaʊt.fɪt/ : a set of clothes
+- **`disbelief`** /ˌdɪs.bɪˈliːf/ : the feeling of not being able to believe that something is true or real
+- **`greatness`** /ˈɡreɪt.nəs/ : being very good or important
+- **`curtain`** /ˈkɜr.tən/ : a piece of cloth that you can move to cover a window: Could you draw the curtains (= open or close the curtains), please? <br> <img src='images/curtain.jpg' alt='curtain' width='200'>
+- **`bark (verb)`** /bɑːrk/ : if a dog barks, it makes short loud sounds: The dog always barks at people it doesn't know
+- **`pajamas`** /pəˈdʒɑː.məz/ : clothes worn in bed <br> <img src='images/pajamas.jpg' alt='pajamas' width='200'>
+- **`few`** /fjuː/ : not many: Few people live to the age of 100 - There are fewer buses in the evenings - Few of the players played well <br> `a few` some, but not many: Only a few people came to the meeting - I have read a few of her books <br> `quite a few` quite a lot: It's been quite a few years since I saw him last
+- **`remind`** /rɪˈmaɪnd/ : 1. to help somebody remember something that they must do: Please remind me to buy some bread on the way home <br> 2. to make somebody remember somebody or something: She reminds me of her mother
+- **`spot (noun)`** : 1. a small round mark: a blue dress with green spots <br> <img src='images/spot.jpg' alt='spot' width='200'> <br> 2. (British) a small red mark on your skin: A lot of teenagers get spots on their faces <br> 3. a place: This is a good spot for a picnic
+- **`reliable`** /ri:.laɪə.bəl/ : that you can trust: My car is very reliable - He is a reliable person (OPPOSITE: unreliable)
+- **`admit`** /əd.ˈmɪt/ : 1. to say that you have done something wrong or that something bad is true: He admitted stealing the money - I admit that I made a mistake (OPPOSITE: deny) <br> 2. to allow somebody or something to go into a place: This ticket admits one person to the museum - اعتراف کردن
+- **`suppose`** /səˈpoʊz/ : 1. to think that something is probably true or will probably happen: 'Where's Jenny?' 'I don't know _ suppose she's still at work <br> 2. a word that you use when you agree with something but are not happy about it: 'Can I borrow your pen?' 'Yes, I suppose so _ but don't lose it <br> `be supposed to` if you are supposed to do something, you should do it: They were supposed to meet us here - You're not supposed to smoke in this room <br> 2. (informal) if something is supposed to be true, people say it is true: This is supposed to be a good restaurant
+- **`storm`** /stɔːrm/ : bad weather with rain and wind
+- **`scary`** /ˈsker.i/ : makes you feel afraid
+- **`hike`** /haɪk/ : long walks in nature
+- **`sweater`** /ˈswɛ.tər/ : heavy shirt for cold weather
+- **`dry`** /draɪ/ : 1. with no water or liquid in it or on it: The washing isn't dry yet (OPPOSITE: wet) <br> 2. with no rain: dry weather (OPPOSITE: wet) <br> 3. not sweet: dry white wine
+- **`cool (adjective)`** /kuːl/ : 1. a little cold; not hot or warm: cool weather - I'd like a cool drink <br> 2. not excited or angry (SAME MEANING: calm) <br> 3. (informal) very good or fashionable: Those are cool shoes you're wearing <br> 4. (informal) People say Cool! to show that they think something is a good idea: 'We're planning to go out for lunch tomorrow' 'Cool! (verb)'
+- **`thunder`** /ˈθʌn.dər/ : a loud sound in a storm <br> <img src='images/thunder.jpg' alt='thunder' width='200'>
+- **`hard`** : 1. a lot: She works very hard - You must try harder <br> 2. strongly: It's raining hard - She hit him hard
+- **`practice`** /ˈpræk.tɪs/ : doing something many times so that you will do it well
+- **`glacier`** /ˈgleɪ.ʃɜr/ : a large river of ice that moves slowly down a mountain <br> <img src='images/glacier.jpg' alt='glacier' width='200'>
+- **`cave`** /keɪv/ : a large hole in the side of a mountain or under the ground: Thousands of years ago, people lived in caves <br> <img src='images/cave.jpg' alt='cave' width='200'>
+- **`agenda`** /əˈdʒen.də/ : a list of all the things to be talked about in a meeting
+- **`counter`** /ˈkaʊn.tər/ : 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
+- **`sigh (verb)`** /saɪ/ : to let out a deep breath, for example because you are sad, tired or pleased
+- **`proud`** /praʊd/ : feeling good about someone or something
+- **`annoyed`** /ə.ˈnɔɪd/ : feeling a little angry
+- **`ruin`** /ˈruːɪn/ : to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
+- **`awful`** /ˈɑː.fəl/ : very bad: The pain was awful - What awful weather
 
 ### Reunion (34 words)
-- **reunion** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
-- **annual** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
-- **contact (noun)** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
-- **spotless** /ˈspɑːt.ləs/ : absolutely clean or pure
-- **exhausted** /ɪɡˈzɑː.stɪd/ : very tired
-- **festival** /ˈfes.tə.vəl/ : 1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival
-- **graduation** /ˌɡrædʒ.uˈeɪ.ʃən/ : finishing a degree or other course of study at a university or school
-- **hair** /her/ : <br> <img src='images/hair.jpg' alt='hair' width='200'>
-- **tie (noun)** /taɪ/ : a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'>
-- **impress** /ɪmˈpres/ : to make somebody admire and respect you: We were very impressed by your work
-- **admire** /ədˈmaɪr/ : to think or say that somebody or something is very good: I really admire you for doing such a difficult job - They were admiring the view from the top of the tower
-- **cartwheel** /ˈkɑːrt.wiːl/ : a fast, skilful movement like a wheel turning, in which you throw yourself sideways onto one hand, then onto both hands with your legs and arms straight and your legs pointing up, before landing on your feet again <br> <img src='images/cartwheel.jpg' alt='cartwheel' width='200'>
-- **polite** /pəˈlaɪt/ : showing good manners and respectful behavior towards others; speaking or behaving in a way that shows respect: it is polite to say 'please' when you ask for something (OPPOSITE: impolite, rude)
-- **memorable** : easy to remember because it is special in some way: Their wedding was a very memorable day
-- **wedding** /ˈwed.ɪŋ/ : the time when a man and a woman get married: Billy and Elena invited me to their wedding - She wore a long white wedding dress
-- **outgoing** /ˈaʊt.ɡoʊ.ɪŋ/ : (of a person) friendly and energetic and finding it easy and enjoyable to be with others; enjoys making new friends
-- **bald** /bɑːld/ : with little or no hair on the head <br> <img src='images/bald.jpg' alt='bald' width='200'>
-- **handsome** /ˈhæn.səm/ : (of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>
-- **bean** /bi:n/ : small seed you can eat <br> <img src='images/bean.jpg' alt='bean' width='200'>
-- **chew** /tʃuː/ : to use your teeth to break up food in your mouth when you are eating: This meat is difficult to chew
-- **obviously** /ˈɑːb.vi.əs.li/ : clearly or without a doubt
-- **entirely** /ɪnˈtaɪr.li/ : completely: I entirely agree with you
-- **cheers** /tʃɪrz/ : expressing good wishes before drinking <br> <img src='images/cheers.jpg' alt='cheers' width='200'>
-- **champagne** /ʃæm.ˈpeɪn/ : a type of fizzy wine made originally in France, often drunk to celebrate an event <br> <img src='images/champagne.jpg' alt='champagne' width='200'>
-- **equipment** /ɪˈkwɪp.mənt/ : tools or machines for a purpose
-- **gig** : a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'>
-- **bar** /bɑːr/ : a place to drink alcohol
-- **turntable** /ˈtɜrn.ˌteɪ.bəl/ : a circular surface on a record player on which the record is played <br> <img src='images/turntable.jpg' alt='turntable' width='200'>
-- **exclusively** /ɪksˈkluː.sɪv.li/ : only
-- **shame** /ʃeɪm/ : an uneasy feeling that we get because of our own or someone else's mistake or bad manner <br> <img src='images/shame.jpg' alt='shame' width='200'>
-- **critic** /ˈkrɪ.tɪk/ : someone who evaluates and provides opinions or judgments about various forms of art, literature, performances, or other creative works <br> <img src='images/critic.jpg' alt='critic' width='200'>
-- **hallway** /hɑ:l.weɪ/ : a space inside a building entrance, which connects to the other rooms <br> <img src='images/hallway.jpg' alt='hallway' width='200'>
-- **turn (verb)** /tɜrn/ : 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> **turn something down** 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> **turn into something** to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> **turn something off** to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> **turn something on** to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> **turn out** to be something in the end: It has turned out to be a lovely day <br> **turn something out** to switch off a light: can you turn the lights out before you leave? <br> **turn over** to move so that the other side is on top: She turned over and went back to sleep <br> **turn something over** to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> **turn up** (used about a person) to arrive: Has David turned up yet? <br> **turn something up** to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
-- **properly** /ˈprɑ.pər.li/ : well or correctly: Close the door properly - I can't see properly without my glasses
+- **`reunion`** /ˌriːˈjuː.njən/ : a social event for a group of people who have not seen each other for a long time: We're having a family reunion next week - The college has an annual reunion for former students
+- **`annual`** /ˈæn.ju.əl/ : happening once every year: an annual event/visit/holiday
+- **`contact (noun)`** /ˈkɑːn.tækt/ : meeting, talking to or writing to somebody: Until Jane went to school, she had little contact with other children - Are you still in contact with the people you met on holiday? - Doctors come into contact with (= meet) a lot of people
+- **`spotless`** /ˈspɑːt.ləs/ : absolutely clean or pure
+- **`exhausted`** /ɪɡˈzɑː.stɪd/ : very tired
+- **`festival`** /ˈfes.tə.vəl/ : 1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival
+- **`graduation`** /ˌɡrædʒ.uˈeɪ.ʃən/ : finishing a degree or other course of study at a university or school
+- **`hair`** /her/ : <br> <img src='images/hair.jpg' alt='hair' width='200'>
+- **`tie (noun)`** /taɪ/ : a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'>
+- **`impress`** /ɪmˈpres/ : to make somebody admire and respect you: We were very impressed by your work
+- **`admire`** /ədˈmaɪr/ : to think or say that somebody or something is very good: I really admire you for doing such a difficult job - They were admiring the view from the top of the tower
+- **`cartwheel`** /ˈkɑːrt.wiːl/ : a fast, skilful movement like a wheel turning, in which you throw yourself sideways onto one hand, then onto both hands with your legs and arms straight and your legs pointing up, before landing on your feet again <br> <img src='images/cartwheel.jpg' alt='cartwheel' width='200'>
+- **`polite`** /pəˈlaɪt/ : showing good manners and respectful behavior towards others; speaking or behaving in a way that shows respect: it is polite to say 'please' when you ask for something (OPPOSITE: impolite, rude)
+- **`memorable`** : easy to remember because it is special in some way: Their wedding was a very memorable day
+- **`wedding`** /ˈwed.ɪŋ/ : the time when a man and a woman get married: Billy and Elena invited me to their wedding - She wore a long white wedding dress
+- **`outgoing`** /ˈaʊt.ɡoʊ.ɪŋ/ : (of a person) friendly and energetic and finding it easy and enjoyable to be with others; enjoys making new friends
+- **`bald`** /bɑːld/ : with little or no hair on the head <br> <img src='images/bald.jpg' alt='bald' width='200'>
+- **`handsome`** /ˈhæn.səm/ : (of a man) having an attractive face and body <br> <img src='images/handsome.jpg' alt='handsome' width='200'>
+- **`bean`** /bi:n/ : small seed you can eat <br> <img src='images/bean.jpg' alt='bean' width='200'>
+- **`chew`** /tʃuː/ : to use your teeth to break up food in your mouth when you are eating: This meat is difficult to chew
+- **`obviously`** /ˈɑːb.vi.əs.li/ : clearly or without a doubt
+- **`entirely`** /ɪnˈtaɪr.li/ : completely: I entirely agree with you
+- **`cheers`** /tʃɪrz/ : expressing good wishes before drinking <br> <img src='images/cheers.jpg' alt='cheers' width='200'>
+- **`champagne`** /ʃæm.ˈpeɪn/ : a type of fizzy wine made originally in France, often drunk to celebrate an event <br> <img src='images/champagne.jpg' alt='champagne' width='200'>
+- **`equipment`** /ɪˈkwɪp.mənt/ : tools or machines for a purpose
+- **`gig`** : a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'>
+- **`bar`** /bɑːr/ : a place to drink alcohol
+- **`turntable`** /ˈtɜrn.ˌteɪ.bəl/ : a circular surface on a record player on which the record is played <br> <img src='images/turntable.jpg' alt='turntable' width='200'>
+- **`exclusively`** /ɪksˈkluː.sɪv.li/ : only
+- **`shame`** /ʃeɪm/ : an uneasy feeling that we get because of our own or someone else's mistake or bad manner <br> <img src='images/shame.jpg' alt='shame' width='200'>
+- **`critic`** /ˈkrɪ.tɪk/ : someone who evaluates and provides opinions or judgments about various forms of art, literature, performances, or other creative works <br> <img src='images/critic.jpg' alt='critic' width='200'>
+- **`hallway`** /hɑ:l.weɪ/ : a space inside a building entrance, which connects to the other rooms <br> <img src='images/hallway.jpg' alt='hallway' width='200'>
+- **`turn (verb)`** /tɜrn/ : 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
+- **`properly`** /ˈprɑ.pər.li/ : well or correctly: Close the door properly - I can't see properly without my glasses
 ---
