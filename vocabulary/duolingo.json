@@ -1466,6 +1466,53 @@
               "mean_en": "well or correctly: Close the door properly - I can't see properly without my glasses"
             }
           ]
+        },
+        {
+          "heading": "Health",
+          "words": [
+            {
+              "word": "throat",
+              "phonetic": "/θroʊt/",
+              "mean_fa": "",
+              "mean_en": "the front of the neck, or the space inside the neck down which food and air can go <br> <img src='images/throat.jpg' alt='throat' width='200'>"
+            },
+            {
+              "word": "stare",
+              "phonetic": "/ster/",
+              "mean_fa": "",
+              "mean_en": "look for a long time"
+            },
+            {
+              "word": "medicine",
+              "phonetic": "/ˈmed.ɪ.sən/",
+              "mean_fa": "",
+              "mean_en": "1. the science of understanding illnesses and making sick people well again: He's studying medicine <br> 2. special liquids or pills that help you to get better when you are ill: Take this medicine every morning"
+            },
+            {
+              "word": "sore throat",
+              "phonetic": "/ˌsɔːr ˈθroʊt/",
+              "mean_fa": "",
+              "mean_en": "pain in the throat"
+            },
+            {
+              "word": "cough (verb)",
+              "phonetic": "/kɑːf/",
+              "mean_fa": "",
+              "mean_en": "to send air out of your throat with a sudden loud noise: The smoke made me cough"
+            },
+            {
+              "word": "have got",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "Have got and have mean the same. Have got is more informal"
+            },
+            {
+              "word": "headache",
+              "phonetic": "/ˈhed.eɪk/",
+              "mean_fa": "",
+              "mean_en": "a pain you feel inside your head: He had a headache so he went to bed - That noise is giving me a headache"
+            }
+          ]
         }
       ]
     }
