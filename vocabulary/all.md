@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1070**
+**Total words: 1075**
 
 ## 📑 Table of Contents
 
@@ -20,8 +20,8 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
-- [Duolingo - Vocabulary (245 words)](#duolingo---vocabulary-245-words)
-  - [SECTION 1 (245 words)](#section-1-245-words)
+- [Duolingo - Vocabulary (250 words)](#duolingo---vocabulary-250-words)
+  - [SECTION 1 (250 words)](#section-1-250-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -29,7 +29,7 @@
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
     - [Reunion (34 words)](#reunion-34-words)
-    - [Health (7 words)](#health-7-words)
+    - [Health (12 words)](#health-12-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -849,9 +849,9 @@
 
 ---
 
-## Duolingo - Vocabulary (245 words)
+## Duolingo - Vocabulary (250 words)
 
-### SECTION 1 (245 words)
+### SECTION 1 (250 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1105,7 +1105,7 @@
 - `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
 - `properly`  /ˈprɑ.pər.li/ <br> well or correctly: Close the door properly - I can't see properly without my glasses
 
-#### Health (7 words)
+#### Health (12 words)
 - `throat`  /θroʊt/ <br> the front of the neck, or the space inside the neck down which food and air can go <br> <img src='images/throat.jpg' alt='throat' width='200'>
 - `stare`  /ster/ <br> look for a long time
 - `medicine`  /ˈmed.ɪ.sən/ <br> 1. the science of understanding illnesses and making sick people well again: He's studying medicine <br> 2. special liquids or pills that help you to get better when you are ill: Take this medicine every morning
@@ -1113,6 +1113,11 @@
 - `cough (verb)`  /kɑːf/ <br> to send air out of your throat with a sudden loud noise: The smoke made me cough
 - `have got`  <br> Have got and have mean the same. Have got is more informal
 - `headache`  /ˈhed.eɪk/ <br> a pain you feel inside your head: He had a headache so he went to bed - That noise is giving me a headache
+- `recovery`  <br> the process of getting better
+- `dramatically`  /drəˈmatɪkli/ <br> in a big or showy way
+- `forehead`  /ˈfɔr.hɛd/ <br> the part of the face above the eyes <br> <img src='images/forehead.jpg' alt='forehead' width='200'>
+- `fever`  /ˈfi:.vər/ <br> a high body temperature <br> <img src='images/fever.jpg' alt='fever' width='200'>
+- `miracle`  /ˈmɪ.rə.kəl/ <br> a wonderful and surprising thing that happens and that you cannot explain: It's a miracle that he wasn't killed
 ---
 
 ---

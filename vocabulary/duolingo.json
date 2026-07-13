@@ -1511,6 +1511,36 @@
               "phonetic": "/ˈhed.eɪk/",
               "mean_fa": "",
               "mean_en": "a pain you feel inside your head: He had a headache so he went to bed - That noise is giving me a headache"
+            },
+            {
+              "word": "recovery",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "the process of getting better"
+            },
+            {
+              "word": "dramatically",
+              "phonetic": "/drəˈmatɪkli/",
+              "mean_fa": "",
+              "mean_en": "in a big or showy way"
+            },
+            {
+              "word": "forehead",
+              "phonetic": "/ˈfɔr.hɛd/",
+              "mean_fa": "",
+              "mean_en": "the part of the face above the eyes <br> <img src='images/forehead.jpg' alt='forehead' width='200'>"
+            },
+            {
+              "word": "fever",
+              "phonetic": "/ˈfi:.vər/",
+              "mean_fa": "",
+              "mean_en": "a high body temperature <br> <img src='images/fever.jpg' alt='fever' width='200'>"
+            },
+            {
+              "word": "miracle",
+              "phonetic": "/ˈmɪ.rə.kəl/",
+              "mean_fa": "",
+              "mean_en": "a wonderful and surprising thing that happens and that you cannot explain: It's a miracle that he wasn't killed"
             }
           ]
         }
