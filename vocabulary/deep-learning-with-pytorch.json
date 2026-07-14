@@ -485,9 +485,9 @@
         },
         {
           "word": "aspect",
-          "phonetic": "",
-          "mean_fa": "وجه",
-          "mean_en": ""
+          "phonetic": "/ˈæspekt/",
+          "mean_fa": "",
+          "mean_en": "one of the qualities or parts of a situation, idea, problem, etc: Spelling is one of the most difficult aspects of learning English"
         },
         {
           "word": "through",
@@ -1706,9 +1706,9 @@
         },
         {
           "word": "although",
-          "phonetic": "",
-          "mean_fa": "اگرچه",
-          "mean_en": ""
+          "phonetic": "/ɑːlˈðoʊ/",
+          "mean_fa": "",
+          "mean_en": "1. used for introducing a statement that makes the main statement in a sentence seem surprising: Although she was ill, she went to work <br> 2. but (SAME MEANING: though): I love dogs, although I wouldn't have one as a pet"
         },
         {
           "word": "collaborative",
@@ -3679,6 +3679,30 @@
               "phonetic": "/hændz-ɑ:n/",
               "mean_fa": "عملی، تجربی، مبتنی بر انجام کار با دست",
               "mean_en": ""
+            },
+            {
+              "word": "stress",
+              "phonetic": "/stres/",
+              "mean_fa": "تأکید کردن",
+              "mean_en": "1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy'"
+            },
+            {
+              "word": "acquisition",
+              "phonetic": "/ˌækwɪˈzɪʃən/",
+              "mean_fa": "",
+              "mean_en": "the process of getting or learning something, such as skills, knowledge, or assets"
+            },
+            {
+              "word": "equip",
+              "phonetic": "/ɪˈkwɪp/",
+              "mean_fa": "",
+              "mean_en": "to get all the things that are needed for doing something: Before setting out, they equipped themselves with a map - The kitchen is well equipped"
+            },
+            {
+              "word": "backbone",
+              "phonetic": "/ˈbæk.ˌboʊn/",
+              "mean_fa": "",
+              "mean_en": "a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>"
             }
           ]
         }

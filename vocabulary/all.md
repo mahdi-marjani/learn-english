@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1075**
+**Total words: 1079**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (606 words)](#deep-learning-with-pytorch---vocabulary-606-words)
+- [Deep Learning with PyTorch - Vocabulary (610 words)](#deep-learning-with-pytorch---vocabulary-610-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (90 words)](#preface-90-words)
@@ -18,8 +18,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (135 words)](#part-1-core-pytorch-135-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (122 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-122-words)
+  - [Part 1: Core PyTorch (139 words)](#part-1-core-pytorch-139-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (126 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-126-words)
 - [Duolingo - Vocabulary (250 words)](#duolingo---vocabulary-250-words)
   - [SECTION 1 (250 words)](#section-1-250-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -213,7 +213,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (606 words)
+## Deep Learning with PyTorch - Vocabulary (610 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -298,7 +298,7 @@
 - `additionally`  <br> علاوه بر این
 - `subjects`  <br> موضوعات
 - `jit`  <br> Just-In-Time
-- `aspect`  <br> وجه
+- `aspect`  /ˈæspekt/ <br> one of the qualities or parts of a situation, idea, problem, etc: Spelling is one of the most difficult aspects of learning English
 - `through`  /θruː/ <br> 1. from one side or end of something to the other side or end: We drove through the tunnel - What can you see through the window? - She opened the gate and we walked through <br> 2. from the beginning to the end of something: We travelled through the night <br> 3. connected by telephone: Can you put me through to jill knight, please? - I tried to phone you but I couldn't get through <br> 4. (American) (also informal thru) until, and including: We'll be in New York Tuesday through Friday <br> 5. because of or with the help of somebody or something: She got the job through her father <br> `be through with` having finished or completed something: By the time we are through with the book - از طریق
 - `expertise`  <br> تخصص
 - `bioengineering`  <br> مهندسی زیستی
@@ -508,7 +508,7 @@
 - `tour`  /tʊr/ <br> 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
 - `notice`  <br> متوجه شدن
 - `among`  <br> در میان
-- `although`  <br> اگرچه
+- `although`  /ɑːlˈðoʊ/ <br> 1. used for introducing a statement that makes the main statement in a sentence seem surprising: Although she was ill, she went to work <br> 2. but (SAME MEANING: though): I love dogs, although I wouldn't have one as a pet
 - `collaborative`  <br> مشارکتی
 - `act (noun)`  /ækt/ <br> 1. a thing that you do: an act of kindness <br> 2. one of the main parts of a play or an opera (= a musical play): This play has five acts <br> 3. a law that a government makes: an act of Parliament <br> 4. behaviour that hides your true feelings: She seems very happy, but she's just putting on an act <br> `in the act (of doing something)` while doing something wrong: I caught him in the act of stealing the money
 - `primarily`  <br> عمدتاً، به طور اصلی
@@ -707,7 +707,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (135 words)
+### Part 1: Core PyTorch (139 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -722,7 +722,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (122 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (126 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -845,6 +845,10 @@
 - `accessible`  /əkˈses.ə.bəl/ <br> able to be reached or easily obtained
 - `reach (verb)`  /riːtʃ/ <br> 1. to arrive somewhere: It was dark when we reached Paris - Have you reached the end of the book yet? <br> 2. to put out your hand to do or get something: I reached for the telephone <br> 3. to be able to touch something: Can you get that book from the top shelf for me? I can't reach
 - `hands-on`  /hændz-ɑ:n/ <br> عملی، تجربی، مبتنی بر انجام کار با دست
+- `stress`  /stres/ <br> 1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy' - تأکید کردن
+- `acquisition`  /ˌækwɪˈzɪʃən/ <br> the process of getting or learning something, such as skills, knowledge, or assets
+- `equip`  /ɪˈkwɪp/ <br> to get all the things that are needed for doing something: Before setting out, they equipped themselves with a map - The kitchen is well equipped
+- `backbone`  /ˈbæk.ˌboʊn/ <br> a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>
 ---
 
 ---
