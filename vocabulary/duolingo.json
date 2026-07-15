@@ -1541,6 +1541,60 @@
               "phonetic": "/ˈmɪ.rə.kəl/",
               "mean_fa": "",
               "mean_en": "a wonderful and surprising thing that happens and that you cannot explain: It's a miracle that he wasn't killed"
+            },
+            {
+              "word": "aspirin",
+              "phonetic": "/ˈæs.prɪn/",
+              "mean_fa": "",
+              "mean_en": "a medicine that stops pain: I took an aspirin for my headache"
+            },
+            {
+              "word": "clinic",
+              "phonetic": "/ˈklɪn.ɪk/",
+              "mean_fa": "",
+              "mean_en": "somewhere doctors work"
+            },
+            {
+              "word": "greet",
+              "phonetic": "/ɡriːt/",
+              "mean_fa": "",
+              "mean_en": "to say hello when you meet somebody: He greeted me with a smile"
+            },
+            {
+              "word": "alright",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "(informal) = all right"
+            },
+            {
+              "word": "all right",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "1. good, or good enough: Is every thing all right? <br> 2. well; not hurt: I was ill, but I'm all right now <br> 3. used to say 'yes, I agree' when somebody asks you to do something: 'Can you get me some stamps?' 'All right'"
+            },
+            {
+              "word": "tense (adjective)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "nervous or stressed"
+            },
+            {
+              "word": "pharmacy",
+              "phonetic": "/ˈfɑːr.mə.si/",
+              "mean_fa": "",
+              "mean_en": "a shop where medicines are sold <br> <img src='images/pharmacy.jpg' alt='pharmacy' width='200'>"
+            },
+            {
+              "word": "fortunately",
+              "phonetic": "/ˈfɔːr.tʃən.ət.li/",
+              "mean_fa": "",
+              "mean_en": "happening because of good luck: Fortunately, we got home before it started to rain"
+            },
+            {
+              "word": "score (verb)",
+              "phonetic": "/skɔːr/",
+              "mean_fa": "",
+              "mean_en": "to win or get a point, goal, etc. in a competition, sport, or game: She scored 18 out of 20 in the spelling test"
             }
           ]
         }

@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 250**
+**Total words: 259**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (250 words)](#section-1-250-words)
+- [SECTION 1 (259 words)](#section-1-259-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -12,11 +12,11 @@
   - [Chores (39 words)](#chores-39-words)
   - [Meeting (37 words)](#meeting-37-words)
   - [Reunion (34 words)](#reunion-34-words)
-  - [Health (12 words)](#health-12-words)
+  - [Health (21 words)](#health-21-words)
 
 ---
 
-## SECTION 1 (250 words)
+## SECTION 1 (259 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -270,7 +270,7 @@
 - `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
 - `properly`  /ˈprɑ.pər.li/ <br> well or correctly: Close the door properly - I can't see properly without my glasses
 
-### Health (12 words)
+### Health (21 words)
 - `throat`  /θroʊt/ <br> the front of the neck, or the space inside the neck down which food and air can go <br> <img src='images/throat.jpg' alt='throat' width='200'>
 - `stare`  /ster/ <br> look for a long time
 - `medicine`  /ˈmed.ɪ.sən/ <br> 1. the science of understanding illnesses and making sick people well again: He's studying medicine <br> 2. special liquids or pills that help you to get better when you are ill: Take this medicine every morning
@@ -283,4 +283,13 @@
 - `forehead`  /ˈfɔr.hɛd/ <br> the part of the face above the eyes <br> <img src='images/forehead.jpg' alt='forehead' width='200'>
 - `fever`  /ˈfi:.vər/ <br> a high body temperature <br> <img src='images/fever.jpg' alt='fever' width='200'>
 - `miracle`  /ˈmɪ.rə.kəl/ <br> a wonderful and surprising thing that happens and that you cannot explain: It's a miracle that he wasn't killed
+- `aspirin`  /ˈæs.prɪn/ <br> a medicine that stops pain: I took an aspirin for my headache
+- `clinic`  /ˈklɪn.ɪk/ <br> somewhere doctors work
+- `greet`  /ɡriːt/ <br> to say hello when you meet somebody: He greeted me with a smile
+- `alright`  <br> (informal) = all right
+- `all right`  <br> 1. good, or good enough: Is every thing all right? <br> 2. well; not hurt: I was ill, but I'm all right now <br> 3. used to say 'yes, I agree' when somebody asks you to do something: 'Can you get me some stamps?' 'All right'
+- `tense (adjective)`  <br> nervous or stressed
+- `pharmacy`  /ˈfɑːr.mə.si/ <br> a shop where medicines are sold <br> <img src='images/pharmacy.jpg' alt='pharmacy' width='200'>
+- `fortunately`  /ˈfɔːr.tʃən.ət.li/ <br> happening because of good luck: Fortunately, we got home before it started to rain
+- `score (verb)`  /skɔːr/ <br> to win or get a point, goal, etc. in a competition, sport, or game: She scored 18 out of 20 in the spelling test
 ---
