@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1103**
+**Total words: 1106**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (625 words)](#deep-learning-with-pytorch---vocabulary-625-words)
+- [Deep Learning with PyTorch - Vocabulary (628 words)](#deep-learning-with-pytorch---vocabulary-628-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (90 words)](#preface-90-words)
@@ -18,8 +18,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (155 words)](#part-1-core-pytorch-155-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (142 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-142-words)
+  - [Part 1: Core PyTorch (158 words)](#part-1-core-pytorch-158-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (145 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-145-words)
 - [Duolingo - Vocabulary (259 words)](#duolingo---vocabulary-259-words)
   - [SECTION 1 (259 words)](#section-1-259-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -213,7 +213,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (625 words)
+## Deep Learning with PyTorch - Vocabulary (628 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -254,7 +254,7 @@
 - `partnership`  <br> مشارکت
 - `being`  /ˈbiːɪŋ/ <br> بودن
 - `joy`  <br> لذت
-- `same`  <br> مشابه، همینطور
+- `same (adjective)`  <br> the same not different; not another: Emma and I like the same kind of music - I've lived in the same town all my life - He went to the same school as me
 ---
 
 ### foreword (51 words)
@@ -549,7 +549,7 @@
 - `describe`  <br> explain
 - `tomography`  <br> imaging method that shows slices of the body
 - `along`  /əˈlɔːŋ/ <br> 1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
-- `relevant`  /ˈreləvənt/ <br> connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant) - مرتبط
+- `relevant`  /ˈreləvənt/ <br> related; connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)
 - `consume`  <br> use up
 - `metric`  <br> a standard for measuring performance - معیار، سنجه
 - `TensorBoard`  <br> visualization tool in TensorFlow
@@ -706,7 +706,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (155 words)
+### Part 1: Core PyTorch (158 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -721,7 +721,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (142 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (145 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -864,6 +864,9 @@
 - `occur`  /əˈkɜːr/ <br> to happen: The accident occurred this morning
 - `presence`  /ˈprez.əns/ <br> the fact of being in a particular place; the existence of something: an experiment to test for the presence of oxygen
 - `variable`  /ˈveriəbəl/ <br> able to be changed; likely to change; not consistent
+- `caveat`  /ˈkæv.i.æt/ <br> warning
+- `familiar`  /fə.ˈmɪl.jər/ <br> that you know well: I heard a familiar voice in the next room - I'm not familiar with this computer (OPPOSITE: unfamiliar)
+- `similar`  /ˈsɪ.mɪ.lər/ <br> the same in some ways but not completely the same: Rats are similar to mice, but they are bigger - Jane and her sister look very similar
 ---
 
 ---

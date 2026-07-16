@@ -233,10 +233,10 @@
           "mean_en": ""
         },
         {
-          "word": "same",
+          "word": "same (adjective)",
           "phonetic": "",
-          "mean_fa": "مشابه، همینطور",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "the same not different; not another: Emma and I like the same kind of music - I've lived in the same town all my life - He went to the same school as me"
         }
       ]
     },
@@ -1953,8 +1953,8 @@
         {
           "word": "relevant",
           "phonetic": "/ˈreləvənt/",
-          "mean_fa": "مرتبط",
-          "mean_en": "connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)"
+          "mean_fa": "",
+          "mean_en": "related; connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)"
         },
         {
           "word": "consume",
@@ -3793,6 +3793,24 @@
               "phonetic": "/ˈveriəbəl/",
               "mean_fa": "",
               "mean_en": "able to be changed; likely to change; not consistent"
+            },
+            {
+              "word": "caveat",
+              "phonetic": "/ˈkæv.i.æt/",
+              "mean_fa": "",
+              "mean_en": "warning"
+            },
+            {
+              "word": "familiar",
+              "phonetic": "/fə.ˈmɪl.jər/",
+              "mean_fa": "",
+              "mean_en": "that you know well: I heard a familiar voice in the next room - I'm not familiar with this computer (OPPOSITE: unfamiliar)"
+            },
+            {
+              "word": "similar",
+              "phonetic": "/ˈsɪ.mɪ.lər/",
+              "mean_fa": "",
+              "mean_en": "the same in some ways but not completely the same: Rats are similar to mice, but they are bigger - Jane and her sister look very similar"
             }
           ]
         }
