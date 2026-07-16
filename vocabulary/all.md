@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1088**
+**Total words: 1103**
 
 ## 📑 Table of Contents
 
@@ -10,16 +10,16 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (610 words)](#deep-learning-with-pytorch---vocabulary-610-words)
+- [Deep Learning with PyTorch - Vocabulary (625 words)](#deep-learning-with-pytorch---vocabulary-625-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
-  - [foreword (52 words)](#foreword-52-words)
+  - [foreword (51 words)](#foreword-51-words)
   - [preface (90 words)](#preface-90-words)
   - [acknowledgments (60 words)](#acknowledgments-60-words)
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (139 words)](#part-1-core-pytorch-139-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (126 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-126-words)
+  - [Part 1: Core PyTorch (155 words)](#part-1-core-pytorch-155-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (142 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-142-words)
 - [Duolingo - Vocabulary (259 words)](#duolingo---vocabulary-259-words)
   - [SECTION 1 (259 words)](#section-1-259-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -161,7 +161,7 @@
 - `soothing`  /ˈsu.ðɪng/ <br> making you feel calm: Her words had a soothing effect - I put on some nice soothing music
 - `clarinet`  /ˌkler.ɪˈnet/ <br> <br> <img src='images/clarinet.jpg' alt='clarinet' width='200'>
 - `quarter`  /ˈkwɔr.tər/ <br> 1. one of four equal parts of something; ¼: a mile and a quarter - The film starts in three quarters of an hour <br> 2. three months: You get a telephone bill every quarter <br> 3. a part of a town: the Chinese quarter
-- `reasonable`  /ˈriː.zən.ə.bəl/ <br> 1. fair and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
+- `reasonable`  /ˈriː.zən.ə.bəl/ <br> 1. fair, sensible, and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair, sensible, or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
 - `booming (adjective)`  <br> 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
 - `bubble wand`  <br> <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
 - `dip`  /dɪp/ <br> to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil
@@ -213,13 +213,13 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (610 words)
+## Deep Learning with PyTorch - Vocabulary (625 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
 - `distribute`  /dɪˈstrɪbjuːt/ <br> to give or send things to each person: New books are distributed on the first day of school
 - `order`  <br> 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> `in order to` so that you can do something: We arrived early in order to buy our tickets <br> `out of order` (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
-- `offers`  <br> ارائه می‌دهد
+- `offer (verb)`  <br> 1. to say or show that you will do or give something if another person wants it: She offered me a cake - I offered to help her <br> 2. to provide or supply something: It's an organization that offers free legal advice to people on low incomes
 - `discount`  /ˈdɪskaʊnt/ <br> a reduction in the usual price of something <br> <img src='images/discount.jpg' alt='discount' width='200'>
 - `quantity`  <br> تعداد یا حجم (سفارش عمده)
 - `all rights reserved`  <br> کلیه حقوق محفوظ است
@@ -257,7 +257,7 @@
 - `same`  <br> مشابه، همینطور
 ---
 
-### foreword (52 words)
+### foreword (51 words)
 - `author`  <br> نویسنده
 - `instrumental`  <br> تأثیرگذار
 - `flexible`  <br> انعطاف پذیر
@@ -286,7 +286,6 @@
 - `built on`  <br> بنا شده بر
 - `curricula`  <br> برنامه‌های درسی
 - `tutorials`  <br> آموزش‌های گام‌به‌گام
-- `offered`  <br> ارائه شده
 - `guarantee`  <br> تضمین کردن
 - `outdated`  <br> از رده خارج شده
 - `definitive`  <br> قطعی
@@ -333,7 +332,7 @@
 - `struggle`  /ˈstrʌɡl/ <br> 1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker
 - `variability`  <br> تغییرپذیری
 - `heuristics`  <br> روش‌های اکتشافی
-- `involved`  <br> شامل
+- `involved`  /ɪnˈvɑːlvd/ <br> taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved
 - `went`  <br> رفت (past of go)
 - `came about`  <br> به وجود آمد
 - `appearance`  <br> ظاهر شدن
@@ -707,7 +706,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (139 words)
+### Part 1: Core PyTorch (155 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -722,7 +721,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (126 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (142 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -849,6 +848,22 @@
 - `acquisition`  /ˌækwɪˈzɪʃən/ <br> the process of getting or learning something, such as skills, knowledge, or assets
 - `equip`  /ɪˈkwɪp/ <br> to get all the things that are needed for doing something: Before setting out, they equipped themselves with a map - The kitchen is well equipped
 - `backbone`  /ˈbæk.ˌboʊn/ <br> a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>
+- `not pull any/your punches`  <br> to speak in an honest way without trying to be kind: My boss didn't pull any punches during my review; she told me I was doing a terrible job - I'm going to not pull any punches here: you need to study much harder if you want to pass
+- `willing`  /ˈwɪl.ɪŋ/ <br> ready and happy to do something: I'm willing to work at weekends (OPPOSITE: unwilling)
+- `dive`  /daɪv/ <br> to jump into water, especially with your head and arms going in first, or to move down under the water: They ran to the pool, dived in, and swam to the other side
+- `sketch (noun)`  sketʃ <br> A sketch is a drawing that is done quickly without a lot of details. Artists often use sketches as a preparation for a more detailed painting or drawing
+- `involve`  /ɪnˈvɑːlv/ <br> 1. to have something as a part: The job involves using a computer <br> 2. if you involve somebody in something, you make them take part in it: I want to involve more people in the concert
+- `round off`  /raʊnd/ <br> to finish or complete something in a good or satisfying way; to bring something to a pleasant conclusion
+- `pop up`  <br> to appear or happen, especially suddenly or unexpectedly
+- `literature`  /ˈlɪtərətʃər/ <br> 1. books, plays and poetry; written works that are valued as works of art, such as novels, plays and poems: He is studying English literature <br> <img src='images/literature.jpg' alt='literature' width='200'> <br> 2. (in scientific context) all the published research and writing on a particular subject
+- `clutter (noun)`  /ˈklʌt.ər/ <br> (a lot of objects in) a state of being untidy: Sorry about the clutter in the kitchen
+- `expose`  /ɪkˈspoʊz/ <br> to show something that is usually covered or hidden: A baby's skin should not be exposed to the sun for too long - The newspaper exposed his terrible secret
+- `illustrate`  /ˈɪləstreɪt/ <br> to show or explain something using examples or pictures
+- `adapt`  /əˈdæpt/ <br> 1. to change the way that you do things because you are in a new situation: He has adapted very well to being at a new school <br> 2. to change something so that you can use it in a different way: The car was adapted for use as a taxi
+- `efficient`  /ɪˈfɪʃənt/ <br> working well without making mistakes or wasting energy: Our secretary is very efficient - an efficient way of working (OPPOSITE: inefficient)
+- `occur`  /əˈkɜːr/ <br> to happen: The accident occurred this morning
+- `presence`  /ˈprez.əns/ <br> the fact of being in a particular place; the existence of something: an experiment to test for the presence of oxygen
+- `variable`  /ˈveriəbəl/ <br> able to be changed; likely to change; not consistent
 ---
 
 ---

@@ -123,7 +123,7 @@
 - `soothing`  /ˈsu.ðɪng/ <br> making you feel calm: Her words had a soothing effect - I put on some nice soothing music
 - `clarinet`  /ˌkler.ɪˈnet/ <br> <br> <img src='images/clarinet.jpg' alt='clarinet' width='200'>
 - `quarter`  /ˈkwɔr.tər/ <br> 1. one of four equal parts of something; ¼: a mile and a quarter - The film starts in three quarters of an hour <br> 2. three months: You get a telephone bill every quarter <br> 3. a part of a town: the Chinese quarter
-- `reasonable`  /ˈriː.zən.ə.bəl/ <br> 1. fair and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
+- `reasonable`  /ˈriː.zən.ə.bəl/ <br> 1. fair, sensible, and ready to listen to what other people say: I tried to be reasonable even though I was very angry <br> 2. fair, sensible, or right in a particular situation: I think $100 is a reasonable price (OPPOSITE: unreasonable)
 - `booming (adjective)`  <br> 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
 - `bubble wand`  <br> <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
 - `dip`  /dɪp/ <br> to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil

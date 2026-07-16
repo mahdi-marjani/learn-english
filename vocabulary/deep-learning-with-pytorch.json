@@ -23,10 +23,10 @@
           "mean_en": "1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> `in order to` so that you can do something: We arrived early in order to buy our tickets <br> `out of order` (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order"
         },
         {
-          "word": "offers",
+          "word": "offer (verb)",
           "phonetic": "",
-          "mean_fa": "ارائه می‌دهد",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "1. to say or show that you will do or give something if another person wants it: She offered me a cake - I offered to help her <br> 2. to provide or supply something: It's an organization that offers free legal advice to people on low incomes"
         },
         {
           "word": "discount",
@@ -412,12 +412,6 @@
           "mean_en": ""
         },
         {
-          "word": "offered",
-          "phonetic": "",
-          "mean_fa": "ارائه شده",
-          "mean_en": ""
-        },
-        {
           "word": "guarantee",
           "phonetic": "",
           "mean_fa": "تضمین کردن",
@@ -682,9 +676,9 @@
         },
         {
           "word": "involved",
-          "phonetic": "",
-          "mean_fa": "شامل",
-          "mean_en": ""
+          "phonetic": "/ɪnˈvɑːlvd/",
+          "mean_fa": "",
+          "mean_en": "taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved"
         },
         {
           "word": "went",
@@ -3703,6 +3697,102 @@
               "phonetic": "/ˈbæk.ˌboʊn/",
               "mean_fa": "",
               "mean_en": "a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>"
+            },
+            {
+              "word": "not pull any/your punches",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to speak in an honest way without trying to be kind: My boss didn't pull any punches during my review; she told me I was doing a terrible job - I'm going to not pull any punches here: you need to study much harder if you want to pass"
+            },
+            {
+              "word": "willing",
+              "phonetic": "/ˈwɪl.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "ready and happy to do something: I'm willing to work at weekends (OPPOSITE: unwilling)"
+            },
+            {
+              "word": "dive",
+              "phonetic": "/daɪv/",
+              "mean_fa": "",
+              "mean_en": "to jump into water, especially with your head and arms going in first, or to move down under the water: They ran to the pool, dived in, and swam to the other side"
+            },
+            {
+              "word": "sketch (noun)",
+              "phonetic": "sketʃ",
+              "mean_fa": "",
+              "mean_en": "A sketch is a drawing that is done quickly without a lot of details. Artists often use sketches as a preparation for a more detailed painting or drawing"
+            },
+            {
+              "word": "involve",
+              "phonetic": "/ɪnˈvɑːlv/",
+              "mean_fa": "",
+              "mean_en": "1. to have something as a part: The job involves using a computer <br> 2. if you involve somebody in something, you make them take part in it: I want to involve more people in the concert"
+            },
+            {
+              "word": "round off",
+              "phonetic": "/raʊnd/",
+              "mean_fa": "",
+              "mean_en": "to finish or complete something in a good or satisfying way; to bring something to a pleasant conclusion"
+            },
+            {
+              "word": "pop up",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to appear or happen, especially suddenly or unexpectedly"
+            },
+            {
+              "word": "literature",
+              "phonetic": "/ˈlɪtərətʃər/",
+              "mean_fa": "",
+              "mean_en": "1. books, plays and poetry; written works that are valued as works of art, such as novels, plays and poems: He is studying English literature <br> <img src='images/literature.jpg' alt='literature' width='200'> <br> 2. (in scientific context) all the published research and writing on a particular subject"
+            },
+            {
+              "word": "clutter (noun)",
+              "phonetic": "/ˈklʌt.ər/",
+              "mean_fa": "",
+              "mean_en": "(a lot of objects in) a state of being untidy: Sorry about the clutter in the kitchen"
+            },
+            {
+              "word": "expose",
+              "phonetic": "/ɪkˈspoʊz/",
+              "mean_fa": "",
+              "mean_en": "to show something that is usually covered or hidden: A baby's skin should not be exposed to the sun for too long - The newspaper exposed his terrible secret"
+            },
+            {
+              "word": "illustrate",
+              "phonetic": "/ˈɪləstreɪt/",
+              "mean_fa": "",
+              "mean_en": "to show or explain something using examples or pictures"
+            },
+            {
+              "word": "adapt",
+              "phonetic": "/əˈdæpt/",
+              "mean_fa": "",
+              "mean_en": "1. to change the way that you do things because you are in a new situation: He has adapted very well to being at a new school <br> 2. to change something so that you can use it in a different way: The car was adapted for use as a taxi"
+            },
+            {
+              "word": "efficient",
+              "phonetic": "/ɪˈfɪʃənt/",
+              "mean_fa": "",
+              "mean_en": "working well without making mistakes or wasting energy: Our secretary is very efficient - an efficient way of working (OPPOSITE: inefficient)"
+            },
+            {
+              "word": "occur",
+              "phonetic": "/əˈkɜːr/",
+              "mean_fa": "",
+              "mean_en": "to happen: The accident occurred this morning"
+            },
+            {
+              "word": "presence",
+              "phonetic": "/ˈprez.əns/",
+              "mean_fa": "",
+              "mean_en": "the fact of being in a particular place; the existence of something: an experiment to test for the presence of oxygen"
+            },
+            {
+              "word": "variable",
+              "phonetic": "/ˈveriəbəl/",
+              "mean_fa": "",
+              "mean_en": "able to be changed; likely to change; not consistent"
             }
           ]
         }
