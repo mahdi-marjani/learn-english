@@ -334,10 +334,10 @@
           "mean_en": ""
         },
         {
-          "word": "scratch",
+          "word": "from scratch",
           "phonetic": "",
-          "mean_fa": "شروع از صفر",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "from the beginning, without using anything that already exists: Ben built the shed from scratch"
         },
         {
           "word": "attribute",

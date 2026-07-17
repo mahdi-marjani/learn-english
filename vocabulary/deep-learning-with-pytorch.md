@@ -74,7 +74,7 @@
 - `rich`  <br> غنی
 - `rather`  /ˈræðər/ <br> more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus
 - `conceptually`  <br> از نظر مفهومی
-- `scratch`  <br> شروع از صفر
+- `from scratch`  <br> from the beginning, without using anything that already exists: Ben built the shed from scratch
 - `attribute`  <br> عامل دانستن
 - `enhanced`  <br> تقویت‌شده
 - `debuggability`  <br> قابلیت اشکال‌زدایی

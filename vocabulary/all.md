@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1106**
+**Total words: 1113**
 
 ## 📑 Table of Contents
 
@@ -20,8 +20,8 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (158 words)](#part-1-core-pytorch-158-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (145 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-145-words)
-- [Duolingo - Vocabulary (259 words)](#duolingo---vocabulary-259-words)
-  - [SECTION 1 (259 words)](#section-1-259-words)
+- [Duolingo - Vocabulary (266 words)](#duolingo---vocabulary-266-words)
+  - [SECTION 1 (266 words)](#section-1-266-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -29,7 +29,7 @@
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (37 words)](#meeting-37-words)
     - [Reunion (34 words)](#reunion-34-words)
-    - [Health (21 words)](#health-21-words)
+    - [Health (28 words)](#health-28-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -273,7 +273,7 @@
 - `rich`  <br> غنی
 - `rather`  /ˈræðər/ <br> more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus
 - `conceptually`  <br> از نظر مفهومی
-- `scratch`  <br> شروع از صفر
+- `from scratch`  <br> from the beginning, without using anything that already exists: Ben built the shed from scratch
 - `attribute`  <br> عامل دانستن
 - `enhanced`  <br> تقویت‌شده
 - `debuggability`  <br> قابلیت اشکال‌زدایی
@@ -871,9 +871,9 @@
 
 ---
 
-## Duolingo - Vocabulary (259 words)
+## Duolingo - Vocabulary (266 words)
 
-### SECTION 1 (259 words)
+### SECTION 1 (266 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1127,7 +1127,7 @@
 - `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
 - `properly`  /ˈprɑ.pər.li/ <br> well or correctly: Close the door properly - I can't see properly without my glasses
 
-#### Health (21 words)
+#### Health (28 words)
 - `throat`  /θroʊt/ <br> the front of the neck, or the space inside the neck down which food and air can go <br> <img src='images/throat.jpg' alt='throat' width='200'>
 - `stare`  /ster/ <br> look for a long time
 - `medicine`  /ˈmed.ɪ.sən/ <br> 1. the science of understanding illnesses and making sick people well again: He's studying medicine <br> 2. special liquids or pills that help you to get better when you are ill: Take this medicine every morning
@@ -1149,6 +1149,13 @@
 - `pharmacy`  /ˈfɑːr.mə.si/ <br> a shop where medicines are sold <br> <img src='images/pharmacy.jpg' alt='pharmacy' width='200'>
 - `fortunately`  /ˈfɔːr.tʃən.ət.li/ <br> happening because of good luck: Fortunately, we got home before it started to rain
 - `score (verb)`  /skɔːr/ <br> to win or get a point, goal, etc. in a competition, sport, or game: She scored 18 out of 20 in the spelling test
+- `bleed`  /bli:d/ <br> to lose blood: I've cut my hand and it's bleeding <br> <img src='images/bleed.jpg' alt='bleed' width='200'>
+- `elbow`  /ˈel.boʊ/ <br> the part in the middle of your arm where it bends: She fell and broke her elbow <br> <img src='images/elbow.jpg' alt='elbow' width='200'>
+- `scratch`  /skrætʃ/ <br> a cut or mark that a sharp thing makes: Her hands were covered in scratches from the cat <br> <img src='images/scratch.jpg' alt='scratch' width='200'>
+- `paramedic`  /ˌpɛ.rə.ˈmɛ.dɪk/ <br> a person who helps in emergencies <br> <img src='images/paramedic.jpg' alt='paramedic' width='200'>
+- `ma'am`  /mæm/ <br> a polite way of talking to a woman: How can I help you, ma'am?
+- `prescription`  /prɪˈskrɪp.ʃən/ <br> a piece of paper that a doctor gives to you with the name of your medicine on it
+- `tissue`  /ˈtɪ.ʃu/ <br> 1. a thin piece of soft paper that you use to clean your nose: a box of tissues <br> <img src='images/tissue1.jpg' alt='tissue1' width='200'> <br> 2. all the cells that from the bodies of humans, animals and plants <br> <img src='images/tissue2.jpg' alt='tissue2' width='200'>
 ---
 
 ---
