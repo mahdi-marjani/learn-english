@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1122**
+**Total words: 1137**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (631 words)](#deep-learning-with-pytorch---vocabulary-631-words)
+- [Deep Learning with PyTorch - Vocabulary (646 words)](#deep-learning-with-pytorch---vocabulary-646-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (90 words)](#preface-90-words)
@@ -18,8 +18,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (161 words)](#part-1-core-pytorch-161-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (148 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-148-words)
+  - [Part 1: Core PyTorch (176 words)](#part-1-core-pytorch-176-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (163 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-163-words)
 - [Duolingo - Vocabulary (272 words)](#duolingo---vocabulary-272-words)
   - [SECTION 1 (272 words)](#section-1-272-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -214,7 +214,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (631 words)
+## Deep Learning with PyTorch - Vocabulary (646 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -282,7 +282,7 @@
 - `ultimately`  <br> در نهایت
 - `productive`  <br> کارآمد
 - `huge`  <br> عظیم
-- `adoption`  <br> پذیرش
+- `adoption`  /əˈdɑːpʃən/ <br> acceptance; the act of starting to use a new method, system, or idea
 - `research`  <br> تحقیق
 - `built on`  <br> بنا شده بر
 - `curricula`  <br> برنامه‌های درسی
@@ -707,7 +707,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (161 words)
+### Part 1: Core PyTorch (176 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -722,7 +722,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (148 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (163 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -871,6 +871,21 @@
 - `unit`  /ˈjuː.nɪt/ <br> 1. one complete thing or group that may be part of something larger: The book has twelve units <br> 2. a measurement: A metre is a unit of length and a kilogram is a unit of weight
 - `yield`  /jiːld/ <br> to produce or provide something, such as a result, profit, or benefit: pytorch provides accelerated computation using graphical processing units (GPUs), often yielding speedup
 - `speedup`  <br> an increase in speed
+- `driver`  /ˈdraɪ.vər/ <br> 1. someone who drives a vehicle <br> 2. a type of golf club used by players to hit the ball long distances from the tee <br> 3. a software that controls the interaction between a computer and another equipment, such as a printer or scanner <br> 4. a golfer who uses a driver club, typically for long-distance shots from the tee <br> 5. someone who drives animals that pull a vehicle <br> 6. a factor, force, or influence that initiates or causes a particular action, process, or change
+- `expressivity`  /ˌekspreˈsɪvəti/ <br> the quality of being able to express ideas effectively and clearly
+- `quality`  /ˈkwɑː.lə.t̬i/ <br> how good or bad something is: The quality of her work is excellent - This furniture isn't very good quality
+- `undue`  /ʌnˈduː/ <br> more than is reasonable, suitable, or necessary; too much
+- `impose`  /ɪmˈpoʊz/ <br> force on someone
+- `arguably`  /ˈɑːrɡ.ju.ə.bli/ <br> used to state an opinion that you believe is true and can be supported by reasons or evidence: He is arguably the world's best football player
+- `opinion`  /əˈpɪn.jən/ <br> what you think about something (SAME MEANING: view): In my opinion, she's wrong - What's your opinion of his work? - He had strong opinions on everything
+- `seamless (adjective)`  /ˈsiːmləs/ <br> You use seamless to describe something that has no breaks or gaps in it or which continues without stopping: It was a seamless procession of wonderful electronic music - ...the seamless blue sky
+- `landscape`  /ˈlænd.skeɪp/ <br> everything you can see in an area of land: The Scottish landscape is very beautiful <br> <img src='images/landscape.jpg' alt='landscape' width='200'>
+- `widespread`  /ˈwaɪdspred/ <br> happening or existing in many places or among many people; very common
+- `witness (noun)`  /ˈwɪt.nəs/ <br> 1. a person who sees something happen and can tell other people about it later: There were two witnesses to the accident <br> 2. a person who goes to a court of law to tell people what they saw: a witness for the defence
+- `witness (verb)`  /ˈwɪt.nəs/ <br> to see something happen
+- `citation`  /saɪˈteɪʃən/ <br> a reference to a source of information, especially in an academic paper
+- `international`  /ˌɪntərˈnæʃənəl/ <br> global; worldwide
+- `conference`  /ˈkɑːnfərəns/ <br> a large formal meeting of people with a shared interest, often held to discuss research or business
 ---
 
 ---

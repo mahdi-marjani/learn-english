@@ -383,9 +383,9 @@
         },
         {
           "word": "adoption",
-          "phonetic": "",
-          "mean_fa": "پذیرش",
-          "mean_en": ""
+          "phonetic": "/əˈdɑːpʃən/",
+          "mean_fa": "",
+          "mean_en": "acceptance; the act of starting to use a new method, system, or idea"
         },
         {
           "word": "research",
@@ -3829,6 +3829,96 @@
               "phonetic": "",
               "mean_fa": "",
               "mean_en": "an increase in speed"
+            },
+            {
+              "word": "driver",
+              "phonetic": "/ˈdraɪ.vər/",
+              "mean_fa": "",
+              "mean_en": "1. someone who drives a vehicle <br> 2. a type of golf club used by players to hit the ball long distances from the tee <br> 3. a software that controls the interaction between a computer and another equipment, such as a printer or scanner <br> 4. a golfer who uses a driver club, typically for long-distance shots from the tee <br> 5. someone who drives animals that pull a vehicle <br> 6. a factor, force, or influence that initiates or causes a particular action, process, or change"
+            },
+            {
+              "word": "expressivity",
+              "phonetic": "/ˌekspreˈsɪvəti/",
+              "mean_fa": "",
+              "mean_en": "the quality of being able to express ideas effectively and clearly"
+            },
+            {
+              "word": "quality",
+              "phonetic": "/ˈkwɑː.lə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "how good or bad something is: The quality of her work is excellent - This furniture isn't very good quality"
+            },
+            {
+              "word": "undue",
+              "phonetic": "/ʌnˈduː/",
+              "mean_fa": "",
+              "mean_en": "more than is reasonable, suitable, or necessary; too much"
+            },
+            {
+              "word": "impose",
+              "phonetic": "/ɪmˈpoʊz/",
+              "mean_fa": "",
+              "mean_en": "force on someone"
+            },
+            {
+              "word": "arguably",
+              "phonetic": "/ˈɑːrɡ.ju.ə.bli/",
+              "mean_fa": "",
+              "mean_en": "used to state an opinion that you believe is true and can be supported by reasons or evidence: He is arguably the world's best football player"
+            },
+            {
+              "word": "opinion",
+              "phonetic": "/əˈpɪn.jən/",
+              "mean_fa": "",
+              "mean_en": "what you think about something (SAME MEANING: view): In my opinion, she's wrong - What's your opinion of his work? - He had strong opinions on everything"
+            },
+            {
+              "word": "seamless (adjective)",
+              "phonetic": "/ˈsiːmləs/",
+              "mean_fa": "",
+              "mean_en": "You use seamless to describe something that has no breaks or gaps in it or which continues without stopping: It was a seamless procession of wonderful electronic music - ...the seamless blue sky"
+            },
+            {
+              "word": "landscape",
+              "phonetic": "/ˈlænd.skeɪp/",
+              "mean_fa": "",
+              "mean_en": "everything you can see in an area of land: The Scottish landscape is very beautiful <br> <img src='images/landscape.jpg' alt='landscape' width='200'>"
+            },
+            {
+              "word": "widespread",
+              "phonetic": "/ˈwaɪdspred/",
+              "mean_fa": "",
+              "mean_en": "happening or existing in many places or among many people; very common"
+            },
+            {
+              "word": "witness (noun)",
+              "phonetic": "/ˈwɪt.nəs/",
+              "mean_fa": "",
+              "mean_en": "1. a person who sees something happen and can tell other people about it later: There were two witnesses to the accident <br> 2. a person who goes to a court of law to tell people what they saw: a witness for the defence"
+            },
+            {
+              "word": "witness (verb)",
+              "phonetic": "/ˈwɪt.nəs/",
+              "mean_fa": "",
+              "mean_en": "to see something happen"
+            },
+            {
+              "word": "citation",
+              "phonetic": "/saɪˈteɪʃən/",
+              "mean_fa": "",
+              "mean_en": "a reference to a source of information, especially in an academic paper"
+            },
+            {
+              "word": "international",
+              "phonetic": "/ˌɪntərˈnæʃənəl/",
+              "mean_fa": "",
+              "mean_en": "global; worldwide"
+            },
+            {
+              "word": "conference",
+              "phonetic": "/ˈkɑːnfərəns/",
+              "mean_fa": "",
+              "mean_en": "a large formal meeting of people with a shared interest, often held to discuss research or business"
             }
           ]
         }
