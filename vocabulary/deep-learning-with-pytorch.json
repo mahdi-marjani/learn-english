@@ -1777,10 +1777,10 @@
           "mean_en": ""
         },
         {
-          "word": "characterized",
-          "phonetic": "",
+          "word": "characterize",
+          "phonetic": "/ˈker.ək.tə.raɪz/",
           "mean_fa": "",
-          "mean_en": "defined"
+          "mean_en": "describe; define"
         },
         {
           "word": "breakdown",
@@ -3811,6 +3811,24 @@
               "phonetic": "/ˈsɪ.mɪ.lər/",
               "mean_fa": "",
               "mean_en": "the same in some ways but not completely the same: Rats are similar to mice, but they are bigger - Jane and her sister look very similar"
+            },
+            {
+              "word": "unit",
+              "phonetic": "/ˈjuː.nɪt/",
+              "mean_fa": "",
+              "mean_en": "1. one complete thing or group that may be part of something larger: The book has twelve units <br> 2. a measurement: A metre is a unit of length and a kilogram is a unit of weight"
+            },
+            {
+              "word": "yield",
+              "phonetic": "/jiːld/",
+              "mean_fa": "",
+              "mean_en": "to produce or provide something, such as a result, profit, or benefit: pytorch provides accelerated computation using graphical processing units (GPUs), often yielding speedup"
+            },
+            {
+              "word": "speedup",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "an increase in speed"
             }
           ]
         }

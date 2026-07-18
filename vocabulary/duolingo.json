@@ -1639,6 +1639,47 @@
               "mean_en": "1. a thin piece of soft paper that you use to clean your nose: a box of tissues <br> <img src='images/tissue1.jpg' alt='tissue1' width='200'> <br> 2. all the cells that from the bodies of humans, animals and plants <br> <img src='images/tissue2.jpg' alt='tissue2' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "Innovation",
+          "words": [
+            {
+              "word": "innovation",
+              "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a new idea or method: The company is known for its innovation in computer technology"
+            },
+            {
+              "word": "issue",
+              "phonetic": "/ˈɪʃ.uː/",
+              "mean_fa": "",
+              "mean_en": "1. an important problem that people talk about: Pollution is a serious issue <br> 2. a magazine or newspaper of particular day, week or month: Have you read this week's issue?"
+            },
+            {
+              "word": "diary",
+              "phonetic": "/ˈdaɪ.ə.ri/",
+              "mean_fa": "",
+              "mean_en": "1. a book where you write what you are going to do: I'll look in my diary to see if I'm free tomorrow <br> 2. a book where you write what you have done each day: Do you keep a diary (= write in a diary)?"
+            },
+            {
+              "word": "wisdom",
+              "phonetic": "/ˈwɪz.dəm/",
+              "mean_fa": "",
+              "mean_en": "knowing and understanding a lot about many things: Some people think that old age brings wisdom"
+            },
+            {
+              "word": "granddaughter",
+              "phonetic": "/ˈɡræn.dɔː.tər/",
+              "mean_fa": "",
+              "mean_en": "the daughter of your son or daughter"
+            },
+            {
+              "word": "inspire",
+              "phonetic": "/ɪnˈspaɪər/",
+              "mean_fa": "",
+              "mean_en": "1. to make somebody want to do something: His wife inspired him to write this poem <br> 2. to make somebody feel or think something: Her words inspired us all with hope"
+            }
+          ]
         }
       ]
     }
