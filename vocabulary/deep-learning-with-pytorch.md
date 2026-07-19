@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 646**
+**Total words: 660**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (176 words)](#part-1-core-pytorch-176-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (163 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-163-words)
+- [Part 1: Core PyTorch (190 words)](#part-1-core-pytorch-190-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (177 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-177-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (176 words)
+## Part 1: Core PyTorch (190 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -522,7 +522,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (163 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (177 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -686,4 +686,18 @@
 - `citation`  /saɪˈteɪʃən/ <br> a reference to a source of information, especially in an academic paper
 - `international`  /ˌɪntərˈnæʃənəl/ <br> global; worldwide
 - `conference`  /ˈkɑːnfərəns/ <br> a large formal meeting of people with a shared interest, often held to discuss research or business
+- `compelling`  /kəmˈpelɪŋ/ <br> making you feel sure that something is true or right: a compelling story
+- `contented`  /kənˈtentɪd/ <br> happy or satisfied, especially because your life or situation is good: a contented smile
+- `transition`  /træn.ˈzɪ.ʃən/ <br> the process or period of changing from one state, place, or condition to another; change: pytorch story for the transition from research and development into production
+- `initial`  /ɪˈnɪʃ.əl/ <br> first: initial commit
+- `initially`  /ɪˈnɪʃ.əl.i/ <br> at first: Initially, the system worked well
+- `workflow`  /ˈwɜːrkfloʊ/ <br> the way that a particular type of work is organized; the sequence of steps or tasks that are part of a work process: research workflows
+- `sequence`  /ˈsiː.kwəns/ <br> a set of related things that follow each other in a particular order; a continuous or connected series
+- `runtime`  /ˈrʌntaɪm/ <br> 1. the period during which a program is executing <br> 2. the software environment that supports the execution of a program: a high-performance C++ runtime
+- `inference`  /ˈɪn.fɜ.rəns/ <br> a guess that you make or an opinion that you form based on the information that you have; in ML, using a trained model to predict results from new data
+- `binding`  /ˈbaɪndɪŋ/ <br> A layer of code that lets one programming language (like Python) directly use a library written in another language (like C++), without needing a network or HTTP requests.
+- `interface`  /ˈɪn.tər.ˌfeɪs/ <br> (in computing) The connection, or link where two separate systems, programs, or devices to communicate and exchange information
+- `advantage`  /ədˈvæntɪdʒ/ <br> something that helps you or that is useful: One advantage of camping is that it's cheap (OPPOSITE: disadvantage)
+- `expensive`  /ɪkˈspensɪv/ <br> costing a lot of money or requiring a lot of resources
+- `overhead`  /ˈoʊvərhed/ <br> extra
 ---

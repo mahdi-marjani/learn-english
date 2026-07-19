@@ -3919,6 +3919,90 @@
               "phonetic": "/ˈkɑːnfərəns/",
               "mean_fa": "",
               "mean_en": "a large formal meeting of people with a shared interest, often held to discuss research or business"
+            },
+            {
+              "word": "compelling",
+              "phonetic": "/kəmˈpelɪŋ/",
+              "mean_fa": "",
+              "mean_en": "making you feel sure that something is true or right: a compelling story"
+            },
+            {
+              "word": "contented",
+              "phonetic": "/kənˈtentɪd/",
+              "mean_fa": "",
+              "mean_en": "happy or satisfied, especially because your life or situation is good: a contented smile"
+            },
+            {
+              "word": "transition",
+              "phonetic": "/træn.ˈzɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the process or period of changing from one state, place, or condition to another; change: pytorch story for the transition from research and development into production"
+            },
+            {
+              "word": "initial",
+              "phonetic": "/ɪˈnɪʃ.əl/",
+              "mean_fa": "",
+              "mean_en": "first: initial commit"
+            },
+            {
+              "word": "initially",
+              "phonetic": "/ɪˈnɪʃ.əl.i/",
+              "mean_fa": "",
+              "mean_en": "at first: Initially, the system worked well"
+            },
+            {
+              "word": "workflow",
+              "phonetic": "/ˈwɜːrkfloʊ/",
+              "mean_fa": "",
+              "mean_en": "the way that a particular type of work is organized; the sequence of steps or tasks that are part of a work process: research workflows"
+            },
+            {
+              "word": "sequence",
+              "phonetic": "/ˈsiː.kwəns/",
+              "mean_fa": "",
+              "mean_en": "a set of related things that follow each other in a particular order; a continuous or connected series"
+            },
+            {
+              "word": "runtime",
+              "phonetic": "/ˈrʌntaɪm/",
+              "mean_fa": "",
+              "mean_en": "1. the period during which a program is executing <br> 2. the software environment that supports the execution of a program: a high-performance C++ runtime"
+            },
+            {
+              "word": "inference",
+              "phonetic": "/ˈɪn.fɜ.rəns/",
+              "mean_fa": "",
+              "mean_en": "a guess that you make or an opinion that you form based on the information that you have; in ML, using a trained model to predict results from new data"
+            },
+            {
+              "word": "binding",
+              "phonetic": "/ˈbaɪndɪŋ/",
+              "mean_fa": "",
+              "mean_en": "A layer of code that lets one programming language (like Python) directly use a library written in another language (like C++), without needing a network or HTTP requests."
+            },
+            {
+              "word": "interface",
+              "phonetic": "/ˈɪn.tər.ˌfeɪs/",
+              "mean_fa": "",
+              "mean_en": "(in computing) The connection, or link where two separate systems, programs, or devices to communicate and exchange information"
+            },
+            {
+              "word": "advantage",
+              "phonetic": "/ədˈvæntɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "something that helps you or that is useful: One advantage of camping is that it's cheap (OPPOSITE: disadvantage)"
+            },
+            {
+              "word": "expensive",
+              "phonetic": "/ɪkˈspensɪv/",
+              "mean_fa": "",
+              "mean_en": "costing a lot of money or requiring a lot of resources"
+            },
+            {
+              "word": "overhead",
+              "phonetic": "/ˈoʊvərhed/",
+              "mean_fa": "",
+              "mean_en": "extra"
             }
           ]
         }
