@@ -681,6 +681,12 @@
           "mean_en": "taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved"
         },
         {
+          "word": "take part",
+          "phonetic": "",
+          "mean_fa": "",
+          "mean_en": "join in an event or activity; be involved"
+        },
+        {
           "word": "went",
           "phonetic": "",
           "mean_fa": "رفت (past of go)",
@@ -4003,6 +4009,90 @@
               "phonetic": "/ˈoʊvərhed/",
               "mean_fa": "",
               "mean_en": "extra"
+            },
+            {
+              "word": "claim (noun)",
+              "phonetic": "/kleɪm/",
+              "mean_fa": "",
+              "mean_en": "1. saying that something is true: Nobody believed his claim that he had found the money on the street <br> 2. something that you ask for because you think you have a right to it: The workers are making a claim for better pay"
+            },
+            {
+              "word": "trivial",
+              "phonetic": "/ˈtrɪvi.əl/",
+              "mean_fa": "",
+              "mean_en": "not important: She gets angry about trivial things"
+            },
+            {
+              "word": "in the thick of it",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "deeply involved in a particular activity or situation: We hope that by the time you are in the thick of this book, you’ll agree with us that our claims here are well founded"
+            },
+            {
+              "word": "competitive",
+              "phonetic": "/kəmˈpetətɪv/",
+              "mean_fa": "",
+              "mean_en": "involving competition"
+            },
+            {
+              "word": "analogy",
+              "phonetic": "/əˈnæl.ə.dʒi/",
+              "mean_fa": "",
+              "mean_en": "comparison"
+            },
+            {
+              "word": "comparison (noun)",
+              "phonetic": "/kəmˈper.ɪ.sən/",
+              "mean_fa": "",
+              "mean_en": "the act of comparing two or more people or things"
+            },
+            {
+              "word": "compare (verb)",
+              "phonetic": "/kəmˈper/",
+              "mean_fa": "",
+              "mean_en": "to look at how two or more things are similar or different, often to decide which is better: If you compare these two photos, you'll see they were taken in the same city - We compared several hotels before choosing the cheapest one - Compare this year's sales with last year's, and you'll see we grew by 20%"
+            },
+            {
+              "word": "flawed",
+              "phonetic": "/flɑːd/",
+              "mean_fa": "",
+              "mean_en": "not perfect, or containing mistakes"
+            },
+            {
+              "word": "Cambrian-explosion-like",
+              "phonetic": "/ˈkæm.bri.ən ɪkˈsploʊ.ʒən laɪk/",
+              "mean_fa": "",
+              "mean_en": "similar to the Cambrian Explosion—a period in Earth's history (about 540 million years ago) when a huge number of new life forms appeared suddenly and rapidly"
+            },
+            {
+              "word": "proliferation",
+              "phonetic": "/prəˌlɪf.əˈreɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the fact of something increasing a lot and suddenly in number or amount: The past two years have seen the proliferation of TV channels"
+            },
+            {
+              "word": "wrapper",
+              "phonetic": "/ˈræp.ər/",
+              "mean_fa": "",
+              "mean_en": "1. a piece of paper, plastic, or other material that covers and protects something <br> <img src='images/wrapper.jpg' alt='wrapper' width='200'> <br> 2. (in computing) a piece of code or software that acts as a layer around another program or library, making it easier to use or compatible with other systems"
+            },
+            {
+              "word": "era",
+              "phonetic": "/ˈer.ə/ or /ˈɪr.ə/",
+              "mean_fa": "",
+              "mean_en": "a long period of time in history that is marked by particular events, developments, or characteristics: The invention of the internet marked the beginning of a new era of communication - Now that I have children, I feel like I've entered a completely different era of my life"
+            },
+            {
+              "word": "consolidation",
+              "phonetic": "/kənˌsɑː.ləˈdeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the process of becoming or being made stronger and more certain: The company is entering a period of consolidation"
+            },
+            {
+              "word": "unification",
+              "phonetic": "/ˌjuː.nə.fəˈkeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners"
             }
           ]
         }

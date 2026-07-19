@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1151**
+**Total words: 1167**
 
 ## 📑 Table of Contents
 
@@ -10,18 +10,18 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (660 words)](#deep-learning-with-pytorch---vocabulary-660-words)
+- [Deep Learning with PyTorch - Vocabulary (675 words)](#deep-learning-with-pytorch---vocabulary-675-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
-  - [preface (90 words)](#preface-90-words)
+  - [preface (91 words)](#preface-91-words)
   - [acknowledgments (60 words)](#acknowledgments-60-words)
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (190 words)](#part-1-core-pytorch-190-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (177 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-177-words)
-- [Duolingo - Vocabulary (272 words)](#duolingo---vocabulary-272-words)
-  - [SECTION 1 (272 words)](#section-1-272-words)
+  - [Part 1: Core PyTorch (204 words)](#part-1-core-pytorch-204-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (191 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-191-words)
+- [Duolingo - Vocabulary (273 words)](#duolingo---vocabulary-273-words)
+  - [SECTION 1 (273 words)](#section-1-273-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -30,7 +30,7 @@
     - [Meeting (37 words)](#meeting-37-words)
     - [Reunion (34 words)](#reunion-34-words)
     - [Health (28 words)](#health-28-words)
-    - [Innovation (6 words)](#innovation-6-words)
+    - [Innovation (7 words)](#innovation-7-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -214,7 +214,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (660 words)
+## Deep Learning with PyTorch - Vocabulary (675 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -312,7 +312,7 @@
 - `workshop`  <br> کارگاه (آموزشی)
 ---
 
-### preface (90 words)
+### preface (91 words)
 - `preface`  <br> مقدمه
 - `as kids`  <br> وقتی بچه بودیم
 - `sinclair spectrum 48k (luca)`  <br> نام چند کامپیوتر قدیمی
@@ -334,6 +334,7 @@
 - `variability`  <br> تغییرپذیری
 - `heuristics`  <br> روش‌های اکتشافی
 - `involved`  /ɪnˈvɑːlvd/ <br> taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved
+- `take part`  <br> join in an event or activity; be involved
 - `went`  <br> رفت (past of go)
 - `came about`  <br> به وجود آمد
 - `appearance`  <br> ظاهر شدن
@@ -707,7 +708,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (190 words)
+### Part 1: Core PyTorch (204 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -722,7 +723,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (177 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (191 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -900,13 +901,27 @@
 - `advantage`  /ədˈvæntɪdʒ/ <br> something that helps you or that is useful: One advantage of camping is that it's cheap (OPPOSITE: disadvantage)
 - `expensive`  /ɪkˈspensɪv/ <br> costing a lot of money or requiring a lot of resources
 - `overhead`  /ˈoʊvərhed/ <br> extra
+- `claim (noun)`  /kleɪm/ <br> 1. saying that something is true: Nobody believed his claim that he had found the money on the street <br> 2. something that you ask for because you think you have a right to it: The workers are making a claim for better pay
+- `trivial`  /ˈtrɪvi.əl/ <br> not important: She gets angry about trivial things
+- `in the thick of it`  <br> deeply involved in a particular activity or situation: We hope that by the time you are in the thick of this book, you’ll agree with us that our claims here are well founded
+- `competitive`  /kəmˈpetətɪv/ <br> involving competition
+- `analogy`  /əˈnæl.ə.dʒi/ <br> comparison
+- `comparison (noun)`  /kəmˈper.ɪ.sən/ <br> the act of comparing two or more people or things
+- `compare (verb)`  /kəmˈper/ <br> to look at how two or more things are similar or different, often to decide which is better: If you compare these two photos, you'll see they were taken in the same city - We compared several hotels before choosing the cheapest one - Compare this year's sales with last year's, and you'll see we grew by 20%
+- `flawed`  /flɑːd/ <br> not perfect, or containing mistakes
+- `Cambrian-explosion-like`  /ˈkæm.bri.ən ɪkˈsploʊ.ʒən laɪk/ <br> similar to the Cambrian Explosion—a period in Earth's history (about 540 million years ago) when a huge number of new life forms appeared suddenly and rapidly
+- `proliferation`  /prəˌlɪf.əˈreɪ.ʃən/ <br> the fact of something increasing a lot and suddenly in number or amount: The past two years have seen the proliferation of TV channels
+- `wrapper`  /ˈræp.ər/ <br> 1. a piece of paper, plastic, or other material that covers and protects something <br> <img src='images/wrapper.jpg' alt='wrapper' width='200'> <br> 2. (in computing) a piece of code or software that acts as a layer around another program or library, making it easier to use or compatible with other systems
+- `era`  /ˈer.ə/ or /ˈɪr.ə/ <br> a long period of time in history that is marked by particular events, developments, or characteristics: The invention of the internet marked the beginning of a new era of communication - Now that I have children, I feel like I've entered a completely different era of my life
+- `consolidation`  /kənˌsɑː.ləˈdeɪ.ʃən/ <br> the process of becoming or being made stronger and more certain: The company is entering a period of consolidation
+- `unification`  /ˌjuː.nə.fəˈkeɪ.ʃən/ <br> the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners
 ---
 
 ---
 
-## Duolingo - Vocabulary (272 words)
+## Duolingo - Vocabulary (273 words)
 
-### SECTION 1 (272 words)
+### SECTION 1 (273 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1190,13 +1205,14 @@
 - `prescription`  /prɪˈskrɪp.ʃən/ <br> a piece of paper that a doctor gives to you with the name of your medicine on it
 - `tissue`  /ˈtɪ.ʃu/ <br> 1. a thin piece of soft paper that you use to clean your nose: a box of tissues <br> <img src='images/tissue1.jpg' alt='tissue1' width='200'> <br> 2. all the cells that from the bodies of humans, animals and plants <br> <img src='images/tissue2.jpg' alt='tissue2' width='200'>
 
-#### Innovation (6 words)
+#### Innovation (7 words)
 - `innovation`  /ˌɪn.əˈveɪ.ʃən/ <br> a new idea or method: The company is known for its innovation in computer technology
 - `issue`  /ˈɪʃ.uː/ <br> 1. an important problem that people talk about: Pollution is a serious issue <br> 2. a magazine or newspaper of particular day, week or month: Have you read this week's issue?
 - `diary`  /ˈdaɪ.ə.ri/ <br> 1. a book where you write what you are going to do: I'll look in my diary to see if I'm free tomorrow <br> 2. a book where you write what you have done each day: Do you keep a diary (= write in a diary)?
 - `wisdom`  /ˈwɪz.dəm/ <br> knowing and understanding a lot about many things: Some people think that old age brings wisdom
 - `granddaughter`  /ˈɡræn.dɔː.tər/ <br> the daughter of your son or daughter
 - `inspire`  /ɪnˈspaɪər/ <br> 1. to make somebody want to do something: His wife inspired him to write this poem <br> 2. to make somebody feel or think something: Her words inspired us all with hope
+- `reputation`  /ˌrepjəˈteɪʃən/ <br> the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character: The company has a worldwide reputation for quality - She has the reputation of being a good doctor
 ---
 
 ---

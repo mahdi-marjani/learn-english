@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 272**
+**Total words: 273**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (272 words)](#section-1-272-words)
+- [SECTION 1 (273 words)](#section-1-273-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -13,11 +13,11 @@
   - [Meeting (37 words)](#meeting-37-words)
   - [Reunion (34 words)](#reunion-34-words)
   - [Health (28 words)](#health-28-words)
-  - [Innovation (6 words)](#innovation-6-words)
+  - [Innovation (7 words)](#innovation-7-words)
 
 ---
 
-## SECTION 1 (272 words)
+## SECTION 1 (273 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -301,11 +301,12 @@
 - `prescription`  /prɪˈskrɪp.ʃən/ <br> a piece of paper that a doctor gives to you with the name of your medicine on it
 - `tissue`  /ˈtɪ.ʃu/ <br> 1. a thin piece of soft paper that you use to clean your nose: a box of tissues <br> <img src='images/tissue1.jpg' alt='tissue1' width='200'> <br> 2. all the cells that from the bodies of humans, animals and plants <br> <img src='images/tissue2.jpg' alt='tissue2' width='200'>
 
-### Innovation (6 words)
+### Innovation (7 words)
 - `innovation`  /ˌɪn.əˈveɪ.ʃən/ <br> a new idea or method: The company is known for its innovation in computer technology
 - `issue`  /ˈɪʃ.uː/ <br> 1. an important problem that people talk about: Pollution is a serious issue <br> 2. a magazine or newspaper of particular day, week or month: Have you read this week's issue?
 - `diary`  /ˈdaɪ.ə.ri/ <br> 1. a book where you write what you are going to do: I'll look in my diary to see if I'm free tomorrow <br> 2. a book where you write what you have done each day: Do you keep a diary (= write in a diary)?
 - `wisdom`  /ˈwɪz.dəm/ <br> knowing and understanding a lot about many things: Some people think that old age brings wisdom
 - `granddaughter`  /ˈɡræn.dɔː.tər/ <br> the daughter of your son or daughter
 - `inspire`  /ɪnˈspaɪər/ <br> 1. to make somebody want to do something: His wife inspired him to write this poem <br> 2. to make somebody feel or think something: Her words inspired us all with hope
+- `reputation`  /ˌrepjəˈteɪʃən/ <br> the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character: The company has a worldwide reputation for quality - She has the reputation of being a good doctor
 ---
