@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1171**
+**Total words: 1173**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (675 words)](#deep-learning-with-pytorch---vocabulary-675-words)
+- [Deep Learning with PyTorch - Vocabulary (677 words)](#deep-learning-with-pytorch---vocabulary-677-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,8 +18,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (204 words)](#part-1-core-pytorch-204-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (191 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-191-words)
+  - [Part 1: Core PyTorch (206 words)](#part-1-core-pytorch-206-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (193 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-193-words)
 - [Duolingo - Vocabulary (277 words)](#duolingo---vocabulary-277-words)
   - [SECTION 1 (277 words)](#section-1-277-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -214,7 +214,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (675 words)
+## Deep Learning with PyTorch - Vocabulary (677 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -413,7 +413,7 @@
 - `grew`  <br> past of grow
 - `organically`  <br> به‌صورت طبیعی
 - `internship`  <br> دوره کارآموزی
-- `mention`  <br> اشاره کردن، نام بردن
+- `mention (verb)`  /ˈmen.ʃən/ <br> to speak or write about something without giving much information: Liz mentioned that she was going to buy a new car - He didn't mention Anna in his letter
 - `addition`  <br> افزودن
 - `excellence`  <br> عالی بودن
 - `toward`  <br> در جهت
@@ -708,7 +708,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (204 words)
+### Part 1: Core PyTorch (206 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -723,7 +723,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (191 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (193 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -915,6 +915,8 @@
 - `era`  /ˈer.ə/ or /ˈɪr.ə/ <br> a long period of time in history that is marked by particular events, developments, or characteristics: The invention of the internet marked the beginning of a new era of communication - Now that I have children, I feel like I've entered a completely different era of my life
 - `consolidation`  /kənˌsɑː.ləˈdeɪ.ʃən/ <br> the process of becoming or being made stronger and more certain: The company is entering a period of consolidation
 - `unification`  /ˌjuː.nə.fəˈkeɪ.ʃən/ <br> the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners
+- `lately`  /ˈleɪt.li/ <br> recently
+- `by the time`  <br> at the time; when: I had lived in 12 different cities by the time I turned 18 - By the time she showed up, I was finished eating - by the time you read this in print, it will likely be out of date
 ---
 
 ---

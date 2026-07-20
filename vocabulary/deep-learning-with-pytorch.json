@@ -1142,10 +1142,10 @@
           "mean_en": ""
         },
         {
-          "word": "mention",
-          "phonetic": "",
-          "mean_fa": "اشاره کردن، نام بردن",
-          "mean_en": ""
+          "word": "mention (verb)",
+          "phonetic": "/ˈmen.ʃən/",
+          "mean_fa": "",
+          "mean_en": "to speak or write about something without giving much information: Liz mentioned that she was going to buy a new car - He didn't mention Anna in his letter"
         },
         {
           "word": "addition",
@@ -4093,6 +4093,18 @@
               "phonetic": "/ˌjuː.nə.fəˈkeɪ.ʃən/",
               "mean_fa": "",
               "mean_en": "the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners"
+            },
+            {
+              "word": "lately",
+              "phonetic": "/ˈleɪt.li/",
+              "mean_fa": "",
+              "mean_en": "recently"
+            },
+            {
+              "word": "by the time",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "at the time; when: I had lived in 12 different cities by the time I turned 18 - By the time she showed up, I was finished eating - by the time you read this in print, it will likely be out of date"
             }
           ]
         }
