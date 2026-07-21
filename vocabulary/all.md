@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1173**
+**Total words: 1177**
 
 ## 📑 Table of Contents
 
@@ -20,8 +20,8 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (206 words)](#part-1-core-pytorch-206-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (193 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-193-words)
-- [Duolingo - Vocabulary (277 words)](#duolingo---vocabulary-277-words)
-  - [SECTION 1 (277 words)](#section-1-277-words)
+- [Duolingo - Vocabulary (281 words)](#duolingo---vocabulary-281-words)
+  - [SECTION 1 (281 words)](#section-1-281-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -30,7 +30,7 @@
     - [Meeting (37 words)](#meeting-37-words)
     - [Reunion (34 words)](#reunion-34-words)
     - [Health (28 words)](#health-28-words)
-    - [Innovation (11 words)](#innovation-11-words)
+    - [Innovation (15 words)](#innovation-15-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -921,9 +921,9 @@
 
 ---
 
-## Duolingo - Vocabulary (277 words)
+## Duolingo - Vocabulary (281 words)
 
-### SECTION 1 (277 words)
+### SECTION 1 (281 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1207,7 +1207,7 @@
 - `prescription`  /prɪˈskrɪp.ʃən/ <br> a piece of paper that a doctor gives to you with the name of your medicine on it
 - `tissue`  /ˈtɪ.ʃu/ <br> 1. a thin piece of soft paper that you use to clean your nose: a box of tissues <br> <img src='images/tissue1.jpg' alt='tissue1' width='200'> <br> 2. all the cells that from the bodies of humans, animals and plants <br> <img src='images/tissue2.jpg' alt='tissue2' width='200'>
 
-#### Innovation (11 words)
+#### Innovation (15 words)
 - `innovation`  /ˌɪn.əˈveɪ.ʃən/ <br> a new idea or method: The company is known for its innovation in computer technology
 - `issue`  /ˈɪʃ.uː/ <br> 1. an important problem that people talk about: Pollution is a serious issue <br> 2. a magazine or newspaper of particular day, week or month: Have you read this week's issue?
 - `diary`  /ˈdaɪ.ə.ri/ <br> 1. a book where you write what you are going to do: I'll look in my diary to see if I'm free tomorrow <br> 2. a book where you write what you have done each day: Do you keep a diary (= write in a diary)?
@@ -1219,6 +1219,10 @@
 - `accident`  /ˈæk.sə.dənt/ <br> something bad that happens by chance: I had an accident when I was driving to work _ my car hit a tree - I'm sorry I broke your watch _ it was an accident <br> `by accident` by chance; not because you planned it: I took Jane's book by accident. I thought it was mine
 - `though`  /ðoʊ/ <br> but; however
 - `glow`  /ɡloʊ/ <br> to produce a continuous light and sometimes heat: glowstone - His cigarette glowed in the dark
+- `attachment`  /əˈtætʃ.mənt/ <br> 1. a strong feeling of love or liking for somebody or something : a child's strong attachment to its parents <br> 2. (computers) a file or document that you send to somebody using email
+- `surfer`  /ˈsɜr.fɜr/ <br> a person who rides on a wave on a special board <br> <img src='images/surfer.jpg' alt='surfer' width='200'> <br> 2. a person who spends a lot of time looking at websites on the internet
+- `wave (noun)`  /weɪv/ <br> 1. one of the lines of water that moves across the top of the sea: the sound of the waves breaking on the shore <br> <img src='images/wave1.jpg' alt='wave1' width='200'> <br> 2. a movement of your hand from side to side in the air, to say hello or goodbye, or to make a sign to somebody: As she turned the corner, she gave me a wave <br> <img src='images/wave2.jpg' alt='wave2' width='200'> <br> 3. a gentle curve in hair <br> 4. the form that some types of energy such as heat, light and sound take: radio waves
+- `plug (noun)`  /plʌɡ/ <br> 1. a thing with metal pins that joins a lamp, machine, etc. to a place in the wall (called a socket) where there is electricity <br> <img src='images/plug1.jpg' alt='plug1' width='200'> <br> 2. a round thing that you put in the hole in a bath, to keep the water in <br> <img src='images/plug2.jpg' alt='plug2' width='200'>
 ---
 
 ---
