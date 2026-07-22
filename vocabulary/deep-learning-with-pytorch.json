@@ -633,10 +633,10 @@
           "mean_en": ""
         },
         {
-          "word": "independently",
-          "phonetic": "",
-          "mean_fa": "به‌صورت مستقل",
-          "mean_en": ""
+          "word": "independent",
+          "phonetic": "/ˌɪn.dɪˈpen.dənt/",
+          "mean_fa": "",
+          "mean_en": "1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent"
         },
         {
           "word": "ourselves",
@@ -820,9 +820,9 @@
         },
         {
           "word": "precursor",
-          "phonetic": "",
+          "phonetic": "/priːˈkɜːr.sər/",
           "mean_fa": "پیش‌کسوت",
-          "mean_en": ""
+          "mean_en": "a person or thing that comes before another of the same kind"
         },
         {
           "word": "nimble",
@@ -1275,9 +1275,9 @@
         },
         {
           "word": "respective",
-          "phonetic": "",
-          "mean_fa": "به‌طور جداگانه برای هر فرد",
-          "mean_en": ""
+          "phonetic": "/rɪˈspɛktɪv/",
+          "mean_fa": "",
+          "mean_en": "belonging or relating separately to each of two or more people or things: they chatted about their respective childhoods"
         },
         {
           "word": "reaching out",
@@ -1538,9 +1538,9 @@
         },
         {
           "word": "notable",
-          "phonetic": "",
-          "mean_fa": "قابل توجه",
-          "mean_en": ""
+          "phonetic": "/ˈnəʊtəbl/",
+          "mean_fa": "",
+          "mean_en": "important and deserving attention, because of being very good or interesting: a notable collection of rare plants"
         },
         {
           "word": "absence",
@@ -1633,10 +1633,10 @@
           "mean_en": ""
         },
         {
-          "word": "picking it up",
+          "word": "pick (verb)",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "learning"
+          "mean_en": "1. to take the person or thing you like best (SAME MEANING: choose): They picked Simon as their captain <br> 2. to take a flower, fruit or vegetable from the place where it grows: I've picked some flowers for you <br> `pick on somebody` (informal) to treat somebody in an unfair or cruel way: Sally gets picked on by the other kids <br> `pick somebody or something out` to be able to see somebody or something among a lot of others: Can you pick out my father in this photo? <br> `pick somebody up` to come to get somebody, especially in a car: My father picks me up from school <br> `pick somebody or something up` to take and lift somebody or something: She picked up the kitten and stroked it - The phone stopped ringing just as I picked it up <br> `pick something up` to learn something without really studying it: Did you pick up any Japanese while you were in Tokyo?"
         },
         {
           "word": "do some catch-up",
@@ -1755,8 +1755,8 @@
         {
           "word": "various",
           "phonetic": "/ˈver.i.əs/",
-          "mean_fa": "مختلف",
-          "mean_en": "different"
+          "mean_fa": "",
+          "mean_en": "many different: We sell this shirt in various colors and sizes"
         },
         {
           "word": "rather than",
@@ -1966,7 +1966,7 @@
           "word": "consume",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "use up"
+          "mean_en": "to use fuel, energy, time, or a product, especially in large amounts: The software consumes huge amounts of internet bandwidth"
         },
         {
           "word": "metric",
@@ -4105,6 +4105,210 @@
               "phonetic": "",
               "mean_fa": "",
               "mean_en": "at the time; when: I had lived in 12 different cities by the time I turned 18 - By the time she showed up, I was finished eating - by the time you read this in print, it will likely be out of date"
+            },
+            {
+              "word": "premiere",
+              "phonetic": "/prɪˈmɪr/",
+              "mean_fa": "",
+              "mean_en": "most important, best, or most well-known; first in rank"
+            },
+            {
+              "word": "niche",
+              "phonetic": "/nɪtʃ/",
+              "mean_fa": "",
+              "mean_en": "a job or position that is very suitable for someone, especially one that they like: He has made a niche for himself as a financial advisor"
+            },
+            {
+              "word": "suitable",
+              "phonetic": "/ˈsuːtəbl/",
+              "mean_fa": "",
+              "mean_en": "acceptable or right for someone or something: The film is not suitable for children (OPPOSITE: unsuitable)"
+            },
+            {
+              "word": "roughly",
+              "phonetic": "/ˈrʌf.li/",
+              "mean_fa": "",
+              "mean_en": "1. about; not exactly (SAME MEANING: approximately): The journey should take roughly two hours (OPPOSITE: exactly) <br> 2. not gently: He pushed me roughly away"
+            },
+            {
+              "word": "gentle",
+              "phonetic": "/ˈdʒentl/",
+              "mean_fa": "",
+              "mean_en": "1. quiet and kind: Be gentle with the baby - a gentle voice <br> 2. not strong or unpleasant: It was a hot day, but there was a gentle breeze (= a soft wind)"
+            },
+            {
+              "word": "pleasant",
+              "phonetic": "/ˈplez.ənt/",
+              "mean_fa": "",
+              "mean_en": "nice, enjoyable or friendly: The weather here is very pleasant - He is a very pleasant person (OPPOSITE: unpleasant)"
+            },
+            {
+              "word": "soft",
+              "phonetic": "/sɑːft/",
+              "mean_fa": "",
+              "mean_en": "1. not hard or firm; that moves when you press it: Warm butter is soft - a soft bed <br> 2. smooth and nice to touch; not rough: soft skin - My cat's fur is very soft <br> 3. not bright or strong: the soft light of a candle <br> 4. quiet or gentle; not loud: soft music - He has a very soft voice <br> 5. kind and gentle; not strict: She's too soft with her class and they don't do any work"
+            },
+            {
+              "word": "butter",
+              "phonetic": "/ˈbʌ.tər/",
+              "mean_fa": "",
+              "mean_en": "a soft yellow food that is made from milk. You put it on bread or use it in cooking: She spread butter on the bread <br> <img src='images/butter.jpg' alt='butter' width='200'>"
+            },
+            {
+              "word": "drastic",
+              "phonetic": "/ˈdræs.tɪk/",
+              "mean_fa": "",
+              "mean_en": "(especially of actions) severe and sudden or having very noticeable effects"
+            },
+            {
+              "word": "severe",
+              "phonetic": "/səˈvɪr/",
+              "mean_fa": "",
+              "mean_en": "causing very great pain, difficulty, worry, damage, etc.; very serious: "
+            },
+            {
+              "word": "consolidate",
+              "phonetic": "/kənˈsɑː.lə.deɪt/",
+              "mean_fa": "",
+              "mean_en": "to become, or cause something to become, stronger, and more certain: The success of their major product consolidated the company's position in the market - She hoped that marriage would consolidate their relationship"
+            },
+            {
+              "word": "dwindle",
+              "phonetic": "/ˈdwɪn.dəl/",
+              "mean_fa": "",
+              "mean_en": "to become smaller in size or amount, or fewer in number: Her hopes of success in the race dwindled last night as the weather became worse"
+            },
+            {
+              "word": "in a nutshell",
+              "phonetic": "/ˈnʌt.ʃel/",
+              "mean_fa": "",
+              "mean_en": "used to say that you are expressing something in a very brief and clear way, without unnecessary details"
+            },
+            {
+              "word": "cease",
+              "phonetic": "/siːs/",
+              "mean_fa": "",
+              "mean_en": "to stop something: Fighting in the area has now ceased"
+            },
+            {
+              "word": "promote",
+              "phonetic": "/prəˈmoʊt/",
+              "mean_fa": "",
+              "mean_en": "1. to encourage people to like, buy, use, do, or support something: Consumed Keras entirely, promoting it to a first-class API <br> 2. to give somebody a more important job: She worked hard, and after a year she was promoted to manager"
+            },
+            {
+              "word": "immediate",
+              "phonetic": "/ɪˈmiː.di.ət/",
+              "mean_fa": "",
+              "mean_en": "happening now or very soon: I can't wait _ I need an immediate answer"
+            },
+            {
+              "word": "gain traction",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to start becoming successful, effective, accepted, or widely noticed"
+            },
+            {
+              "word": "equivalent",
+              "phonetic": "/ɪˈkwɪv.əl.ənt/",
+              "mean_fa": "",
+              "mean_en": "having the same amount, value, purpose, qualities, etc.: She's doing the equivalent job in the new company but for more money - Is $50 equivalent to about £30?"
+            },
+            {
+              "word": "capability",
+              "phonetic": "/ˌkeɪ.pəˈbɪl.ə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "the ability to do something: With the new machines we finally have the capability (= power) to do the job properly"
+            },
+            {
+              "word": "reuse",
+              "phonetic": "/ˌriːˈjuːz/",
+              "mean_fa": "",
+              "mean_en": "to use something again"
+            },
+            {
+              "word": "childhood",
+              "phonetic": "/ˈtʃʌɪldhʊd/",
+              "mean_fa": "",
+              "mean_en": "the time when someone is a child: She had an unhappy childhood"
+            },
+            {
+              "word": "corporate",
+              "phonetic": "/ˈkɔr.pɜ.rət/",
+              "mean_fa": "",
+              "mean_en": "relating to a large company: corporate sponsors"
+            },
+            {
+              "word": "robust",
+              "phonetic": "/roʊˈbʌst/",
+              "mean_fa": "",
+              "mean_en": "1. (of a person or animal) strong and healthy: He looks robust and healthy enough <br> 2. (of an object or system) strong and unlikely to break or fail: The app features robust encryption that is virtually impossible for hackers to penetrate"
+            },
+            {
+              "word": "pipeline",
+              "phonetic": "/ˈpaɪp.laɪn/",
+              "mean_fa": "",
+              "mean_en": "(in software) the workflow for developing, testing, and deploying code"
+            },
+            {
+              "word": "massive",
+              "phonetic": "/ˈmæs.ɪv/",
+              "mean_fa": "",
+              "mean_en": "very large in size, amount, or number: They have a massive house"
+            },
+            {
+              "word": "mindshare",
+              "phonetic": "/ˈmaɪnd.ʃer/",
+              "mean_fa": "",
+              "mean_en": "the degree to which people know about a particular company, product, etc. compared to how much they know about similar ones"
+            },
+            {
+              "word": "inroad",
+              "phonetic": "/ˌɪnˈroʊd/",
+              "mean_fa": "",
+              "mean_en": "(usually plural) progress or advancement, as toward a goal"
+            },
+            {
+              "word": "momentum",
+              "phonetic": "",
+              "mean_fa": "شتاب",
+              "mean_en": ""
+            },
+            {
+              "word": "graduate",
+              "phonetic": "/ˈɡrædʒ.u.ət/",
+              "mean_fa": "",
+              "mean_en": "a person who has finished their school, college, or university education: She's a recent graduate of Harvard"
+            },
+            {
+              "word": "build up steam",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to increase in power, energy, or speed"
+            },
+            {
+              "word": "advent",
+              "phonetic": "/ˈæd.vent/",
+              "mean_fa": "",
+              "mean_en": "1. the arrival of a notable person or thing: the advent of television <br> 2. the first season of the Church year, leading up to Christmas and including the four preceding Sundays"
+            },
+            {
+              "word": "arrival",
+              "phonetic": "/əˈrʌɪvl/",
+              "mean_fa": "",
+              "mean_en": "the action or process of arriving"
+            },
+            {
+              "word": "converge",
+              "phonetic": "/kənˈvɜːrdʒ/",
+              "mean_fa": "",
+              "mean_en": "to move toward the same point or become increasingly similar; to come together from different directions <br> <img src='images/converge.jpg' alt='converge' width='200'>"
+            },
+            {
+              "word": "overall (adjective, adverb)",
+              "phonetic": "/ˈoʊvərɔːl/",
+              "mean_fa": "",
+              "mean_en": "considering everything together; including everything (SAME MEANING: total): The overall cost of the repairs will be about $350 - How much will it cost overall?"
             }
           ]
         }

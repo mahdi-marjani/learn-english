@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 677**
+**Total words: 711**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (206 words)](#part-1-core-pytorch-206-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (193 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-193-words)
+- [Part 1: Core PyTorch (240 words)](#part-1-core-pytorch-240-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (227 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-227-words)
 
 ---
 
@@ -126,7 +126,7 @@
 - `spy`  <br> جاسوس
 - `later on`  <br> بعدها
 - `during`  <br> حین
-- `independently`  <br> به‌صورت مستقل
+- `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent
 - `ourselves`  <br> خودمون
 - `facing`  <br> رو به رو شدن
 - `kind`  <br> نوع
@@ -157,7 +157,7 @@
 - `overnight`  <br> یک شبه
 - `getting our hands dirty`  <br> کار عملی کردن ، به‌جای فقط مطالعه تئوری
 - `venerable`  <br> محترم
-- `precursor`  <br> پیش‌کسوت
+- `precursor`  /priːˈkɜːr.sər/ <br> a person or thing that comes before another of the same kind - پیش‌کسوت
 - `nimble`  <br> سریع در عملکرد یا واکنش
 - `lightweight`  <br> سبک
 - `approachable`  /əˈproʊ.tʃə.bəl/ <br> easy to understand - قابل‌درک
@@ -235,7 +235,7 @@
 - `hugely`  <br> بسیار
 - `appreciate`  /əˈpriːʃieɪt/ <br> 1. to enjoy something or understand how good somebody or something is: Van Gogh's paintings were only appreciate after his death - My boss doesn't appreciate me <br> 2. to understand that a situation is difficult: I appreciate your problem, but I can't help you <br> 3. to be grateful for something that somebody has done for you: Thank you for your help. I appreciate it
 - `delicate`  <br> حساس
-- `respective`  <br> به‌طور جداگانه برای هر فرد
+- `respective`  /rɪˈspɛktɪv/ <br> belonging or relating separately to each of two or more people or things: they chatted about their respective childhoods
 - `reaching out`  <br> ارتباط گرفتن
 - `we'd`  <br> we had یا we would
 - `tricking`  <br> حقه زدن، trick
@@ -281,7 +281,7 @@
 - `material`  <br> ماده، محتوا
 - `as such`  <br> به این دلیل
 - `subset`  <br> part
-- `notable`  <br> قابل توجه
+- `notable`  /ˈnəʊtəbl/ <br> important and deserving attention, because of being very good or interesting: a notable collection of rare plants
 - `absence`  <br> نبود، فقدان
 - `recurrent`  <br> بازگشتی
 - `meant`  <br> past of mean
@@ -297,7 +297,7 @@
 - `imperative`  <br> دستوری
 - `operating environment`  <br> محیط اجرایی
 - `prerequisite`  <br> پیش‌نیاز
-- `picking it up`  <br> learning
+- `pick (verb)`  <br> 1. to take the person or thing you like best (SAME MEANING: choose): They picked Simon as their captain <br> 2. to take a flower, fruit or vegetable from the place where it grows: I've picked some flowers for you <br> `pick on somebody` (informal) to treat somebody in an unfair or cruel way: Sally gets picked on by the other kids <br> `pick somebody or something out` to be able to see somebody or something among a lot of others: Can you pick out my father in this photo? <br> `pick somebody up` to come to get somebody, especially in a car: My father picks me up from school <br> `pick somebody or something up` to take and lift somebody or something: She picked up the kitten and stroked it - The phone stopped ringing just as I picked it up <br> `pick something up` to learn something without really studying it: Did you pick up any Japanese while you were in Tokyo?
 - `do some catch-up`  <br> جبران کردن عقب‌ماندگی
 - `strictly`  <br> به‌طور سختگیرانه
 - `vectors`  <br> بردارها
@@ -317,7 +317,7 @@
 - `came`  <br> past of come
 - `came along`  <br> joined
 - `blend`  <br> combine
-- `various`  /ˈver.i.əs/ <br> different - مختلف
+- `various`  /ˈver.i.əs/ <br> many different: We sell this shirt in various colors and sizes
 - `rather than`  <br> instead of
 - `common`  <br> 1. happening often or found in many places: jackson is a common English name <br> 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - `denominator`  <br> مخرج (در کسر ریاضی)
@@ -352,7 +352,7 @@
 - `tomography`  <br> imaging method that shows slices of the body
 - `along`  /əˈlɔːŋ/ <br> 1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
 - `relevant`  /ˈreləvənt/ <br> related; connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)
-- `consume`  <br> use up
+- `consume`  <br> to use fuel, energy, time, or a product, especially in large amounts: The software consumes huge amounts of internet bandwidth
 - `metric`  <br> a standard for measuring performance - معیار، سنجه
 - `TensorBoard`  <br> visualization tool in TensorFlow
 - `identify`  <br> to find and name something - شناسایی کردن
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (206 words)
+## Part 1: Core PyTorch (240 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -523,7 +523,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (193 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (227 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -717,4 +717,38 @@
 - `unification`  /ˌjuː.nə.fəˈkeɪ.ʃən/ <br> the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners
 - `lately`  /ˈleɪt.li/ <br> recently
 - `by the time`  <br> at the time; when: I had lived in 12 different cities by the time I turned 18 - By the time she showed up, I was finished eating - by the time you read this in print, it will likely be out of date
+- `premiere`  /prɪˈmɪr/ <br> most important, best, or most well-known; first in rank
+- `niche`  /nɪtʃ/ <br> a job or position that is very suitable for someone, especially one that they like: He has made a niche for himself as a financial advisor
+- `suitable`  /ˈsuːtəbl/ <br> acceptable or right for someone or something: The film is not suitable for children (OPPOSITE: unsuitable)
+- `roughly`  /ˈrʌf.li/ <br> 1. about; not exactly (SAME MEANING: approximately): The journey should take roughly two hours (OPPOSITE: exactly) <br> 2. not gently: He pushed me roughly away
+- `gentle`  /ˈdʒentl/ <br> 1. quiet and kind: Be gentle with the baby - a gentle voice <br> 2. not strong or unpleasant: It was a hot day, but there was a gentle breeze (= a soft wind)
+- `pleasant`  /ˈplez.ənt/ <br> nice, enjoyable or friendly: The weather here is very pleasant - He is a very pleasant person (OPPOSITE: unpleasant)
+- `soft`  /sɑːft/ <br> 1. not hard or firm; that moves when you press it: Warm butter is soft - a soft bed <br> 2. smooth and nice to touch; not rough: soft skin - My cat's fur is very soft <br> 3. not bright or strong: the soft light of a candle <br> 4. quiet or gentle; not loud: soft music - He has a very soft voice <br> 5. kind and gentle; not strict: She's too soft with her class and they don't do any work
+- `butter`  /ˈbʌ.tər/ <br> a soft yellow food that is made from milk. You put it on bread or use it in cooking: She spread butter on the bread <br> <img src='images/butter.jpg' alt='butter' width='200'>
+- `drastic`  /ˈdræs.tɪk/ <br> (especially of actions) severe and sudden or having very noticeable effects
+- `severe`  /səˈvɪr/ <br> causing very great pain, difficulty, worry, damage, etc.; very serious: 
+- `consolidate`  /kənˈsɑː.lə.deɪt/ <br> to become, or cause something to become, stronger, and more certain: The success of their major product consolidated the company's position in the market - She hoped that marriage would consolidate their relationship
+- `dwindle`  /ˈdwɪn.dəl/ <br> to become smaller in size or amount, or fewer in number: Her hopes of success in the race dwindled last night as the weather became worse
+- `in a nutshell`  /ˈnʌt.ʃel/ <br> used to say that you are expressing something in a very brief and clear way, without unnecessary details
+- `cease`  /siːs/ <br> to stop something: Fighting in the area has now ceased
+- `promote`  /prəˈmoʊt/ <br> 1. to encourage people to like, buy, use, do, or support something: Consumed Keras entirely, promoting it to a first-class API <br> 2. to give somebody a more important job: She worked hard, and after a year she was promoted to manager
+- `immediate`  /ɪˈmiː.di.ət/ <br> happening now or very soon: I can't wait _ I need an immediate answer
+- `gain traction`  <br> to start becoming successful, effective, accepted, or widely noticed
+- `equivalent`  /ɪˈkwɪv.əl.ənt/ <br> having the same amount, value, purpose, qualities, etc.: She's doing the equivalent job in the new company but for more money - Is $50 equivalent to about £30?
+- `capability`  /ˌkeɪ.pəˈbɪl.ə.t̬i/ <br> the ability to do something: With the new machines we finally have the capability (= power) to do the job properly
+- `reuse`  /ˌriːˈjuːz/ <br> to use something again
+- `childhood`  /ˈtʃʌɪldhʊd/ <br> the time when someone is a child: She had an unhappy childhood
+- `corporate`  /ˈkɔr.pɜ.rət/ <br> relating to a large company: corporate sponsors
+- `robust`  /roʊˈbʌst/ <br> 1. (of a person or animal) strong and healthy: He looks robust and healthy enough <br> 2. (of an object or system) strong and unlikely to break or fail: The app features robust encryption that is virtually impossible for hackers to penetrate
+- `pipeline`  /ˈpaɪp.laɪn/ <br> (in software) the workflow for developing, testing, and deploying code
+- `massive`  /ˈmæs.ɪv/ <br> very large in size, amount, or number: They have a massive house
+- `mindshare`  /ˈmaɪnd.ʃer/ <br> the degree to which people know about a particular company, product, etc. compared to how much they know about similar ones
+- `inroad`  /ˌɪnˈroʊd/ <br> (usually plural) progress or advancement, as toward a goal
+- `momentum`  <br> شتاب
+- `graduate`  /ˈɡrædʒ.u.ət/ <br> a person who has finished their school, college, or university education: She's a recent graduate of Harvard
+- `build up steam`  <br> to increase in power, energy, or speed
+- `advent`  /ˈæd.vent/ <br> 1. the arrival of a notable person or thing: the advent of television <br> 2. the first season of the Church year, leading up to Christmas and including the four preceding Sundays
+- `arrival`  /əˈrʌɪvl/ <br> the action or process of arriving
+- `converge`  /kənˈvɜːrdʒ/ <br> to move toward the same point or become increasingly similar; to come together from different directions <br> <img src='images/converge.jpg' alt='converge' width='200'>
+- `overall (adjective, adverb)`  /ˈoʊvərɔːl/ <br> considering everything together; including everything (SAME MEANING: total): The overall cost of the repairs will be about $350 - How much will it cost overall?
 ---
