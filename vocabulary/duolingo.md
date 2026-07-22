@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 281**
+**Total words: 290**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (281 words)](#section-1-281-words)
+- [SECTION 1 (290 words)](#section-1-290-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -14,10 +14,11 @@
   - [Reunion (34 words)](#reunion-34-words)
   - [Health (28 words)](#health-28-words)
   - [Innovation (15 words)](#innovation-15-words)
+  - [Routines (9 words)](#routines-9-words)
 
 ---
 
-## SECTION 1 (281 words)
+## SECTION 1 (290 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -317,4 +318,15 @@
 - `surfer`  /ˈsɜr.fɜr/ <br> a person who rides on a wave on a special board <br> <img src='images/surfer.jpg' alt='surfer' width='200'> <br> 2. a person who spends a lot of time looking at websites on the internet
 - `wave (noun)`  /weɪv/ <br> 1. one of the lines of water that moves across the top of the sea: the sound of the waves breaking on the shore <br> <img src='images/wave1.jpg' alt='wave1' width='200'> <br> 2. a movement of your hand from side to side in the air, to say hello or goodbye, or to make a sign to somebody: As she turned the corner, she gave me a wave <br> <img src='images/wave2.jpg' alt='wave2' width='200'> <br> 3. a gentle curve in hair <br> 4. the form that some types of energy such as heat, light and sound take: radio waves
 - `plug (noun)`  /plʌɡ/ <br> 1. a thing with metal pins that joins a lamp, machine, etc. to a place in the wall (called a socket) where there is electricity <br> <img src='images/plug1.jpg' alt='plug1' width='200'> <br> 2. a round thing that you put in the hole in a bath, to keep the water in <br> <img src='images/plug2.jpg' alt='plug2' width='200'>
+
+### Routines (9 words)
+- `routines`  /ruːˈtiːn/ <br> a usual or fixed way of doing things: Try to incorporate walking into your daily routine
+- `incorporate`  /ˌɪn.ˈkɔr.pɜ.reɪt/ <br> to include something as part of something larger: Try to incorporate walking into your daily routine
+- `comb`  /koʊm/ <br> a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair <br> <img src='images/comb.jpg' alt='comb' width='200'>
+- `toothpaste`  /ˈtuːθ.peɪst/ <br> a soft and thick substance we put on a toothbrush to clean our teeth <br> <img src='images/toothpaste.jpg' alt='toothpaste' width='200'>
+- `toothbrush`  /ˈtuːθ.brʌʃ/ <br> a small brush with a long handle that you use to clean your teeth <br> <img src='images/toothbrush.jpg' alt='toothbrush' width='200'>
+- `asleep`  /əˈsliːp/ <br> sleeping: The baby is asleep in the bedroom - He fell asleep (= started sleeping) in front of the fire (OPPOSITE: awake)
+- `write down`  <br> to write something on a piece of paper so that you do not forget it: Alice wrote down the address - Did you write down Jo's phone number?
+- `beside`  /bɪˈsaɪd/ <br> at the side of, next to: Come and sit here beside me - Our school was built right beside a river
+- `off (preposition, adverb)`  /ɑːf/ <br> 1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom
 ---
