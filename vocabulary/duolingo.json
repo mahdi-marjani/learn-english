@@ -746,7 +746,7 @@
               "word": "lie (verb)",
               "phonetic": "/laɪ/",
               "mean_fa": "",
-              "mean_en": "to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)"
+              "mean_en": "1. to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar) <br> 2. (of a person or animal) to be in a resting position on a flat surface, not standing or sitting: Lin is lying on Bea's couch"
             },
             {
               "word": "salary",
@@ -1236,7 +1236,31 @@
               "word": "proud",
               "phonetic": "/praʊd/",
               "mean_fa": "",
-              "mean_en": "feeling good about someone or something"
+              "mean_en": "feeling pleasure and satisfaction because you or people connected with you have done or got something good: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>"
+            },
+            {
+              "word": "pleasure",
+              "phonetic": "/ˈplɛ.ʒər/",
+              "mean_fa": "",
+              "mean_en": "1. the feeling of being happy or enjoying something: She gets a lot of pleasure from her music <br> 2. something that makes you happy: It was a pleasure to meet you <br> `it's a pleasure` You say 'it's a pleasure' as a polite way of answering somebody who thanks you: 'Thank you for your help' 'It's a pleasure' <br> `with pleasure` You say 'with pleasure' to show in a polite way that you are happy to do something: 'Can you help me move these boxes?' 'Yes, with pleasure'"
+            },
+            {
+              "word": "satisfaction",
+              "phonetic": "/ˌsæ.tɪs.ˈfæk.ʃən/",
+              "mean_fa": "",
+              "mean_en": "being pleased with what you or other people have done: She looked at the finished painting with satisfaction"
+            },
+            {
+              "word": "pleased",
+              "phonetic": "/pliːzd/",
+              "mean_fa": "",
+              "mean_en": "happy or satisfied: He wasn't very pleased to see me - Are you pleased with your new watch?"
+            },
+            {
+              "word": "satisfied",
+              "phonetic": "/ˈsæt̬.ɪs.faɪd/",
+              "mean_fa": "",
+              "mean_en": "pleased because you have had or done what you wanted: The teacher was not satisfied with my work"
             },
             {
               "word": "annoyed",
@@ -1739,7 +1763,7 @@
           "heading": "Routines",
           "words": [
             {
-              "word": "routines",
+              "word": "routine",
               "phonetic": "/ruːˈtiːn/",
               "mean_fa": "",
               "mean_en": "a usual or fixed way of doing things: Try to incorporate walking into your daily routine"
@@ -1791,6 +1815,60 @@
               "phonetic": "/ɑːf/",
               "mean_fa": "",
               "mean_en": "1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom"
+            },
+            {
+              "word": "   ",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": ""
+            },
+            {
+              "word": "beard",
+              "phonetic": "/bɪrd/",
+              "mean_fa": "",
+              "mean_en": "the hair that grow on the chin and sides of a man’s face <br> <img src='images/beard.jpg' alt='beard' width='200'>"
+            },
+            {
+              "word": "chin",
+              "phonetic": "/ʧɪn/",
+              "mean_fa": "",
+              "mean_en": "the lowest part of our face that is below our mouth <br> <img src='images/chin.jpg' alt='chin' width='200'>"
+            },
+            {
+              "word": "debate",
+              "phonetic": "/dɪˈbeɪt/",
+              "mean_fa": "",
+              "mean_en": "a public meeting where people talk about something important"
+            },
+            {
+              "word": "reflection",
+              "phonetic": "/rɪˈflek.ʃən/",
+              "mean_fa": "",
+              "mean_en": "1. the image of something in a mirror or water or on any shiny surface <br> 2. sending back light, heat or sound <br> 3. a thing that shows what somebody or something is like: Your clothes are a reflection of your personality"
+            },
+            {
+              "word": "letter",
+              "phonetic": "/ˈlɛ.tər/",
+              "mean_fa": "",
+              "mean_en": "1. a piece of writing that one person sends to another person: He got a letter from his cousin this morning - I'm writing a thank-you letter for the flowers she sent me <br> 2. a sign in writing that represents a sound in a language: Z is the last letter in the English alphabet"
+            },
+            {
+              "word": "men",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "plural of man"
+            },
+            {
+              "word": "dress (verb)",
+              "phonetic": "/dres/",
+              "mean_fa": "",
+              "mean_en": "1. to put clothes on yourself or someone else, especially a child <br> 2. to wear or make someone wear a particular style, type of clothes"
+            },
+            {
+              "word": "omelet",
+              "phonetic": "/ˈɑː.mə.lət/",
+              "mean_fa": "",
+              "mean_en": "a dish made by mixing eggs together and frying them, often with small pieces of other food such as cheese or vegetables"
             }
           ]
         }

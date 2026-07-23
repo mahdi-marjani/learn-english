@@ -2627,10 +2627,10 @@
           "mean_en": "should, must"
         },
         {
-          "word": "dress",
+          "word": "dress (noun)",
           "phonetic": "/dres/",
-          "mean_fa": "لباس",
-          "mean_en": "clothing"
+          "mean_fa": "",
+          "mean_en": "1. a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg <br> <img src='images/dress1.jpg' alt='dress1' width='200'> <br> 2. clothing in general <br> <img src='images/dress2.jpg' alt='dress2' width='200'>"
         },
         {
           "word": "costume",

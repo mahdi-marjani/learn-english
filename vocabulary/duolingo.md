@@ -1,24 +1,24 @@
 # Duolingo - Vocabulary
 
-**Total words: 290**
+**Total words: 303**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (290 words)](#section-1-290-words)
+- [SECTION 1 (303 words)](#section-1-303-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (26 words)](#interview-26-words)
   - [Chores (39 words)](#chores-39-words)
-  - [Meeting (37 words)](#meeting-37-words)
+  - [Meeting (41 words)](#meeting-41-words)
   - [Reunion (34 words)](#reunion-34-words)
   - [Health (28 words)](#health-28-words)
   - [Innovation (15 words)](#innovation-15-words)
-  - [Routines (9 words)](#routines-9-words)
+  - [Routines (18 words)](#routines-18-words)
 
 ---
 
-## SECTION 1 (290 words)
+## SECTION 1 (303 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -147,7 +147,7 @@
 - `adult`  /ˈædʌlt/ <br> a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
 - `as`  <br> 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
 - `airline`  <br> a company that takes people or things to different places by plane: Which airline are you flying with?
-- `lie (verb)`  /laɪ/ <br> to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- `lie (verb)`  /laɪ/ <br> 1. to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar) <br> 2. (of a person or animal) to be in a resting position on a flat surface, not standing or sitting: Lin is lying on Bea's couch
 - `salary`  /ˈsæləri/ <br> money that you receive every month for the work that you do
 - `confident`  /ˈkɑːnfɪdənt/ <br> sure that you can do something well, or that something will happen: I'm confident that our team will win
 - `airport`  <br> a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
@@ -197,7 +197,7 @@
 - `genius`  /ˈdʒiː.ni.əs/ <br> a very smart person
 - `roommate`  /ˈruːm.meɪt/ <br> a person who you share a room with for a period of time: Jean was my roommate during our first year at college
 
-### Meeting (37 words)
+### Meeting (41 words)
 - `cushion`  /ˈkʊʃ.ən/ <br> <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
 - `furniture`  /fɜr:nɪʧər/ <br> مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
 - `date`  /deɪt/ <br> a meeting with someone special
@@ -231,7 +231,11 @@
 - `agenda`  /əˈdʒen.də/ <br> a list of all the things to be talked about in a meeting
 - `counter`  /ˈkaʊn.tər/ <br> 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
 - `sigh (verb)`  /saɪ/ <br> to let out a deep breath, for example because you are sad, tired or pleased
-- `proud`  /praʊd/ <br> feeling good about someone or something
+- `proud`  /praʊd/ <br> feeling pleasure and satisfaction because you or people connected with you have done or got something good: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>
+- `pleasure`  /ˈplɛ.ʒər/ <br> 1. the feeling of being happy or enjoying something: She gets a lot of pleasure from her music <br> 2. something that makes you happy: It was a pleasure to meet you <br> `it's a pleasure` You say 'it's a pleasure' as a polite way of answering somebody who thanks you: 'Thank you for your help' 'It's a pleasure' <br> `with pleasure` You say 'with pleasure' to show in a polite way that you are happy to do something: 'Can you help me move these boxes?' 'Yes, with pleasure'
+- `satisfaction`  /ˌsæ.tɪs.ˈfæk.ʃən/ <br> being pleased with what you or other people have done: She looked at the finished painting with satisfaction
+- `pleased`  /pliːzd/ <br> happy or satisfied: He wasn't very pleased to see me - Are you pleased with your new watch?
+- `satisfied`  /ˈsæt̬.ɪs.faɪd/ <br> pleased because you have had or done what you wanted: The teacher was not satisfied with my work
 - `annoyed`  /ə.ˈnɔɪd/ <br> feeling a little angry
 - `ruin`  /ˈruːɪn/ <br> to damage something badly so that it is no longer good; to destroy something completely: I spilled coffee on my jacket and ruined it - The rain ruined our picnic
 - `awful`  /ˈɑː.fəl/ <br> very bad: The pain was awful - What awful weather
@@ -319,8 +323,8 @@
 - `wave (noun)`  /weɪv/ <br> 1. one of the lines of water that moves across the top of the sea: the sound of the waves breaking on the shore <br> <img src='images/wave1.jpg' alt='wave1' width='200'> <br> 2. a movement of your hand from side to side in the air, to say hello or goodbye, or to make a sign to somebody: As she turned the corner, she gave me a wave <br> <img src='images/wave2.jpg' alt='wave2' width='200'> <br> 3. a gentle curve in hair <br> 4. the form that some types of energy such as heat, light and sound take: radio waves
 - `plug (noun)`  /plʌɡ/ <br> 1. a thing with metal pins that joins a lamp, machine, etc. to a place in the wall (called a socket) where there is electricity <br> <img src='images/plug1.jpg' alt='plug1' width='200'> <br> 2. a round thing that you put in the hole in a bath, to keep the water in <br> <img src='images/plug2.jpg' alt='plug2' width='200'>
 
-### Routines (9 words)
-- `routines`  /ruːˈtiːn/ <br> a usual or fixed way of doing things: Try to incorporate walking into your daily routine
+### Routines (18 words)
+- `routine`  /ruːˈtiːn/ <br> a usual or fixed way of doing things: Try to incorporate walking into your daily routine
 - `incorporate`  /ˌɪn.ˈkɔr.pɜ.reɪt/ <br> to include something as part of something larger: Try to incorporate walking into your daily routine
 - `comb`  /koʊm/ <br> a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair <br> <img src='images/comb.jpg' alt='comb' width='200'>
 - `toothpaste`  /ˈtuːθ.peɪst/ <br> a soft and thick substance we put on a toothbrush to clean our teeth <br> <img src='images/toothpaste.jpg' alt='toothpaste' width='200'>
@@ -329,4 +333,13 @@
 - `write down`  <br> to write something on a piece of paper so that you do not forget it: Alice wrote down the address - Did you write down Jo's phone number?
 - `beside`  /bɪˈsaɪd/ <br> at the side of, next to: Come and sit here beside me - Our school was built right beside a river
 - `off (preposition, adverb)`  /ɑːf/ <br> 1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom
+- `   `  <br> 
+- `beard`  /bɪrd/ <br> the hair that grow on the chin and sides of a man’s face <br> <img src='images/beard.jpg' alt='beard' width='200'>
+- `chin`  /ʧɪn/ <br> the lowest part of our face that is below our mouth <br> <img src='images/chin.jpg' alt='chin' width='200'>
+- `debate`  /dɪˈbeɪt/ <br> a public meeting where people talk about something important
+- `reflection`  /rɪˈflek.ʃən/ <br> 1. the image of something in a mirror or water or on any shiny surface <br> 2. sending back light, heat or sound <br> 3. a thing that shows what somebody or something is like: Your clothes are a reflection of your personality
+- `letter`  /ˈlɛ.tər/ <br> 1. a piece of writing that one person sends to another person: He got a letter from his cousin this morning - I'm writing a thank-you letter for the flowers she sent me <br> 2. a sign in writing that represents a sound in a language: Z is the last letter in the English alphabet
+- `men`  <br> plural of man
+- `dress (verb)`  /dres/ <br> 1. to put clothes on yourself or someone else, especially a child <br> 2. to wear or make someone wear a particular style, type of clothes
+- `omelet`  /ˈɑː.mə.lət/ <br> a dish made by mixing eggs together and frying them, often with small pieces of other food such as cheese or vegetables
 ---
