@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1233**
+**Total words: 1252**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (711 words)](#deep-learning-with-pytorch---vocabulary-711-words)
+- [Deep Learning with PyTorch - Vocabulary (730 words)](#deep-learning-with-pytorch---vocabulary-730-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,8 +18,8 @@
   - [about this book (164 words)](#about-this-book-164-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (240 words)](#part-1-core-pytorch-240-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (227 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-227-words)
+  - [Part 1: Core PyTorch (259 words)](#part-1-core-pytorch-259-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (246 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-246-words)
 - [Duolingo - Vocabulary (303 words)](#duolingo---vocabulary-303-words)
   - [SECTION 1 (303 words)](#section-1-303-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -215,7 +215,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (711 words)
+## Deep Learning with PyTorch - Vocabulary (730 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -265,7 +265,7 @@
 - `flexible`  <br> انعطاف پذیر
 - `express`  <br> to say or show how you think or feel: She expressed her ideas well - بیان کردن
 - `executed`  <br> اجرا کردن
-- `relatively`  <br> نسبتاً
+- `relatively`  /ˈrel.ə.t̬ɪv.li/ <br> quite, especially when compared to others; quite good, bad, etc. in comparison with other similar things or with what you expect: This room is relatively small - relatively generic
 - `polished`  <br> صیقل داده‌شده
 - `standing on the shoulders of giants`  <br> استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
 - `shoulder`  <br> شانه
@@ -385,7 +385,7 @@
 - `differentiation`  <br> مشتق گرفتن
 - `computation`  <br> محاسبه
 - `graphs`  <br> نمودار
-- `numpy integration`  <br> NumPy یکپارچه‌سازی با
+- `integration`  /ˌɪn.t̬əˈɡreɪ.ʃən/ <br> the process of combining two or more things so that they work together as one connected system: numpy integration (= combine with numpy)
 - `given`  <br> با توجه به
 - `involvement`  <br> مشارکت
 - `enthusiasm`  <br> اشتیاق
@@ -546,7 +546,7 @@
 - `solution`  <br> راه‌حل
 - `lung`  <br> ریه
 - `difficult`  <br> hard
-- `motivation`  <br> انگیزه
+- `motivation`  /ˌmoʊ.t̬ɪˈveɪ.ʃən/ <br> a reason or reasons for doing something
 - `screening`  <br> quick check
 - `troubleshooting`  <br> debugging
 - `describe`  <br> explain
@@ -709,7 +709,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (240 words)
+### Part 1: Core PyTorch (259 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -724,7 +724,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (227 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (246 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -952,6 +952,25 @@
 - `arrival`  /əˈrʌɪvl/ <br> the action or process of arriving
 - `converge`  /kənˈvɜːrdʒ/ <br> to move toward the same point or become increasingly similar; to come together from different directions <br> <img src='images/converge.jpg' alt='converge' width='200'>
 - `overall (adjective, adverb)`  /ˈoʊvərɔːl/ <br> considering everything together; including everything (SAME MEANING: total): The overall cost of the repairs will be about $350 - How much will it cost overall?
+- `hint (verb)`  /hɪnt/ <br> to say something, but not in a direct way: Sarah hinted that she might be leaving
+- `formalize`  /ˈfɔːr.mə.laɪz/ <br> to make something official, structured, or systematic; to give a clear, logical, or written form to an idea or plan
+- `component`  /kəmˈpoʊ.nənt/ <br> a single part or element of something larger, especially a part of a machine or system
+- `parallelism`  /ˈper.ə.le.lɪ.zəm/ <br> the state of being parallel; (in computing) the ability to perform many operations or calculations at the same time using multiple processors or cores
+- `indeed`  /ɪnˈdiːd/ <br> in fact; without any doubt; used to emphasize a statement or to confirm that something is true
+- `peek (verb)`  /piːk/ <br> a quick and often secret look
+- `parlance`  /ˈpɑːr.ləns/ <br> a group of words or style of speaking used by a particular group of people: business/legal parlance
+- `analytical`  /ˌanəˈlɪtɪkl/ <br> relating to or using analysis or logical reasoning
+- `derivative`  /dɪˈrɪv.ə.t̬ɪv/ <br> مشتق
+- `with respect to`  <br> You use with respect to to say what something relates to: Parents often have little choice with respect to the way their child is medically treated
+- `by virtue of`  /ˌbʌɪ ˈvɜːr.tʃuː əv/ <br> because or as a result of
+- `dispatch`  /dɪˈspætʃ/ <br> 1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (in computer) Dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU
+- `under the hood`  <br> the hidden or internal working parts of a system; the complex details that are not visible to the user
+- `throughout (preposition, adverb)`  /θruːˈaʊt/ <br> 1. in every part of something: We painted the house throughout - She is famous throughout the world <br> 2. from the beginning to the end of something: They talked throughout the film
+- `spectrum`  /ˈspek.trəm/ <br> 1. the set of colours into which a beam of light can be separated, or a range of waves, such as light waves or radio waves: The colours of the spectrum _ red, orange, yellow, green, blue, indigo, and violet _ can be seen in a rainbow <br> <img src='images/spectrum.jpg' alt='spectrum' width='200'> <br> 2. a complete or wide range of related things, ideas, or qualities that covers many different kinds, from one type to a very different type: The spectrum of scientific applications includes everything from simple data analysis to advanced AI models
+- `foremost`  /ˈfɔːr.moʊst/ <br> most important or best
+- `encompass`  /ɪnˈkʌm.pəs/ <br> to include different types of things: tensors that encompass several samples
+- `several`  /ˈsɛ.və.rəl/ <br> more than two but not many: I've read this book several times - Several letters arrived this morning - If you need a pen, there are several on the table
+- `elaborate (adjective)`  /ɪ.ˈlæ.bə.rət/ <br> containing a lot of careful detail or many detailed parts
 ---
 
 ---

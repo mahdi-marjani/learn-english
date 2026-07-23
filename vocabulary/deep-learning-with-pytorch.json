@@ -275,9 +275,9 @@
         },
         {
           "word": "relatively",
-          "phonetic": "",
-          "mean_fa": "نسبتاً",
-          "mean_en": ""
+          "phonetic": "/ˈrel.ə.t̬ɪv.li/",
+          "mean_fa": "",
+          "mean_en": "quite, especially when compared to others; quite good, bad, etc. in comparison with other similar things or with what you expect: This room is relatively small - relatively generic"
         },
         {
           "word": "polished",
@@ -981,10 +981,10 @@
           "mean_en": ""
         },
         {
-          "word": "numpy integration",
-          "phonetic": "",
-          "mean_fa": "NumPy یکپارچه‌سازی با",
-          "mean_en": ""
+          "word": "integration",
+          "phonetic": "/ˌɪn.t̬əˈɡreɪ.ʃən/",
+          "mean_fa": "",
+          "mean_en": "the process of combining two or more things so that they work together as one connected system: numpy integration (= combine with numpy)"
         },
         {
           "word": "given",
@@ -1922,9 +1922,9 @@
         },
         {
           "word": "motivation",
-          "phonetic": "",
-          "mean_fa": "انگیزه",
-          "mean_en": ""
+          "phonetic": "/ˌmoʊ.t̬ɪˈveɪ.ʃən/",
+          "mean_fa": "",
+          "mean_en": "a reason or reasons for doing something"
         },
         {
           "word": "screening",
@@ -4309,6 +4309,120 @@
               "phonetic": "/ˈoʊvərɔːl/",
               "mean_fa": "",
               "mean_en": "considering everything together; including everything (SAME MEANING: total): The overall cost of the repairs will be about $350 - How much will it cost overall?"
+            },
+            {
+              "word": "hint (verb)",
+              "phonetic": "/hɪnt/",
+              "mean_fa": "",
+              "mean_en": "to say something, but not in a direct way: Sarah hinted that she might be leaving"
+            },
+            {
+              "word": "formalize",
+              "phonetic": "/ˈfɔːr.mə.laɪz/",
+              "mean_fa": "",
+              "mean_en": "to make something official, structured, or systematic; to give a clear, logical, or written form to an idea or plan"
+            },
+            {
+              "word": "component",
+              "phonetic": "/kəmˈpoʊ.nənt/",
+              "mean_fa": "",
+              "mean_en": "a single part or element of something larger, especially a part of a machine or system"
+            },
+            {
+              "word": "parallelism",
+              "phonetic": "/ˈper.ə.le.lɪ.zəm/",
+              "mean_fa": "",
+              "mean_en": "the state of being parallel; (in computing) the ability to perform many operations or calculations at the same time using multiple processors or cores"
+            },
+            {
+              "word": "indeed",
+              "phonetic": "/ɪnˈdiːd/",
+              "mean_fa": "",
+              "mean_en": "in fact; without any doubt; used to emphasize a statement or to confirm that something is true"
+            },
+            {
+              "word": "peek (verb)",
+              "phonetic": "/piːk/",
+              "mean_fa": "",
+              "mean_en": "a quick and often secret look"
+            },
+            {
+              "word": "parlance",
+              "phonetic": "/ˈpɑːr.ləns/",
+              "mean_fa": "",
+              "mean_en": "a group of words or style of speaking used by a particular group of people: business/legal parlance"
+            },
+            {
+              "word": "analytical",
+              "phonetic": "/ˌanəˈlɪtɪkl/",
+              "mean_fa": "",
+              "mean_en": "relating to or using analysis or logical reasoning"
+            },
+            {
+              "word": "derivative",
+              "phonetic": "/dɪˈrɪv.ə.t̬ɪv/",
+              "mean_fa": "مشتق",
+              "mean_en": ""
+            },
+            {
+              "word": "with respect to",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "You use with respect to to say what something relates to: Parents often have little choice with respect to the way their child is medically treated"
+            },
+            {
+              "word": "by virtue of",
+              "phonetic": "/ˌbʌɪ ˈvɜːr.tʃuː əv/",
+              "mean_fa": "",
+              "mean_en": "because or as a result of"
+            },
+            {
+              "word": "dispatch",
+              "phonetic": "/dɪˈspætʃ/",
+              "mean_fa": "",
+              "mean_en": "1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (in computer) Dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU"
+            },
+            {
+              "word": "under the hood",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "the hidden or internal working parts of a system; the complex details that are not visible to the user"
+            },
+            {
+              "word": "throughout (preposition, adverb)",
+              "phonetic": "/θruːˈaʊt/",
+              "mean_fa": "",
+              "mean_en": "1. in every part of something: We painted the house throughout - She is famous throughout the world <br> 2. from the beginning to the end of something: They talked throughout the film"
+            },
+            {
+              "word": "spectrum",
+              "phonetic": "/ˈspek.trəm/",
+              "mean_fa": "",
+              "mean_en": "1. the set of colours into which a beam of light can be separated, or a range of waves, such as light waves or radio waves: The colours of the spectrum _ red, orange, yellow, green, blue, indigo, and violet _ can be seen in a rainbow <br> <img src='images/spectrum.jpg' alt='spectrum' width='200'> <br> 2. a complete or wide range of related things, ideas, or qualities that covers many different kinds, from one type to a very different type: The spectrum of scientific applications includes everything from simple data analysis to advanced AI models"
+            },
+            {
+              "word": "foremost",
+              "phonetic": "/ˈfɔːr.moʊst/",
+              "mean_fa": "",
+              "mean_en": "most important or best"
+            },
+            {
+              "word": "encompass",
+              "phonetic": "/ɪnˈkʌm.pəs/",
+              "mean_fa": "",
+              "mean_en": "to include different types of things: tensors that encompass several samples"
+            },
+            {
+              "word": "several",
+              "phonetic": "/ˈsɛ.və.rəl/",
+              "mean_fa": "",
+              "mean_en": "more than two but not many: I've read this book several times - Several letters arrived this morning - If you need a pen, there are several on the table"
+            },
+            {
+              "word": "elaborate (adjective)",
+              "phonetic": "/ɪ.ˈlæ.bə.rət/",
+              "mean_fa": "",
+              "mean_en": "containing a lot of careful detail or many detailed parts"
             }
           ]
         }
