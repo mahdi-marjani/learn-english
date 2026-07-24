@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 303**
+**Total words: 312**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (303 words)](#section-1-303-words)
+- [SECTION 1 (312 words)](#section-1-312-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -14,11 +14,11 @@
   - [Reunion (34 words)](#reunion-34-words)
   - [Health (28 words)](#health-28-words)
   - [Innovation (15 words)](#innovation-15-words)
-  - [Routines (18 words)](#routines-18-words)
+  - [Routines (27 words)](#routines-27-words)
 
 ---
 
-## SECTION 1 (303 words)
+## SECTION 1 (312 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -323,7 +323,7 @@
 - `wave (noun)`  /weɪv/ <br> 1. one of the lines of water that moves across the top of the sea: the sound of the waves breaking on the shore <br> <img src='images/wave1.jpg' alt='wave1' width='200'> <br> 2. a movement of your hand from side to side in the air, to say hello or goodbye, or to make a sign to somebody: As she turned the corner, she gave me a wave <br> <img src='images/wave2.jpg' alt='wave2' width='200'> <br> 3. a gentle curve in hair <br> 4. the form that some types of energy such as heat, light and sound take: radio waves
 - `plug (noun)`  /plʌɡ/ <br> 1. a thing with metal pins that joins a lamp, machine, etc. to a place in the wall (called a socket) where there is electricity <br> <img src='images/plug1.jpg' alt='plug1' width='200'> <br> 2. a round thing that you put in the hole in a bath, to keep the water in <br> <img src='images/plug2.jpg' alt='plug2' width='200'>
 
-### Routines (18 words)
+### Routines (27 words)
 - `routine`  /ruːˈtiːn/ <br> a usual or fixed way of doing things: Try to incorporate walking into your daily routine
 - `incorporate`  /ˌɪn.ˈkɔr.pɜ.reɪt/ <br> to include something as part of something larger: Try to incorporate walking into your daily routine
 - `comb`  /koʊm/ <br> a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair <br> <img src='images/comb.jpg' alt='comb' width='200'>
@@ -342,4 +342,13 @@
 - `men`  <br> plural of man
 - `dress (verb)`  /dres/ <br> 1. to put clothes on yourself or someone else, especially a child <br> 2. to wear or make someone wear a particular style, type of clothes
 - `omelet`  /ˈɑː.mə.lət/ <br> a dish made by mixing eggs together and frying them, often with small pieces of other food such as cheese or vegetables
+- `ring (noun)`  /rɪŋ/ <br> 1. a circle of metal that you wear on your finger: a wedding ring <br> 2. a circle: The coffee cup left a ring on the table top <br> 3. a space with seats around it, used for a competition or a performance: a boxing ring <br> 4. the sound that a bell makes: There was a ring at the door
+- `ring (verb)`  /rɪŋ/ <br> 1. (British) to telephone somebody (SAME MEANING: call and phone): I'll ring you on Sunday - She rang up yesterday and cancelled the order <br> 2. to make a sound like a bell: The telephone is ringing <br> 3. to press or move a bell so that it makes a sound: We rang the doorbell again but nobody answered
+- `waste (verb)`  /weɪst/ <br> to use too much of something or not use something in a good way: She wastes a lot of money on sweets - He wasted his time at university _ he didn't do any work
+- `shower`  /ʃaʊər/ <br> <br> <img src='images/shower.jpg' alt='shower' width='200'>
+- `creepy`  /ˈkriː.pi/ <br> making you feel nervous or afraid (SAME MEANING: scary): a creepy ghost story
+- `recall`  /rɪˈkɑːl/ <br> remember; to bring the memory of a past event into your mind, and often to give a description of what you remember: Can you recall what happened last night?
+- `laughter`  <br> the sound of laughing: I could hear laughter in the next room
+- `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
+- `worst`  /wɜrst/ <br> bad
 ---
