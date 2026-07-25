@@ -1719,7 +1719,7 @@
               "word": "accident",
               "phonetic": "/ˈæk.sə.dənt/",
               "mean_fa": "",
-              "mean_en": "something bad that happens by chance: I had an accident when I was driving to work _ my car hit a tree - I'm sorry I broke your watch _ it was an accident <br> `by accident` by chance; not because you planned it: I took Jane's book by accident. I thought it was mine"
+              "mean_en": "something bad that happens by chance: I had an accident when I was driving to work _ my car hit a tree - I'm sorry I broke your watch _ it was an accident <br> `by accident` by chance; not because you planned it; as a mistake: I took Jane's book by accident. I thought it was mine"
             },
             {
               "word": "though",
@@ -1815,12 +1815,6 @@
               "phonetic": "/ɑːf/",
               "mean_fa": "",
               "mean_en": "1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom"
-            },
-            {
-              "word": "   ",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
             },
             {
               "word": "beard",
@@ -1923,6 +1917,77 @@
               "phonetic": "/wɜrst/",
               "mean_fa": "",
               "mean_en": "bad"
+            }
+          ]
+        },
+        {
+          "heading": "Stories",
+          "words": [
+            {
+              "word": "pillow",
+              "phonetic": "/ˈpɪl.oʊ/",
+              "mean_fa": "",
+              "mean_en": "a soft thing that you put your head on when you are in bed <br> <img src='images/pillow.jpg' alt='pillow' width='200'>"
+            },
+            {
+              "word": "palace",
+              "phonetic": "/ˈpæl.ɪs/",
+              "mean_fa": "",
+              "mean_en": "a very large house where a king or queen lives"
+            },
+            {
+              "word": "princess",
+              "phonetic": "/prɪnˈses/",
+              "mean_fa": "",
+              "mean_en": "a daughter of a king and queen"
+            },
+            {
+              "word": "prince",
+              "phonetic": "/prɪns/",
+              "mean_fa": "",
+              "mean_en": "a son of a king and queen"
+            },
+            {
+              "word": "servant",
+              "phonetic": "/ˈsɜr.vənt/",
+              "mean_fa": "",
+              "mean_en": "a person who works in another person's house, doing work like cooking and cleaning"
+            },
+            {
+              "word": "monster",
+              "phonetic": "/ˈmɑns.tɜr/",
+              "mean_fa": "",
+              "mean_en": "an animal in stories that is big, ugly and frightening"
+            },
+            {
+              "word": "frightening",
+              "phonetic": "/ˈfraɪ.tən.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "making you feel afraid: a frightening film"
+            },
+            {
+              "word": "cashier",
+              "phonetic": "/kæʃˈɪr/",
+              "mean_fa": "",
+              "mean_en": "person who takes money in a store"
+            },
+            {
+              "word": "necklace",
+              "phonetic": "/ˈnek.ləs/",
+              "mean_fa": "",
+              "mean_en": "a piece of jewellery worn around the neck <br> <img src='images/necklace.jpg' alt='necklace' width='200'>"
+            },
+            {
+              "word": "neck",
+              "phonetic": "/nek/",
+              "mean_fa": "",
+              "mean_en": "the body part that is connecting the head to the shoulders <br> <img src='images/neck.jpg' alt='neck' width='200'>"
+            },
+            {
+              "word": "footstep",
+              "phonetic": "/ˈfʊt.step/",
+              "mean_fa": "",
+              "mean_en": "the sound or mark made by a person walking as their foot touches the ground"
             }
           ]
         }

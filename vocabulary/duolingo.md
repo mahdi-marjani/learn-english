@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 312**
+**Total words: 322**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (312 words)](#section-1-312-words)
+- [SECTION 1 (322 words)](#section-1-322-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -14,11 +14,12 @@
   - [Reunion (34 words)](#reunion-34-words)
   - [Health (28 words)](#health-28-words)
   - [Innovation (15 words)](#innovation-15-words)
-  - [Routines (27 words)](#routines-27-words)
+  - [Routines (26 words)](#routines-26-words)
+  - [Stories (11 words)](#stories-11-words)
 
 ---
 
-## SECTION 1 (312 words)
+## SECTION 1 (322 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -315,7 +316,7 @@
 - `inspire`  /ɪnˈspaɪər/ <br> 1. to make somebody want to do something: His wife inspired him to write this poem <br> 2. to make somebody feel or think something: Her words inspired us all with hope
 - `reputation`  /ˌrepjəˈteɪʃən/ <br> the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character: The company has a worldwide reputation for quality - She has the reputation of being a good doctor
 - `here you go`  <br> this is the object you asked me to give you: 'Would you please pass the sugar?' 'Here you go.'
-- `accident`  /ˈæk.sə.dənt/ <br> something bad that happens by chance: I had an accident when I was driving to work _ my car hit a tree - I'm sorry I broke your watch _ it was an accident <br> `by accident` by chance; not because you planned it: I took Jane's book by accident. I thought it was mine
+- `accident`  /ˈæk.sə.dənt/ <br> something bad that happens by chance: I had an accident when I was driving to work _ my car hit a tree - I'm sorry I broke your watch _ it was an accident <br> `by accident` by chance; not because you planned it; as a mistake: I took Jane's book by accident. I thought it was mine
 - `though`  /ðoʊ/ <br> but; however
 - `glow`  /ɡloʊ/ <br> to produce a continuous light and sometimes heat: glowstone - His cigarette glowed in the dark
 - `attachment`  /əˈtætʃ.mənt/ <br> 1. a strong feeling of love or liking for somebody or something : a child's strong attachment to its parents <br> 2. (computers) a file or document that you send to somebody using email
@@ -323,7 +324,7 @@
 - `wave (noun)`  /weɪv/ <br> 1. one of the lines of water that moves across the top of the sea: the sound of the waves breaking on the shore <br> <img src='images/wave1.jpg' alt='wave1' width='200'> <br> 2. a movement of your hand from side to side in the air, to say hello or goodbye, or to make a sign to somebody: As she turned the corner, she gave me a wave <br> <img src='images/wave2.jpg' alt='wave2' width='200'> <br> 3. a gentle curve in hair <br> 4. the form that some types of energy such as heat, light and sound take: radio waves
 - `plug (noun)`  /plʌɡ/ <br> 1. a thing with metal pins that joins a lamp, machine, etc. to a place in the wall (called a socket) where there is electricity <br> <img src='images/plug1.jpg' alt='plug1' width='200'> <br> 2. a round thing that you put in the hole in a bath, to keep the water in <br> <img src='images/plug2.jpg' alt='plug2' width='200'>
 
-### Routines (27 words)
+### Routines (26 words)
 - `routine`  /ruːˈtiːn/ <br> a usual or fixed way of doing things: Try to incorporate walking into your daily routine
 - `incorporate`  /ˌɪn.ˈkɔr.pɜ.reɪt/ <br> to include something as part of something larger: Try to incorporate walking into your daily routine
 - `comb`  /koʊm/ <br> a flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair <br> <img src='images/comb.jpg' alt='comb' width='200'>
@@ -333,7 +334,6 @@
 - `write down`  <br> to write something on a piece of paper so that you do not forget it: Alice wrote down the address - Did you write down Jo's phone number?
 - `beside`  /bɪˈsaɪd/ <br> at the side of, next to: Come and sit here beside me - Our school was built right beside a river
 - `off (preposition, adverb)`  /ɑːf/ <br> 1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom
-- `   `  <br> 
 - `beard`  /bɪrd/ <br> the hair that grow on the chin and sides of a man’s face <br> <img src='images/beard.jpg' alt='beard' width='200'>
 - `chin`  /ʧɪn/ <br> the lowest part of our face that is below our mouth <br> <img src='images/chin.jpg' alt='chin' width='200'>
 - `debate`  /dɪˈbeɪt/ <br> a public meeting where people talk about something important
@@ -351,4 +351,17 @@
 - `laughter`  <br> the sound of laughing: I could hear laughter in the next room
 - `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
 - `worst`  /wɜrst/ <br> bad
+
+### Stories (11 words)
+- `pillow`  /ˈpɪl.oʊ/ <br> a soft thing that you put your head on when you are in bed <br> <img src='images/pillow.jpg' alt='pillow' width='200'>
+- `palace`  /ˈpæl.ɪs/ <br> a very large house where a king or queen lives
+- `princess`  /prɪnˈses/ <br> a daughter of a king and queen
+- `prince`  /prɪns/ <br> a son of a king and queen
+- `servant`  /ˈsɜr.vənt/ <br> a person who works in another person's house, doing work like cooking and cleaning
+- `monster`  /ˈmɑns.tɜr/ <br> an animal in stories that is big, ugly and frightening
+- `frightening`  /ˈfraɪ.tən.ɪŋ/ <br> making you feel afraid: a frightening film
+- `cashier`  /kæʃˈɪr/ <br> person who takes money in a store
+- `necklace`  /ˈnek.ləs/ <br> a piece of jewellery worn around the neck <br> <img src='images/necklace.jpg' alt='necklace' width='200'>
+- `neck`  /nek/ <br> the body part that is connecting the head to the shoulders <br> <img src='images/neck.jpg' alt='neck' width='200'>
+- `footstep`  /ˈfʊt.step/ <br> the sound or mark made by a person walking as their foot touches the ground
 ---
