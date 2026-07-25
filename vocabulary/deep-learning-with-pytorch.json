@@ -2245,10 +2245,10 @@
           "mean_en": "to talk or write about a topic in detail"
         },
         {
-          "word": "instructions",
-          "phonetic": "",
+          "word": "instruction",
+          "phonetic": "/ɪnˈstrʌk.ʃən/",
           "mean_fa": "",
-          "mean_en": "guidelines, information telling you how to do something"
+          "mean_en": "1. instructions (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do"
         },
         {
           "word": "typically",
@@ -4423,6 +4423,120 @@
               "phonetic": "/ɪ.ˈlæ.bə.rət/",
               "mean_fa": "",
               "mean_en": "containing a lot of careful detail or many detailed parts"
+            },
+            {
+              "word": "evaluate",
+              "phonetic": "/ɪˈvæl.ju.eɪt/",
+              "mean_fa": "",
+              "mean_en": "to judge or calculate the quality, importance, amount, or value of something"
+            },
+            {
+              "word": "at someone's disposal",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "available to be used by someone"
+            },
+            {
+              "word": "resemble",
+              "phonetic": "/rɪˈzem.bəl/",
+              "mean_fa": "",
+              "mean_en": "to look like or be similar to someone or something else: Lisa resembles her mother"
+            },
+            {
+              "word": "hone",
+              "phonetic": "/hoʊn/",
+              "mean_fa": "",
+              "mean_en": "1. to perfect or improve something, such as a skill or ability <br> 2. to make an object sharp <br> <img src='images/hone.jpg' alt='hone' width='200'>"
+            },
+            {
+              "word": "embark",
+              "phonetic": "/ɪmˈbɑːrk/",
+              "mean_fa": "",
+              "mean_en": "1. to get on a ship, plane, or train <br> 2. to start or begin something new, especially something big, difficult, or important"
+            },
+            {
+              "word": "those",
+              "phonetic": "/ðoʊz/",
+              "mean_fa": "",
+              "mean_en": "plural of that"
+            },
+            {
+              "word": "employ (verb)",
+              "phonetic": "/ɪmˈplɔɪ/",
+              "mean_fa": "",
+              "mean_en": "1. to pay somebody to do work for you: The factory employs 800 workers <br> 2. to use something (like a tool, method, or skill) for a purpose: torch.nn.parallel.Distributed-DataParallel and the torch.distributed submodule can be employed to use the additional hardware"
+            },
+            {
+              "word": "reward (noun)",
+              "phonetic": "/rɪˈwɔːrd/",
+              "mean_fa": "",
+              "mean_en": "something given in exchange for good behaviour or good work, etc.: There's a reward for whoever finishes first"
+            },
+            {
+              "word": "reward (verb)",
+              "phonetic": "/rɪˈwɔːrd/",
+              "mean_fa": "",
+              "mean_en": "to give someone a reward"
+            },
+            {
+              "word": "depict",
+              "phonetic": "/dɪˈpɪkt/",
+              "mean_fa": "",
+              "mean_en": "to represent or show something in a picture or story: Her paintings depict the lives of ordinary people in the last century"
+            },
+            {
+              "word": "integrate",
+              "phonetic": "/ˈɪntɪɡreɪt/",
+              "mean_fa": "",
+              "mean_en": "combine (one thing) with another to form a whole: It's very difficult to integrate yourself into a society whose culture is so different from your own"
+            },
+            {
+              "word": "whenever",
+              "phonetic": "/wɛn.ˈɛ.vər/",
+              "mean_fa": "",
+              "mean_en": "1. at any time that: Come and see us whenever you want <br> 2. every time that: Whenever I see her, she talks about her boyfriend"
+            },
+            {
+              "word": "correspond",
+              "phonetic": "/ˌkɔːr.əˈspɑːnd/",
+              "mean_fa": "",
+              "mean_en": "to be the same, or almost the same, as something: Does the name on the envelope correspond with the name inside the letter?"
+            },
+            {
+              "word": "operation",
+              "phonetic": "/ˌɑː.pəˈreɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "an action or process that a computer or system carries out to produce a specific result"
+            },
+            {
+              "word": "implement",
+              "phonetic": "/ˈɪm.plə.ment/",
+              "mean_fa": "",
+              "mean_en": "to put a plan, system, or piece of software into action"
+            },
+            {
+              "word": "operate",
+              "phonetic": "/ˈɑː.pə.reɪt/",
+              "mean_fa": "",
+              "mean_en": "to (cause to) work, be in action or have an effect"
+            },
+            {
+              "word": "serialize",
+              "phonetic": "/ˈsɪr.i.ə.laɪz/",
+              "mean_fa": "",
+              "mean_en": "(computing) to change data into a form that can be stored or sent and put back into its original form later"
+            },
+            {
+              "word": "invoke",
+              "phonetic": "/ɪnˈvoʊk/",
+              "mean_fa": "",
+              "mean_en": "(computing) to call or cause a function, method, or command to be executed; to put something into effect"
+            },
+            {
+              "word": "cover (verb)",
+              "phonetic": "/ˈkʌ.vər/",
+              "mean_fa": "",
+              "mean_en": "1. to put one thing over another thing to hide it or to keep it safe or warm: Cover the floor with a newspaper before you start painting - she covered her head with a scarf <br> 2. to be all over something or somebody: Snow covered the ground - The children were covered in mud <br> 3. to provide a report on or talk about an event in a news piece or media <br> <img src='images/cover.jpg' alt='cover' width='200'>"
             }
           ]
         }

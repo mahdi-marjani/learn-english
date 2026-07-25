@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 730**
+**Total words: 749**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (259 words)](#part-1-core-pytorch-259-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (246 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-246-words)
+- [Part 1: Core PyTorch (278 words)](#part-1-core-pytorch-278-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (265 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-265-words)
 
 ---
 
@@ -399,7 +399,7 @@
 - `adjust`  <br> to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
 - `luck`  <br> شانس
 - `discuss`  <br> to talk or write about a topic in detail
-- `instructions`  <br> guidelines, information telling you how to do something
+- `instruction`  /ɪnˈstrʌk.ʃən/ <br> 1. instructions (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do
 - `typically`  <br> usually, in most cases; as expected
 - `wide`  <br> far from one side to the other: We drove down a wide road - گسترده‌، وسیع‌
 - `drove`  <br> past of drive
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (259 words)
+## Part 1: Core PyTorch (278 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -523,7 +523,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (246 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (265 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -770,4 +770,23 @@
 - `encompass`  /ɪnˈkʌm.pəs/ <br> to include different types of things: tensors that encompass several samples
 - `several`  /ˈsɛ.və.rəl/ <br> more than two but not many: I've read this book several times - Several letters arrived this morning - If you need a pen, there are several on the table
 - `elaborate (adjective)`  /ɪ.ˈlæ.bə.rət/ <br> containing a lot of careful detail or many detailed parts
+- `evaluate`  /ɪˈvæl.ju.eɪt/ <br> to judge or calculate the quality, importance, amount, or value of something
+- `at someone's disposal`  <br> available to be used by someone
+- `resemble`  /rɪˈzem.bəl/ <br> to look like or be similar to someone or something else: Lisa resembles her mother
+- `hone`  /hoʊn/ <br> 1. to perfect or improve something, such as a skill or ability <br> 2. to make an object sharp <br> <img src='images/hone.jpg' alt='hone' width='200'>
+- `embark`  /ɪmˈbɑːrk/ <br> 1. to get on a ship, plane, or train <br> 2. to start or begin something new, especially something big, difficult, or important
+- `those`  /ðoʊz/ <br> plural of that
+- `employ (verb)`  /ɪmˈplɔɪ/ <br> 1. to pay somebody to do work for you: The factory employs 800 workers <br> 2. to use something (like a tool, method, or skill) for a purpose: torch.nn.parallel.Distributed-DataParallel and the torch.distributed submodule can be employed to use the additional hardware
+- `reward (noun)`  /rɪˈwɔːrd/ <br> something given in exchange for good behaviour or good work, etc.: There's a reward for whoever finishes first
+- `reward (verb)`  /rɪˈwɔːrd/ <br> to give someone a reward
+- `depict`  /dɪˈpɪkt/ <br> to represent or show something in a picture or story: Her paintings depict the lives of ordinary people in the last century
+- `integrate`  /ˈɪntɪɡreɪt/ <br> combine (one thing) with another to form a whole: It's very difficult to integrate yourself into a society whose culture is so different from your own
+- `whenever`  /wɛn.ˈɛ.vər/ <br> 1. at any time that: Come and see us whenever you want <br> 2. every time that: Whenever I see her, she talks about her boyfriend
+- `correspond`  /ˌkɔːr.əˈspɑːnd/ <br> to be the same, or almost the same, as something: Does the name on the envelope correspond with the name inside the letter?
+- `operation`  /ˌɑː.pəˈreɪ.ʃən/ <br> an action or process that a computer or system carries out to produce a specific result
+- `implement`  /ˈɪm.plə.ment/ <br> to put a plan, system, or piece of software into action
+- `operate`  /ˈɑː.pə.reɪt/ <br> to (cause to) work, be in action or have an effect
+- `serialize`  /ˈsɪr.i.ə.laɪz/ <br> (computing) to change data into a form that can be stored or sent and put back into its original form later
+- `invoke`  /ɪnˈvoʊk/ <br> (computing) to call or cause a function, method, or command to be executed; to put something into effect
+- `cover (verb)`  /ˈkʌ.vər/ <br> 1. to put one thing over another thing to hide it or to keep it safe or warm: Cover the floor with a newspaper before you start painting - she covered her head with a scarf <br> 2. to be all over something or somebody: Snow covered the ground - The children were covered in mud <br> 3. to provide a report on or talk about an event in a news piece or media <br> <img src='images/cover.jpg' alt='cover' width='200'>
 ---
