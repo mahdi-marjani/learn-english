@@ -36,9 +36,9 @@
         },
         {
           "word": "quantity",
-          "phonetic": "",
-          "mean_fa": "تعداد یا حجم (سفارش عمده)",
-          "mean_en": ""
+          "phonetic": "/ˈkwɒntɪti/",
+          "mean_fa": "",
+          "mean_en": "the amount or number of something, especially that can be measured: Police found a large/small quantity of drugs in his possession"
         },
         {
           "word": "all rights reserved",
@@ -1951,10 +1951,10 @@
           "mean_en": "imaging method that shows slices of the body"
         },
         {
-          "word": "along",
+          "word": "along (adverb)",
           "phonetic": "/əˈlɔːŋ/",
           "mean_fa": "",
-          "mean_en": "1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?"
+          "mean_en": "1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?"
         },
         {
           "word": "relevant",
@@ -2216,9 +2216,9 @@
         },
         {
           "word": "anticipate",
-          "phonetic": "",
-          "mean_fa": "پیش‌بینی کردن",
-          "mean_en": ""
+          "phonetic": "/ænˈtɪs.ə.peɪt/",
+          "mean_fa": "",
+          "mean_en": "to think that something will happen and be ready for it: At this stage we can't really anticipate what will happen"
         },
         {
           "word": "capable",
@@ -4537,6 +4537,48 @@
               "phonetic": "/ˈkʌ.vər/",
               "mean_fa": "",
               "mean_en": "1. to put one thing over another thing to hide it or to keep it safe or warm: Cover the floor with a newspaper before you start painting - she covered her head with a scarf <br> 2. to be all over something or somebody: Snow covered the ground - The children were covered in mud <br> 3. to provide a report on or talk about an event in a news piece or media <br> <img src='images/cover.jpg' alt='cover' width='200'>"
+            },
+            {
+              "word": "within",
+              "phonetic": "/wɪˈðɪn/",
+              "mean_fa": "",
+              "mean_en": "1. before the end of: I'll be back within an hour <br> 2. not further than: We live within a mile of the station <br> 3. (formal) inside: There are 400 prisoners within the prison walls"
+            },
+            {
+              "word": "portion",
+              "phonetic": "/ˈpɔːr.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a part of something that one person gets: He gave a portion of the money to each of his children - a large portion of chips"
+            },
+            {
+              "word": "specialize",
+              "phonetic": "/ˈspeʃ.ə.laɪz/",
+              "mean_fa": "",
+              "mean_en": "to focus or direct something towards a specific purpose"
+            },
+            {
+              "word": "require",
+              "phonetic": "/rɪˈkwaɪr/",
+              "mean_fa": "",
+              "mean_en": "to need something or make something necessary: requirements.txt (The packages we need)"
+            },
+            {
+              "word": "mandatory",
+              "phonetic": "/ˈmæn.də.tɔːr.i/",
+              "mean_fa": "",
+              "mean_en": "required or necessary because of a rule or law; not optional; something you must do or have"
+            },
+            {
+              "word": "magnitude",
+              "phonetic": "/ˈmæɡ.nə.tuːd/",
+              "mean_fa": "",
+              "mean_en": "the large size or importance of something: magnitude of the problem"
+            },
+            {
+              "word": "fraction",
+              "phonetic": "/ˈfræk.ʃən/",
+              "mean_fa": "",
+              "mean_en": "1. a numerical quantity that is not a whole number (e.g. 1/2, 0.5) <br> 2. a small or tiny part, amount, or proportion of something"
             }
           ]
         }

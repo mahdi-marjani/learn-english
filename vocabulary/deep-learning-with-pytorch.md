@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 749**
+**Total words: 756**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (164 words)](#about-this-book-164-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (278 words)](#part-1-core-pytorch-278-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (265 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-265-words)
+- [Part 1: Core PyTorch (285 words)](#part-1-core-pytorch-285-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (272 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-272-words)
 
 ---
 
@@ -22,7 +22,7 @@
 - `order`  <br> 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> `in order to` so that you can do something: We arrived early in order to buy our tickets <br> `out of order` (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
 - `offer (verb)`  <br> 1. to say or show that you will do or give something if another person wants it: She offered me a cake - I offered to help her <br> 2. to provide or supply something: It's an organization that offers free legal advice to people on low incomes
 - `discount`  /ˈdɪskaʊnt/ <br> a reduction in the usual price of something <br> <img src='images/discount.jpg' alt='discount' width='200'>
-- `quantity`  <br> تعداد یا حجم (سفارش عمده)
+- `quantity`  /ˈkwɒntɪti/ <br> the amount or number of something, especially that can be measured: Police found a large/small quantity of drugs in his possession
 - `all rights reserved`  <br> کلیه حقوق محفوظ است
 - `publication`  <br> انتشار
 - `reproduced`  <br> بازتولید شده (کپی کردن)
@@ -350,7 +350,7 @@
 - `troubleshooting`  <br> debugging
 - `describe`  <br> explain
 - `tomography`  <br> imaging method that shows slices of the body
-- `along`  /əˈlɔːŋ/ <br> 1. forward: He frove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
+- `along (adverb)`  /əˈlɔːŋ/ <br> 1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
 - `relevant`  /ˈreləvənt/ <br> related; connected with what you are talking or writing about; important: We need somebody who cando the job well _ your age is not relevant (OPPOSITE: irrelevant)
 - `consume`  <br> to use fuel, energy, time, or a product, especially in large amounts: The software consumes huge amounts of internet bandwidth
 - `metric`  <br> a standard for measuring performance - معیار، سنجه
@@ -394,7 +394,7 @@
 - `adequate`  <br> sufficient, enough
 - `certain`  /ˈsɜːrtn/ <br> 1. sure about something; without any doubt: I'm certain that I've seen her before - Are you certain about that? - (OPPOSITE: uncertain) <br> 2. used for talking about a particular thing or person without saying what or who they are: Do you want the work to be finished by a certain date? - It's cheaper to telephone at certain times of day <br> `for certain` without any doubt: I don't know for certain where she is <br> `make certain` to check something so that you are sure about it: Please make certain that the window is closed before you leave
 - `operating system`  <br> OS, e.g., Windows, Linux, macOS
-- `anticipate`  <br> پیش‌بینی کردن
+- `anticipate`  /ænˈtɪs.ə.peɪt/ <br> to think that something will happen and be ready for it: At this stage we can't really anticipate what will happen
 - `capable`  /ˈkeɪpəbl/ <br> 1. able to do something: You are capable of passing the exam if you work harder (OPPOSITE: incapable) <br> 2. able to do things well: a capable student
 - `adjust`  <br> to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
 - `luck`  <br> شانس
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (278 words)
+## Part 1: Core PyTorch (285 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -523,7 +523,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (265 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (272 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -789,4 +789,11 @@
 - `serialize`  /ˈsɪr.i.ə.laɪz/ <br> (computing) to change data into a form that can be stored or sent and put back into its original form later
 - `invoke`  /ɪnˈvoʊk/ <br> (computing) to call or cause a function, method, or command to be executed; to put something into effect
 - `cover (verb)`  /ˈkʌ.vər/ <br> 1. to put one thing over another thing to hide it or to keep it safe or warm: Cover the floor with a newspaper before you start painting - she covered her head with a scarf <br> 2. to be all over something or somebody: Snow covered the ground - The children were covered in mud <br> 3. to provide a report on or talk about an event in a news piece or media <br> <img src='images/cover.jpg' alt='cover' width='200'>
+- `within`  /wɪˈðɪn/ <br> 1. before the end of: I'll be back within an hour <br> 2. not further than: We live within a mile of the station <br> 3. (formal) inside: There are 400 prisoners within the prison walls
+- `portion`  /ˈpɔːr.ʃən/ <br> a part of something that one person gets: He gave a portion of the money to each of his children - a large portion of chips
+- `specialize`  /ˈspeʃ.ə.laɪz/ <br> to focus or direct something towards a specific purpose
+- `require`  /rɪˈkwaɪr/ <br> to need something or make something necessary: requirements.txt (The packages we need)
+- `mandatory`  /ˈmæn.də.tɔːr.i/ <br> required or necessary because of a rule or law; not optional; something you must do or have
+- `magnitude`  /ˈmæɡ.nə.tuːd/ <br> the large size or importance of something: magnitude of the problem
+- `fraction`  /ˈfræk.ʃən/ <br> 1. a numerical quantity that is not a whole number (e.g. 1/2, 0.5) <br> 2. a small or tiny part, amount, or proportion of something
 ---
