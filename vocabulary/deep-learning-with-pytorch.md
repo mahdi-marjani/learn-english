@@ -145,7 +145,7 @@
 - `appeared`  <br> ظاهر شد
 - `individual`  /ˌɪndɪˈvɪdʒuəl/ <br> a single person or thing, especially when considered as separate from a group or set - شخصی، مجزا، جداگانه
 - `took a bit`  <br> کمی طول کشید
-- `realize`  <br> فهمیدن
+- `realize`  /ˈriː.ə.laɪz/ <br> to understand or know something: When I got home, I realized that I had lost my key - I didn't realize you were American
 - `represented`  <br> نشان می‌داد
 - `whole (adjective)`  /hoʊl/ <br> complete; with no parts missing: He ate the whole cake! - We are going to Australia for a whole month - کل
 - `multipurpose`  <br> دارای کاربردهای متعدد

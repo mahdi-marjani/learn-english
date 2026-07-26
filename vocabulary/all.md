@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1290**
+**Total words: 1296**
 
 ## 📑 Table of Contents
 
@@ -20,8 +20,8 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (278 words)](#part-1-core-pytorch-278-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (265 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-265-words)
-- [Duolingo - Vocabulary (322 words)](#duolingo---vocabulary-322-words)
-  - [SECTION 1 (322 words)](#section-1-322-words)
+- [Duolingo - Vocabulary (328 words)](#duolingo---vocabulary-328-words)
+  - [SECTION 1 (328 words)](#section-1-328-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -32,7 +32,7 @@
     - [Health (28 words)](#health-28-words)
     - [Innovation (15 words)](#innovation-15-words)
     - [Routines (26 words)](#routines-26-words)
-    - [Stories (11 words)](#stories-11-words)
+    - [Stories (17 words)](#stories-17-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -347,7 +347,7 @@
 - `appeared`  <br> ظاهر شد
 - `individual`  /ˌɪndɪˈvɪdʒuəl/ <br> a single person or thing, especially when considered as separate from a group or set - شخصی، مجزا، جداگانه
 - `took a bit`  <br> کمی طول کشید
-- `realize`  <br> فهمیدن
+- `realize`  /ˈriː.ə.laɪz/ <br> to understand or know something: When I got home, I realized that I had lost my key - I didn't realize you were American
 - `represented`  <br> نشان می‌داد
 - `whole (adjective)`  /hoʊl/ <br> complete; with no parts missing: He ate the whole cake! - We are going to Australia for a whole month - کل
 - `multipurpose`  <br> دارای کاربردهای متعدد
@@ -995,9 +995,9 @@
 
 ---
 
-## Duolingo - Vocabulary (322 words)
+## Duolingo - Vocabulary (328 words)
 
-### SECTION 1 (322 words)
+### SECTION 1 (328 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1330,7 +1330,7 @@
 - `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
 - `worst`  /wɜrst/ <br> bad
 
-#### Stories (11 words)
+#### Stories (17 words)
 - `pillow`  /ˈpɪl.oʊ/ <br> a soft thing that you put your head on when you are in bed <br> <img src='images/pillow.jpg' alt='pillow' width='200'>
 - `palace`  /ˈpæl.ɪs/ <br> a very large house where a king or queen lives
 - `princess`  /prɪnˈses/ <br> a daughter of a king and queen
@@ -1342,6 +1342,12 @@
 - `necklace`  /ˈnek.ləs/ <br> a piece of jewellery worn around the neck <br> <img src='images/necklace.jpg' alt='necklace' width='200'>
 - `neck`  /nek/ <br> the body part that is connecting the head to the shoulders <br> <img src='images/neck.jpg' alt='neck' width='200'>
 - `footstep`  /ˈfʊt.step/ <br> the sound or mark made by a person walking as their foot touches the ground
+- `look (verb)`  /lʊk/ <br> 1. to turn your eyes towards somebody or something and try to see them: Look at this picture - You should look both ways before you cross the road <br> 2. to seem to be; to appear: You look tired - It looks as if it's going to rain <br> 3. you say to make somebody listen to you: Look, I know you're busy, but I need your help <br> `look after somebody or something` to take care of somebody or something: Can you look after my cat when I'm on holiday? <br> `look for somebody or something` to try to find somebody or something: I'm looking for my keys <br> `look forward to something` to wait for something with pleasure: I'm looking forward to seeing you again <br> `look into something` to study or try to find out something: We will look into the problem <br> `look like somebody or something` 1. to seem to be something: That looks like a good film <br> 2. words that you use to ask about somebody's appearance: 'What does he look like?' 'He's tall with dark hair' <br> 3. to have the same appearance as somebody or something: She looks like her mother <br> `look out` be careful: Look out! There's a car coming! <br> `look out for somebody or something` to pay attention and try to see or find somebody or something: Look out for thieves! <br> `look round something` to visit a place: We looked round the museum <br> `look something up` to try to find information in a book: I looked the word up in my dictionary
+- `tight (adjective)`  /taɪt/ <br> 1. fixed firmly so that you cannot move it easily: a tight knot - I can't open this jar of jam _ the lid is too tight (OPPOSITE: loose) <br> 2. Tight clothes fit very closely in a way that is often uncomfortable: These shoes are too tight - tight trousers
+- `firm (adjective)`  /fɜr:m/ <br> 1. Something that is firm is quite hard or does not move easily: Wait until the glue is firm - The shelf isn't very firm, so don't put too many books on it <br> 2. showing that you will not change your ideas: She's very firm with her children (= she makes them do what she wants) - a firm promise
+- `shout`  /ʃaʊt/ <br> to speak very loudly: Don't shout at me - 'Go back!' she shouted
+- `wood`  /wʊd/ <br> 1. (no plural) the hard substance that trees are made of: Put some more wood on the fire - The table is made of wood <br> <img src='images/wood.jpg' alt='wood' width='200'> <br> 2. (also woods) a big group of trees, smaller than a forest: a large wood - a walk in the woods <br> <img src='images/woods.jpg' alt='woods' width='200'>
+- `stunt performer`  /stʌnt per·​form·​er/ <br> بدلکار <br> <img src='images/stunt-performer.jpg' alt='stunt-performer' width='200'>
 ---
 
 ---
