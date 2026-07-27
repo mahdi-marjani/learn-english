@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1303**
+**Total words: 1313**
 
 ## 📑 Table of Contents
 
@@ -20,8 +20,8 @@
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (285 words)](#part-1-core-pytorch-285-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (272 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-272-words)
-- [Duolingo - Vocabulary (328 words)](#duolingo---vocabulary-328-words)
-  - [SECTION 1 (328 words)](#section-1-328-words)
+- [Duolingo - Vocabulary (338 words)](#duolingo---vocabulary-338-words)
+  - [SECTION 1 (338 words)](#section-1-338-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -32,7 +32,7 @@
     - [Health (28 words)](#health-28-words)
     - [Innovation (15 words)](#innovation-15-words)
     - [Routines (26 words)](#routines-26-words)
-    - [Stories (17 words)](#stories-17-words)
+    - [Stories (27 words)](#stories-27-words)
 - [Example - Vocabulary (15 words)](#example---vocabulary-15-words)
   - [foreword (2 words)](#foreword-2-words)
   - [Part 1: Fundamentals (7 words)](#part-1-fundamentals-7-words)
@@ -269,7 +269,7 @@
 - `relatively`  /ˈrel.ə.t̬ɪv.li/ <br> quite, especially when compared to others; quite good, bad, etc. in comparison with other similar things or with what you expect: This room is relatively small - relatively generic
 - `polished`  <br> صیقل داده‌شده
 - `standing on the shoulders of giants`  <br> استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
-- `shoulder`  <br> شانه
+- `shoulder`  /ˈʃoʊl.dər/ <br> each of the two parts of the body between the top of the arms and the neck <br> <img src='images/shoulder.jpg' alt='shoulder' width='200'>
 - `derives`  <br> منبع گرفتن از
 - `significant`  <br> مهم
 - `pioneered`  <br> پیشگام بودن
@@ -1002,9 +1002,9 @@
 
 ---
 
-## Duolingo - Vocabulary (328 words)
+## Duolingo - Vocabulary (338 words)
 
-### SECTION 1 (328 words)
+### SECTION 1 (338 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1337,7 +1337,7 @@
 - `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
 - `worst`  /wɜrst/ <br> bad
 
-#### Stories (17 words)
+#### Stories (27 words)
 - `pillow`  /ˈpɪl.oʊ/ <br> a soft thing that you put your head on when you are in bed <br> <img src='images/pillow.jpg' alt='pillow' width='200'>
 - `palace`  /ˈpæl.ɪs/ <br> a very large house where a king or queen lives
 - `princess`  /prɪnˈses/ <br> a daughter of a king and queen
@@ -1355,6 +1355,16 @@
 - `shout`  /ʃaʊt/ <br> to speak very loudly: Don't shout at me - 'Go back!' she shouted
 - `wood`  /wʊd/ <br> 1. (no plural) the hard substance that trees are made of: Put some more wood on the fire - The table is made of wood <br> <img src='images/wood.jpg' alt='wood' width='200'> <br> 2. (also woods) a big group of trees, smaller than a forest: a large wood - a walk in the woods <br> <img src='images/woods.jpg' alt='woods' width='200'>
 - `stunt performer`  /stʌnt per·​form·​er/ <br> بدلکار <br> <img src='images/stunt-performer.jpg' alt='stunt-performer' width='200'>
+- `basement`  /ˈbeɪs.mənt/ <br> an area or room in a house or building that is partially or completely below the ground level <br> <img src='images/basement.jpg' alt='basement' width='200'>
+- `mad`  /mæd/ <br> 1. ill in your mind (SAME MEANING: crazy) <br> 2. (British, informal) very stupid (SAME MEANING: crazy): I think you're mad to go out in this snow <br> 3. (American, informal) very angry: He was mad at me for losing his watch <br> `mad about somebody or something` (informal) liking somebody or something very much: Mina is mad about computer games - He's mad about her <br> `drive somebody mad` to make somebody very angry: This noise is driving me mad <br> `go mad` (British, informal) 1. to become ill in your mind: He went mad and killed himself <br> 2. to become very angry: He went mad and killed himself - Mum will go mad when she finds out what you did at school <br> `like mad` (informal) very hard, fast, much, etc.: I had to run like mad to catch the bus
+- `bakery`  /ˈbeɪ.kɜ.ri/ <br> a place where bread and cakes are made and often sold <br> <img src='images/bakery.jpg' alt='bakery' width='200'>
+- `burn (verb)`  /bɜrn/ <br> 1. to make flames and heat; to be on fire: Paper burns easily - She escaped from the burning building <br> 2. to harm or destroy somebody or something with fire or heat: I burnt my fingers on a match - We burned the wood on the fire <br> `burn down; burn something down` to burn, or to make a building burn, until there is nothing left: Their house burnt down
+- `garden`  /ˈɡɑːr.dən/ <br> 1. (British) (American yard) a piece of land by your house where you can grow flowers, fruit, and vegetables: Let's have lunch in the garden <br> <img src='images/garden.jpg' alt='garden' width='200'> <br> 2. gardens (plural) a public park: Kensington Gardens
+- `fountain`  /ˈfaʊn.tən/ <br> a structure, often placed in gardens and parks, that shoots up water into the air and then it falls down again <br> <img src='images/fountain.jpg' alt='fountain' width='200'>
+- `shiny`  /ˈʃaɪ.ni/ <br> bright and smooth in a way that reflects light <br> <img src='images/shiny.jpg' alt='shiny' width='200'>
+- `jewelry`  /ˈdʒuːl.ri/ <br> objects such as necklaces, bracelets or rings, typically made from valuable metals such as gold and silver, that we wear as decoration <br> <img src='images/jewelry.jpg' alt='jewelry' width='200'>
+- `bracelet`  /ˈbreɪ.slət/ <br> a decorative item, worn around the arm <br> <img src='images/bracelet.jpg' alt='bracelet' width='200'>
+- `decoration`  /ˌdek.ərˈeɪ.ʃən/ <br> a beautiful thing that you add to something to make it look nicer: Christmas decorations <br> <img src='images/decoration.jpg' alt='decoration' width='200'>
 ---
 
 ---

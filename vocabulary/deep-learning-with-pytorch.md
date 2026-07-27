@@ -67,7 +67,7 @@
 - `relatively`  /ˈrel.ə.t̬ɪv.li/ <br> quite, especially when compared to others; quite good, bad, etc. in comparison with other similar things or with what you expect: This room is relatively small - relatively generic
 - `polished`  <br> صیقل داده‌شده
 - `standing on the shoulders of giants`  <br> استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
-- `shoulder`  <br> شانه
+- `shoulder`  /ˈʃoʊl.dər/ <br> each of the two parts of the body between the top of the arms and the neck <br> <img src='images/shoulder.jpg' alt='shoulder' width='200'>
 - `derives`  <br> منبع گرفتن از
 - `significant`  <br> مهم
 - `pioneered`  <br> پیشگام بودن
