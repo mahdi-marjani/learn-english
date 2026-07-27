@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1313**
+**Total words: 1329**
 
 ## 📑 Table of Contents
 
@@ -10,16 +10,16 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (756 words)](#deep-learning-with-pytorch---vocabulary-756-words)
+- [Deep Learning with PyTorch - Vocabulary (772 words)](#deep-learning-with-pytorch---vocabulary-772-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
   - [acknowledgments (60 words)](#acknowledgments-60-words)
-  - [about this book (164 words)](#about-this-book-164-words)
+  - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (285 words)](#part-1-core-pytorch-285-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (272 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-272-words)
+  - [Part 1: Core PyTorch (302 words)](#part-1-core-pytorch-302-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
 - [Duolingo - Vocabulary (338 words)](#duolingo---vocabulary-338-words)
   - [SECTION 1 (338 words)](#section-1-338-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -216,7 +216,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (756 words)
+## Deep Learning with PyTorch - Vocabulary (772 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -271,7 +271,7 @@
 - `standing on the shoulders of giants`  <br> استعاره‌ای به معنای بهره‌گرفتن از کار و» «دانش بزرگان گذشته
 - `shoulder`  /ˈʃoʊl.dər/ <br> each of the two parts of the body between the top of the arms and the neck <br> <img src='images/shoulder.jpg' alt='shoulder' width='200'>
 - `derives`  <br> منبع گرفتن از
-- `significant`  <br> مهم
+- `significant`  /sɪɡˈnɪf.ə.kənt/ <br> important; with a special meaning: The police say that the time of the robbery was very significant
 - `pioneered`  <br> پیشگام بودن
 - `rich`  <br> غنی
 - `rather`  /ˈræðər/ <br> more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus
@@ -471,7 +471,7 @@
 - `these`  <br> this جمعِ
 ---
 
-### about this book (164 words)
+### about this book (163 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -590,7 +590,6 @@
 - `Almost`  <br> nearly, not completely but very close - تقریباً
 - `boilerplate`  <br> template
 - `partial`  <br> not complete; only a part of something
-- `Due to`  <br> because of
 - `excessive`  <br> more than what is necessary or normal
 - `consistent`  <br> unchanging - ثابت
 - `adequate`  <br> sufficient, enough
@@ -710,7 +709,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (285 words)
+### Part 1: Core PyTorch (302 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -725,7 +724,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (272 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -998,6 +997,23 @@
 - `mandatory`  /ˈmæn.də.tɔːr.i/ <br> required or necessary because of a rule or law; not optional; something you must do or have
 - `magnitude`  /ˈmæɡ.nə.tuːd/ <br> the large size or importance of something: magnitude of the problem
 - `fraction`  /ˈfræk.ʃən/ <br> 1. a numerical quantity that is not a whole number (e.g. 1/2, 0.5) <br> 2. a small or tiny part, amount, or proportion of something
+- `moderate`  /ˈmɑ.də.rɪt/ <br> not too much and not too little: Cook the vegetables over a moderate heat
+- `workstation`  /wɜrksteɪʃən/ <br> a keyboard and screen with which a person can use a computer system, or an area in an office, factory, etc. where a single person works
+- `prohibitive`  /proʊˈhɪb.ə.t̬ɪv/ <br> If the cost of something is prohibitive, it is too expensive for most people: Hotel prices in the major cities are high but not prohibitive
+- `benchmark`  /ˈbentʃ.mɑːrk/ <br> a level of quality that can be used as a standard when comparing other things: My older brother got 95% on his math test. I used his score as a benchmark for my own studying - Before buying a new phone, I checked the battery life of my old phone. I used that as a benchmark to compare all the new models
+- `quota`  /ˈkwoʊ.tə/ <br> the limited number or amount of people or things that is officially allowed: We have already reached our quota _ we cannot take any more people
+- `avoid`  /əˈvɔɪd/ <br> 1. to stop something happening; to try not to do something: He always tried to avoid an argument if possible - She has to avoid eating too much chocolate <br> 2. to stay away from somebody or something: We crossed the road to avoid our teacher
+- `readily`  /ˈred.əl.i/ <br> easily
+- `convenience`  /kənˈviː.ni.əns/ <br> the state of being easy, useful, or suitable; a thing or situation that makes life easier or saves effort: Just for convenience, I'm going to live at my mother's place until my new apartment is ready
+- `nontrivial`  /ˌnɑːnˈtrɪv.i.əl/ <br> having value or importance
+- `penalty`  /ˈpen.əl.ti/ <br> a disadvantage, difficulty, or loss (especially in speed or performance) caused by a particular action or condition: there might be training speed penalties if the network access is slower than local disk
+- `retrieval`  /rɪˈtriː.vəl/ <br> the process of finding and bringing back something: the storage and retrieval of information
+- `maintain`  /meɪnˈteɪn/ <br> 1. to make something continue at the same level: If he can maintain this speed, he'll win the race <br> 2. to keep something working well: The roads are well maintained
+- `interact`  /ˌɪn.təˈrækt/ <br> to communicate with someone or react to something: Dominique's teacher says that she interacts well with the other children - We are studying how these two chemicals interact
+- `investigate`  /ɪnˈves.tə.ɡeɪt/ <br> to try to find out about something: The police are investigating the murder
+- `argue`  /ˈɑːrɡ.juː/ <br> 1. to talk angrily with somebody because you do not agree: My parents argue a lot about money - I often argue with my brother <br> 2. to say why you think something is right or wrong: Billy argued that war is not the answer
+- `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
+- `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 ---
 
 ---
@@ -1082,7 +1098,7 @@
 - `president`  /ˈprez.ɪ.dənt/ <br> leader of a country
 - `knock (verb)`  /nɑːk/ <br> 1. to hit something and make noise: I knocked on the door, but nobody answered <br> 2. to hit something hard, usually by accident: I knocked my head on the door - She knocked a glass off the table <br> `knock somebody down; knock somebody` over to hit somebody so that they fall onto the ground: The boy was knocked down by a car <br> `knock something down` to break a building so that it falls down (SAME MEANING: demolish): They're knocking down old house <br> `knock somebody out` to make somebody fall, asleep or become unconscious: The blow knocked him out <br> `knock something over` to hit something so that it falls over: I knocked over a vase of flowers
 - `have-to`  <br> used for saying that somebody must do something or that something must happen: I have to go to school on Saturday mornings - We don't have to get up early tomorrow - Have we go to for this now? - We had to do lots of boring exercises
-- `due`  /duː/ <br> 1. due to because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
+- `due`  /duː/ <br> 1. `due to` because of something; caused by something: The accident was due to bad driving <br> 2. if something is due at a certain time, you expect it to happen or come then: When's the baby due? - The new road is due to open in April <br> 3. if an amount of money is due, you must pay it: My rent is due at the beginning of the month <br> 4. ready for something: My car is due for a service
 - `conclusion`  /kənˈkluː.ʒən/ <br> the final part of something: Be careful not to introduce new ideas in the conclusion of your essay
 - `contest (noun)`  /ˈkɑːntest/ <br> a game or competition that people try to win: a boxing contest
 - `competition`  /ˌkɑːmpəˈtɪʃən/ <br> a situation where people try to win or be better than others, or an event where people compete: She won first place in the competition

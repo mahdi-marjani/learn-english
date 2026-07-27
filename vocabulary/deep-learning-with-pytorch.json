@@ -305,9 +305,9 @@
         },
         {
           "word": "significant",
-          "phonetic": "",
-          "mean_fa": "مهم",
-          "mean_en": ""
+          "phonetic": "/sɪɡˈnɪf.ə.kənt/",
+          "mean_fa": "",
+          "mean_en": "important; with a special meaning: The police say that the time of the robbery was very significant"
         },
         {
           "word": "pioneered",
@@ -2177,12 +2177,6 @@
           "phonetic": "",
           "mean_fa": "",
           "mean_en": "not complete; only a part of something"
-        },
-        {
-          "word": "Due to",
-          "phonetic": "",
-          "mean_fa": "",
-          "mean_en": "because of"
         },
         {
           "word": "excessive",
@@ -4579,6 +4573,108 @@
               "phonetic": "/ˈfræk.ʃən/",
               "mean_fa": "",
               "mean_en": "1. a numerical quantity that is not a whole number (e.g. 1/2, 0.5) <br> 2. a small or tiny part, amount, or proportion of something"
+            },
+            {
+              "word": "moderate",
+              "phonetic": "/ˈmɑ.də.rɪt/",
+              "mean_fa": "",
+              "mean_en": "not too much and not too little: Cook the vegetables over a moderate heat"
+            },
+            {
+              "word": "workstation",
+              "phonetic": "/wɜrksteɪʃən/",
+              "mean_fa": "",
+              "mean_en": "a keyboard and screen with which a person can use a computer system, or an area in an office, factory, etc. where a single person works"
+            },
+            {
+              "word": "prohibitive",
+              "phonetic": "/proʊˈhɪb.ə.t̬ɪv/",
+              "mean_fa": "",
+              "mean_en": "If the cost of something is prohibitive, it is too expensive for most people: Hotel prices in the major cities are high but not prohibitive"
+            },
+            {
+              "word": "benchmark",
+              "phonetic": "/ˈbentʃ.mɑːrk/",
+              "mean_fa": "",
+              "mean_en": "a level of quality that can be used as a standard when comparing other things: My older brother got 95% on his math test. I used his score as a benchmark for my own studying - Before buying a new phone, I checked the battery life of my old phone. I used that as a benchmark to compare all the new models"
+            },
+            {
+              "word": "quota",
+              "phonetic": "/ˈkwoʊ.tə/",
+              "mean_fa": "",
+              "mean_en": "the limited number or amount of people or things that is officially allowed: We have already reached our quota _ we cannot take any more people"
+            },
+            {
+              "word": "avoid",
+              "phonetic": "/əˈvɔɪd/",
+              "mean_fa": "",
+              "mean_en": "1. to stop something happening; to try not to do something: He always tried to avoid an argument if possible - She has to avoid eating too much chocolate <br> 2. to stay away from somebody or something: We crossed the road to avoid our teacher"
+            },
+            {
+              "word": "readily",
+              "phonetic": "/ˈred.əl.i/",
+              "mean_fa": "",
+              "mean_en": "easily"
+            },
+            {
+              "word": "convenience",
+              "phonetic": "/kənˈviː.ni.əns/",
+              "mean_fa": "",
+              "mean_en": "the state of being easy, useful, or suitable; a thing or situation that makes life easier or saves effort: Just for convenience, I'm going to live at my mother's place until my new apartment is ready"
+            },
+            {
+              "word": "nontrivial",
+              "phonetic": "/ˌnɑːnˈtrɪv.i.əl/",
+              "mean_fa": "",
+              "mean_en": "having value or importance"
+            },
+            {
+              "word": "penalty",
+              "phonetic": "/ˈpen.əl.ti/",
+              "mean_fa": "",
+              "mean_en": "a disadvantage, difficulty, or loss (especially in speed or performance) caused by a particular action or condition: there might be training speed penalties if the network access is slower than local disk"
+            },
+            {
+              "word": "retrieval",
+              "phonetic": "/rɪˈtriː.vəl/",
+              "mean_fa": "",
+              "mean_en": "the process of finding and bringing back something: the storage and retrieval of information"
+            },
+            {
+              "word": "maintain",
+              "phonetic": "/meɪnˈteɪn/",
+              "mean_fa": "",
+              "mean_en": "1. to make something continue at the same level: If he can maintain this speed, he'll win the race <br> 2. to keep something working well: The roads are well maintained"
+            },
+            {
+              "word": "interact",
+              "phonetic": "/ˌɪn.təˈrækt/",
+              "mean_fa": "",
+              "mean_en": "to communicate with someone or react to something: Dominique's teacher says that she interacts well with the other children - We are studying how these two chemicals interact"
+            },
+            {
+              "word": "investigate",
+              "phonetic": "/ɪnˈves.tə.ɡeɪt/",
+              "mean_fa": "",
+              "mean_en": "to try to find out about something: The police are investigating the murder"
+            },
+            {
+              "word": "argue",
+              "phonetic": "/ˈɑːrɡ.juː/",
+              "mean_fa": "",
+              "mean_en": "1. to talk angrily with somebody because you do not agree: My parents argue a lot about money - I often argue with my brother <br> 2. to say why you think something is right or wrong: Billy argued that war is not the answer"
+            },
+            {
+              "word": "friction",
+              "phonetic": "/ˈfrɪk.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the resistance or difficulty you face when doing something"
+            },
+            {
+              "word": "utility (noun)",
+              "phonetic": "/juːˈtɪl.ə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "a tool, program, or piece of software that performs a specific, common task (often to help the main system)"
             }
           ]
         }
