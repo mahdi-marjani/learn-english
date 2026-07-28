@@ -2086,6 +2086,41 @@
               "mean_en": "a beautiful thing that you add to something to make it look nicer: Christmas decorations <br> <img src='images/decoration.jpg' alt='decoration' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "Wedding",
+          "words": [
+            {
+              "word": "engaged",
+              "phonetic": "/ɪnˈɡeɪdʒd/",
+              "mean_fa": "",
+              "mean_en": "if two people are engaged, they have agreed to get married: Louise is engaged to Michael - They got engaged last year"
+            },
+            {
+              "word": "relative",
+              "phonetic": "/ˈrel.ə.t̬ɪv/",
+              "mean_fa": "",
+              "mean_en": "a member of your family (SAME MEANING: relation)"
+            },
+            {
+              "word": "musician",
+              "phonetic": "/mjuːˈzɪʃ.ən/",
+              "mean_fa": "",
+              "mean_en": "someone who is skilled in playing music, usually as a job"
+            },
+            {
+              "word": "bride",
+              "phonetic": "/braɪd/",
+              "mean_fa": "",
+              "mean_en": "a woman on the day of her wedding <br> <img src='images/bride.jpg' alt='bride' width='200'>"
+            },
+            {
+              "word": "universe",
+              "phonetic": "/ˈju.nə.ˌvɜrs/",
+              "mean_fa": "",
+              "mean_en": "the earth and all the stars, planets and everything else in space <br> <img src='images/universe.jpg' alt='universe' width='200'>"
+            }
+          ]
         }
       ]
     }

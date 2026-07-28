@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 338**
+**Total words: 343**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (338 words)](#section-1-338-words)
+- [SECTION 1 (343 words)](#section-1-343-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -16,10 +16,11 @@
   - [Innovation (15 words)](#innovation-15-words)
   - [Routines (26 words)](#routines-26-words)
   - [Stories (27 words)](#stories-27-words)
+  - [Wedding (5 words)](#wedding-5-words)
 
 ---
 
-## SECTION 1 (338 words)
+## SECTION 1 (343 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -380,4 +381,11 @@
 - `jewelry`  /ˈdʒuːl.ri/ <br> objects such as necklaces, bracelets or rings, typically made from valuable metals such as gold and silver, that we wear as decoration <br> <img src='images/jewelry.jpg' alt='jewelry' width='200'>
 - `bracelet`  /ˈbreɪ.slət/ <br> a decorative item, worn around the arm <br> <img src='images/bracelet.jpg' alt='bracelet' width='200'>
 - `decoration`  /ˌdek.ərˈeɪ.ʃən/ <br> a beautiful thing that you add to something to make it look nicer: Christmas decorations <br> <img src='images/decoration.jpg' alt='decoration' width='200'>
+
+### Wedding (5 words)
+- `engaged`  /ɪnˈɡeɪdʒd/ <br> if two people are engaged, they have agreed to get married: Louise is engaged to Michael - They got engaged last year
+- `relative`  /ˈrel.ə.t̬ɪv/ <br> a member of your family (SAME MEANING: relation)
+- `musician`  /mjuːˈzɪʃ.ən/ <br> someone who is skilled in playing music, usually as a job
+- `bride`  /braɪd/ <br> a woman on the day of her wedding <br> <img src='images/bride.jpg' alt='bride' width='200'>
+- `universe`  /ˈju.nə.ˌvɜrs/ <br> the earth and all the stars, planets and everything else in space <br> <img src='images/universe.jpg' alt='universe' width='200'>
 ---
