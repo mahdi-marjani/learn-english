@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 772**
+**Total words: 803**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (302 words)](#part-1-core-pytorch-302-words)
+- [Part 1: Core PyTorch (333 words)](#part-1-core-pytorch-333-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
+  - [Chapter 2: Pretrained networks (31 words)](#chapter-2-pretrained-networks-31-words)
 
 ---
 
@@ -43,7 +44,7 @@
 - `policy`  <br> سیاست
 - `acid-free`  <br> بدون اسید
 - `exert`  <br> اعمال کردن
-- `efforts`  <br> تلاش‌ها
+- `effort`  /e.fērt/ <br> hard work; try
 - `responsibility`  <br> مسئولیت
 - `planet`  <br> سیاره
 - `least`  <br> حداقل
@@ -100,7 +101,7 @@
 - `jit`  <br> Just-In-Time
 - `aspect`  /ˈæspekt/ <br> one of the qualities or parts of a situation, idea, problem, etc: Spelling is one of the most difficult aspects of learning English
 - `through`  /θruː/ <br> 1. from one side or end of something to the other side or end: We drove through the tunnel - What can you see through the window? - She opened the gate and we walked through <br> 2. from the beginning to the end of something: We travelled through the night <br> 3. connected by telephone: Can you put me through to jill knight, please? - I tried to phone you but I couldn't get through <br> 4. (American) (also informal thru) until, and including: We'll be in New York Tuesday through Friday <br> 5. because of or with the help of somebody or something: She got the job through her father <br> `be through with` having finished or completed something: By the time we are through with the book - از طریق
-- `expertise`  <br> تخصص
+- `expertise`  /ˌeks.pɜr.ˈtiz/ <br> a high level of special knowledge, skill, or experience in a particular area or subject
 - `bioengineering`  <br> مهندسی زیستی
 - `imaging`  <br> تصویربرداری
 - `practical`  <br> workable, suitable for real use; likely to work effectively - عملی
@@ -389,7 +390,7 @@
 - `boilerplate`  <br> template
 - `partial`  <br> not complete; only a part of something
 - `excessive`  <br> more than what is necessary or normal
-- `consistent`  <br> unchanging - ثابت
+- `consistent`  <br> unchanging; always the same (OPPOSITE: inconsistent)
 - `adequate`  <br> sufficient, enough
 - `certain`  /ˈsɜːrtn/ <br> 1. sure about something; without any doubt: I'm certain that I've seen her before - Are you certain about that? - (OPPOSITE: uncertain) <br> 2. used for talking about a particular thing or person without saying what or who they are: Do you want the work to be finished by a certain date? - It's cheaper to telephone at certain times of day <br> `for certain` without any doubt: I don't know for certain where she is <br> `make certain` to check something so that you are sure about it: Please make certain that the window is closed before you leave
 - `operating system`  <br> OS, e.g., Windows, Linux, macOS
@@ -419,7 +420,7 @@
 - `decision`  /dɪˈsɪʒn/ <br> choosing something after thinking; deciding: I must make a decision about what I'm going to do when I leave school - تصمیم گیری
 - `stray`  <br> to move away from the correct path or subject
 - `as long as`  <br> تا زمانی که، به شرطی که
-- `introduction`  <br> preface
+- `introduction`  /ˌɪn.trəˈdʌk.ʃən/ <br> 1. (no plural) bringing in something new: the introduction of computers into schools <br> 2. (plural introductions) bringing people together to meet each other <br> 3. (plural introductions) a piece of writing at the beginning of a book that tells you about the book
 - `proficiency`  <br> skill, high level of skill or ability
 - `encourage`  /ɪnˈkɜːrɪdʒ/ <br> to give somebody hope or help so that they do something or continue doing something: We encouraged him to write a book about his adventures (OPPOSITE: discourage) <br> <img src='images/encourage.jpg' alt='encourage' width='200'>
 - `build up`  <br> ساختن، ایجاد کردن (به تدریج)
@@ -507,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (302 words)
+## Part 1: Core PyTorch (333 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,4 +813,37 @@
 - `argue`  /ˈɑːrɡ.juː/ <br> 1. to talk angrily with somebody because you do not agree: My parents argue a lot about money - I often argue with my brother <br> 2. to say why you think something is right or wrong: Billy argued that war is not the answer
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
+
+### Chapter 2: Pretrained networks (31 words)
+- `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
+- `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
+- `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
+- `affect (verb)`  /əˈfekt/ <br> A word or phrase that describes an action, condition, or experience
+- `interpret`  /ɪnˈtɜːr.prɪt/ <br> 1. to say in one language what somebody has said in another language: I can't speak Italian _ can you interpret for me? <br> 2. to explain the meaning of something: You have to interpret the facts, not just repeat them
+- `invent`  /ɪnˈvent/ <br> 1. to make or think of something for the first time: Who invented the bicycle? <br> 2. to say something that is not true: I realized that he had invented the whole story
+- `unprecedented`  /ʌnˈpres.ɪ.den.t̬ɪd/ <br> never having happened or existed before; without any previous example
+- `perfect storm`  <br> a very powerful and rare combination of different events, conditions, or factors that come together at the same time to cause a major, significant outcome (can be good or bad)
+- `rare`  /rer/ <br> 1. if somethin is rare, you do not find or see it often: Pandas are rare animals - It's rare to see snow in April (OPPOSITE: common) <br> 2. Meat that is rare is not cooked for very long, so that the inside is still red
+- `dictate`  /ˈdɪk.teɪt/ <br> 1. to say words so that another person can write them: The boss dictated a letter to his secretary <br> 2. to tell someone what to do or not to do: The behavior is dictated by the architecture
+- `property`  /ˈprɑ.pər.ti/ <br> 1. (no plural) something that you have or own: This book is the property of James Waters <br> 2. (plural properties) a building and the land around it <br> 3. a feature or quality of something
+- `satisfy`  /ˈsæt̬.ɪs.faɪ/ <br> to give somebody what they want or need; to be good enough to make somebody pleased: Nothing he does satisfies his father
+- `off the shelf`  <br> pre built
+- `according to`  /əˈkɔːr.dɪŋ ˌtuː/ <br> as somebody or something says: According to Mike, this film is really good
+- `fabricate`  /ˈfæb.rə.ˌkeɪt/ <br> to create or build something by combining different parts or components, either artificial or natural <br> <img src='images/fabricate.jpg' alt='fabricate' width='200'>
+- `proper`  /ˈprɑ.pɜr/ <br> right or correct: a deep learning model that can describe the content of an image using proper English sentences
+- `uniform (adjective)`  /ˈjuː.nə.fɔːrm/ <br> consistent
+- `terminology`  /ˌtɜːr.məˈnɑː.lə.dʒi/ <br> the special words and phrases that are used in a particular subject, job, or area of study
+- `rodeo`  /ˈroʊ.di.oʊ/ <br> a public show or competition where cowboys ride wild horses or bulls <br> <img src='images/rodeo.jpg' alt='rodeo' width='200'>
+- `nuts and bolts`  /ˌnʌts ənd ˈboʊlts/ <br> the basic, practical, and essential parts or details of something; the way something actually works in practice <br> <img src='images/nuts-and-bolts.jpg' alt='nuts-and-bolts' width='200'>
+- `somewhat (adverb)`  /ˈsʌm.wɑːt/ <br> a little; not completely or very
+- `accustomed`  /əˈkʌs.təmd/ <br> familiar with something and accepting it as normal or usual (SAME MEANING: used to): My eyes slowly grew accustomed to the dark
+- `mechanics`  /məˈkæn.ɪks/ <br> the study of how machines work
+- `foray`  /ˈfɔːr.eɪ/ <br> a short or first attempt to become involved in a new activity or area, often to explore or try it out
+- `attempt (verb)`  /əˈtempt/ <br> to try to do something, especially something difficult (SAME MEANING: try): He attempted to sail round the world
+- `state of the art`  /ˌsteɪt.əv.ðiˈɑːrt/ <br> using the newest, most modern, and most advanced technology or methods that are currently available
+- `recognition`  /ˌrek.əɡˈnɪʃ.ən/ <br> 1. knowing what something is or who somebody is when you see it or them: I said hello to her, but there was no sign of recognition on her face <br> 2. knowing that something is true: There is a general recognition of the need to change the law
+- `enable`  /ɪˈneɪ.bəl/ <br> to make someone able to do something, or to make something possible
+- `hierarchy`  /ˈhaɪ.rɑːr.ki/ <br> 1. the grouping of people or things into different levels or ranks according to their power or importance within a society or system <br> <img src='images/hierarchical.jpg' alt='hierarchy' width='200'> <br> 2. a series of ordered groupings of people or things within a system
+- `turn (noun)`  /tɜrn/ <br> 1. the action of turning something round: Give the screw a few turns <br> 2. a change of direction: Take a left turn at the end of this road <br> 3. the time when you can or should do something: It's your turn to do the washing-up <br> `in turn` one after the other: I spoke to each of the students in turn <br> `take turns at something; take it in turns to do something` to do something one after the other: You can't both use the computer at the same time. Why don't you take it in turns
+- `lexical`  /ˈlek.sɪ.kəl/ <br> relating to words
 ---

@@ -161,10 +161,10 @@
           "mean_en": ""
         },
         {
-          "word": "efforts",
-          "phonetic": "",
-          "mean_fa": "تلاش‌ها",
-          "mean_en": ""
+          "word": "effort",
+          "phonetic": "/e.fērt/",
+          "mean_fa": "",
+          "mean_en": "hard work; try"
         },
         {
           "word": "responsibility",
@@ -491,9 +491,9 @@
         },
         {
           "word": "expertise",
-          "phonetic": "",
-          "mean_fa": "تخصص",
-          "mean_en": ""
+          "phonetic": "/ˌeks.pɜr.ˈtiz/",
+          "mean_fa": "",
+          "mean_en": "a high level of special knowledge, skill, or experience in a particular area or subject"
         },
         {
           "word": "bioengineering",
@@ -2187,8 +2187,8 @@
         {
           "word": "consistent",
           "phonetic": "",
-          "mean_fa": "ثابت",
-          "mean_en": "unchanging"
+          "mean_fa": "",
+          "mean_en": "unchanging; always the same (OPPOSITE: inconsistent)"
         },
         {
           "word": "adequate",
@@ -2366,9 +2366,9 @@
         },
         {
           "word": "introduction",
-          "phonetic": "",
+          "phonetic": "/ˌɪn.trəˈdʌk.ʃən/",
           "mean_fa": "",
-          "mean_en": "preface"
+          "mean_en": "1. (no plural) bringing in something new: the introduction of computers into schools <br> 2. (plural introductions) bringing people together to meet each other <br> 3. (plural introductions) a piece of writing at the beginning of a book that tells you about the book"
         },
         {
           "word": "proficiency",
@@ -4675,6 +4675,197 @@
               "phonetic": "/juːˈtɪl.ə.t̬i/",
               "mean_fa": "",
               "mean_en": "a tool, program, or piece of software that performs a specific, common task (often to help the main system)"
+            }
+          ]
+        },
+        {
+          "heading": "Chapter 2: Pretrained networks",
+          "words": [
+            {
+              "word": "caption",
+              "phonetic": "/ˈkæp.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the words above or below a picture in a book or newspaper, that tell you about it"
+            },
+            {
+              "word": "deliver",
+              "phonetic": "/dɪ.ˈlɪ.vər/",
+              "mean_fa": "",
+              "mean_en": "to take something to the place where it must go: The postman delivered two letters this morning"
+            },
+            {
+              "word": "impacted",
+              "phonetic": "/ɪmˈpæk.tɪd/",
+              "mean_fa": "",
+              "mean_en": "1. pressed firmly together <br> 2. strongly affected by something"
+            },
+            {
+              "word": "affect (verb)",
+              "phonetic": "/əˈfekt/",
+              "mean_fa": "",
+              "mean_en": "A word or phrase that describes an action, condition, or experience"
+            },
+            {
+              "word": "interpret",
+              "phonetic": "/ɪnˈtɜːr.prɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to say in one language what somebody has said in another language: I can't speak Italian _ can you interpret for me? <br> 2. to explain the meaning of something: You have to interpret the facts, not just repeat them"
+            },
+            {
+              "word": "invent",
+              "phonetic": "/ɪnˈvent/",
+              "mean_fa": "",
+              "mean_en": "1. to make or think of something for the first time: Who invented the bicycle? <br> 2. to say something that is not true: I realized that he had invented the whole story"
+            },
+            {
+              "word": "unprecedented",
+              "phonetic": "/ʌnˈpres.ɪ.den.t̬ɪd/",
+              "mean_fa": "",
+              "mean_en": "never having happened or existed before; without any previous example"
+            },
+            {
+              "word": "perfect storm",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "a very powerful and rare combination of different events, conditions, or factors that come together at the same time to cause a major, significant outcome (can be good or bad)"
+            },
+            {
+              "word": "rare",
+              "phonetic": "/rer/",
+              "mean_fa": "",
+              "mean_en": "1. if somethin is rare, you do not find or see it often: Pandas are rare animals - It's rare to see snow in April (OPPOSITE: common) <br> 2. Meat that is rare is not cooked for very long, so that the inside is still red"
+            },
+            {
+              "word": "dictate",
+              "phonetic": "/ˈdɪk.teɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to say words so that another person can write them: The boss dictated a letter to his secretary <br> 2. to tell someone what to do or not to do: The behavior is dictated by the architecture"
+            },
+            {
+              "word": "property",
+              "phonetic": "/ˈprɑ.pər.ti/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) something that you have or own: This book is the property of James Waters <br> 2. (plural properties) a building and the land around it <br> 3. a feature or quality of something"
+            },
+            {
+              "word": "satisfy",
+              "phonetic": "/ˈsæt̬.ɪs.faɪ/",
+              "mean_fa": "",
+              "mean_en": "to give somebody what they want or need; to be good enough to make somebody pleased: Nothing he does satisfies his father"
+            },
+            {
+              "word": "off the shelf",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "pre built"
+            },
+            {
+              "word": "according to",
+              "phonetic": "/əˈkɔːr.dɪŋ ˌtuː/",
+              "mean_fa": "",
+              "mean_en": "as somebody or something says: According to Mike, this film is really good"
+            },
+            {
+              "word": "fabricate",
+              "phonetic": "/ˈfæb.rə.ˌkeɪt/",
+              "mean_fa": "",
+              "mean_en": "to create or build something by combining different parts or components, either artificial or natural <br> <img src='images/fabricate.jpg' alt='fabricate' width='200'>"
+            },
+            {
+              "word": "proper",
+              "phonetic": "/ˈprɑ.pɜr/",
+              "mean_fa": "",
+              "mean_en": "right or correct: a deep learning model that can describe the content of an image using proper English sentences"
+            },
+            {
+              "word": "uniform (adjective)",
+              "phonetic": "/ˈjuː.nə.fɔːrm/",
+              "mean_fa": "",
+              "mean_en": "consistent"
+            },
+            {
+              "word": "terminology",
+              "phonetic": "/ˌtɜːr.məˈnɑː.lə.dʒi/",
+              "mean_fa": "",
+              "mean_en": "the special words and phrases that are used in a particular subject, job, or area of study"
+            },
+            {
+              "word": "rodeo",
+              "phonetic": "/ˈroʊ.di.oʊ/",
+              "mean_fa": "",
+              "mean_en": "a public show or competition where cowboys ride wild horses or bulls <br> <img src='images/rodeo.jpg' alt='rodeo' width='200'>"
+            },
+            {
+              "word": "nuts and bolts",
+              "phonetic": "/ˌnʌts ənd ˈboʊlts/",
+              "mean_fa": "",
+              "mean_en": "the basic, practical, and essential parts or details of something; the way something actually works in practice <br> <img src='images/nuts-and-bolts.jpg' alt='nuts-and-bolts' width='200'>"
+            },
+            {
+              "word": "somewhat (adverb)",
+              "phonetic": "/ˈsʌm.wɑːt/",
+              "mean_fa": "",
+              "mean_en": "a little; not completely or very"
+            },
+            {
+              "word": "accustomed",
+              "phonetic": "/əˈkʌs.təmd/",
+              "mean_fa": "",
+              "mean_en": "familiar with something and accepting it as normal or usual (SAME MEANING: used to): My eyes slowly grew accustomed to the dark"
+            },
+            {
+              "word": "mechanics",
+              "phonetic": "/məˈkæn.ɪks/",
+              "mean_fa": "",
+              "mean_en": "the study of how machines work"
+            },
+            {
+              "word": "foray",
+              "phonetic": "/ˈfɔːr.eɪ/",
+              "mean_fa": "",
+              "mean_en": "a short or first attempt to become involved in a new activity or area, often to explore or try it out"
+            },
+            {
+              "word": "attempt (verb)",
+              "phonetic": "/əˈtempt/",
+              "mean_fa": "",
+              "mean_en": "to try to do something, especially something difficult (SAME MEANING: try): He attempted to sail round the world"
+            },
+            {
+              "word": "state of the art",
+              "phonetic": "/ˌsteɪt.əv.ðiˈɑːrt/",
+              "mean_fa": "",
+              "mean_en": "using the newest, most modern, and most advanced technology or methods that are currently available"
+            },
+            {
+              "word": "recognition",
+              "phonetic": "/ˌrek.əɡˈnɪʃ.ən/",
+              "mean_fa": "",
+              "mean_en": "1. knowing what something is or who somebody is when you see it or them: I said hello to her, but there was no sign of recognition on her face <br> 2. knowing that something is true: There is a general recognition of the need to change the law"
+            },
+            {
+              "word": "enable",
+              "phonetic": "/ɪˈneɪ.bəl/",
+              "mean_fa": "",
+              "mean_en": "to make someone able to do something, or to make something possible"
+            },
+            {
+              "word": "hierarchy",
+              "phonetic": "/ˈhaɪ.rɑːr.ki/",
+              "mean_fa": "",
+              "mean_en": "1. the grouping of people or things into different levels or ranks according to their power or importance within a society or system <br> <img src='images/hierarchical.jpg' alt='hierarchy' width='200'> <br> 2. a series of ordered groupings of people or things within a system"
+            },
+            {
+              "word": "turn (noun)",
+              "phonetic": "/tɜrn/",
+              "mean_fa": "",
+              "mean_en": "1. the action of turning something round: Give the screw a few turns <br> 2. a change of direction: Take a left turn at the end of this road <br> 3. the time when you can or should do something: It's your turn to do the washing-up <br> `in turn` one after the other: I spoke to each of the students in turn <br> `take turns at something; take it in turns to do something` to do something one after the other: You can't both use the computer at the same time. Why don't you take it in turns"
+            },
+            {
+              "word": "lexical",
+              "phonetic": "/ˈlek.sɪ.kəl/",
+              "mean_fa": "",
+              "mean_en": "relating to words"
             }
           ]
         }
