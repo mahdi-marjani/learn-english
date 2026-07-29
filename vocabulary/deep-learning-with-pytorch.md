@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 803**
+**Total words: 809**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (333 words)](#part-1-core-pytorch-333-words)
+- [Part 1: Core PyTorch (339 words)](#part-1-core-pytorch-339-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-  - [Chapter 2: Pretrained networks (31 words)](#chapter-2-pretrained-networks-31-words)
+  - [Chapter 2: Pretrained networks (37 words)](#chapter-2-pretrained-networks-37-words)
 
 ---
 
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (333 words)
+## Part 1: Core PyTorch (339 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -814,7 +814,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (31 words)
+### Chapter 2: Pretrained networks (37 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -846,4 +846,10 @@
 - `hierarchy`  /ˈhaɪ.rɑːr.ki/ <br> 1. the grouping of people or things into different levels or ranks according to their power or importance within a society or system <br> <img src='images/hierarchical.jpg' alt='hierarchy' width='200'> <br> 2. a series of ordered groupings of people or things within a system
 - `turn (noun)`  /tɜrn/ <br> 1. the action of turning something round: Give the screw a few turns <br> 2. a change of direction: Take a left turn at the end of this road <br> 3. the time when you can or should do something: It's your turn to do the washing-up <br> `in turn` one after the other: I spoke to each of the students in turn <br> `take turns at something; take it in turns to do something` to do something one after the other: You can't both use the computer at the same time. Why don't you take it in turns
 - `lexical`  /ˈlek.sɪ.kəl/ <br> relating to words
+- `origin`  /ˈɔːr.ə.dʒɪn/ <br> the beginning or cause of something: It's a book about the origin of the universe - Her unhappy childhood was the origin of her problems later in life
+- `institution`  /ˌɪn.stəˈtuː.ʃən/ <br> a large and important organization, such as a university or bank: a medical/educational/financial institution
+- `inception`  /ɪnˈsep.ʃən/ <br> the beginning of an organization or official activity
+- `confidence`  /ˈkɑːn.fə.dəns/ <br> the feeling that you can do something well: she answered the questions with confidence - I'm sure you'll pass the exam. I have great confidence in you
+- `refer`  /rɪˈfɜːr/ <br> 1. to talk about somebody or something: When I said that some people are stupid, I wasn't referring to you <br> 2. to describe or be connected with somebody or something: The word 'child' here refers to anybody under the age of 16 <br> 3. to look in a book or ask somebody for information (SAME MEANING: consult): If you don't understand a word, you may refer to your dictionaries <br> `refer to as` to call (something or someone) by (a specified name or title): The victim was referred to only as 'John Doe.'
+- `interchangeably`  <br> in a way that can be exchanged: in this book, the word flavour is used interchangeably with aroma
 ---
