@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 343**
+**Total words: 348**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (343 words)](#section-1-343-words)
+- [SECTION 1 (348 words)](#section-1-348-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -16,11 +16,11 @@
   - [Innovation (15 words)](#innovation-15-words)
   - [Routines (26 words)](#routines-26-words)
   - [Stories (27 words)](#stories-27-words)
-  - [Wedding (5 words)](#wedding-5-words)
+  - [Wedding (10 words)](#wedding-10-words)
 
 ---
 
-## SECTION 1 (343 words)
+## SECTION 1 (348 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -382,10 +382,15 @@
 - `bracelet`  /ˈbreɪ.slət/ <br> a decorative item, worn around the arm <br> <img src='images/bracelet.jpg' alt='bracelet' width='200'>
 - `decoration`  /ˌdek.ərˈeɪ.ʃən/ <br> a beautiful thing that you add to something to make it look nicer: Christmas decorations <br> <img src='images/decoration.jpg' alt='decoration' width='200'>
 
-### Wedding (5 words)
+### Wedding (10 words)
 - `engaged`  /ɪnˈɡeɪdʒd/ <br> if two people are engaged, they have agreed to get married: Louise is engaged to Michael - They got engaged last year
 - `relative`  /ˈrel.ə.t̬ɪv/ <br> a member of your family (SAME MEANING: relation)
 - `musician`  /mjuːˈzɪʃ.ən/ <br> someone who is skilled in playing music, usually as a job
 - `bride`  /braɪd/ <br> a woman on the day of her wedding <br> <img src='images/bride.jpg' alt='bride' width='200'>
+- `groom`  /gru:m/ <br> a man who is getting married <br> <img src='images/groom.jpg' alt='groom' width='200'>
 - `universe`  /ˈju.nə.ˌvɜrs/ <br> the earth and all the stars, planets and everything else in space <br> <img src='images/universe.jpg' alt='universe' width='200'>
+- `purse`  /pɜr:s/ <br> 1. (British) a small bag for money, usually used by a woman <br> <img src='images/purse1.jpg' alt='purse1' width='200'> <br> 2. (American) a handbag <br> <img src='images/purse2.jpg' alt='purse2' width='200'>
+- `ceremony`  /ˈser.ə.moʊ.ni/ <br> a formal public or religious event: the opening ceremony of the Olympic Games - a wedding ceremony
+- `colorful`  /ˈkʌ.lər.ˌfʊl/ <br> having many colors
+- `trophy`  /ˈtroʊ.fi/ <br> an object that is awarded to the winner of a competition <br> <img src='images/trophy.jpg' alt='trophy' width='200'>
 ---

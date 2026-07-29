@@ -2115,10 +2115,40 @@
               "mean_en": "a woman on the day of her wedding <br> <img src='images/bride.jpg' alt='bride' width='200'>"
             },
             {
+              "word": "groom",
+              "phonetic": "/gru:m/",
+              "mean_fa": "",
+              "mean_en": "a man who is getting married <br> <img src='images/groom.jpg' alt='groom' width='200'>"
+            },
+            {
               "word": "universe",
               "phonetic": "/ˈju.nə.ˌvɜrs/",
               "mean_fa": "",
               "mean_en": "the earth and all the stars, planets and everything else in space <br> <img src='images/universe.jpg' alt='universe' width='200'>"
+            },
+            {
+              "word": "purse",
+              "phonetic": "/pɜr:s/",
+              "mean_fa": "",
+              "mean_en": "1. (British) a small bag for money, usually used by a woman <br> <img src='images/purse1.jpg' alt='purse1' width='200'> <br> 2. (American) a handbag <br> <img src='images/purse2.jpg' alt='purse2' width='200'>"
+            },
+            {
+              "word": "ceremony",
+              "phonetic": "/ˈser.ə.moʊ.ni/",
+              "mean_fa": "",
+              "mean_en": "a formal public or religious event: the opening ceremony of the Olympic Games - a wedding ceremony"
+            },
+            {
+              "word": "colorful",
+              "phonetic": "/ˈkʌ.lər.ˌfʊl/",
+              "mean_fa": "",
+              "mean_en": "having many colors"
+            },
+            {
+              "word": "trophy",
+              "phonetic": "/ˈtroʊ.fi/",
+              "mean_fa": "",
+              "mean_en": "an object that is awarded to the winner of a competition <br> <img src='images/trophy.jpg' alt='trophy' width='200'>"
             }
           ]
         }
