@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 809**
+**Total words: 814**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (339 words)](#part-1-core-pytorch-339-words)
+- [Part 1: Core PyTorch (344 words)](#part-1-core-pytorch-344-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-  - [Chapter 2: Pretrained networks (37 words)](#chapter-2-pretrained-networks-37-words)
+  - [Chapter 2: Pretrained networks (42 words)](#chapter-2-pretrained-networks-42-words)
 
 ---
 
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (339 words)
+## Part 1: Core PyTorch (344 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -814,7 +814,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (37 words)
+### Chapter 2: Pretrained networks (42 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -852,4 +852,9 @@
 - `confidence`  /ˈkɑːn.fə.dəns/ <br> the feeling that you can do something well: she answered the questions with confidence - I'm sure you'll pass the exam. I have great confidence in you
 - `refer`  /rɪˈfɜːr/ <br> 1. to talk about somebody or something: When I said that some people are stupid, I wasn't referring to you <br> 2. to describe or be connected with somebody or something: The word 'child' here refers to anybody under the age of 16 <br> 3. to look in a book or ask somebody for information (SAME MEANING: consult): If you don't understand a word, you may refer to your dictionaries <br> `refer to as` to call (something or someone) by (a specified name or title): The victim was referred to only as 'John Doe.'
 - `interchangeably`  <br> in a way that can be exchanged: in this book, the word flavour is used interchangeably with aroma
+- `end (verb)`  <br> to stop or to finish something: What time does the film end? - Most adverbs in English end in '-ly' - We ended our holiday with a few days on the beach <br> `end up` to finaly be in a place or doing something when you did not plan it: If she continues to steal, she'll end up in prison - I ended up doing all the work myself
+- `examine`  /ɪɡˈzæm.ɪn/ <br> 1. to look carefully at something or somebody: The doctor examined her but could find nothing wrong - Have the car examined by an expert before you buy it <br> 2. (formal) to ask questions to find out what somebody knows or what they can do: You will be examined on everything you have learnt this year
+- `accurate`  /ˈækjərət/ <br> correct, exact, and without any mistakes: an accurate machine
+- `prepare`  /prɪˈper/ <br> to make somebody or something ready; to make yourself ready: Martin is in the kitchen preparing the dinner - I prepared well for the exam
+- `breakthrough`  /ˈbreɪk.θruː/ <br> an important discovery or success that comes after a lot of work and effort; a sudden, dramatic, and important development that moves things forward
 ---
