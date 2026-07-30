@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1361**
+**Total words: 1366**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (339 words)](#part-1-core-pytorch-339-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (37 words)](#chapter-2-pretrained-networks-37-words)
-- [Duolingo - Vocabulary (348 words)](#duolingo---vocabulary-348-words)
-  - [SECTION 1 (348 words)](#section-1-348-words)
+- [Duolingo - Vocabulary (353 words)](#duolingo---vocabulary-353-words)
+  - [SECTION 1 (353 words)](#section-1-353-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -34,7 +34,7 @@
     - [Innovation (15 words)](#innovation-15-words)
     - [Routines (26 words)](#routines-26-words)
     - [Stories (27 words)](#stories-27-words)
-    - [Wedding (10 words)](#wedding-10-words)
+    - [Wedding (15 words)](#wedding-15-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1050,9 +1050,9 @@
 
 ---
 
-## Duolingo - Vocabulary (348 words)
+## Duolingo - Vocabulary (353 words)
 
-### SECTION 1 (348 words)
+### SECTION 1 (353 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1414,7 +1414,7 @@
 - `bracelet`  /ˈbreɪ.slət/ <br> a decorative item, worn around the arm <br> <img src='images/bracelet.jpg' alt='bracelet' width='200'>
 - `decoration`  /ˌdek.ərˈeɪ.ʃən/ <br> a beautiful thing that you add to something to make it look nicer: Christmas decorations <br> <img src='images/decoration.jpg' alt='decoration' width='200'>
 
-#### Wedding (10 words)
+#### Wedding (15 words)
 - `engaged`  /ɪnˈɡeɪdʒd/ <br> if two people are engaged, they have agreed to get married: Louise is engaged to Michael - They got engaged last year
 - `relative`  /ˈrel.ə.t̬ɪv/ <br> a member of your family (SAME MEANING: relation)
 - `musician`  /mjuːˈzɪʃ.ən/ <br> someone who is skilled in playing music, usually as a job
@@ -1425,6 +1425,11 @@
 - `ceremony`  /ˈser.ə.moʊ.ni/ <br> a formal public or religious event: the opening ceremony of the Olympic Games - a wedding ceremony
 - `colorful`  /ˈkʌ.lər.ˌfʊl/ <br> having many colors
 - `trophy`  /ˈtroʊ.fi/ <br> an object that is awarded to the winner of a competition <br> <img src='images/trophy.jpg' alt='trophy' width='200'>
+- `cheek`  /ʧi:k/ <br> any of the two soft sides of our face that are bellow our eyes <br> <img src='images/cheek.jpg' alt='cheek' width='200'>
+- `shake`  /ʃeɪk/ <br> to move quickly from side to side or up and down; to make something do this: The house shakes when trains go past - He was shaking with fear - Shake the bottle before opening it <br> `shake hands` to hold somebody's hand and move it up and down when you meet them <br> `shake your head` to move your head from side to side to say 'no'
+- `pottery`  /ˈpɑ:.tə.ri/ <br> the skill or activity of making dishes, pots, etc. using clay <br> <img src='images/pottery.jpg' alt='pottery' width='200'>
+- `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
+- `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
 ---
 
 ---
