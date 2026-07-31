@@ -653,7 +653,7 @@
               "mean_en": "a large group of people who have come together: A crowd of about 15,000 attended the concert"
             },
             {
-              "word": "care(verb)",
+              "word": "care (verb)",
               "phonetic": "/ker/",
               "mean_fa": "",
               "mean_en": "to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better"
@@ -2179,6 +2179,29 @@
               "phonetic": "/læst/",
               "mean_fa": "",
               "mean_en": "to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week"
+            }
+          ]
+        },
+        {
+          "heading": "Memories",
+          "words": [
+            {
+              "word": "strict",
+              "phonetic": "/strɪkt/",
+              "mean_fa": "",
+              "mean_en": "If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules"
+            },
+            {
+              "word": "lean (verb)",
+              "phonetic": "/liːn/",
+              "mean_fa": "",
+              "mean_en": "1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>"
+            },
+            {
+              "word": "missing",
+              "phonetic": "/ˈmɪs.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?"
             }
           ]
         }

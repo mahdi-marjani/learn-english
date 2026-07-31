@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1371**
+**Total words: 1374**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (344 words)](#part-1-core-pytorch-344-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (42 words)](#chapter-2-pretrained-networks-42-words)
-- [Duolingo - Vocabulary (353 words)](#duolingo---vocabulary-353-words)
-  - [SECTION 1 (353 words)](#section-1-353-words)
+- [Duolingo - Vocabulary (356 words)](#duolingo---vocabulary-356-words)
+  - [SECTION 1 (356 words)](#section-1-356-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -35,6 +35,7 @@
     - [Routines (26 words)](#routines-26-words)
     - [Stories (27 words)](#stories-27-words)
     - [Wedding (15 words)](#wedding-15-words)
+    - [Memories (3 words)](#memories-3-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -375,7 +376,7 @@
 - `complexity`  <br> پیچیدگی
 - `amount`  <br> مقدار
 - `cognitive overhead`  <br> بار ذهنی اضافی
-- `lean`  <br> بهینه، سبک، کم حجم
+- `lean (adjective)`  <br> بهینه، سبک، کم حجم
 - `differentiation`  <br> مشتق گرفتن
 - `computation`  <br> محاسبه
 - `graphs`  <br> نمودار
@@ -784,7 +785,7 @@
 - `consist`  /kənˈsɪst/ <br> consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
 - `Jam (noun)`  /dʒæm/ <br> 1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles - مربا
 - `for instance`  /fɔːr ˈɪnstəns/ <br> for example
-- `come`  /kʌm/ <br> 1. to move towards the person who is speaking or the place that you are talking about: Come here, please - The dog came when I called him - Here comes Colin (= Colin is coming) - I'm sorry, but I can't come to your party <br> 2. to arrive at or reach a place: if you go along that road, you will come to the river - A letter came for you this morning <br> 3. to go somewhere with the person who is speaking: I'm going to a party tonight. Do you want to come with me? <br> 4. to be in a particular position: June comes after May <br> `come about` to happen: How did this situation come about? <br> `come across something` to find something when you are not looking for it: I came across these old photos yesterday <br> `come apart` to break into pieces: This old coat is coming apart <br> `come back` to return: What time will you be coming back? <br> `come down` to fall or become lower: The price of oil is coming down <br> `come from somewhere or something` 1. The place that you come from is where you were born or where you live: I come from Japan - Where do you come from? <br> 2. to be made from something or produced somewhere: Wool comes from sheep <br> `come in` to enter a place: Come in and sit down <br> `come off something` to become removed from something: The handle has come off this cup <br> `come on!; come along` words that you use for telling somebody to hurry or to try harder: Come on! We'll be late! <br> `come out` to appear: The rain stopped and the sun came out - His first novel came out in 2004 <br> `come round` to visit a person at their house not very far away: Come round for lunch on Saturday <br> `how come ...?` (informal) why or how ...?: How come you're here so early? <br> `to come` in the future: You'll regret it in years to come <br> `come up with something` to suggest or think of an idea or plan: She's come up with some amazing scheme to double her income
+- `come`  /kʌm/ <br> 1. to move towards the person who is speaking or the place that you are talking about: Come here, please - The dog came when I called him - Here comes Colin (= Colin is coming) - I'm sorry, but I can't come to your party <br> 2. to arrive at or reach a place: if you go along that road, you will come to the river - A letter came for you this morning <br> 3. to go somewhere with the person who is speaking: I'm going to a party tonight. Do you want to come with me? <br> 4. to be in a particular position: June comes after May <br> `come about` to happen: How did this situation come about? <br> `come across something` to find something when you are not looking for it: I came across these old photos yesterday <br> `come apart` to break into pieces: This old coat is coming apart <br> `come back` to return: What time will you be coming back? <br> `come down` to fall or become lower: The price of oil is coming down <br> `come from somewhere or something` 1. The place that you come from is where you were born or where you live: I come from Japan - Where do you come from? <br> 2. to be made from something or produced somewhere: Wool comes from sheep <br> `come in` to enter a place: Come in and sit down <br> `come off something` to become removed from something: The handle has come off this cup <br> `come on!; come along` words that you use for telling somebody to hurry or to try harder: Come on! We'll be late! <br> `come out` to appear: The rain stopped and the sun came out - His first novel came out in 2004 <br> `come round` to visit a person at their house not very far away: Come round for lunch on Saturday <br> `how come ...?` (informal) why or how ...?: How come you're here so early? <br> `to come` in the future: You'll regret it in years to come <br> `come up with something` to suggest or think of an idea or plan: She's come up with some amazing scheme to double her income <br> `come over to` to make a social visit to (a place): Why don't you come over to my place after work?
 - `estimate (verb)`  /ˈestɪmeɪt/ <br> to say how much you think something will cost, how big something is, or how long it will take to do something: The builders estimated that it would take a week to repair the roof
 - `edge`  /edʒ/ <br> 1. the part along the end or side of something: She stood at the water's edge - the edge of the table <br> 2. the sharp part of a knife or tool <br> `on edge` nervous or worried
 - `enclose`  /ɪnˈkloʊz/ <br> 1. to put something inside a letter or package: I enclose a cheque for $100 <br> 2. to put something, for example a wall or fence, around a place on all sides: The prison is enclosed by a high wall
@@ -1055,9 +1056,9 @@
 
 ---
 
-## Duolingo - Vocabulary (353 words)
+## Duolingo - Vocabulary (356 words)
 
-### SECTION 1 (353 words)
+### SECTION 1 (356 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1171,7 +1172,7 @@
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
-- `care(verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
 - `approach (verb)`  /əˈproʊtʃ/ <br> to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - `church`  /tʃɜːrtʃ/ <br> a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - `boring`  <br> not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
@@ -1435,6 +1436,11 @@
 - `pottery`  /ˈpɑ:.tə.ri/ <br> the skill or activity of making dishes, pots, etc. using clay <br> <img src='images/pottery.jpg' alt='pottery' width='200'>
 - `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
 - `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
+
+#### Memories (3 words)
+- `strict`  /strɪkt/ <br> If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules
+- `lean (verb)`  /liːn/ <br> 1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>
+- `missing`  /ˈmɪs.ɪŋ/ <br> lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?
 ---
 
 ---

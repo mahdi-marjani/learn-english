@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 353**
+**Total words: 356**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (353 words)](#section-1-353-words)
+- [SECTION 1 (356 words)](#section-1-356-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -17,10 +17,11 @@
   - [Routines (26 words)](#routines-26-words)
   - [Stories (27 words)](#stories-27-words)
   - [Wedding (15 words)](#wedding-15-words)
+  - [Memories (3 words)](#memories-3-words)
 
 ---
 
-## SECTION 1 (353 words)
+## SECTION 1 (356 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -134,7 +135,7 @@
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
-- `care(verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
 - `approach (verb)`  /əˈproʊtʃ/ <br> to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - `church`  /tʃɜːrtʃ/ <br> a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - `boring`  <br> not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
@@ -398,4 +399,9 @@
 - `pottery`  /ˈpɑ:.tə.ri/ <br> the skill or activity of making dishes, pots, etc. using clay <br> <img src='images/pottery.jpg' alt='pottery' width='200'>
 - `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
 - `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
+
+### Memories (3 words)
+- `strict`  /strɪkt/ <br> If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules
+- `lean (verb)`  /liːn/ <br> 1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>
+- `missing`  /ˈmɪs.ɪŋ/ <br> lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?
 ---
