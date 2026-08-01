@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1374**
+**Total words: 1382**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (344 words)](#part-1-core-pytorch-344-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (42 words)](#chapter-2-pretrained-networks-42-words)
-- [Duolingo - Vocabulary (356 words)](#duolingo---vocabulary-356-words)
-  - [SECTION 1 (356 words)](#section-1-356-words)
+- [Duolingo - Vocabulary (364 words)](#duolingo---vocabulary-364-words)
+  - [SECTION 1 (364 words)](#section-1-364-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -35,7 +35,7 @@
     - [Routines (26 words)](#routines-26-words)
     - [Stories (27 words)](#stories-27-words)
     - [Wedding (15 words)](#wedding-15-words)
-    - [Memories (3 words)](#memories-3-words)
+    - [Memories (11 words)](#memories-11-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -199,7 +199,7 @@
 - `fool`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance
 - `sunscreen`  /ˈsʌn.skriːn/ <br> a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>
 - `ouch`  /aʊtʃ/ <br> used to express pain: Ouch! That hurts!
-- `hurt`  /hɜrt/ <br> to feel pain in a part of your body, or to injure someone or cause them pain: My head hurts
+- `hurt (verb)`  /hɜrt/ <br> 1. to make somebody or something feel pain: I fell and hurt my leg - Did you hurt yourself - These shoes hurt _ they are too small <br> 2. to fell painful: My leg hurts <br> 3. to make somebody unhappy: I never meant to hurt your feelings
 - `injure`  /ˈɪn.dʒɜr/ <br> to hurt yourself or somebody else, especially in an accident: She injured her arm when she was playing tennis - Joe was injured in a car accident
 - `bun`  /bʌn/ <br> a small round cake or piece of bread <br> <img src='images/bun.jpg' alt='bun' width='200'>
 - `bury`  /ˈber.i/ <br> 1. to put a dead body in the ground <br> 2. to put something in the ground or under something: The dog buried the bone in the garden
@@ -1056,9 +1056,9 @@
 
 ---
 
-## Duolingo - Vocabulary (356 words)
+## Duolingo - Vocabulary (364 words)
 
-### SECTION 1 (356 words)
+### SECTION 1 (364 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1437,10 +1437,18 @@
 - `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
 - `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
 
-#### Memories (3 words)
+#### Memories (11 words)
 - `strict`  /strɪkt/ <br> If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules
 - `lean (verb)`  /liːn/ <br> 1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>
 - `missing`  /ˈmɪs.ɪŋ/ <br> lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?
+- `shy`  /ʃaɪ/ <br> not outgoing
+- `used to`  <br> words that tell us about something that happened often or that was true in the past: She used to smoke when she was young - I used to be afraid of dogs but now like them
+- `trumpet`  /ˈtrʌm.pət/ <br> <br> <img src='images/trumpet.jpg' alt='trumpet' width='200'>
+- `pack (verb)`  /pæk/ <br> 1. to put things into a bag or suitcase before you go somewhere: Have you packed your suitcase? - Don't forget to pack your toothbrush <br> 2. to put things into a box, bag, etc.: Pack all these books into boxes (OPPOSITE: unpack) <br> `pack up` 1. to stop doing something: At two o'clock we packed up and went home <br> 2. (British, informal) If a machine packs up, it stops working
+- `neighborhood`  /ˈneɪbərhʊd/ <br> a part of a town or city; the people who live there: They live in a friendly neighborhood
+- `glad`  /ɡlæd/ <br> happy about something (SAME MEANING: pleased): He was glad to see us
+- `hurt (adjective)`  /hɜrt/ <br> 1. physically harmed (SAME MEANING: injured): Was anyone hurt in the accident? <br> 2. upset: I was very hurt by what you said
+- `anymore`  /ˌeniˈmɔːr/ <br> used at the end of negative sentences and questions to mean 'now': She doesn't live here anymore - Why doesn't he speak to me anymore?
 ---
 
 ---

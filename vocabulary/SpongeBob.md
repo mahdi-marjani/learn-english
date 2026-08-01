@@ -164,7 +164,7 @@
 - `fool`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance
 - `sunscreen`  /ˈsʌn.skriːn/ <br> a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>
 - `ouch`  /aʊtʃ/ <br> used to express pain: Ouch! That hurts!
-- `hurt`  /hɜrt/ <br> to feel pain in a part of your body, or to injure someone or cause them pain: My head hurts
+- `hurt (verb)`  /hɜrt/ <br> 1. to make somebody or something feel pain: I fell and hurt my leg - Did you hurt yourself - These shoes hurt _ they are too small <br> 2. to fell painful: My leg hurts <br> 3. to make somebody unhappy: I never meant to hurt your feelings
 - `injure`  /ˈɪn.dʒɜr/ <br> to hurt yourself or somebody else, especially in an accident: She injured her arm when she was playing tennis - Joe was injured in a car accident
 - `bun`  /bʌn/ <br> a small round cake or piece of bread <br> <img src='images/bun.jpg' alt='bun' width='200'>
 - `bury`  /ˈber.i/ <br> 1. to put a dead body in the ground <br> 2. to put something in the ground or under something: The dog buried the bone in the garden

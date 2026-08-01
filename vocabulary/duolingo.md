@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 356**
+**Total words: 364**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (356 words)](#section-1-356-words)
+- [SECTION 1 (364 words)](#section-1-364-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -17,11 +17,11 @@
   - [Routines (26 words)](#routines-26-words)
   - [Stories (27 words)](#stories-27-words)
   - [Wedding (15 words)](#wedding-15-words)
-  - [Memories (3 words)](#memories-3-words)
+  - [Memories (11 words)](#memories-11-words)
 
 ---
 
-## SECTION 1 (356 words)
+## SECTION 1 (364 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -400,8 +400,16 @@
 - `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
 - `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
 
-### Memories (3 words)
+### Memories (11 words)
 - `strict`  /strɪkt/ <br> If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules
 - `lean (verb)`  /liːn/ <br> 1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>
 - `missing`  /ˈmɪs.ɪŋ/ <br> lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?
+- `shy`  /ʃaɪ/ <br> not outgoing
+- `used to`  <br> words that tell us about something that happened often or that was true in the past: She used to smoke when she was young - I used to be afraid of dogs but now like them
+- `trumpet`  /ˈtrʌm.pət/ <br> <br> <img src='images/trumpet.jpg' alt='trumpet' width='200'>
+- `pack (verb)`  /pæk/ <br> 1. to put things into a bag or suitcase before you go somewhere: Have you packed your suitcase? - Don't forget to pack your toothbrush <br> 2. to put things into a box, bag, etc.: Pack all these books into boxes (OPPOSITE: unpack) <br> `pack up` 1. to stop doing something: At two o'clock we packed up and went home <br> 2. (British, informal) If a machine packs up, it stops working
+- `neighborhood`  /ˈneɪbərhʊd/ <br> a part of a town or city; the people who live there: They live in a friendly neighborhood
+- `glad`  /ɡlæd/ <br> happy about something (SAME MEANING: pleased): He was glad to see us
+- `hurt (adjective)`  /hɜrt/ <br> 1. physically harmed (SAME MEANING: injured): Was anyone hurt in the accident? <br> 2. upset: I was very hurt by what you said
+- `anymore`  /ˌeniˈmɔːr/ <br> used at the end of negative sentences and questions to mean 'now': She doesn't live here anymore - Why doesn't he speak to me anymore?
 ---
