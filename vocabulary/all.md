@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1382**
+**Total words: 1396**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (814 words)](#deep-learning-with-pytorch---vocabulary-814-words)
+- [Deep Learning with PyTorch - Vocabulary (828 words)](#deep-learning-with-pytorch---vocabulary-828-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (344 words)](#part-1-core-pytorch-344-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-    - [Chapter 2: Pretrained networks (42 words)](#chapter-2-pretrained-networks-42-words)
+  - [Part 1: Core PyTorch (358 words)](#part-1-core-pytorch-358-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
+    - [Chapter 2: Pretrained networks (57 words)](#chapter-2-pretrained-networks-57-words)
 - [Duolingo - Vocabulary (364 words)](#duolingo---vocabulary-364-words)
   - [SECTION 1 (364 words)](#section-1-364-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -210,7 +210,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (814 words)
+## Deep Learning with PyTorch - Vocabulary (828 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -703,7 +703,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (344 words)
+### Part 1: Core PyTorch (358 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -718,7 +718,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (288 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -784,7 +784,6 @@
 - `outcome`  <br> result
 - `consist`  /kənˈsɪst/ <br> consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar
 - `Jam (noun)`  /dʒæm/ <br> 1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles - مربا
-- `for instance`  /fɔːr ˈɪnstəns/ <br> for example
 - `come`  /kʌm/ <br> 1. to move towards the person who is speaking or the place that you are talking about: Come here, please - The dog came when I called him - Here comes Colin (= Colin is coming) - I'm sorry, but I can't come to your party <br> 2. to arrive at or reach a place: if you go along that road, you will come to the river - A letter came for you this morning <br> 3. to go somewhere with the person who is speaking: I'm going to a party tonight. Do you want to come with me? <br> 4. to be in a particular position: June comes after May <br> `come about` to happen: How did this situation come about? <br> `come across something` to find something when you are not looking for it: I came across these old photos yesterday <br> `come apart` to break into pieces: This old coat is coming apart <br> `come back` to return: What time will you be coming back? <br> `come down` to fall or become lower: The price of oil is coming down <br> `come from somewhere or something` 1. The place that you come from is where you were born or where you live: I come from Japan - Where do you come from? <br> 2. to be made from something or produced somewhere: Wool comes from sheep <br> `come in` to enter a place: Come in and sit down <br> `come off something` to become removed from something: The handle has come off this cup <br> `come on!; come along` words that you use for telling somebody to hurry or to try harder: Come on! We'll be late! <br> `come out` to appear: The rain stopped and the sun came out - His first novel came out in 2004 <br> `come round` to visit a person at their house not very far away: Come round for lunch on Saturday <br> `how come ...?` (informal) why or how ...?: How come you're here so early? <br> `to come` in the future: You'll regret it in years to come <br> `come up with something` to suggest or think of an idea or plan: She's come up with some amazing scheme to double her income <br> `come over to` to make a social visit to (a place): Why don't you come over to my place after work?
 - `estimate (verb)`  /ˈestɪmeɪt/ <br> to say how much you think something will cost, how big something is, or how long it will take to do something: The builders estimated that it would take a week to repair the roof
 - `edge`  /edʒ/ <br> 1. the part along the end or side of something: She stood at the water's edge - the edge of the table <br> 2. the sharp part of a knife or tool <br> `on edge` nervous or worried
@@ -1009,7 +1008,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (42 words)
+#### Chapter 2: Pretrained networks (57 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1052,6 +1051,21 @@
 - `accurate`  /ˈækjərət/ <br> correct, exact, and without any mistakes: an accurate machine
 - `prepare`  /prɪˈper/ <br> to make somebody or something ready; to make yourself ready: Martin is in the kitchen preparing the dinner - I prepared well for the exam
 - `breakthrough`  /ˈbreɪk.θruː/ <br> an important discovery or success that comes after a lot of work and effort; a sudden, dramatic, and important development that moves things forward
+- `differ`  /ˈdɪf·ər/ <br> be unlike or dissimilar: the second set of data differed from the first
+- `arrangement`  /əˈreɪndʒ.mənt/ <br> 1. a plan or preparation that you make so that something can happen in the future: They are making the arrangements for their wedding <br> 2. a group of things put together so that they look nice: a flower arrangement <br> 3. a group of objects that have been put in a particular order or position: the arrangement of the operations in a neural network
+- `instantiate`  /ɪnˈstæn.ʃi.eɪt/ <br> (in programming) to create an instance (object) of a class
+- `instance`  /ˈɪn.stəns/ <br> (in programming) a specific object that belongs to a class and has its own data and behavior <br> `for instance` as an example: There are several interesting places to visit around here _ Warwick, for instance
+- `milestone`  /ˈmaɪl.stoʊn/ <br> an important event or achievement that marks a significant stage or change in a process or history: AlexNet remains a historical milestone for deep learning
+- `ignite`  /ɪɡˈnaɪt/ <br> to start burning or to make something start burning: The gas ignited and caused an explosion
+- `explosion`  /ɪkˈsploʊ.ʒən/ <br> <br> <img src='images/explosion.jpg' alt='explosion' width='200'>
+- `mainstream`  /ˈmeɪn.striːm/ <br> the way of thinking or doing things that is most common or accepted by the majority of people; being ordinary or normal
+- `favor (noun)`  /ˈfeɪ·vər/ <br> approval, support, or popularity that someone or something has; a positive feeling toward something: neural networks had fallen out of favor
+- `lackluster`  /ˈlækˌlʌs.tɚ/ <br> not exciting, interesting, or good; without energy and effort: lackluster results
+- `submission`  /səbˈmɪʃ.ən/ <br> something presented for consideration, judgment, or evaluation, such as a manuscript, design, proposal, or work of art: By comparison, the second-best submission, which wasn’t based on a deep network, trailed at 26.2%
+- `trail (verb)`  /treɪl/ <br> to be behind someone in a competition or race; to move or happen more slowly or later than others: trailed at 26.2%
+- `potential`  /pəˈten.ʃəl/ <br> possible; likely to happen or exist: potential students - پتانسیل
+- `leap (noun)`  /liːp/ <br> a sudden, large, or important change, improvement, or increase: a leap in profits
+- `constant`  /ˈkɑːn.stənt/ <br> happening a lot or all the time: the constant noise of traffic
 ---
 
 ---

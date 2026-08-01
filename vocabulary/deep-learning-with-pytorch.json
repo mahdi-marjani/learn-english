@@ -3333,12 +3333,6 @@
               "mean_en": "1. sweet food made from fruit and suga. You eat jam on bread: a jar of strawberry jam <br> 2. a situation in which you cannot move because there are too many people or vehicles"
             },
             {
-              "word": "for instance",
-              "phonetic": "/fɔːr ˈɪnstəns/",
-              "mean_fa": "",
-              "mean_en": "for example"
-            },
-            {
               "word": "come",
               "phonetic": "/kʌm/",
               "mean_fa": "",
@@ -4932,6 +4926,96 @@
               "phonetic": "/ˈbreɪk.θruː/",
               "mean_fa": "",
               "mean_en": "an important discovery or success that comes after a lot of work and effort; a sudden, dramatic, and important development that moves things forward"
+            },
+            {
+              "word": "differ",
+              "phonetic": "/ˈdɪf·ər/",
+              "mean_fa": "",
+              "mean_en": "be unlike or dissimilar: the second set of data differed from the first"
+            },
+            {
+              "word": "arrangement",
+              "phonetic": "/əˈreɪndʒ.mənt/",
+              "mean_fa": "",
+              "mean_en": "1. a plan or preparation that you make so that something can happen in the future: They are making the arrangements for their wedding <br> 2. a group of things put together so that they look nice: a flower arrangement <br> 3. a group of objects that have been put in a particular order or position: the arrangement of the operations in a neural network"
+            },
+            {
+              "word": "instantiate",
+              "phonetic": "/ɪnˈstæn.ʃi.eɪt/",
+              "mean_fa": "",
+              "mean_en": "(in programming) to create an instance (object) of a class"
+            },
+            {
+              "word": "instance",
+              "phonetic": "/ˈɪn.stəns/",
+              "mean_fa": "",
+              "mean_en": "(in programming) a specific object that belongs to a class and has its own data and behavior <br> `for instance` as an example: There are several interesting places to visit around here _ Warwick, for instance"
+            },
+            {
+              "word": "milestone",
+              "phonetic": "/ˈmaɪl.stoʊn/",
+              "mean_fa": "",
+              "mean_en": "an important event or achievement that marks a significant stage or change in a process or history: AlexNet remains a historical milestone for deep learning"
+            },
+            {
+              "word": "ignite",
+              "phonetic": "/ɪɡˈnaɪt/",
+              "mean_fa": "",
+              "mean_en": "to start burning or to make something start burning: The gas ignited and caused an explosion"
+            },
+            {
+              "word": "explosion",
+              "phonetic": "/ɪkˈsploʊ.ʒən/",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/explosion.jpg' alt='explosion' width='200'>"
+            },
+            {
+              "word": "mainstream",
+              "phonetic": "/ˈmeɪn.striːm/",
+              "mean_fa": "",
+              "mean_en": "the way of thinking or doing things that is most common or accepted by the majority of people; being ordinary or normal"
+            },
+            {
+              "word": "favor (noun)",
+              "phonetic": "/ˈfeɪ·vər/",
+              "mean_fa": "",
+              "mean_en": "approval, support, or popularity that someone or something has; a positive feeling toward something: neural networks had fallen out of favor"
+            },
+            {
+              "word": "lackluster",
+              "phonetic": "/ˈlækˌlʌs.tɚ/",
+              "mean_fa": "",
+              "mean_en": "not exciting, interesting, or good; without energy and effort: lackluster results"
+            },
+            {
+              "word": "submission",
+              "phonetic": "/səbˈmɪʃ.ən/",
+              "mean_fa": "",
+              "mean_en": "something presented for consideration, judgment, or evaluation, such as a manuscript, design, proposal, or work of art: By comparison, the second-best submission, which wasn’t based on a deep network, trailed at 26.2%"
+            },
+            {
+              "word": "trail (verb)",
+              "phonetic": "/treɪl/",
+              "mean_fa": "",
+              "mean_en": "to be behind someone in a competition or race; to move or happen more slowly or later than others: trailed at 26.2%"
+            },
+            {
+              "word": "potential",
+              "phonetic": "/pəˈten.ʃəl/",
+              "mean_fa": "پتانسیل",
+              "mean_en": "possible; likely to happen or exist: potential students"
+            },
+            {
+              "word": "leap (noun)",
+              "phonetic": "/liːp/",
+              "mean_fa": "",
+              "mean_en": "a sudden, large, or important change, improvement, or increase: a leap in profits"
+            },
+            {
+              "word": "constant",
+              "phonetic": "/ˈkɑːn.stənt/",
+              "mean_fa": "",
+              "mean_en": "happening a lot or all the time: the constant noise of traffic"
             }
           ]
         }
