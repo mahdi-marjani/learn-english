@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 828**
+**Total words: 837**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (358 words)](#part-1-core-pytorch-358-words)
+- [Part 1: Core PyTorch (367 words)](#part-1-core-pytorch-367-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (57 words)](#chapter-2-pretrained-networks-57-words)
+  - [Chapter 2: Pretrained networks (66 words)](#chapter-2-pretrained-networks-66-words)
 
 ---
 
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (358 words)
+## Part 1: Core PyTorch (367 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -813,7 +813,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (57 words)
+### Chapter 2: Pretrained networks (66 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -871,4 +871,13 @@
 - `potential`  /pəˈten.ʃəl/ <br> possible; likely to happen or exist: potential students - پتانسیل
 - `leap (noun)`  /liːp/ <br> a sudden, large, or important change, improvement, or increase: a leap in profits
 - `constant`  /ˈkɑːn.stənt/ <br> happening a lot or all the time: the constant noise of traffic
+- `bunch`  /bʌntʃ/ <br> a number of things or people that are grouped together; a collection of similar items: a bunch of flowers/grapes/bananas/keys
+- `multiplication`  /ˌmʌl.tə.pləˈkeɪ.ʃən/ <br> the process or skill of multiplying
+- `multiply`  /ˈmʌl.tə.plaɪ/ <br> to add a number to itself a particular number of times: If you multiply 7 by 15 you get 105 (7 * 15 = 105)
+- `plus`  /plʌs/ <br> 1. and also; with the addition of: two plus four is six <br> 2. (of temperature) above zero: the temperature is frequently plus 35 degrees at midday
+- `sprinkle (verb)`  /ˈsprɪŋ.kəl/ <br> to shake small pieces of something or drops of a liquid on another thing: Sprinkle some sugar on the fruit <br> <img src='images/sprinkle.jpg' alt='sprinkle' width='200'>
+- `sprinkle (noun)`  /ˈsprɪŋ.kəl/ <br> 1. a small amount of a substance that is dropped somewhere, or a number of things or people that are spread or included somewhere: Add a sprinkle of cheese and serve <br> 2. (especially North American English) light rain
+- `determine`  /dɪˈtɜːrmɪn/ <br> to decide, establish, or control something exactly; to be the reason why something happens in a particular way: your try will determine your future
+- `annotate`  /ˈæn.ə.teɪt/ <br> to add notes, labels, or explanations to a picture, diagram, or text in order to describe or explain specific parts of it
+- `essential`  /ɪˈsen.ʃəl/ <br> necessary or needed
 ---

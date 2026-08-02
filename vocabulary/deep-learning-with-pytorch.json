@@ -5016,6 +5016,60 @@
               "phonetic": "/ˈkɑːn.stənt/",
               "mean_fa": "",
               "mean_en": "happening a lot or all the time: the constant noise of traffic"
+            },
+            {
+              "word": "bunch",
+              "phonetic": "/bʌntʃ/",
+              "mean_fa": "",
+              "mean_en": "a number of things or people that are grouped together; a collection of similar items: a bunch of flowers/grapes/bananas/keys"
+            },
+            {
+              "word": "multiplication",
+              "phonetic": "/ˌmʌl.tə.pləˈkeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the process or skill of multiplying"
+            },
+            {
+              "word": "multiply",
+              "phonetic": "/ˈmʌl.tə.plaɪ/",
+              "mean_fa": "",
+              "mean_en": "to add a number to itself a particular number of times: If you multiply 7 by 15 you get 105 (7 * 15 = 105)"
+            },
+            {
+              "word": "plus",
+              "phonetic": "/plʌs/",
+              "mean_fa": "",
+              "mean_en": "1. and also; with the addition of: two plus four is six <br> 2. (of temperature) above zero: the temperature is frequently plus 35 degrees at midday"
+            },
+            {
+              "word": "sprinkle (verb)",
+              "phonetic": "/ˈsprɪŋ.kəl/",
+              "mean_fa": "",
+              "mean_en": "to shake small pieces of something or drops of a liquid on another thing: Sprinkle some sugar on the fruit <br> <img src='images/sprinkle.jpg' alt='sprinkle' width='200'>"
+            },
+            {
+              "word": "sprinkle (noun)",
+              "phonetic": "/ˈsprɪŋ.kəl/",
+              "mean_fa": "",
+              "mean_en": "1. a small amount of a substance that is dropped somewhere, or a number of things or people that are spread or included somewhere: Add a sprinkle of cheese and serve <br> 2. (especially North American English) light rain"
+            },
+            {
+              "word": "determine",
+              "phonetic": "/dɪˈtɜːrmɪn/",
+              "mean_fa": "",
+              "mean_en": "to decide, establish, or control something exactly; to be the reason why something happens in a particular way: your try will determine your future"
+            },
+            {
+              "word": "annotate",
+              "phonetic": "/ˈæn.ə.teɪt/",
+              "mean_fa": "",
+              "mean_en": "to add notes, labels, or explanations to a picture, diagram, or text in order to describe or explain specific parts of it"
+            },
+            {
+              "word": "essential",
+              "phonetic": "/ɪˈsen.ʃəl/",
+              "mean_fa": "",
+              "mean_en": "necessary or needed"
             }
           ]
         }
