@@ -2268,6 +2268,42 @@
               "phonetic": "/bruːm/",
               "mean_fa": "",
               "mean_en": "a brush with a long handle and bristles (= short, stiff hairs or pieces of plastic), used for cleaning the floor or the ground <br> <img src='images/broom.jpg' alt='broom' width='200'>"
+            },
+            {
+              "word": "pie",
+              "phonetic": "/paɪ/",
+              "mean_fa": "",
+              "mean_en": "a type of food made with meat, vegetables, or fruit covered in pastry and baked: an apple pie <br> <img src='images/pie.jpg' alt='pie' width='200'>"
+            },
+            {
+              "word": "frying pan",
+              "phonetic": "/ˈfraɪ.ɪŋ ˌpæn /",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>"
+            },
+            {
+              "word": "spinach",
+              "phonetic": "/ˈspɪn.ɪtʃ/",
+              "mean_fa": "اسفناج",
+              "mean_en": "a vegetable with wide, dark green leaves that are eaten cooked or uncooked <br> <img src='images/spinach.jpg' alt='spinach' width='200'>"
+            },
+            {
+              "word": "recipe",
+              "phonetic": "/ˈres.ə.pi/",
+              "mean_fa": "",
+              "mean_en": "the instructions on how to cook a certain food, including a list of the ingredients required"
+            },
+            {
+              "word": "oven",
+              "phonetic": "/ˈʌv.ən/",
+              "mean_fa": "",
+              "mean_en": "the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>"
+            },
+            {
+              "word": "bake",
+              "phonetic": "/beɪk/",
+              "mean_fa": "",
+              "mean_en": "to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday"
             }
           ]
         }

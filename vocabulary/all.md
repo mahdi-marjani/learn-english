@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1408**
+**Total words: 1414**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (367 words)](#part-1-core-pytorch-367-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (66 words)](#chapter-2-pretrained-networks-66-words)
-- [Duolingo - Vocabulary (367 words)](#duolingo---vocabulary-367-words)
-  - [SECTION 1 (367 words)](#section-1-367-words)
+- [Duolingo - Vocabulary (373 words)](#duolingo---vocabulary-373-words)
+  - [SECTION 1 (373 words)](#section-1-373-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -35,7 +35,7 @@
     - [Routines (26 words)](#routines-26-words)
     - [Stories (27 words)](#stories-27-words)
     - [Wedding (15 words)](#wedding-15-words)
-    - [Memories (14 words)](#memories-14-words)
+    - [Memories (20 words)](#memories-20-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1079,9 +1079,9 @@
 
 ---
 
-## Duolingo - Vocabulary (367 words)
+## Duolingo - Vocabulary (373 words)
 
-### SECTION 1 (367 words)
+### SECTION 1 (373 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1460,7 +1460,7 @@
 - `besides`  /bɪˈsaɪdz/ <br> in addition to; also: Do you play any other sports besides basketball?
 - `last (verb)`  /læst/ <br> to continue for a period of time, or to continue to exist: The meeting lasted two hours - They say the snow will last until the end of next week
 
-#### Memories (14 words)
+#### Memories (20 words)
 - `strict`  /strɪkt/ <br> If you are strict, you make people do what you want and do not allow them to behave badly: Her parents are very strict _ she always has to be home before ten o'clock - strict rules
 - `lean (verb)`  /liːn/ <br> 1. to not be straight; to bend forwards, backwards or to the side: She leaned out of the window and waved <br> 2. to put your body or a thing against another thing: Lean your bike against the wall <br> <img src='images/lean.jpg' alt='lean' width='200'>
 - `missing`  /ˈmɪs.ɪŋ/ <br> lost, or not in the usual place: The police are looking for the missing child - My purse is missing. Have you seen it?
@@ -1475,6 +1475,12 @@
 - `knee`  /ni:/ <br> the body part that is in the middle of the leg and helps it bend <br> <img src='images/knee.jpg' alt='knee' width='200'>
 - `prize`  /praɪz/ <br> something valuable, such as an amount of money, that is given to someone who succeeds in a competition or game or that is given to someone as a reward for doing very good work <br> <img src='images/prize.jpg' alt='prize' width='200'>
 - `broom`  /bruːm/ <br> a brush with a long handle and bristles (= short, stiff hairs or pieces of plastic), used for cleaning the floor or the ground <br> <img src='images/broom.jpg' alt='broom' width='200'>
+- `pie`  /paɪ/ <br> a type of food made with meat, vegetables, or fruit covered in pastry and baked: an apple pie <br> <img src='images/pie.jpg' alt='pie' width='200'>
+- `frying pan`  /ˈfraɪ.ɪŋ ˌpæn / <br> <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
+- `spinach`  /ˈspɪn.ɪtʃ/ <br> a vegetable with wide, dark green leaves that are eaten cooked or uncooked <br> <img src='images/spinach.jpg' alt='spinach' width='200'> - اسفناج
+- `recipe`  /ˈres.ə.pi/ <br> the instructions on how to cook a certain food, including a list of the ingredients required
+- `oven`  /ˈʌv.ən/ <br> the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>
+- `bake`  /beɪk/ <br> to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday
 ---
 
 ---
