@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 837**
+**Total words: 850**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (367 words)](#part-1-core-pytorch-367-words)
+- [Part 1: Core PyTorch (380 words)](#part-1-core-pytorch-380-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (66 words)](#chapter-2-pretrained-networks-66-words)
+  - [Chapter 2: Pretrained networks (79 words)](#chapter-2-pretrained-networks-79-words)
 
 ---
 
@@ -31,7 +31,7 @@
 - `transmitted`  <br> منتقل شده
 - `in any form or by means`  <br> به هیچ شکل یا از هیچ وسیله‌ای
 - `otherwise`  <br> else, etc - در غیر این صورت، غیره
-- `prior`  <br> قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد
+- `prior`  /praɪr/ <br> existing, happening, or done before something else; earlier in time or order
 - `designations`  <br> اصطلاحات
 - `distinguish`  <br> to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister
 - `trademarks`  <br> علامت‌های تجاری
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (367 words)
+## Part 1: Core PyTorch (380 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -813,7 +813,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (66 words)
+### Chapter 2: Pretrained networks (79 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -880,4 +880,17 @@
 - `determine`  /dɪˈtɜːrmɪn/ <br> to decide, establish, or control something exactly; to be the reason why something happens in a particular way: your try will determine your future
 - `annotate`  /ˈæn.ə.teɪt/ <br> to add notes, labels, or explanations to a picture, diagram, or text in order to describe or explain specific parts of it
 - `essential`  /ɪˈsen.ʃəl/ <br> necessary or needed
+- `opaque (adjective)`  /oʊˈpeɪk/ <br> 1. not able to be seen through or difficult to see inside; not clear <br> 2. difficult to understand; complex; not clear
+- `precise`  /prəˈsaɪs/ <br> exact and accurate
+- `forward pass`  /ˈfɔːr.wərd pæs/ <br> in a neural network, the process of moving data forward from the input layer, through all the hidden layers, to the output layer in order to generate a prediction or output
+- `assume`  /əˈsuːm/ <br> to think that something is true although you are not really sure: Jo is not here today, so I assume that she is ill
+- `slate`  /sleɪt/ <br> 1. a type of dark gray stone used for roofs or writing on <br> 2. a completely clean, empty, or new state that has not yet been marked or trained; ready to be started from zero
+- `match (verb)`  /mætʃ/ <br> 1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture
+- `nowadays`  /ˈnaʊ.ə.deɪz/ <br> at the present time, in comparison to the past: Nowadays most people have internet access
+- `capture (verb)`  /ˈkæptʃər/ <br> 1. to catch a person, animal, or place and take control of it by force <br> <img src='images/capture.jpg' alt='capture' width='200'> <br> 2. to succeed in representing or expressing something (a feeling, idea, or quality) in words, pictures, art, etc.: The photo captures the beauty of the mountains <br> 3. to record something by taking a photo or video of it
+- `intricate`  /ˈɪn.trə.kət/ <br> complex; very complicated or detailed: an intricate pattern / intricate relationships
+- `argument (noun)`  /ˈɑːr.ɡjə.mənt/ <br> 1. (in programming) a value or piece of information that is passed to a function or method so it can use it: We'll pass an argument that will instruct the function to download the weights <br> 2. a reason or set of reasons that show that something is true or right: She made a strong argument for reducing working hours <br> 3. a disagreement between people; a discussion involving different ideas or opinions, in which people disagree: They had an argument about politics
+- `curious (adjective)`  /ˈkjʊr.i.əs/ <br> 1. If you are curious, you want to know about something: They were very curious about the people who lived upstairs <br> 2. strange or unusual: There was a curious mixture of people in the audience
+- `textual (adjective)`  /ˈteks.tʃu.əl/ <br> relating to a text or texts
+- `overload (noun)`  /ˌoʊvərˈloʊd/ <br> too much of something, more than something (or someone) can handle: information overload (= too much information at once, more than your brain can easily handle or understand) <br> <img src='images/overload.jpg' alt='overload' width='200'>
 ---

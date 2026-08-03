@@ -84,9 +84,9 @@
         },
         {
           "word": "prior",
-          "phonetic": "",
-          "mean_fa": "قبلی، پیشین در اولویت: چیزی که اولویت بالاتری دارد",
-          "mean_en": ""
+          "phonetic": "/praɪr/",
+          "mean_fa": "",
+          "mean_en": "existing, happening, or done before something else; earlier in time or order"
         },
         {
           "word": "designations",
@@ -5070,6 +5070,84 @@
               "phonetic": "/ɪˈsen.ʃəl/",
               "mean_fa": "",
               "mean_en": "necessary or needed"
+            },
+            {
+              "word": "opaque (adjective)",
+              "phonetic": "/oʊˈpeɪk/",
+              "mean_fa": "",
+              "mean_en": "1. not able to be seen through or difficult to see inside; not clear <br> 2. difficult to understand; complex; not clear"
+            },
+            {
+              "word": "precise",
+              "phonetic": "/prəˈsaɪs/",
+              "mean_fa": "",
+              "mean_en": "exact and accurate"
+            },
+            {
+              "word": "forward pass",
+              "phonetic": "/ˈfɔːr.wərd pæs/",
+              "mean_fa": "",
+              "mean_en": "in a neural network, the process of moving data forward from the input layer, through all the hidden layers, to the output layer in order to generate a prediction or output"
+            },
+            {
+              "word": "assume",
+              "phonetic": "/əˈsuːm/",
+              "mean_fa": "",
+              "mean_en": "to think that something is true although you are not really sure: Jo is not here today, so I assume that she is ill"
+            },
+            {
+              "word": "slate",
+              "phonetic": "/sleɪt/",
+              "mean_fa": "",
+              "mean_en": "1. a type of dark gray stone used for roofs or writing on <br> 2. a completely clean, empty, or new state that has not yet been marked or trained; ready to be started from zero"
+            },
+            {
+              "word": "match (verb)",
+              "phonetic": "/mætʃ/",
+              "mean_fa": "",
+              "mean_en": "1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture"
+            },
+            {
+              "word": "nowadays",
+              "phonetic": "/ˈnaʊ.ə.deɪz/",
+              "mean_fa": "",
+              "mean_en": "at the present time, in comparison to the past: Nowadays most people have internet access"
+            },
+            {
+              "word": "capture (verb)",
+              "phonetic": "/ˈkæptʃər/",
+              "mean_fa": "",
+              "mean_en": "1. to catch a person, animal, or place and take control of it by force <br> <img src='images/capture.jpg' alt='capture' width='200'> <br> 2. to succeed in representing or expressing something (a feeling, idea, or quality) in words, pictures, art, etc.: The photo captures the beauty of the mountains <br> 3. to record something by taking a photo or video of it"
+            },
+            {
+              "word": "intricate",
+              "phonetic": "/ˈɪn.trə.kət/",
+              "mean_fa": "",
+              "mean_en": "complex; very complicated or detailed: an intricate pattern / intricate relationships"
+            },
+            {
+              "word": "argument (noun)",
+              "phonetic": "/ˈɑːr.ɡjə.mənt/",
+              "mean_fa": "",
+              "mean_en": "1. (in programming) a value or piece of information that is passed to a function or method so it can use it: We'll pass an argument that will instruct the function to download the weights <br> 2. a reason or set of reasons that show that something is true or right: She made a strong argument for reducing working hours <br> 3. a disagreement between people; a discussion involving different ideas or opinions, in which people disagree: They had an argument about politics"
+            },
+            {
+              "word": "curious (adjective)",
+              "phonetic": "/ˈkjʊr.i.əs/",
+              "mean_fa": "",
+              "mean_en": "1. If you are curious, you want to know about something: They were very curious about the people who lived upstairs <br> 2. strange or unusual: There was a curious mixture of people in the audience"
+            },
+            {
+              "word": "textual (adjective)",
+              "phonetic": "/ˈteks.tʃu.əl/",
+              "mean_fa": "",
+              "mean_en": "relating to a text or texts"
+            },
+            {
+              "word": "overload (noun)",
+              "phonetic": "/ˌoʊvərˈloʊd/",
+              "mean_fa": "",
+              "mean_en": "too much of something, more than something (or someone) can handle: information overload (= too much information at once, more than your brain can easily handle or understand) <br> <img src='images/overload.jpg' alt='overload' width='200'>"
             }
           ]
         }

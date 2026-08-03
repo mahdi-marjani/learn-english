@@ -281,7 +281,7 @@
 
 ### Health (28 words)
 - `throat`  /θroʊt/ <br> the front of the neck, or the space inside the neck down which food and air can go <br> <img src='images/throat.jpg' alt='throat' width='200'>
-- `stare`  /ster/ <br> look for a long time
+- `stare`  /ster/ <br> to look at somebody or something for a long time
 - `medicine`  /ˈmed.ɪ.sən/ <br> 1. the science of understanding illnesses and making sick people well again: He's studying medicine <br> 2. special liquids or pills that help you to get better when you are ill: Take this medicine every morning
 - `sore throat`  /ˌsɔːr ˈθroʊt/ <br> pain in the throat
 - `cough (verb)`  /kɑːf/ <br> to send air out of your throat with a sudden loud noise: The smoke made me cough
