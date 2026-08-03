@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 850**
+**Total words: 858**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (380 words)](#part-1-core-pytorch-380-words)
+- [Part 1: Core PyTorch (388 words)](#part-1-core-pytorch-388-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (79 words)](#chapter-2-pretrained-networks-79-words)
+  - [Chapter 2: Pretrained networks (87 words)](#chapter-2-pretrained-networks-87-words)
 
 ---
 
@@ -332,7 +332,7 @@
 - `by the end of part 1`  <br> تا وقتی که به پایان پارت 1 برسیم
 - `tackle (verb)`  /ˈtækl/ <br> 1. to try to deal with a difficult problem or situation: How shall we tackle this problem? <br> 2. to try to take the ball from somebody in a game like football <br> 3. to try to catch and hold somebody: The police officer tackled one of the robbers as he ran out
 - `catch`  /kætʃ/ <br> 1. to take and hold something that is moving: He threw the ball to me and I caught it <br> 2. to find and hold somebody or something: They caught a fish in the river - The man ran so fast that the police couldn't catch him <br> 3. to see somebody when they are doing something wrong: They caught the thief stealing the painting <br> 4. to be early enough for a bus, train, etc. that is going to leave: You should run if you want to catch the buss (OPPOSITE: miss) <br> 5. to get an illness: She caught a cold <br> 6. to let something be held tightly: I caught my fingers in the door <br> `catch fire` to start to burn: The house caught fire
-- `hold (verb)`  /hoʊld/ <br> 1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> `hold somebody or something back` to stop somebody or something from moving forwards: The police held back the crowd <br> `hold it` (informal) Wait! Don't move <br> `hold on` 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> `hold somebody or something up` 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today
+- `hold (verb)`  /hoʊld/ <br> 1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> `hold somebody or something back` to stop somebody or something from moving forwards: The police held back the crowd <br> `hold it` (informal) Wait! Don't move <br> `hold on/tight` 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> `hold somebody or something up` 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today
 - `robber`  /ˈrɑː.bɚ/ <br> a person who steals money or property, often by force
 - `ran`  <br> past of run
 - `revolution`  /ˌrevəˈluːʃən/ <br> 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
@@ -508,7 +508,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (380 words)
+## Part 1: Core PyTorch (388 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -813,7 +813,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (79 words)
+### Chapter 2: Pretrained networks (87 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -893,4 +893,12 @@
 - `curious (adjective)`  /ˈkjʊr.i.əs/ <br> 1. If you are curious, you want to know about something: They were very curious about the people who lived upstairs <br> 2. strange or unusual: There was a curious mixture of people in the audience
 - `textual (adjective)`  /ˈteks.tʃu.əl/ <br> relating to a text or texts
 - `overload (noun)`  /ˌoʊvərˈloʊd/ <br> too much of something, more than something (or someone) can handle: information overload (= too much information at once, more than your brain can easily handle or understand) <br> <img src='images/overload.jpg' alt='overload' width='200'>
+- `nested (adjective)`  /ˈnes.tɪd/ <br> (of similar objects) placed one inside the other: Modules can be nested - The Russian dolls are nested inside each other, each one smaller than the last <br> <img src='images/nested.jpg' alt='nested' width='200'>
+- `summary`  /ˈsʌm.ər.i/ <br> a short way of telling something by giving only the most important facts: Here is a summary of the news ...
+- `indentation`  /ˌɪn.denˈteɪ.ʃən/ <br> the space left at the beginning of a line of writing or printed text, used to show the start of a new section or to show levels of structure: Printed model summaries show this hierarchy via indentation. <br> Python uses indentation to define blocks of code instead of curly braces.
+- `more or less`  <br> approximately
+- `cascade (noun)`  /kæˈskeɪd/ <br> 1. a small waterfall, often one of a group <br> 2. a series of things that happen one after another, each one causing the next: a sequential cascade of operations - A cascade of errors caused the whole system to fail
+- `equal (adjective)`  /ˈiː.kwəl/ <br> the same in amount, number, or size: producing an equal number of scores for each of the 1,000 classes - Divide the cake into equal parts.
+- `deviation (noun)`  /ˌdiː.viˈeɪ.ʃən/ <br> 1. the action of being or doing something that is different from the usual or common way of behaving <br> 2. (Statistics) the amount by which something differs from an expected or standard value or behavior: normalize its RGB components so that they have defined means and standard deviations - Standard deviation measures how spread out the numbers in a data set are <br> <img src='images/deviation.jpg' alt='deviation' width='200'>
+- `manipulation`  /məˌnɪp.jəˈleɪ.ʃən/ <br> controlling someone or something to your own advantage
 ---

@@ -1840,7 +1840,7 @@
           "word": "hold (verb)",
           "phonetic": "/hoʊld/",
           "mean_fa": "",
-          "mean_en": "1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> `hold somebody or something back` to stop somebody or something from moving forwards: The police held back the crowd <br> `hold it` (informal) Wait! Don't move <br> `hold on` 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> `hold somebody or something up` 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today"
+          "mean_en": "1. to have something in your hand or arms: She was holding a gun - He held the baby in his arms <br> 2. to keep something in a certain way: Hold your hand up - Try to hold the camera still <br> 3. to support the weight of somebody or something: Are you sure that branch will hold you? <br> 4. to have space for a certain number or amount: The car holds five people <br> 5. to make something happen: The meeting was held in the town hall - It's impossible to hold a conversation with him <br> `hold somebody or something back` to stop somebody or something from moving forwards: The police held back the crowd <br> `hold it` (informal) Wait! Don't move <br> `hold on/tight` 1. (informal) to wait (SAME MEANING: hang on): Hold on, I'm coming <br> 2. to keep holding something tightly: The child held on to her mother's hand <br> `hold somebody or something up` 1. to make somebody or something late: The plane was held up for 40 minutes <br> 2. to try to steal from a place, using a gun: Two men held up a bank in Bristal today"
         },
         {
           "word": "robber",
@@ -5148,6 +5148,54 @@
               "phonetic": "/ˌoʊvərˈloʊd/",
               "mean_fa": "",
               "mean_en": "too much of something, more than something (or someone) can handle: information overload (= too much information at once, more than your brain can easily handle or understand) <br> <img src='images/overload.jpg' alt='overload' width='200'>"
+            },
+            {
+              "word": "nested (adjective)",
+              "phonetic": "/ˈnes.tɪd/",
+              "mean_fa": "",
+              "mean_en": "(of similar objects) placed one inside the other: Modules can be nested - The Russian dolls are nested inside each other, each one smaller than the last <br> <img src='images/nested.jpg' alt='nested' width='200'>"
+            },
+            {
+              "word": "summary",
+              "phonetic": "/ˈsʌm.ər.i/",
+              "mean_fa": "",
+              "mean_en": "a short way of telling something by giving only the most important facts: Here is a summary of the news ..."
+            },
+            {
+              "word": "indentation",
+              "phonetic": "/ˌɪn.denˈteɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the space left at the beginning of a line of writing or printed text, used to show the start of a new section or to show levels of structure: Printed model summaries show this hierarchy via indentation. <br> Python uses indentation to define blocks of code instead of curly braces."
+            },
+            {
+              "word": "more or less",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "approximately"
+            },
+            {
+              "word": "cascade (noun)",
+              "phonetic": "/kæˈskeɪd/",
+              "mean_fa": "",
+              "mean_en": "1. a small waterfall, often one of a group <br> 2. a series of things that happen one after another, each one causing the next: a sequential cascade of operations - A cascade of errors caused the whole system to fail"
+            },
+            {
+              "word": "equal (adjective)",
+              "phonetic": "/ˈiː.kwəl/",
+              "mean_fa": "",
+              "mean_en": "the same in amount, number, or size: producing an equal number of scores for each of the 1,000 classes - Divide the cake into equal parts."
+            },
+            {
+              "word": "deviation (noun)",
+              "phonetic": "/ˌdiː.viˈeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "1. the action of being or doing something that is different from the usual or common way of behaving <br> 2. (Statistics) the amount by which something differs from an expected or standard value or behavior: normalize its RGB components so that they have defined means and standard deviations - Standard deviation measures how spread out the numbers in a data set are <br> <img src='images/deviation.jpg' alt='deviation' width='200'>"
+            },
+            {
+              "word": "manipulation",
+              "phonetic": "/məˌnɪp.jəˈleɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "controlling someone or something to your own advantage"
             }
           ]
         }
