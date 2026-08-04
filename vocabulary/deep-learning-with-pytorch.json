@@ -137,12 +137,6 @@
           "mean_en": ""
         },
         {
-          "word": "preserving",
-          "phonetic": "",
-          "mean_fa": "حفظ کردن",
-          "mean_en": ""
-        },
-        {
           "word": "policy",
           "phonetic": "",
           "mean_fa": "سیاست",
@@ -3060,7 +3054,7 @@
               "word": "fed",
               "phonetic": "",
               "mean_fa": "",
-              "mean_en": "past tense of feed"
+              "mean_en": "past tense and past participle of feed"
             },
             {
               "word": "feed",
@@ -5304,6 +5298,84 @@
               "phonetic": "/ˈmæsk.ɪŋ teɪp/",
               "mean_fa": "چسب نقاشی (نوعی نوار چسب کم‌چسبنده برای پوشاندن قسمت‌هایی که نباید رنگ یا مواد دیگر روی آن‌ها بیفتد) <br> <img src='images/masking-tape.jpg' alt='masking-tape' width='200'>",
               "mean_en": "a type of low-tack tape used to cover or protect areas of a surface so they are not painted, colored, or affected while work is done nearby: laying low-tack masking tape over the rest of the painting - Painters use masking tape to keep lines straight and edges clean."
+            },
+            {
+              "word": "repair (verb)",
+              "phonetic": "/rɪˈper/",
+              "mean_fa": "",
+              "mean_en": "to make something that is broken or damaged good again (SAME MEANING: mend): Can you repair my bike?"
+            },
+            {
+              "word": "stencil",
+              "phonetic": "/ˈsten.səl/",
+              "mean_fa": "",
+              "mean_en": "a piece of card, plastic, metal, etc. into which shapes have been cut, used to draw or paint patterns onto a surface <br> <img src='images/stencil.jpg' alt='stencil' width='200'>"
+            },
+            {
+              "word": "primed (adjective)",
+              "phonetic": "/praɪmd/",
+              "mean_fa": "",
+              "mean_en": "prepared and ready to be worked on: the editable, 'primed' region where the model may repaint - The wall was primed before painting to help the paint stick better."
+            },
+            {
+              "word": "inpainting",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "to repair or restore (a painting) by repainting damaged or missing areas"
+            },
+            {
+              "word": "refinement",
+              "phonetic": "/rɪˈfaɪn.mənt/",
+              "mean_fa": "",
+              "mean_en": "the improvement or clarification of something by the making of small changes"
+            },
+            {
+              "word": "localized (adjective)",
+              "phonetic": "/ˈloʊ.kə.laɪzd/",
+              "mean_fa": "",
+              "mean_en": "restricted to a particular area or place, rather than affecting the whole: can make localized, realistic edits without retraining a model - The pain was localized to her lower back."
+            },
+            {
+              "word": "realistic (adjective)",
+              "phonetic": "/ˌriː.əˈlɪs.tɪk/",
+              "mean_fa": "",
+              "mean_en": "looking or seeming very similar to real life: can make localized, realistic edits without retraining a model - The movie's special effects looked very realistic."
+            },
+            {
+              "word": "gradual (adjective)",
+              "phonetic": "/ˈɡrædʒ.u.əl/",
+              "mean_fa": "",
+              "mean_en": "happening slowly: There has been a gradual increase in prices (OPPOSITE: sudden)"
+            },
+            {
+              "word": "perturb (verb)",
+              "phonetic": "/pərˈtɜːrb/",
+              "mean_fa": "",
+              "mean_en": "to add a small, unwanted change to something: clean images are repeatedly perturbed with small amounts of noise - A loud noise perturbed the sleeping baby"
+            },
+            {
+              "word": "taught",
+              "phonetic": "/tɑːt/",
+              "mean_fa": "",
+              "mean_en": "past tense and past participle of teach"
+            },
+            {
+              "word": "emerge (verb)",
+              "phonetic": "/ɪˈmɜːrdʒ/",
+              "mean_fa": "",
+              "mean_en": "to appear or come out gradually, especially from being hidden or unclear: structure re-emerges as a coherent picture - The sun emerged from behind the clouds."
+            },
+            {
+              "word": "description",
+              "phonetic": "/dɪˈskrɪp.ʃən/",
+              "mean_fa": "",
+              "mean_en": "words that tell what somebody or something is like or what happened: I gave the police a description of the thief"
+            },
+            {
+              "word": "synthesize",
+              "phonetic": "/ˈsɪn.θə.saɪz/",
+              "mean_fa": "",
+              "mean_en": "to create something new by combining different things or generating it from scratch: the model can synthesize a brand-new image that matches the description - the drug was first synthesized in 1929"
             }
           ]
         }

@@ -1,23 +1,23 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 876**
+**Total words: 888**
 
 ## 📑 Table of Contents
 
-- [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
+- [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
 - [foreword (51 words)](#foreword-51-words)
 - [preface (91 words)](#preface-91-words)
 - [acknowledgments (60 words)](#acknowledgments-60-words)
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (406 words)](#part-1-core-pytorch-406-words)
+- [Part 1: Core PyTorch (419 words)](#part-1-core-pytorch-419-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (105 words)](#chapter-2-pretrained-networks-105-words)
+  - [Chapter 2: Pretrained networks (118 words)](#chapter-2-pretrained-networks-118-words)
 
 ---
 
-## Deep Learning with PyTorch (39 words)
+## Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
 - `distribute`  /dɪˈstrɪbjuːt/ <br> to give or send things to each person: New books are distributed on the first day of school
 - `order`  <br> 1. the way that you place people or things together: The names are in alphabetical order - List the jobs in order of importance <br> 2. when everything is in the right place or everybody is doing the right thing: Our teacher likes order in the classroom - Are these papers in order (= correct and tidy)? <br> 3. words that tell somebody to do something: He gave the order for work to begin - Soldiers have to obey orders <br> 4. when you ask a company to send or supply goods to you: I'd like to place on order for some books <br> 5. when you ask for food or drink in a restaurant, bar, etc.: The waiter took our order <br> `in order to` so that you can do something: We arrived early in order to buy our tickets <br> `out of order` (used about a machine, etc.) not working: I couldn't ring you _ the phone was out of order - سفارش
@@ -40,7 +40,6 @@
 - `caps`  <br> مخفف Capital letters
 - `recognizing`  <br> درک کردن
 - `importance`  <br> اهمیت
-- `preserving`  <br> حفظ کردن
 - `policy`  <br> سیاست
 - `acid-free`  <br> بدون اسید
 - `exert`  <br> اعمال کردن
@@ -508,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (406 words)
+## Part 1: Core PyTorch (419 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -543,7 +542,7 @@
 - `approximate (verb)`  /əˈprɑːksɪmeɪt/ <br> to be close to a particular number or state without being exact
 - `close (adjective)`  /kloʊs/ <br> 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - `coherent`  /koʊˈhɪrənt/ <br> logical and well-organized; easy to understand and follow
-- `fed`  <br> past tense of feed
+- `fed`  <br> past tense and past participle of feed
 - `feed`  <br> to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her
 - `phrase`  /freɪz/ <br> a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
 - `corpus`  /ˈkɔːrpəs/ <br> a large collection of written or spoken texts used for language research
@@ -813,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (105 words)
+### Chapter 2: Pretrained networks (118 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -919,4 +918,17 @@
 - `low tack (adjective)`  /ˌloʊ ˈtæk/ <br> (of tape or adhesive) having a weak or gentle stickiness, designed to be easily removed without leaving marks or damaging the surface underneath - کم‌چسب، چسبندگی کم (نوار چسبی که به راحتی جدا می‌شود و اثری از خود باقی نمی‌گذارد) <br> <img src='images/low-tack.jpg' alt='low-tack' width='200'>
 - `tape`  /teɪp/ <br> نوار چسب، چسب نواری <br> <img src='images/tape.jpg' alt='tape' width='200'>
 - `masking tape`  /ˈmæsk.ɪŋ teɪp/ <br> a type of low-tack tape used to cover or protect areas of a surface so they are not painted, colored, or affected while work is done nearby: laying low-tack masking tape over the rest of the painting - Painters use masking tape to keep lines straight and edges clean. - چسب نقاشی (نوعی نوار چسب کم‌چسبنده برای پوشاندن قسمت‌هایی که نباید رنگ یا مواد دیگر روی آن‌ها بیفتد) <br> <img src='images/masking-tape.jpg' alt='masking-tape' width='200'>
+- `repair (verb)`  /rɪˈper/ <br> to make something that is broken or damaged good again (SAME MEANING: mend): Can you repair my bike?
+- `stencil`  /ˈsten.səl/ <br> a piece of card, plastic, metal, etc. into which shapes have been cut, used to draw or paint patterns onto a surface <br> <img src='images/stencil.jpg' alt='stencil' width='200'>
+- `primed (adjective)`  /praɪmd/ <br> prepared and ready to be worked on: the editable, 'primed' region where the model may repaint - The wall was primed before painting to help the paint stick better.
+- `inpainting`  <br> to repair or restore (a painting) by repainting damaged or missing areas
+- `refinement`  /rɪˈfaɪn.mənt/ <br> the improvement or clarification of something by the making of small changes
+- `localized (adjective)`  /ˈloʊ.kə.laɪzd/ <br> restricted to a particular area or place, rather than affecting the whole: can make localized, realistic edits without retraining a model - The pain was localized to her lower back.
+- `realistic (adjective)`  /ˌriː.əˈlɪs.tɪk/ <br> looking or seeming very similar to real life: can make localized, realistic edits without retraining a model - The movie's special effects looked very realistic.
+- `gradual (adjective)`  /ˈɡrædʒ.u.əl/ <br> happening slowly: There has been a gradual increase in prices (OPPOSITE: sudden)
+- `perturb (verb)`  /pərˈtɜːrb/ <br> to add a small, unwanted change to something: clean images are repeatedly perturbed with small amounts of noise - A loud noise perturbed the sleeping baby
+- `taught`  /tɑːt/ <br> past tense and past participle of teach
+- `emerge (verb)`  /ɪˈmɜːrdʒ/ <br> to appear or come out gradually, especially from being hidden or unclear: structure re-emerges as a coherent picture - The sun emerged from behind the clouds.
+- `description`  /dɪˈskrɪp.ʃən/ <br> words that tell what somebody or something is like or what happened: I gave the police a description of the thief
+- `synthesize`  /ˈsɪn.θə.saɪz/ <br> to create something new by combining different things or generating it from scratch: the model can synthesize a brand-new image that matches the description - the drug was first synthesized in 1929
 ---
