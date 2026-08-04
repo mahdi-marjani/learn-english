@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1439**
+**Total words: 1452**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (858 words)](#deep-learning-with-pytorch---vocabulary-858-words)
+- [Deep Learning with PyTorch - Vocabulary (871 words)](#deep-learning-with-pytorch---vocabulary-871-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (388 words)](#part-1-core-pytorch-388-words)
+  - [Part 1: Core PyTorch (401 words)](#part-1-core-pytorch-401-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (87 words)](#chapter-2-pretrained-networks-87-words)
+    - [Chapter 2: Pretrained networks (100 words)](#chapter-2-pretrained-networks-100-words)
 - [Duolingo - Vocabulary (377 words)](#duolingo---vocabulary-377-words)
   - [SECTION 1 (377 words)](#section-1-377-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -211,7 +211,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (858 words)
+## Deep Learning with PyTorch - Vocabulary (871 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -704,7 +704,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (388 words)
+### Part 1: Core PyTorch (401 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1009,7 +1009,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (87 words)
+#### Chapter 2: Pretrained networks (100 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1097,6 +1097,19 @@
 - `equal (adjective)`  /ˈiː.kwəl/ <br> the same in amount, number, or size: producing an equal number of scores for each of the 1,000 classes - Divide the cake into equal parts.
 - `deviation (noun)`  /ˌdiː.viˈeɪ.ʃən/ <br> 1. the action of being or doing something that is different from the usual or common way of behaving <br> 2. (Statistics) the amount by which something differs from an expected or standard value or behavior: normalize its RGB components so that they have defined means and standard deviations - Standard deviation measures how spread out the numbers in a data set are <br> <img src='images/deviation.jpg' alt='deviation' width='200'>
 - `manipulation`  /məˌnɪp.jəˈleɪ.ʃən/ <br> controlling someone or something to your own advantage
+- `internal`  /ɪnˈtɜːrnl/ <br> of or on the inside: He has internal injuries (= inside his body) - the internal structure of a building - internal doors  (OPPOSITE: external)
+- `staggering (adjective)`  /ˈstæg.ər.ɪŋ/ <br> very shocking and surprising: A staggering set of operations involving 88.6 million parameters
+- `akin (adjective)`  /əˈkɪn/ <br> having some of the same qualities: They speak a language akin to French
+- `ascending (adjective)`  /əˈsend.ɪŋ/ <br> increasing in order, from smallest to largest: the sort function sorts values in ascending order - The numbers are listed in ascending order: 1, 3, 5, 9.
+- `descending (adjective)`  /dɪˈsend.ɪŋ/ <br> decreasing in order, from largest to smallest: sorts the values in ascending or descending order - The results are shown in descending order: 9, 5, 3, 1.
+- `indices`  <br> plural of index
+- `misunderstand (verb)`  /ˌmɪsʌndərˈstænd/ <br> to not understand something correctly or to understand it in the wrong way: I think you misunderstood what I meant
+- `subtle (adjective)`  /ˈsʌt.əl/ <br> not large, bright, obvious or easy to notice: subtle colors - There has been a subtle change in her behavior - There's a subtle difference between the two colors
+- `bias (noun)`  /ˈbaɪ.əs/ <br> a strong feeling in favor of or against something, often not based on fair judgment: how easy it is for strange, subtle biases to sneak into our data - The study was criticized for having a bias toward younger participants. - تعصب، سوگیری، جانبداری
+- `sneak (verb)`  /sniːk/ <br> to go somewhere or do something secretly and quietly, without being noticed: how easy it is for strange, subtle biases to sneak into our data - He tried to sneak out of the house without waking anyone.
+- `interrogate (verb)`  /ɪnˈter.ə.ɡeɪt/ <br> to ask someone a lot of questions for a long time in order to get information, sometimes using threats or violence: We can go ahead and interrogate our network with random images - The police interrogated the suspect for hours.
+- `experiment (verb)`  /ɪkˈsper.ə.ment/ <br> to try different things or methods to see what happens or to discover something: It's useful to experiment and get a feel for how a model reacts to unseen data - Scientists experimented with different chemicals to find a cure.
+- `ton (noun)`  /tʌn/ <br> 1. a unit for measuring weight. In the US, a ton is 2000 pounds <br> 2. tons (plural) (informal) a lot: He's got tons of money
 ---
 
 ---

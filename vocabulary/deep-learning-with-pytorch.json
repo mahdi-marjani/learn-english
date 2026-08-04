@@ -5196,6 +5196,84 @@
               "phonetic": "/məˌnɪp.jəˈleɪ.ʃən/",
               "mean_fa": "",
               "mean_en": "controlling someone or something to your own advantage"
+            },
+            {
+              "word": "internal",
+              "phonetic": "/ɪnˈtɜːrnl/",
+              "mean_fa": "",
+              "mean_en": "of or on the inside: He has internal injuries (= inside his body) - the internal structure of a building - internal doors  (OPPOSITE: external)"
+            },
+            {
+              "word": "staggering (adjective)",
+              "phonetic": "/ˈstæg.ər.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "very shocking and surprising: A staggering set of operations involving 88.6 million parameters"
+            },
+            {
+              "word": "akin (adjective)",
+              "phonetic": "/əˈkɪn/",
+              "mean_fa": "",
+              "mean_en": "having some of the same qualities: They speak a language akin to French"
+            },
+            {
+              "word": "ascending (adjective)",
+              "phonetic": "/əˈsend.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "increasing in order, from smallest to largest: the sort function sorts values in ascending order - The numbers are listed in ascending order: 1, 3, 5, 9."
+            },
+            {
+              "word": "descending (adjective)",
+              "phonetic": "/dɪˈsend.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "decreasing in order, from largest to smallest: sorts the values in ascending or descending order - The results are shown in descending order: 9, 5, 3, 1."
+            },
+            {
+              "word": "indices",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "plural of index"
+            },
+            {
+              "word": "misunderstand (verb)",
+              "phonetic": "/ˌmɪsʌndərˈstænd/",
+              "mean_fa": "",
+              "mean_en": "to not understand something correctly or to understand it in the wrong way: I think you misunderstood what I meant"
+            },
+            {
+              "word": "subtle (adjective)",
+              "phonetic": "/ˈsʌt.əl/",
+              "mean_fa": "",
+              "mean_en": "not large, bright, obvious or easy to notice: subtle colors - There has been a subtle change in her behavior - There's a subtle difference between the two colors"
+            },
+            {
+              "word": "bias (noun)",
+              "phonetic": "/ˈbaɪ.əs/",
+              "mean_fa": "تعصب، سوگیری، جانبداری",
+              "mean_en": "a strong feeling in favor of or against something, often not based on fair judgment: how easy it is for strange, subtle biases to sneak into our data - The study was criticized for having a bias toward younger participants."
+            },
+            {
+              "word": "sneak (verb)",
+              "phonetic": "/sniːk/",
+              "mean_fa": "",
+              "mean_en": "to go somewhere or do something secretly and quietly, without being noticed: how easy it is for strange, subtle biases to sneak into our data - He tried to sneak out of the house without waking anyone."
+            },
+            {
+              "word": "interrogate (verb)",
+              "phonetic": "/ɪnˈter.ə.ɡeɪt/",
+              "mean_fa": "",
+              "mean_en": "to ask someone a lot of questions for a long time in order to get information, sometimes using threats or violence: We can go ahead and interrogate our network with random images - The police interrogated the suspect for hours."
+            },
+            {
+              "word": "experiment (verb)",
+              "phonetic": "/ɪkˈsper.ə.ment/",
+              "mean_fa": "",
+              "mean_en": "to try different things or methods to see what happens or to discover something: It's useful to experiment and get a feel for how a model reacts to unseen data - Scientists experimented with different chemicals to find a cure."
+            },
+            {
+              "word": "ton (noun)",
+              "phonetic": "/tʌn/",
+              "mean_fa": "",
+              "mean_en": "1. a unit for measuring weight. In the US, a ton is 2000 pounds <br> 2. tons (plural) (informal) a lot: He's got tons of money"
             }
           ]
         }
