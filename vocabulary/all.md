@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1452**
+**Total words: 1457**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (871 words)](#deep-learning-with-pytorch---vocabulary-871-words)
+- [Deep Learning with PyTorch - Vocabulary (876 words)](#deep-learning-with-pytorch---vocabulary-876-words)
   - [Deep Learning with PyTorch (39 words)](#deep-learning-with-pytorch-39-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (401 words)](#part-1-core-pytorch-401-words)
+  - [Part 1: Core PyTorch (406 words)](#part-1-core-pytorch-406-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (100 words)](#chapter-2-pretrained-networks-100-words)
+    - [Chapter 2: Pretrained networks (105 words)](#chapter-2-pretrained-networks-105-words)
 - [Duolingo - Vocabulary (377 words)](#duolingo---vocabulary-377-words)
   - [SECTION 1 (377 words)](#section-1-377-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -211,7 +211,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (871 words)
+## Deep Learning with PyTorch - Vocabulary (876 words)
 
 ### Deep Learning with PyTorch (39 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -704,7 +704,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (401 words)
+### Part 1: Core PyTorch (406 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1009,7 +1009,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (100 words)
+#### Chapter 2: Pretrained networks (105 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1110,6 +1110,11 @@
 - `interrogate (verb)`  /ɪnˈter.ə.ɡeɪt/ <br> to ask someone a lot of questions for a long time in order to get information, sometimes using threats or violence: We can go ahead and interrogate our network with random images - The police interrogated the suspect for hours.
 - `experiment (verb)`  /ɪkˈsper.ə.ment/ <br> to try different things or methods to see what happens or to discover something: It's useful to experiment and get a feel for how a model reacts to unseen data - Scientists experimented with different chemicals to find a cure.
 - `ton (noun)`  /tʌn/ <br> 1. a unit for measuring weight. In the US, a ton is 2000 pounds <br> 2. tons (plural) (informal) a lot: He's got tons of money
+- `patch`  /pætʃ/ <br> 1. a small piece of something that is not the same as the other parts: a black cat with a white patch on its back <br> 2. a piece of cloth that you use to cover a hole in things like clothes: I sewed a patch on my jeans <br> <img src='images/patch.jpg' alt='patch' width='200'>
+- `rest (noun)`  /rest/ <br> 1. `the rest` the part that is left or the ones that are left; the remaining part of something: If you don't want the rest, I'll eat it - I liked the beginning, but the rest of the film wasn't very good - Jason watched TV and the rest of us went for a walk <br> 2. a time when you relax, sleep or do nothing: After walking for an hour, we stopped for a rest
+- `low tack (adjective)`  /ˌloʊ ˈtæk/ <br> (of tape or adhesive) having a weak or gentle stickiness, designed to be easily removed without leaving marks or damaging the surface underneath - کم‌چسب، چسبندگی کم (نوار چسبی که به راحتی جدا می‌شود و اثری از خود باقی نمی‌گذارد) <br> <img src='images/low-tack.jpg' alt='low-tack' width='200'>
+- `tape`  /teɪp/ <br> نوار چسب، چسب نواری <br> <img src='images/tape.jpg' alt='tape' width='200'>
+- `masking tape`  /ˈmæsk.ɪŋ teɪp/ <br> a type of low-tack tape used to cover or protect areas of a surface so they are not painted, colored, or affected while work is done nearby: laying low-tack masking tape over the rest of the painting - Painters use masking tape to keep lines straight and edges clean. - چسب نقاشی (نوعی نوار چسب کم‌چسبنده برای پوشاندن قسمت‌هایی که نباید رنگ یا مواد دیگر روی آن‌ها بیفتد) <br> <img src='images/masking-tape.jpg' alt='masking-tape' width='200'>
 ---
 
 ---

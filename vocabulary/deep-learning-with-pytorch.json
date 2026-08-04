@@ -5274,6 +5274,36 @@
               "phonetic": "/tʌn/",
               "mean_fa": "",
               "mean_en": "1. a unit for measuring weight. In the US, a ton is 2000 pounds <br> 2. tons (plural) (informal) a lot: He's got tons of money"
+            },
+            {
+              "word": "patch",
+              "phonetic": "/pætʃ/",
+              "mean_fa": "",
+              "mean_en": "1. a small piece of something that is not the same as the other parts: a black cat with a white patch on its back <br> 2. a piece of cloth that you use to cover a hole in things like clothes: I sewed a patch on my jeans <br> <img src='images/patch.jpg' alt='patch' width='200'>"
+            },
+            {
+              "word": "rest (noun)",
+              "phonetic": "/rest/",
+              "mean_fa": "",
+              "mean_en": "1. `the rest` the part that is left or the ones that are left; the remaining part of something: If you don't want the rest, I'll eat it - I liked the beginning, but the rest of the film wasn't very good - Jason watched TV and the rest of us went for a walk <br> 2. a time when you relax, sleep or do nothing: After walking for an hour, we stopped for a rest"
+            },
+            {
+              "word": "low tack (adjective)",
+              "phonetic": "/ˌloʊ ˈtæk/",
+              "mean_fa": "کم‌چسب، چسبندگی کم (نوار چسبی که به راحتی جدا می‌شود و اثری از خود باقی نمی‌گذارد) <br> <img src='images/low-tack.jpg' alt='low-tack' width='200'>",
+              "mean_en": "(of tape or adhesive) having a weak or gentle stickiness, designed to be easily removed without leaving marks or damaging the surface underneath"
+            },
+            {
+              "word": "tape",
+              "phonetic": "/teɪp/",
+              "mean_fa": "نوار چسب، چسب نواری <br> <img src='images/tape.jpg' alt='tape' width='200'>",
+              "mean_en": ""
+            },
+            {
+              "word": "masking tape",
+              "phonetic": "/ˈmæsk.ɪŋ teɪp/",
+              "mean_fa": "چسب نقاشی (نوعی نوار چسب کم‌چسبنده برای پوشاندن قسمت‌هایی که نباید رنگ یا مواد دیگر روی آن‌ها بیفتد) <br> <img src='images/masking-tape.jpg' alt='masking-tape' width='200'>",
+              "mean_en": "a type of low-tack tape used to cover or protect areas of a surface so they are not painted, colored, or affected while work is done nearby: laying low-tack masking tape over the rest of the painting - Painters use masking tape to keep lines straight and edges clean."
             }
           ]
         }
