@@ -2306,6 +2306,35 @@
               "mean_en": "to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday"
             }
           ]
+        },
+        {
+          "heading": "Relations",
+          "words": [
+            {
+              "word": "nephew",
+              "phonetic": "/ˈnef.juː/",
+              "mean_fa": "",
+              "mean_en": "a son of your sister or brother"
+            },
+            {
+              "word": "blind",
+              "phonetic": "/blaɪnd/",
+              "mean_fa": "",
+              "mean_en": "not able to see"
+            },
+            {
+              "word": "retire",
+              "phonetic": "/rɪˈtaɪr/",
+              "mean_fa": "",
+              "mean_en": "to leave your job or stop working because of old age or ill health"
+            },
+            {
+              "word": "strike (verb)",
+              "phonetic": "/straɪk/",
+              "mean_fa": "",
+              "mean_en": "1. (formal) to hit somebody or something: A stone struck me on the back of the head <br> 2. to stop working because you want more money or are angry about something: The nurses striking for better pay <br> 3. to come suddenly into your mind: It suddenly struck me that she looked like my sister <br> 4. If a clock strikes, it rings a bell a certain number of times so that people know what time it is: The clock struck nine <br> `strike a match` to make fire with a match"
+            }
+          ]
         }
       ]
     }

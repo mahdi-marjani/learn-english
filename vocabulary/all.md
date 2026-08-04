@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1435**
+**Total words: 1439**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (388 words)](#part-1-core-pytorch-388-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (87 words)](#chapter-2-pretrained-networks-87-words)
-- [Duolingo - Vocabulary (373 words)](#duolingo---vocabulary-373-words)
-  - [SECTION 1 (373 words)](#section-1-373-words)
+- [Duolingo - Vocabulary (377 words)](#duolingo---vocabulary-377-words)
+  - [SECTION 1 (377 words)](#section-1-377-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -36,6 +36,7 @@
     - [Stories (27 words)](#stories-27-words)
     - [Wedding (15 words)](#wedding-15-words)
     - [Memories (20 words)](#memories-20-words)
+    - [Relations (4 words)](#relations-4-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1100,9 +1101,9 @@
 
 ---
 
-## Duolingo - Vocabulary (373 words)
+## Duolingo - Vocabulary (377 words)
 
-### SECTION 1 (373 words)
+### SECTION 1 (377 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1502,6 +1503,12 @@
 - `recipe`  /ˈres.ə.pi/ <br> the instructions on how to cook a certain food, including a list of the ingredients required
 - `oven`  /ˈʌv.ən/ <br> the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>
 - `bake`  /beɪk/ <br> to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday
+
+#### Relations (4 words)
+- `nephew`  /ˈnef.juː/ <br> a son of your sister or brother
+- `blind`  /blaɪnd/ <br> not able to see
+- `retire`  /rɪˈtaɪr/ <br> to leave your job or stop working because of old age or ill health
+- `strike (verb)`  /straɪk/ <br> 1. (formal) to hit somebody or something: A stone struck me on the back of the head <br> 2. to stop working because you want more money or are angry about something: The nurses striking for better pay <br> 3. to come suddenly into your mind: It suddenly struck me that she looked like my sister <br> 4. If a clock strikes, it rings a bell a certain number of times so that people know what time it is: The clock struck nine <br> `strike a match` to make fire with a match
 ---
 
 ---
