@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1469**
+**Total words: 1475**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (419 words)](#part-1-core-pytorch-419-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (118 words)](#chapter-2-pretrained-networks-118-words)
-- [Duolingo - Vocabulary (377 words)](#duolingo---vocabulary-377-words)
-  - [SECTION 1 (377 words)](#section-1-377-words)
+- [Duolingo - Vocabulary (383 words)](#duolingo---vocabulary-383-words)
+  - [SECTION 1 (383 words)](#section-1-383-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -36,7 +36,7 @@
     - [Stories (27 words)](#stories-27-words)
     - [Wedding (15 words)](#wedding-15-words)
     - [Memories (20 words)](#memories-20-words)
-    - [Relations (4 words)](#relations-4-words)
+    - [Relations (10 words)](#relations-10-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1131,9 +1131,9 @@
 
 ---
 
-## Duolingo - Vocabulary (377 words)
+## Duolingo - Vocabulary (383 words)
 
-### SECTION 1 (377 words)
+### SECTION 1 (383 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1529,16 +1529,22 @@
 - `broom`  /bruːm/ <br> a brush with a long handle and bristles (= short, stiff hairs or pieces of plastic), used for cleaning the floor or the ground <br> <img src='images/broom.jpg' alt='broom' width='200'>
 - `pie`  /paɪ/ <br> a type of food made with meat, vegetables, or fruit covered in pastry and baked: an apple pie <br> <img src='images/pie.jpg' alt='pie' width='200'>
 - `frying pan`  /ˈfraɪ.ɪŋ ˌpæn / <br> <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
-- `spinach`  /ˈspɪn.ɪtʃ/ <br> a vegetable with wide, dark green leaves that are eaten cooked or uncooked <br> <img src='images/spinach.jpg' alt='spinach' width='200'> - اسفناج
+- `spinach`  /ˈspɪn.ɪtʃ/ <br> a vegetable with wide, dark green leaves that are eaten cooked or uncooked - اسفناج <br> <img src='images/spinach.jpg' alt='spinach' width='200'>
 - `recipe`  /ˈres.ə.pi/ <br> the instructions on how to cook a certain food, including a list of the ingredients required
 - `oven`  /ˈʌv.ən/ <br> the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>
 - `bake`  /beɪk/ <br> to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday
 
-#### Relations (4 words)
+#### Relations (10 words)
 - `nephew`  /ˈnef.juː/ <br> a son of your sister or brother
 - `blind`  /blaɪnd/ <br> not able to see
 - `retire`  /rɪˈtaɪr/ <br> to leave your job or stop working because of old age or ill health
 - `strike (verb)`  /straɪk/ <br> 1. (formal) to hit somebody or something: A stone struck me on the back of the head <br> 2. to stop working because you want more money or are angry about something: The nurses striking for better pay <br> 3. to come suddenly into your mind: It suddenly struck me that she looked like my sister <br> 4. If a clock strikes, it rings a bell a certain number of times so that people know what time it is: The clock struck nine <br> `strike a match` to make fire with a match
+- `cafeteria`  /ˌkæf.əˈtɪr.i.ə/ <br> a restaurant where you choose and pay for your meal and then carry it to a table. Places like factories, colleges and hospitals often have cafeterias <br> <img src='images/cafeteria.jpg' alt='cafeteria' width='200'>
+- `spouse`  /spaʊs/ <br> husband or wife
+- `haircut`  /ˈher.kʌt/ <br> the way in which someone's hair is cut: He has a really awful haircut - The photo showed a muscular young man with a short haircut and dark features - I love your new haircut
+- `divorced`  /dɪˈvɔːrst/ <br> not married anymore
+- `appointment`  /əˈpɔɪnt.mənt/ <br> 1. a formal arrangement to meet or visit someone at a particular time and place: I've got an appointment with the doctor at ten o'clock - You can telephone to make an appointment <br> 2. (formal) a job
+- `accent`  /ˈæk.sənt/ <br> 1. the way a person from a certain place or country speaks a language: She speaks English with an American accent <br> 2. saying one word or part of a word more strongly than another: In the word 'because', the accent is on the second part of the word <br> 3. (in writing) a mark, usually above a letter that changes the sound of the letter: Fiancé has an accent on the 'e'
 ---
 
 ---

@@ -2284,8 +2284,8 @@
             {
               "word": "spinach",
               "phonetic": "/ˈspɪn.ɪtʃ/",
-              "mean_fa": "اسفناج",
-              "mean_en": "a vegetable with wide, dark green leaves that are eaten cooked or uncooked <br> <img src='images/spinach.jpg' alt='spinach' width='200'>"
+              "mean_fa": "اسفناج <br> <img src='images/spinach.jpg' alt='spinach' width='200'>",
+              "mean_en": "a vegetable with wide, dark green leaves that are eaten cooked or uncooked"
             },
             {
               "word": "recipe",
@@ -2333,6 +2333,42 @@
               "phonetic": "/straɪk/",
               "mean_fa": "",
               "mean_en": "1. (formal) to hit somebody or something: A stone struck me on the back of the head <br> 2. to stop working because you want more money or are angry about something: The nurses striking for better pay <br> 3. to come suddenly into your mind: It suddenly struck me that she looked like my sister <br> 4. If a clock strikes, it rings a bell a certain number of times so that people know what time it is: The clock struck nine <br> `strike a match` to make fire with a match"
+            },
+            {
+              "word": "cafeteria",
+              "phonetic": "/ˌkæf.əˈtɪr.i.ə/",
+              "mean_fa": "",
+              "mean_en": "a restaurant where you choose and pay for your meal and then carry it to a table. Places like factories, colleges and hospitals often have cafeterias <br> <img src='images/cafeteria.jpg' alt='cafeteria' width='200'>"
+            },
+            {
+              "word": "spouse",
+              "phonetic": "/spaʊs/",
+              "mean_fa": "",
+              "mean_en": "husband or wife"
+            },
+            {
+              "word": "haircut",
+              "phonetic": "/ˈher.kʌt/",
+              "mean_fa": "",
+              "mean_en": "the way in which someone's hair is cut: He has a really awful haircut - The photo showed a muscular young man with a short haircut and dark features - I love your new haircut"
+            },
+            {
+              "word": "divorced",
+              "phonetic": "/dɪˈvɔːrst/",
+              "mean_fa": "",
+              "mean_en": "not married anymore"
+            },
+            {
+              "word": "appointment",
+              "phonetic": "/əˈpɔɪnt.mənt/",
+              "mean_fa": "",
+              "mean_en": "1. a formal arrangement to meet or visit someone at a particular time and place: I've got an appointment with the doctor at ten o'clock - You can telephone to make an appointment <br> 2. (formal) a job"
+            },
+            {
+              "word": "accent",
+              "phonetic": "/ˈæk.sənt/",
+              "mean_fa": "",
+              "mean_en": "1. the way a person from a certain place or country speaks a language: She speaks English with an American accent <br> 2. saying one word or part of a word more strongly than another: In the word 'because', the accent is on the second part of the word <br> 3. (in writing) a mark, usually above a letter that changes the sound of the letter: Fiancé has an accent on the 'e'"
             }
           ]
         }
