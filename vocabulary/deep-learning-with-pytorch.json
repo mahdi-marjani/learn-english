@@ -5376,6 +5376,29 @@
               "phonetic": "/ˈsɪn.θə.saɪz/",
               "mean_fa": "",
               "mean_en": "to create something new by combining different things or generating it from scratch: the model can synthesize a brand-new image that matches the description - the drug was first synthesized in 1929"
+            },
+            {
+              "word": "brand new (adjective)",
+              "phonetic": "/ˌbrænd ˈnuː/",
+              "mean_fa": "",
+              "mean_en": "completely new: the model can synthesize a brand-new image - She bought a brand-new car"
+            },
+            {
+              "word": "render (verb)",
+              "phonetic": "/ˈrendər/",
+              "mean_en": "to produce or generate an image, especially using a computer or model: the model can re-render it in line with our description - The software rendered a 3D image of the building."
+            },
+            {
+              "word": "layout",
+              "phonetic": "/ˈleɪ.aʊt/",
+              "mean_fa": "",
+              "mean_en": "the way that something is arranged or laid out: I like the layout of the house - Application forms vary greatly in layout and length"
+            },
+            {
+              "word": "geometry (noun)",
+              "phonetic": "/dʒiˈɑː.mə.tri/",
+              "mean_fa": "",
+              "mean_en": "the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: the laws of geometry - a geometry lesson <br> <img src='images/geometry.jpg' alt='geometry' width='200'>"
             }
           ]
         }

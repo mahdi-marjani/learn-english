@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 888**
+**Total words: 892**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (419 words)](#part-1-core-pytorch-419-words)
+- [Part 1: Core PyTorch (423 words)](#part-1-core-pytorch-423-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (118 words)](#chapter-2-pretrained-networks-118-words)
+  - [Chapter 2: Pretrained networks (122 words)](#chapter-2-pretrained-networks-122-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (419 words)
+## Part 1: Core PyTorch (423 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (118 words)
+### Chapter 2: Pretrained networks (122 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -931,4 +931,8 @@
 - `emerge (verb)`  /ɪˈmɜːrdʒ/ <br> to appear or come out gradually, especially from being hidden or unclear: structure re-emerges as a coherent picture - The sun emerged from behind the clouds.
 - `description`  /dɪˈskrɪp.ʃən/ <br> words that tell what somebody or something is like or what happened: I gave the police a description of the thief
 - `synthesize`  /ˈsɪn.θə.saɪz/ <br> to create something new by combining different things or generating it from scratch: the model can synthesize a brand-new image that matches the description - the drug was first synthesized in 1929
+- `brand new (adjective)`  /ˌbrænd ˈnuː/ <br> completely new: the model can synthesize a brand-new image - She bought a brand-new car
+- `render (verb)`  /ˈrendər/ <br> to produce or generate an image, especially using a computer or model: the model can re-render it in line with our description - The software rendered a 3D image of the building.
+- `layout`  /ˈleɪ.aʊt/ <br> the way that something is arranged or laid out: I like the layout of the house - Application forms vary greatly in layout and length
+- `geometry (noun)`  /dʒiˈɑː.mə.tri/ <br> the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: the laws of geometry - a geometry lesson <br> <img src='images/geometry.jpg' alt='geometry' width='200'>
 ---
