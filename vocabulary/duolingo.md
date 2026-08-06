@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 383**
+**Total words: 387**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (383 words)](#section-1-383-words)
+- [SECTION 1 (387 words)](#section-1-387-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -18,11 +18,11 @@
   - [Stories (27 words)](#stories-27-words)
   - [Wedding (15 words)](#wedding-15-words)
   - [Memories (20 words)](#memories-20-words)
-  - [Relations (10 words)](#relations-10-words)
+  - [Relations (14 words)](#relations-14-words)
 
 ---
 
-## SECTION 1 (383 words)
+## SECTION 1 (387 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -423,8 +423,9 @@
 - `oven`  /ˈʌv.ən/ <br> the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>
 - `bake`  /beɪk/ <br> to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday
 
-### Relations (10 words)
+### Relations (14 words)
 - `nephew`  /ˈnef.juː/ <br> a son of your sister or brother
+- `niece`  /niːs/ <br> a daughter of your sister or brother
 - `blind`  /blaɪnd/ <br> not able to see
 - `retire`  /rɪˈtaɪr/ <br> to leave your job or stop working because of old age or ill health
 - `strike (verb)`  /straɪk/ <br> 1. (formal) to hit somebody or something: A stone struck me on the back of the head <br> 2. to stop working because you want more money or are angry about something: The nurses striking for better pay <br> 3. to come suddenly into your mind: It suddenly struck me that she looked like my sister <br> 4. If a clock strikes, it rings a bell a certain number of times so that people know what time it is: The clock struck nine <br> `strike a match` to make fire with a match
@@ -434,4 +435,7 @@
 - `divorced`  /dɪˈvɔːrst/ <br> not married anymore
 - `appointment`  /əˈpɔɪnt.mənt/ <br> 1. a formal arrangement to meet or visit someone at a particular time and place: I've got an appointment with the doctor at ten o'clock - You can telephone to make an appointment <br> 2. (formal) a job
 - `accent`  /ˈæk.sənt/ <br> 1. the way a person from a certain place or country speaks a language: She speaks English with an American accent <br> 2. saying one word or part of a word more strongly than another: In the word 'because', the accent is on the second part of the word <br> 3. (in writing) a mark, usually above a letter that changes the sound of the letter: Fiancé has an accent on the 'e'
+- `approved`  /əˈpruːvd/ <br> officially accepted or allowed
+- `novel`  /ˈnɑː.vəl/ <br> a long story in a book
+- `neither (adverb)`  /ˈniːðər/ <br> also not: Lydia can't swim and neither can I - 'I don't like rice' 'Neither do I' - 'I can't believe this worked' 'Me neither' <br> `neither ... nor` not ... and not: Neither Paul nor I went to the party
 ---

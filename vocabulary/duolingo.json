@@ -2317,6 +2317,12 @@
               "mean_en": "a son of your sister or brother"
             },
             {
+              "word": "niece",
+              "phonetic": "/niːs/",
+              "mean_fa": "",
+              "mean_en": "a daughter of your sister or brother"
+            },
+            {
               "word": "blind",
               "phonetic": "/blaɪnd/",
               "mean_fa": "",
@@ -2369,6 +2375,24 @@
               "phonetic": "/ˈæk.sənt/",
               "mean_fa": "",
               "mean_en": "1. the way a person from a certain place or country speaks a language: She speaks English with an American accent <br> 2. saying one word or part of a word more strongly than another: In the word 'because', the accent is on the second part of the word <br> 3. (in writing) a mark, usually above a letter that changes the sound of the letter: Fiancé has an accent on the 'e'"
+            },
+            {
+              "word": "approved",
+              "phonetic": "/əˈpruːvd/",
+              "mean_fa": "",
+              "mean_en": "officially accepted or allowed"
+            },
+            {
+              "word": "novel",
+              "phonetic": "/ˈnɑː.vəl/",
+              "mean_fa": "",
+              "mean_en": "a long story in a book"
+            },
+            {
+              "word": "neither (adverb)",
+              "phonetic": "/ˈniːðər/",
+              "mean_fa": "",
+              "mean_en": "also not: Lydia can't swim and neither can I - 'I don't like rice' 'Neither do I' - 'I can't believe this worked' 'Me neither' <br> `neither ... nor` not ... and not: Neither Paul nor I went to the party"
             }
           ]
         }
