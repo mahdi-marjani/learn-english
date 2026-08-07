@@ -70,7 +70,7 @@
 - `decency`  /ˈdiːsnsi/ <br> behaviour that is good, moral, and acceptable in society
 - `neat`  /niːt/ <br> 1. with everything in the right place and done carefully (SAME MEANING: tidy): keep your room neat and tidy - She has very neat handwriting <br> 2. (American, informal) good; nice: That's a really neat car
 - `tidy`  /ˈtaɪ.di/ <br> 1. with everything in the right place: Her room is very tidy <br> 2. liking to have everything in the right place: a tidy boy (OPPOSITE: untidy)
-- `anchor`  /ˈæŋkər/ <br> <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
+- `anchor (noun)`  /ˈæŋkər/ <br> <br> <img src='images/anchor.jpg' alt='anchor' width='200'>
 - `batten down the hatches`  <br> to fasten or secure something tightly, especially on a ship before a storm
 - `fasten`  /ˈfæsn/ <br> 1. to join or close something so that it will not come open: Please fasten your seat belts - Can you fasten this suitcase for me? <br> 2. to fix or tie one thing to another thing: Fasten this badge to your jacket
 - `suitcase`  /ˈsuːtkeɪs/ <br> <br> <img src='images/suitcase.jpg' alt='suitcase' width='200'>

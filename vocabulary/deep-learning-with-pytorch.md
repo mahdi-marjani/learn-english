@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 892**
+**Total words: 893**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (423 words)](#part-1-core-pytorch-423-words)
+- [Part 1: Core PyTorch (424 words)](#part-1-core-pytorch-424-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (122 words)](#chapter-2-pretrained-networks-122-words)
+  - [Chapter 2: Pretrained networks (123 words)](#chapter-2-pretrained-networks-123-words)
 
 ---
 
@@ -398,7 +398,7 @@
 - `adjust`  <br> to make a small change to something, to make it better: You can adjust the height of this chair - تنظیم کردن
 - `luck`  <br> شانس
 - `discuss`  <br> to talk or write about a topic in detail
-- `instruction`  /ɪnˈstrʌk.ʃən/ <br> 1. instructions (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do
+- `instruction`  /ɪnˈstrʌk.ʃən/ <br> 1. `instructions` (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do
 - `typically`  <br> usually, in most cases; as expected
 - `wide`  <br> far from one side to the other: We drove down a wide road - گسترده‌، وسیع‌
 - `drove`  <br> past of drive
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (423 words)
+## Part 1: Core PyTorch (424 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (122 words)
+### Chapter 2: Pretrained networks (123 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -935,4 +935,5 @@
 - `render (verb)`  /ˈrendər/ <br> to produce or generate an image, especially using a computer or model: the model can re-render it in line with our description - The software rendered a 3D image of the building.
 - `layout`  /ˈleɪ.aʊt/ <br> the way that something is arranged or laid out: I like the layout of the house - Application forms vary greatly in layout and length
 - `geometry (noun)`  /dʒiˈɑː.mə.tri/ <br> the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: the laws of geometry - a geometry lesson <br> <img src='images/geometry.jpg' alt='geometry' width='200'>
+- `anchor (verb)`  /ˈæŋkər/ <br> 1. to let an anchor down from a boat or ship in order to prevent it from moving away: The ship anchored in the bay <br> 2. to fix something in position so that it cannot move; to fix something firmly in position: Make sure the table is securely anchored
 ---

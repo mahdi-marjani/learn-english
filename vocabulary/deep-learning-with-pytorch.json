@@ -2236,7 +2236,7 @@
           "word": "instruction",
           "phonetic": "/ɪnˈstrʌk.ʃən/",
           "mean_fa": "",
-          "mean_en": "1. instructions (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do"
+          "mean_en": "1. `instructions` (plural) guidelines, information telling you how to do something <br> 2. (no plural) command; something that someone tells you to do"
         },
         {
           "word": "typically",
@@ -5399,6 +5399,12 @@
               "phonetic": "/dʒiˈɑː.mə.tri/",
               "mean_fa": "",
               "mean_en": "the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: the laws of geometry - a geometry lesson <br> <img src='images/geometry.jpg' alt='geometry' width='200'>"
+            },
+            {
+              "word": "anchor (verb)",
+              "phonetic": "/ˈæŋkər/",
+              "mean_fa": "",
+              "mean_en": "1. to let an anchor down from a boat or ship in order to prevent it from moving away: The ship anchored in the bay <br> 2. to fix something in position so that it cannot move; to fix something firmly in position: Make sure the table is securely anchored"
             }
           ]
         }
