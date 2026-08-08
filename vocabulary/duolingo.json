@@ -1047,10 +1047,10 @@
               "mean_en": ""
             },
             {
-              "word": "date",
+              "word": "date (noun)",
               "phonetic": "/deɪt/",
               "mean_fa": "",
-              "mean_en": "a meeting with someone special"
+              "mean_en": "1. the number of the day, the month and sometimes the year: 'What's the date today?' 'The first of February' - Today's date is 11 December 2004 - What is your date of birth? <br> 2. a romantic meeting when two people go out somewhere: He's asked her out on a date <br> 3. a small sweet brown fruit that comes from a tree which grows in hot countries <br> <img src='images/date.jpg' alt='date' width='200'> <br> `out of date` 1. not modern: The machinery they use is completely out of date <br> 2. too old, so that you cannot use it: This ticket is out of date <br> `up to date` 1. modern: The new kitchen will be right up to date, with all the latest gadgets <br> 2. with the newest information: Is this list of names up to date?"
             },
             {
               "word": "coworker",
@@ -2393,6 +2393,78 @@
               "phonetic": "/ˈniːðər/",
               "mean_fa": "",
               "mean_en": "also not: Lydia can't swim and neither can I - 'I don't like rice' 'Neither do I' - 'I can't believe this worked' 'Me neither' <br> `neither ... nor` not ... and not: Neither Paul nor I went to the party"
+            },
+            {
+              "word": "barber",
+              "phonetic": "/ˈbɑr.bər/",
+              "mean_fa": "",
+              "mean_en": "a person who cuts hair"
+            },
+            {
+              "word": "marriage",
+              "phonetic": "/ˈmer.ɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "the formal and legal relationship between two people who are married"
+            },
+            {
+              "word": "lawyer",
+              "phonetic": "/ˈlɔ.ɪɜr/",
+              "mean_fa": "",
+              "mean_en": "someone whose job is to give advice to people about the law and speak for them in court: I want to see my lawyer before I say anything <br> <img src='images/lawyer.jpg' alt='lawyer' width='200'>"
+            },
+            {
+              "word": "frosting",
+              "phonetic": "/ˈfrɑː.stɪŋ/",
+              "mean_fa": "",
+              "mean_en": "a sweet food used to cover or fill cakes, made from sugar and water or sugar and butter <br> <img src='images/frosting.jpg' alt='frosting' width='200'>"
+            },
+            {
+              "word": "anniversary",
+              "phonetic": "/ˌæ.nə.ˈvɜr.sɜ.ri/",
+              "mean_fa": "",
+              "mean_en": "the day on which an important event happened in a previous year: We always celebrate our wedding anniversary with dinner in an expensive restaurant"
+            },
+            {
+              "word": "sore (adjective)",
+              "phonetic": "/sɔːr/",
+              "mean_fa": "",
+              "mean_en": "If a part of your body is sore, it gives you pain: My feet were sore after the long walk - I've got a sore throat"
+            },
+            {
+              "word": "bother (verb)",
+              "phonetic": "/ˈbɑ.ðər/",
+              "mean_fa": "",
+              "mean_en": "1. to spend extra time or energy doing something: Don't bother about the washing-up _ I'll do it later - He didn't even bother to say goodbye <br> 2. to annoy or worry somebody, especially when they are doing something else: Don't bother me now _ I'm busy - Is this music bothering you? - I'm sorry to bother you, but there's someone on the phone for you <br> `can't be bothered` If you can't be bothered to do something, you do not want to do it because it is too much work: I can't be bothered to do my homework now"
+            },
+            {
+              "word": "aunt",
+              "phonetic": "/ænt/",
+              "mean_fa": "",
+              "mean_en": "the sister of your father or mother, or the wife of your uncle or aunt: Aunt Mary"
+            },
+            {
+              "word": "uncle",
+              "phonetic": "/ˈʌŋkəl/",
+              "mean_fa": "",
+              "mean_en": "the brother of your father or mother, or the husband of your aunt or uncle: Uncle John"
+            },
+            {
+              "word": "sweatpants",
+              "phonetic": "/ˈswet.pænts/",
+              "mean_fa": "",
+              "mean_en": "warm, comfortable pants made of thick cotton, often worn for exercise, or casual wear: I put on my sweatpants to relax on the couch <br> <img src='images/sweatpants.jpg' alt='sweatpants' width='200'>"
+            },
+            {
+              "word": "palm",
+              "phonetic": "/pɑːm/",
+              "mean_fa": "",
+              "mean_en": "1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm"
+            },
+            {
+              "word": "nutritious (adjective)",
+              "phonetic": "/nuːˈtrɪʃ.əs/",
+              "mean_fa": "",
+              "mean_en": "(used about food) good for you; efficient as food: tasty and nutritious meals"
             }
           ]
         }

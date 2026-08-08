@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 387**
+**Total words: 399**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (387 words)](#section-1-387-words)
+- [SECTION 1 (399 words)](#section-1-399-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -18,11 +18,11 @@
   - [Stories (27 words)](#stories-27-words)
   - [Wedding (15 words)](#wedding-15-words)
   - [Memories (20 words)](#memories-20-words)
-  - [Relations (14 words)](#relations-14-words)
+  - [Relations (26 words)](#relations-26-words)
 
 ---
 
-## SECTION 1 (387 words)
+## SECTION 1 (399 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -204,7 +204,7 @@
 ### Meeting (41 words)
 - `cushion`  /ˈkʊʃ.ən/ <br> <br> <img src='images/cushion.jpg' alt='cushion' width='200'>
 - `furniture`  /fɜr:nɪʧər/ <br> مبلمان <br> <img src='images/furniture.jpg' alt='furniture' width='200'>
-- `date`  /deɪt/ <br> a meeting with someone special
+- `date (noun)`  /deɪt/ <br> 1. the number of the day, the month and sometimes the year: 'What's the date today?' 'The first of February' - Today's date is 11 December 2004 - What is your date of birth? <br> 2. a romantic meeting when two people go out somewhere: He's asked her out on a date <br> 3. a small sweet brown fruit that comes from a tree which grows in hot countries <br> <img src='images/date.jpg' alt='date' width='200'> <br> `out of date` 1. not modern: The machinery they use is completely out of date <br> 2. too old, so that you cannot use it: This ticket is out of date <br> `up to date` 1. modern: The new kitchen will be right up to date, with all the latest gadgets <br> 2. with the newest information: Is this list of names up to date?
 - `coworker`  /koʊ.wɜ:r.kər/ <br> someone who works with someone else, having the same job
 - `sick`  /sɪk/ <br> not well (SAME MEANING: ill)
 - `colleague`  /ˈkɑː.liːɡ/ <br> work friend
@@ -423,7 +423,7 @@
 - `oven`  /ˈʌv.ən/ <br> the part of a cooker shaped like a box with a door on the front. You put food in the oven to cook or heat it: Take the bread out of the oven <br> <img src='images/oven.jpg' alt='oven' width='200'>
 - `bake`  /beɪk/ <br> to cook food, for example bread or cakes, in an oven: My brother baked a cake for my birthday
 
-### Relations (14 words)
+### Relations (26 words)
 - `nephew`  /ˈnef.juː/ <br> a son of your sister or brother
 - `niece`  /niːs/ <br> a daughter of your sister or brother
 - `blind`  /blaɪnd/ <br> not able to see
@@ -438,4 +438,16 @@
 - `approved`  /əˈpruːvd/ <br> officially accepted or allowed
 - `novel`  /ˈnɑː.vəl/ <br> a long story in a book
 - `neither (adverb)`  /ˈniːðər/ <br> also not: Lydia can't swim and neither can I - 'I don't like rice' 'Neither do I' - 'I can't believe this worked' 'Me neither' <br> `neither ... nor` not ... and not: Neither Paul nor I went to the party
+- `barber`  /ˈbɑr.bər/ <br> a person who cuts hair
+- `marriage`  /ˈmer.ɪdʒ/ <br> the formal and legal relationship between two people who are married
+- `lawyer`  /ˈlɔ.ɪɜr/ <br> someone whose job is to give advice to people about the law and speak for them in court: I want to see my lawyer before I say anything <br> <img src='images/lawyer.jpg' alt='lawyer' width='200'>
+- `frosting`  /ˈfrɑː.stɪŋ/ <br> a sweet food used to cover or fill cakes, made from sugar and water or sugar and butter <br> <img src='images/frosting.jpg' alt='frosting' width='200'>
+- `anniversary`  /ˌæ.nə.ˈvɜr.sɜ.ri/ <br> the day on which an important event happened in a previous year: We always celebrate our wedding anniversary with dinner in an expensive restaurant
+- `sore (adjective)`  /sɔːr/ <br> If a part of your body is sore, it gives you pain: My feet were sore after the long walk - I've got a sore throat
+- `bother (verb)`  /ˈbɑ.ðər/ <br> 1. to spend extra time or energy doing something: Don't bother about the washing-up _ I'll do it later - He didn't even bother to say goodbye <br> 2. to annoy or worry somebody, especially when they are doing something else: Don't bother me now _ I'm busy - Is this music bothering you? - I'm sorry to bother you, but there's someone on the phone for you <br> `can't be bothered` If you can't be bothered to do something, you do not want to do it because it is too much work: I can't be bothered to do my homework now
+- `aunt`  /ænt/ <br> the sister of your father or mother, or the wife of your uncle or aunt: Aunt Mary
+- `uncle`  /ˈʌŋkəl/ <br> the brother of your father or mother, or the husband of your aunt or uncle: Uncle John
+- `sweatpants`  /ˈswet.pænts/ <br> warm, comfortable pants made of thick cotton, often worn for exercise, or casual wear: I put on my sweatpants to relax on the couch <br> <img src='images/sweatpants.jpg' alt='sweatpants' width='200'>
+- `palm`  /pɑːm/ <br> 1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm
+- `nutritious (adjective)`  /nuːˈtrɪʃ.əs/ <br> (used about food) good for you; efficient as food: tasty and nutritious meals
 ---
