@@ -359,9 +359,9 @@
         },
         {
           "word": "ultimately",
-          "phonetic": "",
-          "mean_fa": "در نهایت",
-          "mean_en": ""
+          "phonetic": "/ˈʌl.tə.mət.li/",
+          "mean_fa": "",
+          "mean_en": "finally"
         },
         {
           "word": "productive",
@@ -2737,8 +2737,8 @@
         {
           "word": "gradually",
           "phonetic": "/ˈɡrædʒ.u.ə.li/",
-          "mean_fa": "به تدریج، آرام آرام",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "slowly over a period of time or a distance: Life gradually returned to normal"
         },
         {
           "word": "away",
@@ -5405,6 +5405,42 @@
               "phonetic": "/ˈæŋkər/",
               "mean_fa": "",
               "mean_en": "1. to let an anchor down from a boat or ship in order to prevent it from moving away: The ship anchored in the bay <br> 2. to fix something in position so that it cannot move; to fix something firmly in position: Make sure the table is securely anchored"
+            },
+            {
+              "word": "constrain (verb)",
+              "phonetic": "/kənˈstreɪn/",
+              "mean_fa": "",
+              "mean_en": "to control and limit something: the mask constrains where edits may happen"
+            },
+            {
+              "word": "heavy lifting",
+              "phonetic": "/ˈhev.i ˈlɪft.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "(idiom) the hardest or most important part of a task: The denoising does the heavy lifting, turning noisy pixels back into a realistic result"
+            },
+            {
+              "word": "fit (verb)",
+              "phonetic": "/fɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to be the right size or shape for somebody or something: I tried the dress on, but it didn't fit - This key doesn't fit the lock <br> 2. to put or fix something somewhere: They fitted a smoke alarm to the ceiling - Can you fit these pieces of the puzzle together? <br> 3. to be suitable for something: turning noisy pixels back into a realistic result that fits the instructions - With her qualifications, she should fit the job perfectly <br> `fit somebody or something in` 1. to find time to do something or see somebody: The doctor can fit you in at 10.30 <br> 2. to find or have enough space for somebody or something: We can't fit in any more chairs"
+            },
+            {
+              "word": "indicate",
+              "phonetic": "/ˈɪn.də.keɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to show that something is true, exists or will happen: Black clouds indicate that it's going to rain <br> 2. to make somebody notice something, especially by pointing to it: The receptionist indicated the place where I should sign"
+            },
+            {
+              "word": "seamlessly",
+              "phonetic": "/ˈsiːm.ləs.li/",
+              "mean_fa": "",
+              "mean_en": "without a break, so that you do not notice any change between one part and the next; perfectly and naturally combined: The computer animation blends seamlessly with the rest of the film - It's a children's film that seamlessly combines live action with computer-generated creatures"
+            },
+            {
+              "word": "unaltered",
+              "phonetic": "/ʌnˈɔːltərd/",
+              "mean_fa": "",
+              "mean_en": "unchanged"
             }
           ]
         }

@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1496**
+**Total words: 1502**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (893 words)](#deep-learning-with-pytorch---vocabulary-893-words)
+- [Deep Learning with PyTorch - Vocabulary (899 words)](#deep-learning-with-pytorch---vocabulary-899-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (424 words)](#part-1-core-pytorch-424-words)
+  - [Part 1: Core PyTorch (430 words)](#part-1-core-pytorch-430-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (123 words)](#chapter-2-pretrained-networks-123-words)
+    - [Chapter 2: Pretrained networks (129 words)](#chapter-2-pretrained-networks-129-words)
 - [Duolingo - Vocabulary (399 words)](#duolingo---vocabulary-399-words)
   - [SECTION 1 (399 words)](#section-1-399-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -211,7 +211,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (893 words)
+## Deep Learning with PyTorch - Vocabulary (899 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -275,7 +275,7 @@
 - `enhanced`  <br> تقویت‌شده
 - `debuggability`  <br> قابلیت اشکال‌زدایی
 - `flexibility`  <br> انعطاف‌پذیری
-- `ultimately`  <br> در نهایت
+- `ultimately`  /ˈʌl.tə.mət.li/ <br> finally
 - `productive`  <br> کارآمد
 - `huge`  <br> عظیم
 - `adoption`  /əˈdɑːpʃən/ <br> acceptance; the act of starting to use a new method, system, or idea
@@ -682,7 +682,7 @@
 - `station`  <br> 1. a place where trains stop so that people can get on and off <br> 2. a place where buses or coaches start and end their journeys: the bus station <br> 3. a building for some special work: the police station - the fire station - a petrol station <br> 4. a television or radio company <br> 5. a person's social rank or position: a person of high station
 - `diversity`  /daɪˈvɜːrsəti/ <br> variety
 - `fade`  /feɪd/ <br> to lose brightness, color, or strength gradually
-- `gradually`  /ˈɡrædʒ.u.ə.li/ <br> به تدریج، آرام آرام
+- `gradually`  /ˈɡrædʒ.u.ə.li/ <br> slowly over a period of time or a distance: Life gradually returned to normal
 - `away`  <br> 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - `fade away`  <br> به تدریج محو شدن و ناپدید شدن
 - `tell apart`  <br> to see the difference between two people or things: I can't tell the twins apart
@@ -703,7 +703,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (424 words)
+### Part 1: Core PyTorch (430 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1008,7 +1008,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (123 words)
+#### Chapter 2: Pretrained networks (129 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1132,6 +1132,12 @@
 - `layout`  /ˈleɪ.aʊt/ <br> the way that something is arranged or laid out: I like the layout of the house - Application forms vary greatly in layout and length
 - `geometry (noun)`  /dʒiˈɑː.mə.tri/ <br> the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: the laws of geometry - a geometry lesson <br> <img src='images/geometry.jpg' alt='geometry' width='200'>
 - `anchor (verb)`  /ˈæŋkər/ <br> 1. to let an anchor down from a boat or ship in order to prevent it from moving away: The ship anchored in the bay <br> 2. to fix something in position so that it cannot move; to fix something firmly in position: Make sure the table is securely anchored
+- `constrain (verb)`  /kənˈstreɪn/ <br> to control and limit something: the mask constrains where edits may happen
+- `heavy lifting`  /ˈhev.i ˈlɪft.ɪŋ/ <br> (idiom) the hardest or most important part of a task: The denoising does the heavy lifting, turning noisy pixels back into a realistic result
+- `fit (verb)`  /fɪt/ <br> 1. to be the right size or shape for somebody or something: I tried the dress on, but it didn't fit - This key doesn't fit the lock <br> 2. to put or fix something somewhere: They fitted a smoke alarm to the ceiling - Can you fit these pieces of the puzzle together? <br> 3. to be suitable for something: turning noisy pixels back into a realistic result that fits the instructions - With her qualifications, she should fit the job perfectly <br> `fit somebody or something in` 1. to find time to do something or see somebody: The doctor can fit you in at 10.30 <br> 2. to find or have enough space for somebody or something: We can't fit in any more chairs
+- `indicate`  /ˈɪn.də.keɪt/ <br> 1. to show that something is true, exists or will happen: Black clouds indicate that it's going to rain <br> 2. to make somebody notice something, especially by pointing to it: The receptionist indicated the place where I should sign
+- `seamlessly`  /ˈsiːm.ləs.li/ <br> without a break, so that you do not notice any change between one part and the next; perfectly and naturally combined: The computer animation blends seamlessly with the rest of the film - It's a children's film that seamlessly combines live action with computer-generated creatures
+- `unaltered`  /ʌnˈɔːltərd/ <br> unchanged
 ---
 
 ---
