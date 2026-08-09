@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1515**
+**Total words: 1530**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (899 words)](#deep-learning-with-pytorch---vocabulary-899-words)
+- [Deep Learning with PyTorch - Vocabulary (914 words)](#deep-learning-with-pytorch---vocabulary-914-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (430 words)](#part-1-core-pytorch-430-words)
+  - [Part 1: Core PyTorch (445 words)](#part-1-core-pytorch-445-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (129 words)](#chapter-2-pretrained-networks-129-words)
+    - [Chapter 2: Pretrained networks (144 words)](#chapter-2-pretrained-networks-144-words)
 - [Duolingo - Vocabulary (412 words)](#duolingo---vocabulary-412-words)
   - [SECTION 1 (412 words)](#section-1-412-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -212,7 +212,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (899 words)
+## Deep Learning with PyTorch - Vocabulary (914 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -518,7 +518,7 @@
 - `rather than`  <br> instead of
 - `common`  <br> 1. happening often or found in many places: jackson is a common English name <br> 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - `denominator`  <br> مخرج (در کسر ریاضی)
-- `preserve`  <br> حفظ کردن، نگهداری کردن
+- `preserve`  /prɪˈzɜːrv/ <br> to keep something unchanged, safe or in good condition: pixels outside the mask are preserved by re-inserting the original content
 - `characterize`  /ˈker.ək.tə.raɪz/ <br> describe; define
 - `breakdown`  <br> تقسیم‌بندی
 - `brief`  <br> short
@@ -540,7 +540,7 @@
 - `moves us closer`  <br> ما را به هدف نزدیک‌تر می‌کند
 - `comprehensive`  <br> جامع، کامل
 - `solution`  <br> راه‌حل
-- `lung`  <br> ریه
+- `lung`  /lʌŋ/ <br> ریه
 - `difficult`  <br> hard
 - `motivation`  /ˌmoʊ.t̬ɪˈveɪ.ʃən/ <br> a reason or reasons for doing something
 - `screening`  <br> quick check
@@ -704,7 +704,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (430 words)
+### Part 1: Core PyTorch (445 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -740,7 +740,7 @@
 - `close (adjective)`  /kloʊs/ <br> 1. near: We live close to the station <br> 2. if people are close, they know each other well and like each other very much: I'm very close to my sister - John and I are close friends <br> 3. (used about a competition or race) only won by a small amount: a close match <br> 4. careful: Take a close look at this picture
 - `coherent`  /koʊˈhɪrənt/ <br> logical and well-organized; easy to understand and follow
 - `fed`  <br> past tense and past participle of feed
-- `feed`  <br> to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her
+- `feed (verb)`  <br> to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her
 - `phrase`  /freɪz/ <br> a group of words that you use together as part of a sentence: 'First of all' and 'a bar of chocolate' are phrases
 - `corpus`  /ˈkɔːrpəs/ <br> a large collection of written or spoken texts used for language research
 - `parse`  /pɑːrs/ <br> to analyze a sentence or code into its parts and describe their grammatical or logical roles
@@ -1009,7 +1009,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (129 words)
+#### Chapter 2: Pretrained networks (144 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1139,6 +1139,21 @@
 - `indicate`  /ˈɪn.də.keɪt/ <br> 1. to show that something is true, exists or will happen: Black clouds indicate that it's going to rain <br> 2. to make somebody notice something, especially by pointing to it: The receptionist indicated the place where I should sign
 - `seamlessly`  /ˈsiːm.ləs.li/ <br> without a break, so that you do not notice any change between one part and the next; perfectly and naturally combined: The computer animation blends seamlessly with the rest of the film - It's a children's film that seamlessly combines live action with computer-generated creatures
 - `unaltered`  /ʌnˈɔːltərd/ <br> unchanged
+- `enforce (verb)`  /ɪnˈfɔːrs/ <br> to make sure a rule or condition is followed or applied: The mask enforces locality - The teacher enforced strict rules about phone use in class.
+- `insert`  /ɪnˈsɜːrt/ <br> to put something into something else or between two things: pixels outside the mask are preserved by re-inserting the original content - He inserted a coin into the machine - Insert the CD into the computer
+- `scene`  /siːn/ <br> 1. a place where something happened: The police arrived at the scene of the crime <br> 2. part of a play or film: Act 1, Scene 2 of 'Hamlet' <br> 3. what you see in a place (SAME MEANING: view): He painted scenes of life in the countryside
+- `pose (noun)`  /poʊz/ <br> the way a person or object is positioned, especially for a photo or image: we get an image that keeps the unmasked scene and pose - She struck a confident pose for the camera <br> <img src='images/pose.jpg' alt='pose' width='200'>
+- `omit (verb)`  /oʊˈmɪt/ <br> (formal) to not include something (SAME MEANING: leave out): Omit question 2 and do question 3 - If we omit the mask, the same process performs image-to-image generation
+- `held`  <br> past tense and past participle of hold
+- `breath (noun)`  /breθ/ <br> the air that goes into and out of your lungs <br> <img src='images/breath.jpg' alt='breath' width='200'>
+- `showcase (verb)`  /ˈʃoʊ.keɪs/ <br> to show the best qualities or parts of something: this task showcases the ability of these architectures to model complex real-world processes - The main aim of the exhibition is to showcase British design
+- `distant (adjective)`  /ˈdɪs.tənt/ <br> far away in space or time: distant country
+- `hint (noun)`  /hɪnt/ <br> 1. something that you say, but not in a direct way: Sam keeps dropping hints (= making hints) about wanting a bike for his birthday <br> 2. a small amount of something: There's a hint of garlic in the soup <br> 3. sign; something that suggests what will happen in the future: there are hints that in the near future we won't be able to tell real from fake
+- `feed (noun)`  /fiːd/ <br> a continuous stream of data or video sent from a source: I checked my social media feed this morning
+- `can of worms`  /ˈkæn əv ˈwɜːrmz/ <br> a situation that, once started, creates many complicated problems: I’m afraid that if we start investigating the issue, we’ll open a can of worms and make things worse
+- `duly (adverb)`  /ˈduː.li/ <br> in the correct way or at the correct time; as expected: The form was duly signed and submitted
+- `diffuser`  /dɪˈfjuːzər/ <br> a Python library of state-of-the-art pretrained diffusion models for generating videos, images, and audio—including popular models like Stable Diffusion
+- `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking someone or something
 ---
 
 ---

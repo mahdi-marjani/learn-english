@@ -1772,9 +1772,9 @@
         },
         {
           "word": "preserve",
-          "phonetic": "",
-          "mean_fa": "حفظ کردن، نگهداری کردن",
-          "mean_en": ""
+          "phonetic": "/prɪˈzɜːrv/",
+          "mean_fa": "",
+          "mean_en": "to keep something unchanged, safe or in good condition: pixels outside the mask are preserved by re-inserting the original content"
         },
         {
           "word": "characterize",
@@ -1904,7 +1904,7 @@
         },
         {
           "word": "lung",
-          "phonetic": "",
+          "phonetic": "/lʌŋ/",
           "mean_fa": "ریه",
           "mean_en": ""
         },
@@ -3057,7 +3057,7 @@
               "mean_en": "past tense and past participle of feed"
             },
             {
-              "word": "feed",
+              "word": "feed (verb)",
               "phonetic": "",
               "mean_fa": "",
               "mean_en": "to give food to a person or animal; to put data or information into a machine or system: The baby's crying _ I'll go and feed her"
@@ -5441,6 +5441,96 @@
               "phonetic": "/ʌnˈɔːltərd/",
               "mean_fa": "",
               "mean_en": "unchanged"
+            },
+            {
+              "word": "enforce (verb)",
+              "phonetic": "/ɪnˈfɔːrs/",
+              "mean_fa": "",
+              "mean_en": "to make sure a rule or condition is followed or applied: The mask enforces locality - The teacher enforced strict rules about phone use in class."
+            },
+            {
+              "word": "insert",
+              "phonetic": "/ɪnˈsɜːrt/",
+              "mean_fa": "",
+              "mean_en": "to put something into something else or between two things: pixels outside the mask are preserved by re-inserting the original content - He inserted a coin into the machine - Insert the CD into the computer"
+            },
+            {
+              "word": "scene",
+              "phonetic": "/siːn/",
+              "mean_fa": "",
+              "mean_en": "1. a place where something happened: The police arrived at the scene of the crime <br> 2. part of a play or film: Act 1, Scene 2 of 'Hamlet' <br> 3. what you see in a place (SAME MEANING: view): He painted scenes of life in the countryside"
+            },
+            {
+              "word": "pose (noun)",
+              "phonetic": "/poʊz/",
+              "mean_fa": "",
+              "mean_en": "the way a person or object is positioned, especially for a photo or image: we get an image that keeps the unmasked scene and pose - She struck a confident pose for the camera <br> <img src='images/pose.jpg' alt='pose' width='200'>"
+            },
+            {
+              "word": "omit (verb)",
+              "phonetic": "/oʊˈmɪt/",
+              "mean_fa": "",
+              "mean_en": "(formal) to not include something (SAME MEANING: leave out): Omit question 2 and do question 3 - If we omit the mask, the same process performs image-to-image generation"
+            },
+            {
+              "word": "held",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "past tense and past participle of hold"
+            },
+            {
+              "word": "breath (noun)",
+              "phonetic": "/breθ/",
+              "mean_fa": "",
+              "mean_en": "the air that goes into and out of your lungs <br> <img src='images/breath.jpg' alt='breath' width='200'>"
+            },
+            {
+              "word": "showcase (verb)",
+              "phonetic": "/ˈʃoʊ.keɪs/",
+              "mean_fa": "",
+              "mean_en": "to show the best qualities or parts of something: this task showcases the ability of these architectures to model complex real-world processes - The main aim of the exhibition is to showcase British design"
+            },
+            {
+              "word": "distant (adjective)",
+              "phonetic": "/ˈdɪs.tənt/",
+              "mean_fa": "",
+              "mean_en": "far away in space or time: distant country"
+            },
+            {
+              "word": "hint (noun)",
+              "phonetic": "/hɪnt/",
+              "mean_fa": "",
+              "mean_en": "1. something that you say, but not in a direct way: Sam keeps dropping hints (= making hints) about wanting a bike for his birthday <br> 2. a small amount of something: There's a hint of garlic in the soup <br> 3. sign; something that suggests what will happen in the future: there are hints that in the near future we won't be able to tell real from fake"
+            },
+            {
+              "word": "feed (noun)",
+              "phonetic": "/fiːd/",
+              "mean_fa": "",
+              "mean_en": "a continuous stream of data or video sent from a source: I checked my social media feed this morning"
+            },
+            {
+              "word": "can of worms",
+              "phonetic": "/ˈkæn əv ˈwɜːrmz/",
+              "mean_fa": "",
+              "mean_en": "a situation that, once started, creates many complicated problems: I’m afraid that if we start investigating the issue, we’ll open a can of worms and make things worse"
+            },
+            {
+              "word": "duly (adverb)",
+              "phonetic": "/ˈduː.li/",
+              "mean_fa": "",
+              "mean_en": "in the correct way or at the correct time; as expected: The form was duly signed and submitted"
+            },
+            {
+              "word": "diffuser",
+              "phonetic": "/dɪˈfjuːzər/",
+              "mean_fa": "",
+              "mean_en": "a Python library of state-of-the-art pretrained diffusion models for generating videos, images, and audio—including popular models like Stable Diffusion"
+            },
+            {
+              "word": "invocation",
+              "phonetic": "/ˌɪn.vəˈkeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the action of invoking someone or something"
             }
           ]
         }
