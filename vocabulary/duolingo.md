@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 399**
+**Total words: 412**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (399 words)](#section-1-399-words)
+- [SECTION 1 (412 words)](#section-1-412-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -19,10 +19,11 @@
   - [Wedding (15 words)](#wedding-15-words)
   - [Memories (20 words)](#memories-20-words)
   - [Relations (26 words)](#relations-26-words)
+  - [Clothing (13 words)](#clothing-13-words)
 
 ---
 
-## SECTION 1 (399 words)
+## SECTION 1 (412 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -57,7 +58,7 @@
 - `on (preposition, adverb)`  <br> 1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> `on and on` without stopping: He went (= talked) on and on about his girlfriend
 - `couch`  <br> a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
 - `snack`  /snæk/ <br> a small quick meal: We had a snack on the train
-- `stuff`  /ˈstʌf/ <br> the people who work in a place: The hotel staff were very friendly
+- `staff`  /stæf/ <br> the people who work in a place: The hotel staff were very friendly
 - `homesick`  /ˈhoʊmsɪk/ <br> sad because you are away from home
 - `exact`  /ɪɡˈzækt/ <br> completely correct: We need to know the exact time the incident occurred
 - `adventure`  /ədˈventʃər/ <br> something exciting that you do or that happens to you: She wrote a book about her adventures in Africa
@@ -450,4 +451,19 @@
 - `sweatpants`  /ˈswet.pænts/ <br> warm, comfortable pants made of thick cotton, often worn for exercise, or casual wear: I put on my sweatpants to relax on the couch <br> <img src='images/sweatpants.jpg' alt='sweatpants' width='200'>
 - `palm`  /pɑːm/ <br> 1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm
 - `nutritious (adjective)`  /nuːˈtrɪʃ.əs/ <br> (used about food) good for you; efficient as food: tasty and nutritious meals
+
+### Clothing (13 words)
+- `sweatshirt`  /ˈswetʃɜːrt/ <br> a warm piece of clothing with long sleeves made of thick cotton, which you wear on the top part of your body <br> <img src='images/sweatshirt.jpg' alt='sweatshirt' width='200'>
+- `sleeve`  /sliːv/ <br> the part of a piece of clothing that covers some or all of the arm: short/long sleeves <br> <img src='images/sleeve.jpg' alt='sleeve' width='200'>
+- `cotton`  /ˈkɑː.tən/ <br> a natural cloth or thread that is made from the soft white hairs around the seeds of a plant that grows in hot countries: a cotton shirt - a reel of cotton <br> <img src='images/cotton.jpg' alt='cotton' width='200'>
+- `scarves`  /skɑːrvz/ <br> plural of scarf
+- `scarf`  /skɑːrf/ <br> a piece of material that you wear around your neck or head <br> <img src='images/scarf.jpg' alt='scarf' width='200'>
+- `underwear`  /ˈʌndərwer/ <br> clothes worn next to the skin, under other clothes
+- `sale (noun)`  /seɪl/ <br> 1. (no plural) selling something <br> 2. (plural sales) a time when a shop sells things for less money than usual: In the sale, everything is half-price <br> `for sale` If something is for sale, its owner wants to sell it: Is this house for sale? <br> `on sale` If something is on sale, you can buy it in shops: The magazine is on sale at most newsagents
+- `leather`  /ˈleðər/ <br> the skin of an animal that is used to make things like shoes, jackets or bags: a leather jacket <br> <img src='images/leather.jpg' alt='leather' width='200'>
+- `stuff (noun)`  /stʌf/ <br> any material, substance or group of things: What's this blue stuff on the carpet? - Put your stuff in this bag
+- `alike (adjective)`  /əˈlaɪk/ <br> similar
+- `checkout`  /ˈtʃek.aʊt/ <br> a place in a shop to pay <br> <img src='images/checkout.jpg' alt='checkout' width='200'>
+- `receipt`  /rɪˈsiːt/ <br> a written or printed document that shows the payment for a set of goods or services has been made <br> <img src='images/receipt.jpg' alt='receipt' width='200'>
+- `change (noun)`  <br> 1. (plural changes) when something becomes different: The new government has made a lot of changes - There has been a change in the weather <br> 2. (no plural) the money that you get back if you pay more than the amount something costs: If a newspaper costs 60$ and you pay 100$, you will get 40$ change <br> 3. (no plural) small pieces of money; coins: I haven't got any change <br> `for a change` because you want something different: Today we had lunch in a restaurant for a change
 ---

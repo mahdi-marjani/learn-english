@@ -200,8 +200,8 @@
               "mean_en": "a small quick meal: We had a snack on the train"
             },
             {
-              "word": "stuff",
-              "phonetic": "/ˈstʌf/",
+              "word": "staff",
+              "phonetic": "/stæf/",
               "mean_fa": "",
               "mean_en": "the people who work in a place: The hotel staff were very friendly"
             },
@@ -2465,6 +2465,89 @@
               "phonetic": "/nuːˈtrɪʃ.əs/",
               "mean_fa": "",
               "mean_en": "(used about food) good for you; efficient as food: tasty and nutritious meals"
+            }
+          ]
+        },
+        {
+          "heading": "Clothing",
+          "words": [
+            {
+              "word": "sweatshirt",
+              "phonetic": "/ˈswetʃɜːrt/",
+              "mean_fa": "",
+              "mean_en": "a warm piece of clothing with long sleeves made of thick cotton, which you wear on the top part of your body <br> <img src='images/sweatshirt.jpg' alt='sweatshirt' width='200'>"
+            },
+            {
+              "word": "sleeve",
+              "phonetic": "/sliːv/",
+              "mean_fa": "",
+              "mean_en": "the part of a piece of clothing that covers some or all of the arm: short/long sleeves <br> <img src='images/sleeve.jpg' alt='sleeve' width='200'>"
+            },
+            {
+              "word": "cotton",
+              "phonetic": "/ˈkɑː.tən/",
+              "mean_fa": "",
+              "mean_en": "a natural cloth or thread that is made from the soft white hairs around the seeds of a plant that grows in hot countries: a cotton shirt - a reel of cotton <br> <img src='images/cotton.jpg' alt='cotton' width='200'>"
+            },
+            {
+              "word": "scarves",
+              "phonetic": "/skɑːrvz/",
+              "mean_fa": "",
+              "mean_en": "plural of scarf"
+            },
+            {
+              "word": "scarf",
+              "phonetic": "/skɑːrf/",
+              "mean_fa": "",
+              "mean_en": "a piece of material that you wear around your neck or head <br> <img src='images/scarf.jpg' alt='scarf' width='200'>"
+            },
+            {
+              "word": "underwear",
+              "phonetic": "/ˈʌndərwer/",
+              "mean_fa": "",
+              "mean_en": "clothes worn next to the skin, under other clothes"
+            },
+            {
+              "word": "sale (noun)",
+              "phonetic": "/seɪl/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) selling something <br> 2. (plural sales) a time when a shop sells things for less money than usual: In the sale, everything is half-price <br> `for sale` If something is for sale, its owner wants to sell it: Is this house for sale? <br> `on sale` If something is on sale, you can buy it in shops: The magazine is on sale at most newsagents"
+            },
+            {
+              "word": "leather",
+              "phonetic": "/ˈleðər/",
+              "mean_fa": "",
+              "mean_en": "the skin of an animal that is used to make things like shoes, jackets or bags: a leather jacket <br> <img src='images/leather.jpg' alt='leather' width='200'>"
+            },
+            {
+              "word": "stuff (noun)",
+              "phonetic": "/stʌf/",
+              "mean_fa": "",
+              "mean_en": "any material, substance or group of things: What's this blue stuff on the carpet? - Put your stuff in this bag"
+            },
+            {
+              "word": "alike (adjective)",
+              "phonetic": "/əˈlaɪk/",
+              "mean_fa": "",
+              "mean_en": "similar"
+            },
+            {
+              "word": "checkout",
+              "phonetic": "/ˈtʃek.aʊt/",
+              "mean_fa": "",
+              "mean_en": "a place in a shop to pay <br> <img src='images/checkout.jpg' alt='checkout' width='200'>"
+            },
+            {
+              "word": "receipt",
+              "phonetic": "/rɪˈsiːt/",
+              "mean_fa": "",
+              "mean_en": "a written or printed document that shows the payment for a set of goods or services has been made <br> <img src='images/receipt.jpg' alt='receipt' width='200'>"
+            },
+            {
+              "word": "change (noun)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "1. (plural changes) when something becomes different: The new government has made a lot of changes - There has been a change in the weather <br> 2. (no plural) the money that you get back if you pay more than the amount something costs: If a newspaper costs 60$ and you pay 100$, you will get 40$ change <br> 3. (no plural) small pieces of money; coins: I haven't got any change <br> `for a change` because you want something different: Today we had lunch in a restaurant for a change"
             }
           ]
         }
