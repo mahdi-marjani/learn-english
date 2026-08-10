@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1530**
+**Total words: 1537**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (445 words)](#part-1-core-pytorch-445-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (144 words)](#chapter-2-pretrained-networks-144-words)
-- [Duolingo - Vocabulary (412 words)](#duolingo---vocabulary-412-words)
-  - [SECTION 1 (412 words)](#section-1-412-words)
+- [Duolingo - Vocabulary (419 words)](#duolingo---vocabulary-419-words)
+  - [SECTION 1 (419 words)](#section-1-419-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -37,7 +37,7 @@
     - [Wedding (15 words)](#wedding-15-words)
     - [Memories (20 words)](#memories-20-words)
     - [Relations (26 words)](#relations-26-words)
-    - [Clothing (13 words)](#clothing-13-words)
+    - [Clothing (20 words)](#clothing-20-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1158,9 +1158,9 @@
 
 ---
 
-## Duolingo - Vocabulary (412 words)
+## Duolingo - Vocabulary (419 words)
 
-### SECTION 1 (412 words)
+### SECTION 1 (419 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1589,7 +1589,7 @@
 - `palm`  /pɑːm/ <br> 1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm
 - `nutritious (adjective)`  /nuːˈtrɪʃ.əs/ <br> (used about food) good for you; efficient as food: tasty and nutritious meals
 
-#### Clothing (13 words)
+#### Clothing (20 words)
 - `sweatshirt`  /ˈswetʃɜːrt/ <br> a warm piece of clothing with long sleeves made of thick cotton, which you wear on the top part of your body <br> <img src='images/sweatshirt.jpg' alt='sweatshirt' width='200'>
 - `sleeve`  /sliːv/ <br> the part of a piece of clothing that covers some or all of the arm: short/long sleeves <br> <img src='images/sleeve.jpg' alt='sleeve' width='200'>
 - `cotton`  /ˈkɑː.tən/ <br> a natural cloth or thread that is made from the soft white hairs around the seeds of a plant that grows in hot countries: a cotton shirt - a reel of cotton <br> <img src='images/cotton.jpg' alt='cotton' width='200'>
@@ -1603,6 +1603,13 @@
 - `checkout`  /ˈtʃek.aʊt/ <br> a place in a shop to pay <br> <img src='images/checkout.jpg' alt='checkout' width='200'>
 - `receipt`  /rɪˈsiːt/ <br> a written or printed document that shows the payment for a set of goods or services has been made <br> <img src='images/receipt.jpg' alt='receipt' width='200'>
 - `change (noun)`  <br> 1. (plural changes) when something becomes different: The new government has made a lot of changes - There has been a change in the weather <br> 2. (no plural) the money that you get back if you pay more than the amount something costs: If a newspaper costs 60$ and you pay 100$, you will get 40$ change <br> 3. (no plural) small pieces of money; coins: I haven't got any change <br> `for a change` because you want something different: Today we had lunch in a restaurant for a change
+- `belt`  /belt/ <br> <br> <img src='images/belt.jpg' alt='belt' width='200'>
+- `silk`  /sɪlk/ <br> a soft type of cloth made from a thread produced by an insect (called a silkworm): This scarf is made of silk - a silk shirt
+- `silkworm`  /ˈsɪlkwɜːrm/ <br> <br> <img src='images/silkworm.jpg' alt='silkworm' width='200'>
+- `vest`  /vest/ <br> 1. (British) (American undershirt) a piece of clothing that you wear under your other clothes on the top part of your body <br> <img src='images/vest.jpg' alt='vest' width='200'> <br> 2. American English for waistcoat <br> <img src='images/waistcoat.jpg' alt='waistcoat' width='200'>
+- `backpack`  /ˈbæk.ˌpæk/ <br> a bag designed for carrying on the back <br> <img src='images/backpack.jpg' alt='backpack' width='200'>
+- `zip`  /zɪp/ <br> <br> <img src='images/zip.jpg' alt='zip' width='200'>
+- `pocket`  /ˈpɑ:.kɪt/ <br> a type of small bag in or on clothing, used for carrying small things such as money, keys, etc <br> <img src='images/pocket.jpg' alt='pocket' width='200'>
 ---
 
 ---
