@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 914**
+**Total words: 924**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (445 words)](#part-1-core-pytorch-445-words)
+- [Part 1: Core PyTorch (455 words)](#part-1-core-pytorch-455-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (144 words)](#chapter-2-pretrained-networks-144-words)
+  - [Chapter 2: Pretrained networks (154 words)](#chapter-2-pretrained-networks-154-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (445 words)
+## Part 1: Core PyTorch (455 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (144 words)
+### Chapter 2: Pretrained networks (154 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -957,4 +957,14 @@
 - `duly (adverb)`  /ˈduː.li/ <br> in the correct way or at the correct time; as expected: The form was duly signed and submitted
 - `diffuser`  /dɪˈfjuːzər/ <br> a Python library of state-of-the-art pretrained diffusion models for generating videos, images, and audio—including popular models like Stable Diffusion
 - `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking
+- `bundle (verb)`  /ˈbʌn.dəl/ <br> to group or package several things together as one unit: A pipeline bundles all the parts needed for generation - The software bundles several tools into one package
+- `compact (adjective)`  /kəmˈpækt/ <br> small and taking up little space, tightly packed: compresses the image into a compact internal representation - The apartment was small but compact and efficient
+- `latent (adjective)`  /ˈleɪ.tənt/ <br> existing but hidden or not yet fully developed/visible: a compact internal ('latent') representation - He has a latent talent for music that no one noticed
+- `condensed (adjective)`  /kənˈdenst/ <br> made shorter or more compact, containing a lot in a small space: it's actually pretty condensed, considering what it does - This is a condensed version of the full report
+- `credible (adjective)`  /ˈkred.ə.bəl/ <br> believable, able to be trusted or accepted as true: what comes out looks like a credible replacement - She gave a credible explanation for being late
+- `brevity (noun)`  /ˈbrev.ə.ti/ <br> the quality of expressing something in few words, being short: We skipped the generation of the mask image for brevity - For the sake of brevity, I'll skip the details
+- `snippet (noun)`  /ˈsnɪp.ɪt/ <br> a small piece or extract, often of text or code: we have included the code snippet in the same file - He shared a snippet of code that fixed the bug
+- `specify (verb)`  /ˈspes.ə.faɪ/ <br> to describe something clearly and exactly: useful to specify undesired features in the generated image - Please specify your preferred delivery date
+- `steer (verb)`  /stɪr/ <br> to guide or direct something in a particular direction: helping to steer the model away from producing unwanted artifacts - He steered the conversation toward a more positive topic
+- `artifact (noun)`  /ˈɑːr.tɪ.fækt/ <br> an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression
 ---

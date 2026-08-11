@@ -5531,6 +5531,66 @@
               "phonetic": "/ˌɪn.vəˈkeɪ.ʃən/",
               "mean_fa": "",
               "mean_en": "the action of invoking"
+            },
+            {
+              "word": "bundle (verb)",
+              "phonetic": "/ˈbʌn.dəl/",
+              "mean_fa": "",
+              "mean_en": "to group or package several things together as one unit: A pipeline bundles all the parts needed for generation - The software bundles several tools into one package"
+            },
+            {
+              "word": "compact (adjective)",
+              "phonetic": "/kəmˈpækt/",
+              "mean_fa": "",
+              "mean_en": "small and taking up little space, tightly packed: compresses the image into a compact internal representation - The apartment was small but compact and efficient"
+            },
+            {
+              "word": "latent (adjective)",
+              "phonetic": "/ˈleɪ.tənt/",
+              "mean_fa": "",
+              "mean_en": "existing but hidden or not yet fully developed/visible: a compact internal ('latent') representation - He has a latent talent for music that no one noticed"
+            },
+            {
+              "word": "condensed (adjective)",
+              "phonetic": "/kənˈdenst/",
+              "mean_fa": "",
+              "mean_en": "made shorter or more compact, containing a lot in a small space: it's actually pretty condensed, considering what it does - This is a condensed version of the full report"
+            },
+            {
+              "word": "credible (adjective)",
+              "phonetic": "/ˈkred.ə.bəl/",
+              "mean_fa": "",
+              "mean_en": "believable, able to be trusted or accepted as true: what comes out looks like a credible replacement - She gave a credible explanation for being late"
+            },
+            {
+              "word": "brevity (noun)",
+              "phonetic": "/ˈbrev.ə.ti/",
+              "mean_fa": "",
+              "mean_en": "the quality of expressing something in few words, being short: We skipped the generation of the mask image for brevity - For the sake of brevity, I'll skip the details"
+            },
+            {
+              "word": "snippet (noun)",
+              "phonetic": "/ˈsnɪp.ɪt/",
+              "mean_fa": "",
+              "mean_en": "a small piece or extract, often of text or code: we have included the code snippet in the same file - He shared a snippet of code that fixed the bug"
+            },
+            {
+              "word": "specify (verb)",
+              "phonetic": "/ˈspes.ə.faɪ/",
+              "mean_fa": "",
+              "mean_en": "to describe something clearly and exactly: useful to specify undesired features in the generated image - Please specify your preferred delivery date"
+            },
+            {
+              "word": "steer (verb)",
+              "phonetic": "/stɪr/",
+              "mean_fa": "",
+              "mean_en": "to guide or direct something in a particular direction: helping to steer the model away from producing unwanted artifacts - He steered the conversation toward a more positive topic"
+            },
+            {
+              "word": "artifact (noun)",
+              "phonetic": "/ˈɑːr.tɪ.fækt/",
+              "mean_fa": "",
+              "mean_en": "an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression"
             }
           ]
         }
