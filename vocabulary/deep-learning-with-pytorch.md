@@ -956,5 +956,5 @@
 - `can of worms`  /ˈkæn əv ˈwɜːrmz/ <br> a situation that, once started, creates many complicated problems: I’m afraid that if we start investigating the issue, we’ll open a can of worms and make things worse
 - `duly (adverb)`  /ˈduː.li/ <br> in the correct way or at the correct time; as expected: The form was duly signed and submitted
 - `diffuser`  /dɪˈfjuːzər/ <br> a Python library of state-of-the-art pretrained diffusion models for generating videos, images, and audio—including popular models like Stable Diffusion
-- `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking someone or something
+- `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking
 ---

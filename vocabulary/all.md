@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1537**
+**Total words: 1549**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (445 words)](#part-1-core-pytorch-445-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (144 words)](#chapter-2-pretrained-networks-144-words)
-- [Duolingo - Vocabulary (419 words)](#duolingo---vocabulary-419-words)
-  - [SECTION 1 (419 words)](#section-1-419-words)
+- [Duolingo - Vocabulary (431 words)](#duolingo---vocabulary-431-words)
+  - [SECTION 1 (431 words)](#section-1-431-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -37,7 +37,7 @@
     - [Wedding (15 words)](#wedding-15-words)
     - [Memories (20 words)](#memories-20-words)
     - [Relations (26 words)](#relations-26-words)
-    - [Clothing (20 words)](#clothing-20-words)
+    - [Clothing (32 words)](#clothing-32-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1153,14 +1153,14 @@
 - `can of worms`  /ˈkæn əv ˈwɜːrmz/ <br> a situation that, once started, creates many complicated problems: I’m afraid that if we start investigating the issue, we’ll open a can of worms and make things worse
 - `duly (adverb)`  /ˈduː.li/ <br> in the correct way or at the correct time; as expected: The form was duly signed and submitted
 - `diffuser`  /dɪˈfjuːzər/ <br> a Python library of state-of-the-art pretrained diffusion models for generating videos, images, and audio—including popular models like Stable Diffusion
-- `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking someone or something
+- `invocation`  /ˌɪn.vəˈkeɪ.ʃən/ <br> the action of invoking
 ---
 
 ---
 
-## Duolingo - Vocabulary (419 words)
+## Duolingo - Vocabulary (431 words)
 
-### SECTION 1 (419 words)
+### SECTION 1 (431 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1589,7 +1589,7 @@
 - `palm`  /pɑːm/ <br> 1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm
 - `nutritious (adjective)`  /nuːˈtrɪʃ.əs/ <br> (used about food) good for you; efficient as food: tasty and nutritious meals
 
-#### Clothing (20 words)
+#### Clothing (32 words)
 - `sweatshirt`  /ˈswetʃɜːrt/ <br> a warm piece of clothing with long sleeves made of thick cotton, which you wear on the top part of your body <br> <img src='images/sweatshirt.jpg' alt='sweatshirt' width='200'>
 - `sleeve`  /sliːv/ <br> the part of a piece of clothing that covers some or all of the arm: short/long sleeves <br> <img src='images/sleeve.jpg' alt='sleeve' width='200'>
 - `cotton`  /ˈkɑː.tən/ <br> a natural cloth or thread that is made from the soft white hairs around the seeds of a plant that grows in hot countries: a cotton shirt - a reel of cotton <br> <img src='images/cotton.jpg' alt='cotton' width='200'>
@@ -1610,6 +1610,18 @@
 - `backpack`  /ˈbæk.ˌpæk/ <br> a bag designed for carrying on the back <br> <img src='images/backpack.jpg' alt='backpack' width='200'>
 - `zip`  /zɪp/ <br> <br> <img src='images/zip.jpg' alt='zip' width='200'>
 - `pocket`  /ˈpɑ:.kɪt/ <br> a type of small bag in or on clothing, used for carrying small things such as money, keys, etc <br> <img src='images/pocket.jpg' alt='pocket' width='200'>
+- `grocery`  /ˈɡroʊsəri/ <br> a store that sells food and small things for the home
+- `afterward`  /ˈæftərwərd/ <br> after the time mentioned; later; after another thing has happened: We had tea, and afterward we sat in the garden for a while
+- `upside down`  <br> To describe something that has the upside part at the bottom, we use the expression upside down: Jane is hanging from the tree upside down. She will probably hurt herself <br> <img src='images/upside-down-inside-out.jpg' alt='upside-down-inside-out' width='200'>
+- `inside out`  <br> We use inside out to say that something has its inner part reversed to face the outside. It is often used to refer to clothes: The child put on his trousers without realizing they were inside out <br> <img src='images/upside-down-inside-out.jpg' alt='upside-down-inside-out' width='200'>
+- `photographer`  /fəˈtɑːɡrəfər/ <br> person who takes photos
+- `grinning (adjective)`  /ˈɡrɪn.ɪŋ/ <br> having a wide smile: We looked from one grinning face to another
+- `crowded (adjective)`  /ˈkraʊ.dɪd/ <br> If a place is crowded, it is full of people
+- `skirt`  /skɜr:t/ <br> a piece of clothing for a woman or girl that hangs from the waist and covers part of the legs <br> <img src='images/skirt.jpg' alt='skirt' width='200'>
+- `lizard`  /ˈlɪzərd/ <br> <br> <img src='images/lizard.jpg' alt='lizard' width='200'>
+- `kitten`  /ˈkɪt̬.ən/ <br> young cat
+- `pan`  /pæn/ <br> a metal pot that you use for cooking: a frying pan - a saucepan <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
+- `cash register`  /ˈkæʃ ˌredʒɪstər/ <br> a machine used in shops that has a drawer for money and totals, displays, and records the amount of each sale <br> <img src='images/cash-register.jpg' alt='cash-register' width='200'>
 ---
 
 ---
