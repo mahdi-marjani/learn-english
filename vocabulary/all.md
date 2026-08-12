@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1559**
+**Total words: 1563**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (455 words)](#part-1-core-pytorch-455-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (154 words)](#chapter-2-pretrained-networks-154-words)
-- [Duolingo - Vocabulary (431 words)](#duolingo---vocabulary-431-words)
-  - [SECTION 1 (431 words)](#section-1-431-words)
+- [Duolingo - Vocabulary (435 words)](#duolingo---vocabulary-435-words)
+  - [SECTION 1 (435 words)](#section-1-435-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -37,7 +37,7 @@
     - [Wedding (15 words)](#wedding-15-words)
     - [Memories (20 words)](#memories-20-words)
     - [Relations (26 words)](#relations-26-words)
-    - [Clothing (32 words)](#clothing-32-words)
+    - [Clothing (36 words)](#clothing-36-words)
 - [General - Vocabulary (54 words)](#general---vocabulary-54-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1168,9 +1168,9 @@
 
 ---
 
-## Duolingo - Vocabulary (431 words)
+## Duolingo - Vocabulary (435 words)
 
-### SECTION 1 (431 words)
+### SECTION 1 (435 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1599,7 +1599,7 @@
 - `palm`  /pɑːm/ <br> 1. the flat part of the front of your hand <br> 2. (also `palm tree`) a tree that grows in hot countries, with no branches and a lot of big leaves at the top: a coconut palm
 - `nutritious (adjective)`  /nuːˈtrɪʃ.əs/ <br> (used about food) good for you; efficient as food: tasty and nutritious meals
 
-#### Clothing (32 words)
+#### Clothing (36 words)
 - `sweatshirt`  /ˈswetʃɜːrt/ <br> a warm piece of clothing with long sleeves made of thick cotton, which you wear on the top part of your body <br> <img src='images/sweatshirt.jpg' alt='sweatshirt' width='200'>
 - `sleeve`  /sliːv/ <br> the part of a piece of clothing that covers some or all of the arm: short/long sleeves <br> <img src='images/sleeve.jpg' alt='sleeve' width='200'>
 - `cotton`  /ˈkɑː.tən/ <br> a natural cloth or thread that is made from the soft white hairs around the seeds of a plant that grows in hot countries: a cotton shirt - a reel of cotton <br> <img src='images/cotton.jpg' alt='cotton' width='200'>
@@ -1632,6 +1632,10 @@
 - `kitten`  /ˈkɪt̬.ən/ <br> young cat
 - `pan`  /pæn/ <br> a metal pot that you use for cooking: a frying pan - a saucepan <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
 - `cash register`  /ˈkæʃ ˌredʒɪstər/ <br> a machine used in shops that has a drawer for money and totals, displays, and records the amount of each sale <br> <img src='images/cash-register.jpg' alt='cash-register' width='200'>
+- `check (verb)`  <br> 1. to look at something to see that it is right, good or safe: Do the sums and then use a calculator to check your answers - Before driving off, I checked the oil and water - Check that all the windows are closed before you leave <br> 2. American English for tick <br> `check in` to tell the person at the desk in a hotel or an airport that you have arrived: I have to check in an hour before my flight <br> `check out` to pay your bill and leave a hotel
+- `all by myself`  <br> I did it alone: He picked up a book all by himself
+- `by myself`  <br> alone: She couldn't read book by herself
+- `tip (noun)`  /tɪp/ <br> 1. the pointed  or thin end of something: the tips of your fingers <br> 2. a small, extra amount of money that you give to somebody who has done a job for you: I left a tip on the table <br> 3. a small piece of advice: She gave me some useful tips on how to pass the exam
 ---
 
 ---
