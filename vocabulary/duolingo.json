@@ -2662,7 +2662,12 @@
               "phonetic": "/ˈkæʃ ˌredʒɪstər/",
               "mean_fa": "",
               "mean_en": "a machine used in shops that has a drawer for money and totals, displays, and records the amount of each sale <br> <img src='images/cash-register.jpg' alt='cash-register' width='200'>"
-            },
+            }
+          ]
+        },
+        {
+          "heading": "Airport",
+          "words": [
             {
               "word": "check (verb)",
               "phonetic": "",
@@ -2686,6 +2691,42 @@
               "phonetic": "/tɪp/",
               "mean_fa": "",
               "mean_en": "1. the pointed  or thin end of something: the tips of your fingers <br> 2. a small, extra amount of money that you give to somebody who has done a job for you: I left a tip on the table <br> 3. a small piece of advice: She gave me some useful tips on how to pass the exam"
+            },
+            {
+              "word": "fee (noun)",
+              "phonetic": "/fiː/",
+              "mean_fa": "",
+              "mean_en": "1. the money you pay for professional advice or service from private doctors, lawyers, schools, universities, etc: We can't afford private school fees - Most ticket agencies will charge a small fee <br> 2. the money that you pay to do something, for example to join a club or visit a museum: There is no entrance fee to the gallery"
+            },
+            {
+              "word": "citizen",
+              "phonetic": "/ˈsɪt̬.ə.zən/",
+              "mean_fa": "",
+              "mean_en": "a person who has the legal right to belong to a particular country: She's Italian by birth but is now an Australian citizen - a British citizen"
+            },
+            {
+              "word": "board (verb)",
+              "phonetic": "/bɔːrd/",
+              "mean_fa": "",
+              "mean_en": "to get on a ship, bus, train, or plane: We boarded the plane at Gatwick - Flight BA 193 to Riyadh is now boarding (= is ready for passengers to get on)"
+            },
+            {
+              "word": "abroad (adverb)",
+              "phonetic": "/əˈbrɑːd/",
+              "mean_fa": "",
+              "mean_en": "in or to a foreign country: to go/travel/live/study abroad - She worked abroad for a year"
+            },
+            {
+              "word": "surprised (adjective)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "If you are surprised, you feel or show surprise: I was surprised to see Tim yesterday _ I thought he was in Canada"
+            },
+            {
+              "word": "surprising (adjective)",
+              "phonetic": "/sərˈpraɪzɪŋ/",
+              "mean_fa": "",
+              "mean_en": "If something is surprising, it makes you feel surprise: The news was surprising"
             }
           ]
         }
