@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 924**
+**Total words: 925**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (455 words)](#part-1-core-pytorch-455-words)
+- [Part 1: Core PyTorch (456 words)](#part-1-core-pytorch-456-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (154 words)](#chapter-2-pretrained-networks-154-words)
+  - [Chapter 2: Pretrained networks (155 words)](#chapter-2-pretrained-networks-155-words)
 
 ---
 
@@ -225,7 +225,7 @@
 - `adopter`  /əˈdɑːptər/ <br> a person who starts to use a new product, method, or idea
 - `honorable`  <br> قابل احترام
 - `deserves`  <br> لایق بودن
-- `particular`  <br> specific - خاص، ویژه
+- `particular`  <br> 1. one only, and not any other: You need a particular kind of flour to make bread <br> 2. more than usual (SAME MEANING: special): The road is very icy, so take particular care when you are driving <br> 3. If you are particular, you want something to be exactly right: He's very particular about the food he eats <br> `in particular` more than others (SAME MEANING: especially): Is there anything in particular you want to do this weekend?
 - `gratitude`  <br> قدردانی
 - `shoutout`  <br> یک تشکر رسمی یا عمومی
 - `bring`  /brɪŋ/ <br> 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> `bring something back` 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> `bring somebody up` to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> `bring something up` 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting? <br> `bring something in` to introduce something new such as a product or a law
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (455 words)
+## Part 1: Core PyTorch (456 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (154 words)
+### Chapter 2: Pretrained networks (155 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -967,4 +967,5 @@
 - `specify (verb)`  /ˈspes.ə.faɪ/ <br> to describe something clearly and exactly: useful to specify undesired features in the generated image - Please specify your preferred delivery date
 - `steer (verb)`  /stɪr/ <br> to guide or direct something in a particular direction: helping to steer the model away from producing unwanted artifacts - He steered the conversation toward a more positive topic
 - `artifact (noun)`  /ˈɑːr.tɪ.fækt/ <br> an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression
+- `specific (adjective)`  /spəˈsɪf.ɪk/ <br> 1. exact and clear: He gave us specific instructions on how to get there <br> 2. particular; relating exactly to one particular thing, not general: Is there anything specific that you want to talk about - zebra-specific (= information/features that relate exactly and particularly to zebras)
 ---

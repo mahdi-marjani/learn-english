@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1569**
+**Total words: 1570**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (924 words)](#deep-learning-with-pytorch---vocabulary-924-words)
+- [Deep Learning with PyTorch - Vocabulary (925 words)](#deep-learning-with-pytorch---vocabulary-925-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (455 words)](#part-1-core-pytorch-455-words)
+  - [Part 1: Core PyTorch (456 words)](#part-1-core-pytorch-456-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (154 words)](#chapter-2-pretrained-networks-154-words)
+    - [Chapter 2: Pretrained networks (155 words)](#chapter-2-pretrained-networks-155-words)
 - [Duolingo - Vocabulary (441 words)](#duolingo---vocabulary-441-words)
   - [SECTION 1 (441 words)](#section-1-441-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -213,7 +213,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (924 words)
+## Deep Learning with PyTorch - Vocabulary (925 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -423,7 +423,7 @@
 - `adopter`  /əˈdɑːptər/ <br> a person who starts to use a new product, method, or idea
 - `honorable`  <br> قابل احترام
 - `deserves`  <br> لایق بودن
-- `particular`  <br> specific - خاص، ویژه
+- `particular`  <br> 1. one only, and not any other: You need a particular kind of flour to make bread <br> 2. more than usual (SAME MEANING: special): The road is very icy, so take particular care when you are driving <br> 3. If you are particular, you want something to be exactly right: He's very particular about the food he eats <br> `in particular` more than others (SAME MEANING: especially): Is there anything in particular you want to do this weekend?
 - `gratitude`  <br> قدردانی
 - `shoutout`  <br> یک تشکر رسمی یا عمومی
 - `bring`  /brɪŋ/ <br> 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> `bring something back` 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> `bring somebody up` to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> `bring something up` 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting? <br> `bring something in` to introduce something new such as a product or a law
@@ -705,7 +705,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (455 words)
+### Part 1: Core PyTorch (456 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1010,7 +1010,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (154 words)
+#### Chapter 2: Pretrained networks (155 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1165,6 +1165,7 @@
 - `specify (verb)`  /ˈspes.ə.faɪ/ <br> to describe something clearly and exactly: useful to specify undesired features in the generated image - Please specify your preferred delivery date
 - `steer (verb)`  /stɪr/ <br> to guide or direct something in a particular direction: helping to steer the model away from producing unwanted artifacts - He steered the conversation toward a more positive topic
 - `artifact (noun)`  /ˈɑːr.tɪ.fækt/ <br> an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression
+- `specific (adjective)`  /spəˈsɪf.ɪk/ <br> 1. exact and clear: He gave us specific instructions on how to get there <br> 2. particular; relating exactly to one particular thing, not general: Is there anything specific that you want to talk about - zebra-specific (= information/features that relate exactly and particularly to zebras)
 ---
 
 ---
@@ -1662,7 +1663,7 @@
 ### news (6 words)
 - `attention`  /əˈtenʃn/ <br> looking or listening carefully and with interest: Can I have your attention, please? (= please listen to me)
 - `pay attention`  <br> to look or listen carefully: Please pay attention to what I'm saying
-- `matter (noun)`  /ˈmætər/ <br> something that you must talk about or do: There is a matter I would like to discuss with you
+- `matter (noun)`  /ˈmætər/ <br> 1. a task, situation, or event which you must think about, talk about or do, especially one that involves problems: There is a matter I would like to discuss with you - Business matters drew him to Paris <br> 2. matters (plural) You use matters to refer to the situation you are talking about, especially when something is affecting the situation in some way: The new system should improve matters <br> 3. substance; material; Matter is the physical part of the universe consisting of solids, liquids, and gases: A proton is an elementary particle of matter - They feed mostly on vegetable matter <br> 4. You use matter in expressions such as 'What's the matter?' or 'Is anything the matter?' when you think that someone has a problem and you want to know what it is: Carole, what's the matter? You don't seem happy <br> `a matter of something` 1. only; just; no more than (a specified period of time): In a matter of seconds, the building was in flames - they were shown the door in a matter of minutes <br> 2. a thing that involves or depends on: Success is often just a matter of hard work <br> `no matter` it is not a problem; it is not really important: 'I don't have that form with me.' 'No matter - here's another.' - No matter what your age, you can lose weight by following this program
 - `vote (noun)`  /vəʊt/ <br> when you choose somebody or something by writing on a piece of paper or by putting up your hand: There were 96 votes for the plan, and 25 against
 - `vote (verb)`  /vəʊt/ <br> to choose somebody or something by writing on a piece of paper or by putting up your hand: The people voted for the new president <br> <img src='images/vote.jpg' alt='vote' width='200'>
 - `lonely`  /ˈloʊnli/ <br> 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills

@@ -1210,8 +1210,8 @@
         {
           "word": "particular",
           "phonetic": "",
-          "mean_fa": "خاص، ویژه",
-          "mean_en": "specific"
+          "mean_fa": "",
+          "mean_en": "1. one only, and not any other: You need a particular kind of flour to make bread <br> 2. more than usual (SAME MEANING: special): The road is very icy, so take particular care when you are driving <br> 3. If you are particular, you want something to be exactly right: He's very particular about the food he eats <br> `in particular` more than others (SAME MEANING: especially): Is there anything in particular you want to do this weekend?"
         },
         {
           "word": "gratitude",
@@ -5591,6 +5591,12 @@
               "phonetic": "/ˈɑːr.tɪ.fækt/",
               "mean_fa": "",
               "mean_en": "an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression"
+            },
+            {
+              "word": "specific (adjective)",
+              "phonetic": "/spəˈsɪf.ɪk/",
+              "mean_fa": "",
+              "mean_en": "1. exact and clear: He gave us specific instructions on how to get there <br> 2. particular; relating exactly to one particular thing, not general: Is there anything specific that you want to talk about - zebra-specific (= information/features that relate exactly and particularly to zebras)"
             }
           ]
         }
