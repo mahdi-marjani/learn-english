@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 441**
+**Total words: 454**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (441 words)](#section-1-441-words)
+- [SECTION 1 (454 words)](#section-1-454-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -20,11 +20,11 @@
   - [Memories (20 words)](#memories-20-words)
   - [Relations (26 words)](#relations-26-words)
   - [Clothing (32 words)](#clothing-32-words)
-  - [Airport (10 words)](#airport-10-words)
+  - [Airport (23 words)](#airport-23-words)
 
 ---
 
-## SECTION 1 (441 words)
+## SECTION 1 (454 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -487,7 +487,7 @@
 - `pan`  /pæn/ <br> a metal pot that you use for cooking: a frying pan - a saucepan <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
 - `cash register`  /ˈkæʃ ˌredʒɪstər/ <br> a machine used in shops that has a drawer for money and totals, displays, and records the amount of each sale <br> <img src='images/cash-register.jpg' alt='cash-register' width='200'>
 
-### Airport (10 words)
+### Airport (23 words)
 - `check (verb)`  <br> 1. to look at something to see that it is right, good or safe: Do the sums and then use a calculator to check your answers - Before driving off, I checked the oil and water - Check that all the windows are closed before you leave <br> 2. American English for tick <br> `check in` to tell the person at the desk in a hotel or an airport that you have arrived: I have to check in an hour before my flight <br> `check out` to pay your bill and leave a hotel
 - `all by myself`  <br> I did it alone: He picked up a book all by himself
 - `by myself`  <br> alone: She couldn't read book by herself
@@ -498,4 +498,17 @@
 - `abroad (adverb)`  /əˈbrɑːd/ <br> in or to a foreign country: to go/travel/live/study abroad - She worked abroad for a year
 - `surprised (adjective)`  <br> If you are surprised, you feel or show surprise: I was surprised to see Tim yesterday _ I thought he was in Canada
 - `surprising (adjective)`  /sərˈpraɪzɪŋ/ <br> If something is surprising, it makes you feel surprise: The news was surprising
+- `embassy`  /ˈem.bə.si/ <br> a group of people whose job is to speak and act for their government in another country, or the building where they work: To get a visa, you should apply to the American embassy
+- `goodness (noun)`  /ˈɡʊd.nəs/ <br> 1. the part of something, especially of food, that is good for health: Don't cook vegetables for too long - they'll lose all their goodness <br> 2. the personal quality of being morally good: Mother Teresa's goodness is an example to us all
+- `goodness (exclamation)`  /ˈɡʊd.nəs/ <br> used to express any strong emotion, especially surprise: Goodness! How did you manage to get here so quickly?
+- `raffle`  /ˈræf.əl/ <br> an activity in which people buy tickets with different numbers, some of which are later chosen to win prizes, that is organized in order to make money for a good social purpose: I have never won anything in a raffle
+- `spare (adjective)`  /sper/ <br> 1. extra; if something is spare, you do not use or need it all the time: a spare key/tyre - Do you have a spare pen? - You can stay with us tonight. We've got a spare room <br> 2. Spare time is time when you are not working: What do you do in your spare time?
+- `literally`  /ˈlɪtərəli/ <br> 1. in a literal way (SAME MEANING: exactly): The word ‘planet’ literally means ‘wandering body’ <br> 2. used to emphasize the truth of something that may seem surprising: There are literally hundreds of prizes to win <br> 3. (informal) used to emphasize a word or phrase, even if it is not actually true in a literal sense: I literally jumped out of my skin
+- `literal (adjective)`  /ˈlɪtərəl/ <br> The literal meaning of a word is its original, basic meaning: The literal meaning of 'television' is 'seeing from a distance'
+- `truth`  /truːθ/ <br> being true; what is true: We need to find out the truth about what happened - Are you telling me the truth?
+- `crime`  /kraɪm/ <br> something that somebody does that is against the law: Murder and robbery are serious crimes - They had committed a crime
+- `sneeze (verb)`  /sniːz/ <br> to make air come out of your nose and mouth with a sudden loud noise, for example because you have a cold: Pepper makes you sneeze
+- `pass (noun)`  /pæs/ <br> 1. doing well enough in an exam: How many passes did you get in your exams? (OPPOSITE: fail) <br> 2. a special piece of paper or card that says you can go somewhere or do something: You need a pass to get into the factory <br> 3. kicking, throwing or hitting a ball to somebody in a game <br> 4. a road or way through mountains: the Brenner Pass
+- `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
+- `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
 ---

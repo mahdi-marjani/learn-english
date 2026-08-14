@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 54**
+**Total words: 53**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
-- [social media (25 words)](#social-media-25-words)
+- [social media (24 words)](#social-media-24-words)
 - [other (13 words)](#other-13-words)
 - [Wow! Words (5 words)](#wow-words-5-words)
 
@@ -29,7 +29,7 @@
 - `lonely`  /ˈloʊnli/ <br> 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-## social media (25 words)
+## social media (24 words)
 - `teenager`  /ˈtiːneɪdʒər/ <br> a person who is between 13 and 19 years old
 - `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
 - `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -46,7 +46,6 @@
 - `crazy`  /ˈkreɪzi/ <br> 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - `comfortable`  /ˈkʌm.fɚ.t̬ə.bəl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
-- `literally`  /ˈlɪtərəli/ <br> 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
 - `worse`  /wɜːrs/ <br> bad

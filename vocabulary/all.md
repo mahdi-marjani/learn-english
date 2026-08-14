@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1570**
+**Total words: 1582**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (456 words)](#part-1-core-pytorch-456-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (155 words)](#chapter-2-pretrained-networks-155-words)
-- [Duolingo - Vocabulary (441 words)](#duolingo---vocabulary-441-words)
-  - [SECTION 1 (441 words)](#section-1-441-words)
+- [Duolingo - Vocabulary (454 words)](#duolingo---vocabulary-454-words)
+  - [SECTION 1 (454 words)](#section-1-454-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -38,11 +38,11 @@
     - [Memories (20 words)](#memories-20-words)
     - [Relations (26 words)](#relations-26-words)
     - [Clothing (32 words)](#clothing-32-words)
-    - [Airport (10 words)](#airport-10-words)
-- [General - Vocabulary (54 words)](#general---vocabulary-54-words)
+    - [Airport (23 words)](#airport-23-words)
+- [General - Vocabulary (53 words)](#general---vocabulary-53-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
-  - [social media (25 words)](#social-media-25-words)
+  - [social media (24 words)](#social-media-24-words)
   - [other (13 words)](#other-13-words)
   - [Wow! Words (5 words)](#wow-words-5-words)
 
@@ -1170,9 +1170,9 @@
 
 ---
 
-## Duolingo - Vocabulary (441 words)
+## Duolingo - Vocabulary (454 words)
 
-### SECTION 1 (441 words)
+### SECTION 1 (454 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1635,7 +1635,7 @@
 - `pan`  /pæn/ <br> a metal pot that you use for cooking: a frying pan - a saucepan <br> <img src='images/frying-pan.jpg' alt='frying-pan' width='200'>
 - `cash register`  /ˈkæʃ ˌredʒɪstər/ <br> a machine used in shops that has a drawer for money and totals, displays, and records the amount of each sale <br> <img src='images/cash-register.jpg' alt='cash-register' width='200'>
 
-#### Airport (10 words)
+#### Airport (23 words)
 - `check (verb)`  <br> 1. to look at something to see that it is right, good or safe: Do the sums and then use a calculator to check your answers - Before driving off, I checked the oil and water - Check that all the windows are closed before you leave <br> 2. American English for tick <br> `check in` to tell the person at the desk in a hotel or an airport that you have arrived: I have to check in an hour before my flight <br> `check out` to pay your bill and leave a hotel
 - `all by myself`  <br> I did it alone: He picked up a book all by himself
 - `by myself`  <br> alone: She couldn't read book by herself
@@ -1646,11 +1646,24 @@
 - `abroad (adverb)`  /əˈbrɑːd/ <br> in or to a foreign country: to go/travel/live/study abroad - She worked abroad for a year
 - `surprised (adjective)`  <br> If you are surprised, you feel or show surprise: I was surprised to see Tim yesterday _ I thought he was in Canada
 - `surprising (adjective)`  /sərˈpraɪzɪŋ/ <br> If something is surprising, it makes you feel surprise: The news was surprising
+- `embassy`  /ˈem.bə.si/ <br> a group of people whose job is to speak and act for their government in another country, or the building where they work: To get a visa, you should apply to the American embassy
+- `goodness (noun)`  /ˈɡʊd.nəs/ <br> 1. the part of something, especially of food, that is good for health: Don't cook vegetables for too long - they'll lose all their goodness <br> 2. the personal quality of being morally good: Mother Teresa's goodness is an example to us all
+- `goodness (exclamation)`  /ˈɡʊd.nəs/ <br> used to express any strong emotion, especially surprise: Goodness! How did you manage to get here so quickly?
+- `raffle`  /ˈræf.əl/ <br> an activity in which people buy tickets with different numbers, some of which are later chosen to win prizes, that is organized in order to make money for a good social purpose: I have never won anything in a raffle
+- `spare (adjective)`  /sper/ <br> 1. extra; if something is spare, you do not use or need it all the time: a spare key/tyre - Do you have a spare pen? - You can stay with us tonight. We've got a spare room <br> 2. Spare time is time when you are not working: What do you do in your spare time?
+- `literally`  /ˈlɪtərəli/ <br> 1. in a literal way (SAME MEANING: exactly): The word ‘planet’ literally means ‘wandering body’ <br> 2. used to emphasize the truth of something that may seem surprising: There are literally hundreds of prizes to win <br> 3. (informal) used to emphasize a word or phrase, even if it is not actually true in a literal sense: I literally jumped out of my skin
+- `literal (adjective)`  /ˈlɪtərəl/ <br> The literal meaning of a word is its original, basic meaning: The literal meaning of 'television' is 'seeing from a distance'
+- `truth`  /truːθ/ <br> being true; what is true: We need to find out the truth about what happened - Are you telling me the truth?
+- `crime`  /kraɪm/ <br> something that somebody does that is against the law: Murder and robbery are serious crimes - They had committed a crime
+- `sneeze (verb)`  /sniːz/ <br> to make air come out of your nose and mouth with a sudden loud noise, for example because you have a cold: Pepper makes you sneeze
+- `pass (noun)`  /pæs/ <br> 1. doing well enough in an exam: How many passes did you get in your exams? (OPPOSITE: fail) <br> 2. a special piece of paper or card that says you can go somewhere or do something: You need a pass to get into the factory <br> 3. kicking, throwing or hitting a ball to somebody in a game <br> 4. a road or way through mountains: the Brenner Pass
+- `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
+- `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
 ---
 
 ---
 
-## General - Vocabulary (54 words)
+## General - Vocabulary (53 words)
 
 ### game (5 words)
 - `swipe`  /swaɪp/ <br> 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1669,7 +1682,7 @@
 - `lonely`  /ˈloʊnli/ <br> 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-### social media (25 words)
+### social media (24 words)
 - `teenager`  /ˈtiːneɪdʒər/ <br> a person who is between 13 and 19 years old
 - `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
 - `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -1686,7 +1699,6 @@
 - `crazy`  /ˈkreɪzi/ <br> 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - `comfortable`  /ˈkʌm.fɚ.t̬ə.bəl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
-- `literally`  /ˈlɪtərəli/ <br> 'really' or 'truly'; It means something is a fact, not a joke: I'm literally the wrong colour (= I am really the wrong colour)
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
 - `worse`  /wɜːrs/ <br> bad
