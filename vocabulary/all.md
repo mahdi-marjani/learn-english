@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1582**
+**Total words: 1592**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (925 words)](#deep-learning-with-pytorch---vocabulary-925-words)
+- [Deep Learning with PyTorch - Vocabulary (935 words)](#deep-learning-with-pytorch---vocabulary-935-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (456 words)](#part-1-core-pytorch-456-words)
+  - [Part 1: Core PyTorch (466 words)](#part-1-core-pytorch-466-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (155 words)](#chapter-2-pretrained-networks-155-words)
+    - [Chapter 2: Pretrained networks (165 words)](#chapter-2-pretrained-networks-165-words)
 - [Duolingo - Vocabulary (454 words)](#duolingo---vocabulary-454-words)
   - [SECTION 1 (454 words)](#section-1-454-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -213,7 +213,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (925 words)
+## Deep Learning with PyTorch - Vocabulary (935 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -705,7 +705,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (456 words)
+### Part 1: Core PyTorch (466 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1010,7 +1010,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (155 words)
+#### Chapter 2: Pretrained networks (165 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1166,6 +1166,16 @@
 - `steer (verb)`  /stɪr/ <br> to guide or direct something in a particular direction: helping to steer the model away from producing unwanted artifacts - He steered the conversation toward a more positive topic
 - `artifact (noun)`  /ˈɑːr.tɪ.fækt/ <br> an unwanted or unexpected result/flaw produced by a process, especially in images or data: to steer the model away from producing unwanted artifacts - The photo had some strange artifacts from over-compression
 - `specific (adjective)`  /spəˈsɪf.ɪk/ <br> 1. exact and clear: He gave us specific instructions on how to get there <br> 2. particular; relating exactly to one particular thing, not general: Is there anything specific that you want to talk about - zebra-specific (= information/features that relate exactly and particularly to zebras)
+- `printout (noun)`  /ˈprɪnt.aʊt/ <br> a printed or displayed copy of information from a computer/program: We won't recognize anything zebra-specific in the model printout - He handed me a printout of the sales report.
+- `scaffold (noun)`  /ˈskæf.əld/ <br> a structure that supports something while it's being built or that holds things in place: The network is a scaffold—the juice is in the weights - Workers stood on the scaffold to paint the building <br> <img src='images/scaffold.jpg' alt='scaffold' width='200'>
+- `juice (noun)`  /dʒuːs/ <br> 1. the liquid obtained from or present in fruit or vegetables: add the juice of a lemon <br> 2. the liquid that comes from meat or other food when cooked <br> 3. (informal) the essential or important part/power of something: The network is a scaffold—the juice is in the weights - The juice of the story is in the final twist.
+- `bear repeating (phrase)`  /ber rɪˈpiːt.ɪŋ/ <br> to be important enough to say more than once: it bears repeating that the learning process has not passed through direct supervision - The group's message is one that bears repeating
+- `pass through (phrasal verb)`  /pæs θruː/ <br> to go through: the learning process has not passed through direct supervision - The water passes through several filters before it's safe to drink
+- `supervision (noun)`  /ˌsuːpərˈvɪʒən/ <br> the act of watching a person or activity and making certain that everything is done correctly, safely, etc.: the learning process has not passed through direct supervision - The children played under the supervision of their parents
+- `delineate (verb)`  /dɪˈlɪn.i.eɪt/ <br> to describe, mark, or outline something clearly and precisely: humans have delineated tens of thousands of horses - The teacher delineated the steps we needed to follow for the project
+- `stripe (noun)`  /straɪp/ <br> a design consisting of lines or bands with a different color from the background, often used on clothing, textiles, or other surfaces: manually Photoshopped thousands of zebra stripes - The shirt has blue and white stripes <br> <img src='images/stripe.jpg' alt='stripe' width='200'>
+- `Stars and Stripes`  /ˌstɑːrz ən ˈstraɪps/ <br> the US flag <br> <img src='images/stars-and-stripes.jpg' alt='stars-and-stripes' width='200'>
+- `directive (noun)`  /dəˈrek.tɪv/ <br> an official instruction telling someone what to do: an image that matches just the image and directives it has been trained on - The manager issued a new directive about working hours
 ---
 
 ---

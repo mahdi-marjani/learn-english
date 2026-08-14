@@ -5597,6 +5597,66 @@
               "phonetic": "/spəˈsɪf.ɪk/",
               "mean_fa": "",
               "mean_en": "1. exact and clear: He gave us specific instructions on how to get there <br> 2. particular; relating exactly to one particular thing, not general: Is there anything specific that you want to talk about - zebra-specific (= information/features that relate exactly and particularly to zebras)"
+            },
+            {
+              "word": "printout (noun)",
+              "phonetic": "/ˈprɪnt.aʊt/",
+              "mean_fa": "",
+              "mean_en": "a printed or displayed copy of information from a computer/program: We won't recognize anything zebra-specific in the model printout - He handed me a printout of the sales report."
+            },
+            {
+              "word": "scaffold (noun)",
+              "phonetic": "/ˈskæf.əld/",
+              "mean_fa": "",
+              "mean_en": "a structure that supports something while it's being built or that holds things in place: The network is a scaffold—the juice is in the weights - Workers stood on the scaffold to paint the building <br> <img src='images/scaffold.jpg' alt='scaffold' width='200'>"
+            },
+            {
+              "word": "juice (noun)",
+              "phonetic": "/dʒuːs/",
+              "mean_fa": "",
+              "mean_en": "1. the liquid obtained from or present in fruit or vegetables: add the juice of a lemon <br> 2. the liquid that comes from meat or other food when cooked <br> 3. (informal) the essential or important part/power of something: The network is a scaffold—the juice is in the weights - The juice of the story is in the final twist."
+            },
+            {
+              "word": "bear repeating (phrase)",
+              "phonetic": "/ber rɪˈpiːt.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "to be important enough to say more than once: it bears repeating that the learning process has not passed through direct supervision - The group's message is one that bears repeating"
+            },
+            {
+              "word": "pass through (phrasal verb)",
+              "phonetic": "/pæs θruː/",
+              "mean_fa": "",
+              "mean_en": "to go through: the learning process has not passed through direct supervision - The water passes through several filters before it's safe to drink"
+            },
+            {
+              "word": "supervision (noun)",
+              "phonetic": "/ˌsuːpərˈvɪʒən/",
+              "mean_fa": "",
+              "mean_en": "the act of watching a person or activity and making certain that everything is done correctly, safely, etc.: the learning process has not passed through direct supervision - The children played under the supervision of their parents"
+            },
+            {
+              "word": "delineate (verb)",
+              "phonetic": "/dɪˈlɪn.i.eɪt/",
+              "mean_fa": "",
+              "mean_en": "to describe, mark, or outline something clearly and precisely: humans have delineated tens of thousands of horses - The teacher delineated the steps we needed to follow for the project"
+            },
+            {
+              "word": "stripe (noun)",
+              "phonetic": "/straɪp/",
+              "mean_fa": "",
+              "mean_en": "a design consisting of lines or bands with a different color from the background, often used on clothing, textiles, or other surfaces: manually Photoshopped thousands of zebra stripes - The shirt has blue and white stripes <br> <img src='images/stripe.jpg' alt='stripe' width='200'>"
+            },
+            {
+              "word": "Stars and Stripes",
+              "phonetic": "/ˌstɑːrz ən ˈstraɪps/",
+              "mean_fa": "",
+              "mean_en": "the US flag <br> <img src='images/stars-and-stripes.jpg' alt='stars-and-stripes' width='200'>"
+            },
+            {
+              "word": "directive (noun)",
+              "phonetic": "/dəˈrek.tɪv/",
+              "mean_fa": "",
+              "mean_en": "an official instruction telling someone what to do: an image that matches just the image and directives it has been trained on - The manager issued a new directive about working hours"
             }
           ]
         }
