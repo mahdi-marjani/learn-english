@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1599**
+**Total words: 1610**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (935 words)](#deep-learning-with-pytorch---vocabulary-935-words)
+- [Deep Learning with PyTorch - Vocabulary (946 words)](#deep-learning-with-pytorch---vocabulary-946-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (466 words)](#part-1-core-pytorch-466-words)
+  - [Part 1: Core PyTorch (477 words)](#part-1-core-pytorch-477-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (165 words)](#chapter-2-pretrained-networks-165-words)
+    - [Chapter 2: Pretrained networks (176 words)](#chapter-2-pretrained-networks-176-words)
 - [Duolingo - Vocabulary (461 words)](#duolingo---vocabulary-461-words)
   - [SECTION 1 (461 words)](#section-1-461-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -214,7 +214,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (935 words)
+## Deep Learning with PyTorch - Vocabulary (946 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -706,7 +706,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (466 words)
+### Part 1: Core PyTorch (477 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1011,7 +1011,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (165 words)
+#### Chapter 2: Pretrained networks (176 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1177,6 +1177,17 @@
 - `stripe (noun)`  /straɪp/ <br> a design consisting of lines or bands with a different color from the background, often used on clothing, textiles, or other surfaces: manually Photoshopped thousands of zebra stripes - The shirt has blue and white stripes <br> <img src='images/stripe.jpg' alt='stripe' width='200'>
 - `Stars and Stripes`  /ˌstɑːrz ən ˈstraɪps/ <br> the US flag <br> <img src='images/stars-and-stripes.jpg' alt='stars-and-stripes' width='200'>
 - `directive (noun)`  /dəˈrek.tɪv/ <br> an official instruction telling someone what to do: an image that matches just the image and directives it has been trained on - The manager issued a new directive about working hours
+- `nonexistent`  /ˌnɒnɪɡˈzɪst(ə)nt/ <br> not existing or not real or present
+- `real looking (adjective)`  /riːl ˈlʊk.ɪŋ/ <br> looking like the real thing: translate sketches into real-looking pictures of imaginary landscapes - The wax figure was so real-looking, I thought it was a person
+- `imaginary (adjective)`  /ɪˈmædʒ.ə.ner.i/ <br> existing only in the mind, not real: translate sketches into real-looking pictures of imaginary landscapes - Children often have imaginary friends
+- `real sounding (adjective)`  /riːl ˈsaʊnd.ɪŋ/ <br> sounding like the real thing: producing real-sounding audio, credible text - The AI voice was so real-sounding, I couldn't tell it was fake
+- `overstate (verb)`  /ˌoʊvərˈsteɪt/ <br> to describe something as bigger, more important, or more serious than it really is: it's hard to overstate the implications of this kind of work - I don't want to overstate the problem, but it needs attention soon
+- `implication (noun)`  /ˌɪm.plɪˈkeɪ.ʃən/ <br> a possible effect or result of something, often not said directly: it's hard to overstate the implications of this kind of work - We need to think about the implications of this decision
+- `ubiquitous (adjective)`  /juːˈbɪk.wə.təs/ <br> seeming to be everywhere, very common: Tools like this are only going to become higher quality and more ubiquitous - Smartphones have become ubiquitous in modern life
+- `plethora (noun)`  /ˈpleθərə/ <br> a very large amount of something, often more than needed: Searching for 'deep fakes' will turn up a plethora of example content - There's a plethora of options to choose from
+- `article (noun)`  /ˈɑːr.tɪ.kəl/ <br> a piece of writing on a particular topic, published in a newspaper, magazine, or website: A relevant example of face-swapping is described in the Vox article - I read an interesting article about climate change
+- `double edged (adjective)`  /ˌdʌb.əl ˈedʒd/ <br> having two sides or effects, especially both positive and negative at the same time: Jordan Peele's Simulated Obama PSA Is a Double-Edged Warning - Social media is a double-edged tool, helpful but also risky
+- `coarse (adjective)`  /kɔːrs/ <br> not polite, especially in language, often including bad or shocking words: warning: coarse language - He used coarse language that upset some people
 ---
 
 ---

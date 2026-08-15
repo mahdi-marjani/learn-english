@@ -5657,6 +5657,72 @@
               "phonetic": "/dəˈrek.tɪv/",
               "mean_fa": "",
               "mean_en": "an official instruction telling someone what to do: an image that matches just the image and directives it has been trained on - The manager issued a new directive about working hours"
+            },
+            {
+              "word": "nonexistent",
+              "phonetic": "/ˌnɒnɪɡˈzɪst(ə)nt/",
+              "mean_fa": "",
+              "mean_en": "not existing or not real or present"
+            },
+            {
+              "word": "real looking (adjective)",
+              "phonetic": "/riːl ˈlʊk.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "looking like the real thing: translate sketches into real-looking pictures of imaginary landscapes - The wax figure was so real-looking, I thought it was a person"
+            },
+            {
+              "word": "imaginary (adjective)",
+              "phonetic": "/ɪˈmædʒ.ə.ner.i/",
+              "mean_fa": "",
+              "mean_en": "existing only in the mind, not real: translate sketches into real-looking pictures of imaginary landscapes - Children often have imaginary friends"
+            },
+            {
+              "word": "real sounding (adjective)",
+              "phonetic": "/riːl ˈsaʊnd.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "sounding like the real thing: producing real-sounding audio, credible text - The AI voice was so real-sounding, I couldn't tell it was fake"
+            },
+            {
+              "word": "overstate (verb)",
+              "phonetic": "/ˌoʊvərˈsteɪt/",
+              "mean_fa": "",
+              "mean_en": "to describe something as bigger, more important, or more serious than it really is: it's hard to overstate the implications of this kind of work - I don't want to overstate the problem, but it needs attention soon"
+            },
+            {
+              "word": "implication (noun)",
+              "phonetic": "/ˌɪm.plɪˈkeɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a possible effect or result of something, often not said directly: it's hard to overstate the implications of this kind of work - We need to think about the implications of this decision"
+            },
+            {
+              "word": "ubiquitous (adjective)",
+              "phonetic": "/juːˈbɪk.wə.təs/",
+              "mean_fa": "",
+              "mean_en": "seeming to be everywhere, very common: Tools like this are only going to become higher quality and more ubiquitous - Smartphones have become ubiquitous in modern life"
+            },
+            {
+              "word": "plethora (noun)",
+              "phonetic": "/ˈpleθərə/",
+              "mean_fa": "",
+              "mean_en": "a very large amount of something, often more than needed: Searching for 'deep fakes' will turn up a plethora of example content - There's a plethora of options to choose from"
+            },
+            {
+              "word": "article (noun)",
+              "phonetic": "/ˈɑːr.tɪ.kəl/",
+              "mean_fa": "",
+              "mean_en": "a piece of writing on a particular topic, published in a newspaper, magazine, or website: A relevant example of face-swapping is described in the Vox article - I read an interesting article about climate change"
+            },
+            {
+              "word": "double edged (adjective)",
+              "phonetic": "/ˌdʌb.əl ˈedʒd/",
+              "mean_fa": "",
+              "mean_en": "having two sides or effects, especially both positive and negative at the same time: Jordan Peele's Simulated Obama PSA Is a Double-Edged Warning - Social media is a double-edged tool, helpful but also risky"
+            },
+            {
+              "word": "coarse (adjective)",
+              "phonetic": "/kɔːrs/",
+              "mean_fa": "",
+              "mean_en": "not polite, especially in language, often including bad or shocking words: warning: coarse language - He used coarse language that upset some people"
             }
           ]
         }
