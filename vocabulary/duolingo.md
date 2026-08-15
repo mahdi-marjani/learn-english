@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 454**
+**Total words: 461**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (454 words)](#section-1-454-words)
+- [SECTION 1 (461 words)](#section-1-461-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -21,10 +21,11 @@
   - [Relations (26 words)](#relations-26-words)
   - [Clothing (32 words)](#clothing-32-words)
   - [Airport (23 words)](#airport-23-words)
+  - [News (7 words)](#news-7-words)
 
 ---
 
-## SECTION 1 (454 words)
+## SECTION 1 (461 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -511,4 +512,13 @@
 - `pass (noun)`  /pæs/ <br> 1. doing well enough in an exam: How many passes did you get in your exams? (OPPOSITE: fail) <br> 2. a special piece of paper or card that says you can go somewhere or do something: You need a pass to get into the factory <br> 3. kicking, throwing or hitting a ball to somebody in a game <br> 4. a road or way through mountains: the Brenner Pass
 - `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
 - `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
+
+### News (7 words)
+- `front page`  <br> the first page of a newspaper, containing the most important or remarkable news of the day
+- `headline (noun)`  /ˈhɛdlʌɪn/ <br> 1. the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website <br> 2. `the headlines` (plural) a short summary of the most important items of news, read at the beginning of a news programme on the radio or television
+- `elevator`  /ˈelɪveɪtər/ <br> a device like a box that moves up and down, carrying people or goods from one floor of a building to another or taking people up and down underground in a mine <br> <img src='images/elevator.jpg' alt='elevator' width='200'>
+- `campaign`  /kæmˈpeɪn/ <br> a planned set of actions to achieve a goal
+- `charity`  /ˈtʃer.ə.t̬i/ <br> an organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit: UNICEF is an international charity
+- `cousin`  /ˈkʌz.ən/ <br> the child of your aunt or uncle
+- `fog`  /fɑːɡ/ <br> thick cloud which forms close to the ground, and whichis difficult to see through: The fog will clear by late morning <br> <img src='images/fog.jpg' alt='fog' width='200'>
 ---

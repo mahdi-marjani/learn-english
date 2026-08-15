@@ -2807,6 +2807,53 @@
               "mean_en": "to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job"
             }
           ]
+        },
+        {
+          "heading": "News",
+          "words": [
+            {
+              "word": "front page",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "the first page of a newspaper, containing the most important or remarkable news of the day"
+            },
+            {
+              "word": "headline (noun)",
+              "phonetic": "/ˈhɛdlʌɪn/",
+              "mean_fa": "",
+              "mean_en": "1. the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website <br> 2. `the headlines` (plural) a short summary of the most important items of news, read at the beginning of a news programme on the radio or television"
+            },
+            {
+              "word": "elevator",
+              "phonetic": "/ˈelɪveɪtər/",
+              "mean_fa": "",
+              "mean_en": "a device like a box that moves up and down, carrying people or goods from one floor of a building to another or taking people up and down underground in a mine <br> <img src='images/elevator.jpg' alt='elevator' width='200'>"
+            },
+            {
+              "word": "campaign",
+              "phonetic": "/kæmˈpeɪn/",
+              "mean_fa": "",
+              "mean_en": "a planned set of actions to achieve a goal"
+            },
+            {
+              "word": "charity",
+              "phonetic": "/ˈtʃer.ə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "an organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit: UNICEF is an international charity"
+            },
+            {
+              "word": "cousin",
+              "phonetic": "/ˈkʌz.ən/",
+              "mean_fa": "",
+              "mean_en": "the child of your aunt or uncle"
+            },
+            {
+              "word": "fog",
+              "phonetic": "/fɑːɡ/",
+              "mean_fa": "",
+              "mean_en": "thick cloud which forms close to the ground, and whichis difficult to see through: The fog will clear by late morning <br> <img src='images/fog.jpg' alt='fog' width='200'>"
+            }
+          ]
         }
       ]
     }
