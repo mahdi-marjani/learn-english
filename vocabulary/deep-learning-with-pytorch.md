@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 946**
+**Total words: 952**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (477 words)](#part-1-core-pytorch-477-words)
+- [Part 1: Core PyTorch (483 words)](#part-1-core-pytorch-483-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (176 words)](#chapter-2-pretrained-networks-176-words)
+  - [Chapter 2: Pretrained networks (182 words)](#chapter-2-pretrained-networks-182-words)
 
 ---
 
@@ -341,7 +341,7 @@
 - `kinds`  <br> types
 - `to be shaped`  <br> شکل گرفتن
 - `moves us closer`  <br> ما را به هدف نزدیک‌تر می‌کند
-- `comprehensive`  <br> جامع، کامل
+- `comprehensive (adjective)`  /ˌkɑːm.prəˈhen.sɪv/ <br> complete and including everything that is necessary: comprehensive guide
 - `solution`  <br> راه‌حل
 - `lung`  /lʌŋ/ <br> ریه
 - `difficult`  <br> hard
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (477 words)
+## Part 1: Core PyTorch (483 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -629,7 +629,7 @@
 - `prominent`  /ˈprɑːmənənt/ <br> 1. easy to see, for example because it is bigger than usual: prominent teeth <br> 2. important and famous: a prominent writer
 - `proven`  /ˈpruː.vən/ <br> shown to be true (SAME MEANING: sure) - اثبات شده
 - `qualified`  /ˈkwɑː.lə.faɪd/ <br> having passed the exams or done the training necessary to do a particular job: Tim is now a qualified architect
-- `context`  /ˈkɑːn.tekst/ <br> the situation within which something exists or happens, and that can help explain it - زمینه
+- `context`  /ˈkɑːn.tekst/ <br> the situation or background information that helps explain something - زمینه
 - `streamline`  /ˈstriːmlaɪn/ <br> to make a system or process simpler and more efficient
 - `ought to`  /ɔ:t tu:/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
 - `map (verb)`  <br> to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (176 words)
+### Chapter 2: Pretrained networks (182 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -829,7 +829,7 @@
 - `according to`  /əˈkɔːr.dɪŋ ˌtuː/ <br> as somebody or something says: According to Mike, this film is really good
 - `fabricate`  /ˈfæb.rə.ˌkeɪt/ <br> to create or build something by combining different parts or components, either artificial or natural <br> <img src='images/fabricate.jpg' alt='fabricate' width='200'>
 - `proper`  /ˈprɑ.pɜr/ <br> right or correct: a deep learning model that can describe the content of an image using proper English sentences
-- `uniform (adjective)`  /ˈjuː.nə.fɔːrm/ <br> consistent
+- `uniform (adjective)`  /ˈjuː.nə.fɔːrm/ <br> consistent; the same in all cases or parts; not changing: no standardized way for users to access them through a uniform interface - All the boxes were of uniform size
 - `terminology`  /ˌtɜːr.məˈnɑː.lə.dʒi/ <br> the special words and phrases that are used in a particular subject, job, or area of study
 - `rodeo`  /ˈroʊ.di.oʊ/ <br> a public show or competition where cowboys ride wild horses or bulls <br> <img src='images/rodeo.jpg' alt='rodeo' width='200'>
 - `nuts and bolts`  /ˌnʌts ənd ˈboʊlts/ <br> the basic, practical, and essential parts or details of something; the way something actually works in practice <br> <img src='images/nuts-and-bolts.jpg' alt='nuts-and-bolts' width='200'>
@@ -989,4 +989,10 @@
 - `article (noun)`  /ˈɑːr.tɪ.kəl/ <br> a piece of writing on a particular topic, published in a newspaper, magazine, or website: A relevant example of face-swapping is described in the Vox article - I read an interesting article about climate change
 - `double edged (adjective)`  /ˌdʌb.əl ˈedʒd/ <br> having two sides or effects, especially both positive and negative at the same time: Jordan Peele's Simulated Obama PSA Is a Double-Edged Warning - Social media is a double-edged tool, helpful but also risky
 - `coarse (adjective)`  /kɔːrs/ <br> not polite, especially in language, often including bad or shocking words: warning: coarse language - He used coarse language that upset some people
+- `flip (verb)`  /flɪp/ <br> to turn something over quickly or reverse its direction: we'll flip the direction: a vision-language model that takes an image and produces a caption - She flipped the pancake in the pan - I flipped the book (over) to look at the back cover
+- `moment (noun)`  /ˈmoʊ.mənt/ <br> a very short period of time: let's take a moment to look at the options we've explored - Wait a moment, I'll be right back
+- `albeit (conjunction)`  /ɔːlˈbiː.ɪt/ <br> although, even though: The resulting output—albeit a bit concerning—is a demonstration of the ease of use - The trip was fun, albeit a little tiring
+- `concerning (adjective)`  /kənˈsɜːrnɪŋ/ <br> causing worry; making you feel slightly worried: albeit a bit concerning (can they really replace our brains?) - The news about the economy was concerning
+- `demonstration (noun)`  /ˌdem.ənˈstreɪ.ʃən/ <br> an act of showing how something works or proving something is true: is a demonstration of the ease of use for downloading pretrained models - The teacher gave a demonstration of how to use the microscope
+- `inherent (adjective)`  /ɪnˈhɪr.ənt/ <br> existing as a natural or basic part of something: the model's inherent understanding of language patterns - Risk is an inherent part of starting a business
 ---

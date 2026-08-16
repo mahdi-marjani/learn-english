@@ -1891,10 +1891,10 @@
           "mean_en": ""
         },
         {
-          "word": "comprehensive",
-          "phonetic": "",
-          "mean_fa": "جامع، کامل",
-          "mean_en": ""
+          "word": "comprehensive (adjective)",
+          "phonetic": "/ˌkɑːm.prəˈhen.sɪv/",
+          "mean_fa": "",
+          "mean_en": "complete and including everything that is necessary: comprehensive guide"
         },
         {
           "word": "solution",
@@ -3576,7 +3576,7 @@
               "word": "context",
               "phonetic": "/ˈkɑːn.tekst/",
               "mean_fa": "زمینه",
-              "mean_en": "the situation within which something exists or happens, and that can help explain it"
+              "mean_en": "the situation or background information that helps explain something"
             },
             {
               "word": "streamline",
@@ -4769,7 +4769,7 @@
               "word": "uniform (adjective)",
               "phonetic": "/ˈjuː.nə.fɔːrm/",
               "mean_fa": "",
-              "mean_en": "consistent"
+              "mean_en": "consistent; the same in all cases or parts; not changing: no standardized way for users to access them through a uniform interface - All the boxes were of uniform size"
             },
             {
               "word": "terminology",
@@ -5723,6 +5723,42 @@
               "phonetic": "/kɔːrs/",
               "mean_fa": "",
               "mean_en": "not polite, especially in language, often including bad or shocking words: warning: coarse language - He used coarse language that upset some people"
+            },
+            {
+              "word": "flip (verb)",
+              "phonetic": "/flɪp/",
+              "mean_fa": "",
+              "mean_en": "to turn something over quickly or reverse its direction: we'll flip the direction: a vision-language model that takes an image and produces a caption - She flipped the pancake in the pan - I flipped the book (over) to look at the back cover"
+            },
+            {
+              "word": "moment (noun)",
+              "phonetic": "/ˈmoʊ.mənt/",
+              "mean_fa": "",
+              "mean_en": "a very short period of time: let's take a moment to look at the options we've explored - Wait a moment, I'll be right back"
+            },
+            {
+              "word": "albeit (conjunction)",
+              "phonetic": "/ɔːlˈbiː.ɪt/",
+              "mean_fa": "",
+              "mean_en": "although, even though: The resulting output—albeit a bit concerning—is a demonstration of the ease of use - The trip was fun, albeit a little tiring"
+            },
+            {
+              "word": "concerning (adjective)",
+              "phonetic": "/kənˈsɜːrnɪŋ/",
+              "mean_fa": "",
+              "mean_en": "causing worry; making you feel slightly worried: albeit a bit concerning (can they really replace our brains?) - The news about the economy was concerning"
+            },
+            {
+              "word": "demonstration (noun)",
+              "phonetic": "/ˌdem.ənˈstreɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "an act of showing how something works or proving something is true: is a demonstration of the ease of use for downloading pretrained models - The teacher gave a demonstration of how to use the microscope"
+            },
+            {
+              "word": "inherent (adjective)",
+              "phonetic": "/ɪnˈhɪr.ənt/",
+              "mean_fa": "",
+              "mean_en": "existing as a natural or basic part of something: the model's inherent understanding of language patterns - Risk is an inherent part of starting a business"
             }
           ]
         }
