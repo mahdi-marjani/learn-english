@@ -123,7 +123,7 @@
 - `take`  <br> 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> `take your time` do not rush; use as much time as you need <br> `take a break` to stop something for a short period, often to rest, to eat food, or to have a drink
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
-- `spy`  <br> جاسوس
+- `spy (noun)`  /spaɪ/ <br> a person who tries to learn secrets about another country, person or company
 - `later on`  <br> بعدها
 - `during`  <br> حین
 - `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent

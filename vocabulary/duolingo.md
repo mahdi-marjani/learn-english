@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 461**
+**Total words: 479**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (461 words)](#section-1-461-words)
+- [SECTION 1 (479 words)](#section-1-479-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (29 words)](#delivery-29-words)
   - [At School (37 words)](#at-school-37-words)
@@ -21,11 +21,11 @@
   - [Relations (26 words)](#relations-26-words)
   - [Clothing (32 words)](#clothing-32-words)
   - [Airport (23 words)](#airport-23-words)
-  - [News (7 words)](#news-7-words)
+  - [News (25 words)](#news-25-words)
 
 ---
 
-## SECTION 1 (461 words)
+## SECTION 1 (479 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -513,7 +513,7 @@
 - `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
 - `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
 
-### News (7 words)
+### News (25 words)
 - `front page`  <br> the first page of a newspaper, containing the most important or remarkable news of the day
 - `headline (noun)`  /ˈhɛdlʌɪn/ <br> 1. the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website <br> 2. `the headlines` (plural) a short summary of the most important items of news, read at the beginning of a news programme on the radio or television
 - `elevator`  /ˈelɪveɪtər/ <br> a device like a box that moves up and down, carrying people or goods from one floor of a building to another or taking people up and down underground in a mine <br> <img src='images/elevator.jpg' alt='elevator' width='200'>
@@ -521,4 +521,22 @@
 - `charity`  /ˈtʃer.ə.t̬i/ <br> an organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit: UNICEF is an international charity
 - `cousin`  /ˈkʌz.ən/ <br> the child of your aunt or uncle
 - `fog`  /fɑːɡ/ <br> thick cloud which forms close to the ground, and whichis difficult to see through: The fog will clear by late morning <br> <img src='images/fog.jpg' alt='fog' width='200'>
+- `prevention punishment (prevention is better than punishment) `  <br> 
+- `border`  <br> a line between countries: You need a passport to cross the border
+- `yay`  /jeɪ/ <br> used to show that you are very pleased about something: 'We won.' 'Yay!' - هورا
+- `accuse (verb)`  /əˈkjuːz/ <br> to say that somebody has done something wrong or broken the law: His classmates accused him of cheating in the exam - She was accused of murder
+- `secretary`  /ˈsek.rə.ter.i/ <br> 1. a person who types letters, answers the telephone and does other things in an office <br> 2. one of the most important people in a government: the Secretary of State (= head of the department) for Education
+- `rob (verb)`  /rɑːb/ <br> steal from: They robbed a bank
+- `jail`  /dʒeɪl/ <br> a prison: He was sent to jail for two years <br> <img src='images/jail.jpg' alt='jail' width='200'>
+- `court`  /kɔːrt/ <br> 1. the place where a judge or a group of people (called  a jury) decide if a person has done something wrong, and what the punishment will be: The man will appear in court tomorrow <br> 2. a piece of ground where you can play certain sports: a tennis court - a basketball court
+- `billion`  /ˈbɪl.jən/ <br> one thousand million; 1,000,000,000
+- `crumb`  /krʌm/ <br> small piece of food <br> <img src='images/crumb.jpg' alt='crumb' width='200'>
+- `detective`  /dɪˈtek.tɪv/ <br> a person whose job is to find out who did a crime. Detectives are usually police officers: Sherlock Holmes is a famous detective in stories
+- `leave (verb)`  /liːv/ <br> 1. to go away from a place or a person: The train leaves at 8.40 - At what age do must people leave school in your country? - We are leaving for France tomorrow <br> 2. to let somebody or something stay in the same place or in the same way: Leave the door open, please <br> 3. to forget to bring something with you: I left my books at home - I can't find my glasses. Maybe I left them behind at work <br> 4. to make something stay; to not use something: Leave some cake for me <br> 5. to give something to somebody when you die: She left all her money to her two sons <br> 6. to give the responsibility for something to another person: I'll leave it to you to organize the food <br> `be left` to still be there after everything else has gone: There is only one piece of cake left <br> `leave somebody or something alone` to not touch, annoy or speak to somebody or something: Leave me alone _ I'm busy - Leave that bag alone _ it's mine <br> `leave somebody or something out` to not put in or do something; to not include somebody or something: The other children left him out of the game - I left out question 3 in the exam because it was too difficult
+- `prevention`  /prɪˈven.ʃən/ <br> stopping somebody form doing something or stopping something from happening: crime prevention - Exercise and diet play a role in the prevention of heart disease
+- `punishment (noun)`  /ˈpʌn.ɪʃ.mənt/ <br> an act or a way of punishing somebody: What is the punishment for murder in your country? - The child was sent to bed as a punishment for being naughty
+- `punish (verb)`  /ˈpʌn.ɪʃ/ <br> to make somebody suffer because they have done something wrong: The children were punished for telling lies
+- `suffer (verb)`  /ˈsʌfər/ <br> to feel pain, sadness or another unpleasant feeling: She suffers from bad headaches - It's not right for children to suffer
+- `murder`  /ˈmɜːrdər/ <br> the unlawful killing of another human
+- `unlawful (adjective)`  /ʌnˈlɑː.fəl/ <br> not allowed by law
 ---
