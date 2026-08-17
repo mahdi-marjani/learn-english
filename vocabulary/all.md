@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1634**
+**Total words: 1637**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (483 words)](#part-1-core-pytorch-483-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (182 words)](#chapter-2-pretrained-networks-182-words)
-- [Duolingo - Vocabulary (479 words)](#duolingo---vocabulary-479-words)
-  - [SECTION 1 (479 words)](#section-1-479-words)
+- [Duolingo - Vocabulary (482 words)](#duolingo---vocabulary-482-words)
+  - [SECTION 1 (482 words)](#section-1-482-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (29 words)](#delivery-29-words)
     - [At School (37 words)](#at-school-37-words)
@@ -39,7 +39,7 @@
     - [Relations (26 words)](#relations-26-words)
     - [Clothing (32 words)](#clothing-32-words)
     - [Airport (23 words)](#airport-23-words)
-    - [News (25 words)](#news-25-words)
+    - [News (28 words)](#news-28-words)
 - [General - Vocabulary (53 words)](#general---vocabulary-53-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1198,9 +1198,9 @@
 
 ---
 
-## Duolingo - Vocabulary (479 words)
+## Duolingo - Vocabulary (482 words)
 
-### SECTION 1 (479 words)
+### SECTION 1 (482 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1688,7 +1688,7 @@
 - `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
 - `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
 
-#### News (25 words)
+#### News (28 words)
 - `front page`  <br> the first page of a newspaper, containing the most important or remarkable news of the day
 - `headline (noun)`  /ˈhɛdlʌɪn/ <br> 1. the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website <br> 2. `the headlines` (plural) a short summary of the most important items of news, read at the beginning of a news programme on the radio or television
 - `elevator`  /ˈelɪveɪtər/ <br> a device like a box that moves up and down, carrying people or goods from one floor of a building to another or taking people up and down underground in a mine <br> <img src='images/elevator.jpg' alt='elevator' width='200'>
@@ -1714,6 +1714,9 @@
 - `suffer (verb)`  /ˈsʌfər/ <br> to feel pain, sadness or another unpleasant feeling: She suffers from bad headaches - It's not right for children to suffer
 - `murder`  /ˈmɜːrdər/ <br> the unlawful killing of another human
 - `unlawful (adjective)`  /ʌnˈlɑː.fəl/ <br> not allowed by law
+- `crash (noun)`  /kraʃ/ <br> 1. an accident when something that is moving hits another things: He was killed in a car crash - a plane crash <br> 2. a loud noise when something falls or hits another thing: I heard a crash as the tree fell
+- `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
+- `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
 ---
 
 ---
