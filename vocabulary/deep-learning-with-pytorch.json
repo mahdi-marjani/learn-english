@@ -1370,12 +1370,6 @@
           "mean_en": ""
         },
         {
-          "word": "scenes",
-          "phonetic": "",
-          "mean_fa": "صحنه‌ها",
-          "mean_en": ""
-        },
-        {
           "word": "glimpse (verb)",
           "phonetic": "/ɡlɪmps/",
           "mean_fa": "نگاهی گذرا کردن",
@@ -1580,7 +1574,7 @@
         },
         {
           "word": "since",
-          "phonetic": "",
+          "phonetic": "/sɪns/",
           "mean_fa": "",
           "mean_en": "1. from a particular time in the past until now: I have been waiting since 8 AM. <br> 2. because; for the reason that: Since you're tired, you should rest."
         },
@@ -4392,7 +4386,7 @@
               "word": "encompass",
               "phonetic": "/ɪnˈkʌm.pəs/",
               "mean_fa": "",
-              "mean_en": "to include different types of things: tensors that encompass several samples"
+              "mean_en": "to include different types of things: The course encompasses many topics, from history to science"
             },
             {
               "word": "several",
@@ -5759,6 +5753,144 @@
               "phonetic": "/ɪnˈhɪr.ənt/",
               "mean_fa": "",
               "mean_en": "existing as a natural or basic part of something: the model's inherent understanding of language patterns - Risk is an inherent part of starting a business"
+            },
+            {
+              "word": "accomplish",
+              "phonetic": "/əˈkɑːm.plɪʃ/",
+              "mean_fa": "",
+              "mean_en": "to finish something successfully or to achieve something: The students accomplished the task in less than ten minutes"
+            },
+            {
+              "word": "multimodal (adjective)",
+              "phonetic": "/ˌmʌl.tiˈmoʊ.dəl/",
+              "mean_fa": "",
+              "mean_en": "involving or using several different types (modes) of data or media, such as text, images, or audio: BLIP is a multimodal model - Multimodal learning combines text, images, and sound for better understanding"
+            },
+            {
+              "word": "modality (noun)",
+              "phonetic": "/moʊˈdæl.ə.ti/",
+              "mean_fa": "",
+              "mean_en": "a particular type or form of data, communication, or sensory input, such as text, image, or audio: it is designed to handle different types of data (or modalities) - Vision and language are two different modalities used in this model"
+            },
+            {
+              "word": "combination",
+              "phonetic": "/ˌkɑːm.bəˈneɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "the mixture you get when two or more things are combined: Strawberries and cream - a perfect combination"
+            },
+            {
+              "word": "paired (adjective)",
+              "phonetic": "/perd/",
+              "mean_fa": "",
+              "mean_en": "put together as a matching pair or set: large datasets of images and their paired sentence descriptions - The wine was paired with a nice cheese"
+            },
+            {
+              "word": "tabby",
+              "phonetic": "/ˈtæb.i/",
+              "mean_fa": "",
+              "mean_en": "a cat with a striped or patterned coat: A Tabby cat is leaning on a wooden table - My neighbor has a friendly tabby cat"
+            },
+            {
+              "word": "paw (noun)",
+              "phonetic": "/pɔː/",
+              "mean_fa": "",
+              "mean_en": "the foot of an animal that has claws or nails, like a cat or dog: with one paw on a laser mouse - The dog wiped its paw on the carpet"
+            },
+            {
+              "word": "claw",
+              "phonetic": "/klɑː/",
+              "mean_fa": "",
+              "mean_en": "1. a sharp and curved nail on the toe of an animal or a bird <br> <img src='images/claw1.jpg' alt='claw1' width='200'> <br> 2. one of the two pointed parts, used for holding things, at the end of the legs of some insects and sea creatures <br> <img src='images/claw2.jpg' alt='claw2' width='200'> <br> 3. a mechanical device that is curved or bent to suspend or hold or pull something <br> 4. a bird's foot"
+            },
+            {
+              "word": "nail",
+              "phonetic": "/neɪl/",
+              "mean_fa": "",
+              "mean_en": "1. a small, thin piece of metal with one pointed end and one flat end that you hit into something with a hammer, especially in order to fasten or join it to something else <br> <img src='images/nail1.jpg' alt='nail1' width='200'> <br> 2. a thin, hard area that covers the upper side of the end of each finger and each toe <br> <img src='images/nail2.jpg' alt='nail2' width='200'>"
+            },
+            {
+              "word": "synthetic (adjective)",
+              "phonetic": "/sɪnˈθet̬.ɪk/",
+              "mean_fa": "",
+              "mean_en": "made artificially, not occurring naturally: generate synthetic captions to augment the dataset - The jacket is made of synthetic material, not real leather"
+            },
+            {
+              "word": "augment (verb)",
+              "phonetic": "/ɔːɡˈment/",
+              "mean_fa": "",
+              "mean_en": "to increase the size, amount, or effectiveness of something: generate synthetic captions to augment the dataset - She augmented her income by working extra hours"
+            },
+            {
+              "word": "imagine (verb)",
+              "phonetic": "/ɪˈmædʒ.ɪn/",
+              "mean_fa": "",
+              "mean_en": "to form a picture or idea of something in your mind: not large enough to encompass every image that can be imagined - Imagine a world without electricity."
+            },
+            {
+              "word": "likewise (adverb)",
+              "phonetic": "/ˈlaɪk.waɪz/",
+              "mean_fa": "",
+              "mean_en": "in the same way, also: Likewise, the corresponding caption is also encoded into another embedding - She works hard, and likewise, her brother does too"
+            },
+            {
+              "word": "corresponding (adjective)",
+              "phonetic": "/ˌkɔːr.əˈspɑːn.dɪŋ/",
+              "mean_fa": "",
+              "mean_en": "similar to, connected with, or caused by something else: the corresponding caption is also encoded into another embedding - Each product has a corresponding code number"
+            },
+            {
+              "word": "guess (noun)",
+              "phonetic": "/ɡes/",
+              "mean_fa": "",
+              "mean_en": "an attempt to give an answer without being certain it's correct: the model has a decoder that generates guesses for the caption - My guess is that it will rain tomorrow"
+            },
+            {
+              "word": "guess (verb)",
+              "phonetic": "/ɡes/",
+              "mean_fa": "",
+              "mean_en": "to try to give an answer or opinion without being sure it's correct: the model generates guesses for the caption based on the image - I guessed the answer, but I wasn't sure"
+            },
+            {
+              "word": "be/get bogged down",
+              "phonetic": "/bɑːɡd daʊn/",
+              "mean_fa": "",
+              "mean_en": "to be/become so involved in something difficult or complicated that you cannot do anything else: we try not to get bogged down in the details - Try not to get bogged down in the small details of the plan"
+            },
+            {
+              "word": "adventurous (adjective)",
+              "phonetic": "/ədˈventʃərəs/",
+              "mean_fa": "",
+              "mean_en": "willing to try new, difficult, or exciting things: For the adventurous, see the paper 'BLIP: Bootstrapping...' - She has an adventurous spirit and loves to travel alone - I'm trying to be more adventurous with my cooking"
+            },
+            {
+              "word": "bootstrap (verb)",
+              "phonetic": "/ˈbuːtstræp/",
+              "mean_fa": "",
+              "mean_en": "1. to create something using the minimum amount of resources possible: We have bootstrapped the business using our own funds so far <br> 2. (on a computer) to load a program, usually an operating system, by first loading a smaller program: To bootstrap the system, the preliminary database will first be assembled"
+            },
+            {
+              "word": "unified (adjective)",
+              "phonetic": "/ˈjuː.nə.faɪd/",
+              "mean_fa": "",
+              "mean_en": "combined or joined into a single whole: Unified Vision-Language Understanding and Generation - The team worked to create a unified strategy for the project"
+            },
+            {
+              "word": "halves",
+              "phonetic": "/hævz/",
+              "mean_fa": "",
+              "mean_en": "plural of half"
+            },
+            {
+              "word": "descriptive (adjective)",
+              "phonetic": "/dɪˈskrɪp.t̬ɪv/",
+              "mean_fa": "",
+              "mean_en": "describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing"
+            },
+            {
+              "word": "then (adverb)",
+              "phonetic": "/ðen/",
+              "mean_fa": "",
+              "mean_en": "1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus"
             }
           ]
         }

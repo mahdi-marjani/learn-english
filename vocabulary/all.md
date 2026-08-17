@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1637**
+**Total words: 1659**
 
 ## 📑 Table of Contents
 
@@ -10,17 +10,17 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (952 words)](#deep-learning-with-pytorch---vocabulary-952-words)
+- [Deep Learning with PyTorch - Vocabulary (974 words)](#deep-learning-with-pytorch---vocabulary-974-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
-  - [acknowledgments (60 words)](#acknowledgments-60-words)
+  - [acknowledgments (59 words)](#acknowledgments-59-words)
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (483 words)](#part-1-core-pytorch-483-words)
+  - [Part 1: Core PyTorch (506 words)](#part-1-core-pytorch-506-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (182 words)](#chapter-2-pretrained-networks-182-words)
+    - [Chapter 2: Pretrained networks (205 words)](#chapter-2-pretrained-networks-205-words)
 - [Duolingo - Vocabulary (482 words)](#duolingo---vocabulary-482-words)
   - [SECTION 1 (482 words)](#section-1-482-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -214,7 +214,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (952 words)
+## Deep Learning with PyTorch - Vocabulary (974 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -405,7 +405,7 @@
 - `chose`  <br> past of choose
 ---
 
-### acknowledgments (60 words)
+### acknowledgments (59 words)
 - `acknowledgments`  <br> تشکرها
 - `deeply`  <br> عمیقاً
 - `indebted`  <br> مدیون
@@ -451,7 +451,6 @@
 - `mistake`  <br> اشتباه
 - `proofreader`  <br> ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
 - `behind`  <br> پشتِ
-- `scenes`  <br> صحنه‌ها
 - `glimpse (verb)`  /ɡlɪmps/ <br> to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - `cc`  <br> Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - `threads`  <br> زنجیره پیام‌ها
@@ -488,7 +487,7 @@
 - `typical`  <br> معمولی
 - `undergraduate`  <br> bachelor-level
 - `or-later`  <br> یا بالاتر
-- `since`  <br> 1. from a particular time in the past until now: I have been waiting since 8 AM. <br> 2. because; for the reason that: Since you're tired, you should rest.
+- `since`  /sɪns/ <br> 1. from a particular time in the past until now: I have been waiting since 8 AM. <br> 2. because; for the reason that: Since you're tired, you should rest.
 - `exposition`  <br> explanation
 - `slightly`  <br> a little
 - `angle`  <br> رویکرد، دیدگاه
@@ -706,7 +705,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (483 words)
+### Part 1: Core PyTorch (506 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -964,7 +963,7 @@
 - `throughout (preposition, adverb)`  /θruːˈaʊt/ <br> 1. in every part of something: We painted the house throughout - She is famous throughout the world <br> 2. from the beginning to the end of something: They talked throughout the film
 - `spectrum`  /ˈspek.trəm/ <br> 1. the set of colours into which a beam of light can be separated, or a range of waves, such as light waves or radio waves: The colours of the spectrum _ red, orange, yellow, green, blue, indigo, and violet _ can be seen in a rainbow <br> <img src='images/spectrum.jpg' alt='spectrum' width='200'> <br> 2. a complete or wide range of related things, ideas, or qualities that covers many different kinds, from one type to a very different type: The spectrum of scientific applications includes everything from simple data analysis to advanced AI models
 - `foremost`  /ˈfɔːr.moʊst/ <br> most important or best
-- `encompass`  /ɪnˈkʌm.pəs/ <br> to include different types of things: tensors that encompass several samples
+- `encompass`  /ɪnˈkʌm.pəs/ <br> to include different types of things: The course encompasses many topics, from history to science
 - `several`  /ˈsɛ.və.rəl/ <br> more than two but not many: I've read this book several times - Several letters arrived this morning - If you need a pen, there are several on the table
 - `elaborate (adjective)`  /ɪ.ˈlæ.bə.rət/ <br> containing a lot of careful detail or many detailed parts
 - `evaluate`  /ɪˈvæl.ju.eɪt/ <br> to judge or calculate the quality, importance, amount, or value of something
@@ -1011,7 +1010,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (182 words)
+#### Chapter 2: Pretrained networks (205 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1194,6 +1193,29 @@
 - `concerning (adjective)`  /kənˈsɜːrnɪŋ/ <br> causing worry; making you feel slightly worried: albeit a bit concerning (can they really replace our brains?) - The news about the economy was concerning
 - `demonstration (noun)`  /ˌdem.ənˈstreɪ.ʃən/ <br> an act of showing how something works or proving something is true: is a demonstration of the ease of use for downloading pretrained models - The teacher gave a demonstration of how to use the microscope
 - `inherent (adjective)`  /ɪnˈhɪr.ənt/ <br> existing as a natural or basic part of something: the model's inherent understanding of language patterns - Risk is an inherent part of starting a business
+- `accomplish`  /əˈkɑːm.plɪʃ/ <br> to finish something successfully or to achieve something: The students accomplished the task in less than ten minutes
+- `multimodal (adjective)`  /ˌmʌl.tiˈmoʊ.dəl/ <br> involving or using several different types (modes) of data or media, such as text, images, or audio: BLIP is a multimodal model - Multimodal learning combines text, images, and sound for better understanding
+- `modality (noun)`  /moʊˈdæl.ə.ti/ <br> a particular type or form of data, communication, or sensory input, such as text, image, or audio: it is designed to handle different types of data (or modalities) - Vision and language are two different modalities used in this model
+- `combination`  /ˌkɑːm.bəˈneɪ.ʃən/ <br> the mixture you get when two or more things are combined: Strawberries and cream - a perfect combination
+- `paired (adjective)`  /perd/ <br> put together as a matching pair or set: large datasets of images and their paired sentence descriptions - The wine was paired with a nice cheese
+- `tabby`  /ˈtæb.i/ <br> a cat with a striped or patterned coat: A Tabby cat is leaning on a wooden table - My neighbor has a friendly tabby cat
+- `paw (noun)`  /pɔː/ <br> the foot of an animal that has claws or nails, like a cat or dog: with one paw on a laser mouse - The dog wiped its paw on the carpet
+- `claw`  /klɑː/ <br> 1. a sharp and curved nail on the toe of an animal or a bird <br> <img src='images/claw1.jpg' alt='claw1' width='200'> <br> 2. one of the two pointed parts, used for holding things, at the end of the legs of some insects and sea creatures <br> <img src='images/claw2.jpg' alt='claw2' width='200'> <br> 3. a mechanical device that is curved or bent to suspend or hold or pull something <br> 4. a bird's foot
+- `nail`  /neɪl/ <br> 1. a small, thin piece of metal with one pointed end and one flat end that you hit into something with a hammer, especially in order to fasten or join it to something else <br> <img src='images/nail1.jpg' alt='nail1' width='200'> <br> 2. a thin, hard area that covers the upper side of the end of each finger and each toe <br> <img src='images/nail2.jpg' alt='nail2' width='200'>
+- `synthetic (adjective)`  /sɪnˈθet̬.ɪk/ <br> made artificially, not occurring naturally: generate synthetic captions to augment the dataset - The jacket is made of synthetic material, not real leather
+- `augment (verb)`  /ɔːɡˈment/ <br> to increase the size, amount, or effectiveness of something: generate synthetic captions to augment the dataset - She augmented her income by working extra hours
+- `imagine (verb)`  /ɪˈmædʒ.ɪn/ <br> to form a picture or idea of something in your mind: not large enough to encompass every image that can be imagined - Imagine a world without electricity.
+- `likewise (adverb)`  /ˈlaɪk.waɪz/ <br> in the same way, also: Likewise, the corresponding caption is also encoded into another embedding - She works hard, and likewise, her brother does too
+- `corresponding (adjective)`  /ˌkɔːr.əˈspɑːn.dɪŋ/ <br> similar to, connected with, or caused by something else: the corresponding caption is also encoded into another embedding - Each product has a corresponding code number
+- `guess (noun)`  /ɡes/ <br> an attempt to give an answer without being certain it's correct: the model has a decoder that generates guesses for the caption - My guess is that it will rain tomorrow
+- `guess (verb)`  /ɡes/ <br> to try to give an answer or opinion without being sure it's correct: the model generates guesses for the caption based on the image - I guessed the answer, but I wasn't sure
+- `be/get bogged down`  /bɑːɡd daʊn/ <br> to be/become so involved in something difficult or complicated that you cannot do anything else: we try not to get bogged down in the details - Try not to get bogged down in the small details of the plan
+- `adventurous (adjective)`  /ədˈventʃərəs/ <br> willing to try new, difficult, or exciting things: For the adventurous, see the paper 'BLIP: Bootstrapping...' - She has an adventurous spirit and loves to travel alone - I'm trying to be more adventurous with my cooking
+- `bootstrap (verb)`  /ˈbuːtstræp/ <br> 1. to create something using the minimum amount of resources possible: We have bootstrapped the business using our own funds so far <br> 2. (on a computer) to load a program, usually an operating system, by first loading a smaller program: To bootstrap the system, the preliminary database will first be assembled
+- `unified (adjective)`  /ˈjuː.nə.faɪd/ <br> combined or joined into a single whole: Unified Vision-Language Understanding and Generation - The team worked to create a unified strategy for the project
+- `halves`  /hævz/ <br> plural of half
+- `descriptive (adjective)`  /dɪˈskrɪp.t̬ɪv/ <br> describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing
+- `then (adverb)`  /ðen/ <br> 1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus
 ---
 
 ---
