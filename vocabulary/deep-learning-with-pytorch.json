@@ -1412,12 +1412,6 @@
           "mean_en": ""
         },
         {
-          "word": "tropical",
-          "phonetic": "",
-          "mean_fa": "گرمسیری",
-          "mean_en": ""
-        },
-        {
           "word": "island",
           "phonetic": "",
           "mean_fa": "جزیره",
@@ -2050,7 +2044,7 @@
           "word": "entire",
           "phonetic": "",
           "mean_fa": "",
-          "mean_en": "all of something, whole"
+          "mean_en": "all of something; whole"
         },
         {
           "word": "diagnosis",

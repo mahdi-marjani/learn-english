@@ -1,12 +1,12 @@
 # Duolingo - Vocabulary
 
-**Total words: 482**
+**Total words: 488**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (482 words)](#section-1-482-words)
+- [SECTION 1 (488 words)](#section-1-488-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
-  - [Delivery (29 words)](#delivery-29-words)
+  - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
   - [Interview (26 words)](#interview-26-words)
   - [Chores (39 words)](#chores-39-words)
@@ -22,10 +22,11 @@
   - [Clothing (32 words)](#clothing-32-words)
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
+  - [Wildlife (5 words)](#wildlife-5-words)
 
 ---
 
-## SECTION 1 (482 words)
+## SECTION 1 (488 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -65,7 +66,7 @@
 - `exact`  /ɪɡˈzækt/ <br> completely correct: We need to know the exact time the incident occurred
 - `adventure`  /ədˈventʃər/ <br> something exciting that you do or that happens to you: She wrote a book about her adventures in Africa
 
-### Delivery (29 words)
+### Delivery (30 words)
 - `tuna`  /ˈtuːnə/ <br> 1. a type of large fish that is found in warm seas <br> <img src='images/tuna1.jpg' alt='tuna1' width='200'> <br> 2. the meat of a large fish named tuna that lives in warm waters <br> <img src='images/tuna2.jpg' alt='tuna2' width='200'>
 - `strawberry`  /ˈstrɔːberi/ <br> <br> <img src='images/strawberry.jpg' alt='strawberry' width='200'>
 - `soda`  /ˈsoʊdə/ <br> 1. water with bubbles in it that is used for mixing with other drinks: whisky and soda <br> 2. (American) a sweet drink with bubbles in it that is made from soda water and a fruit flavour
@@ -88,7 +89,8 @@
 - `yogurt`  /ˈjoʊɡərt/ <br> (also yoghurt) a thick liquid food made from milk: strawberry yogurt - Do you want a yogurt?
 - `beverage`  /ˈbevərɪdʒ/ <br> a drink, especially one that is not water (like tea, coffee, juice, or soda): Hot beverages are served in the café
 - `paradise`  /ˈperədaɪs/ <br> the place where some people think good people go after they die (SAME MEANING: heaven)
-- `the tropics`  /ðə ˈtrɑːpɪks/ <br> the part of the world where it is very hot and wet <br> `tropical` tropical fruit
+- `the tropics`  /ðə ˈtrɑːpɪks/ <br> the part of the world where it is very hot and wet <br> <img src='images/tropic.jpg' alt='tropic' width='200'>
+- `tropical (adjective)`  /ˈtrɑː.pɪ.kəl/ <br> relating to or characteristic of the tropics: tropical fruit - گرمسیری
 - `boba`  /ˈboʊbə/ <br> are small, chewy balls made from tapioca. They are usually added to bubble tea (a sweet tea drink) <br> <img src='images/boba.jpg' alt='boba' width='200'>
 - `definitely`  /ˈdefənɪtli/ <br> without any doubt / certainly / for sure: I'll definitely consider your advice - It's definitely the best restaurant in the town
 - `grab`  /ɡræb/ <br> to take or hold something quickly or suddenly: The thief grabbed her bag and ran away
@@ -542,4 +544,11 @@
 - `crash (noun)`  /kraʃ/ <br> 1. an accident when something that is moving hits another things: He was killed in a car crash - a plane crash <br> 2. a loud noise when something falls or hits another thing: I heard a crash as the tree fell
 - `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
 - `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
+
+### Wildlife (5 words)
+- `jungle`  /ˈdʒʌŋ.ɡəl/ <br> a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa
+- `bench`  /bentʃ/ <br> a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>
+- `temple`  /ˈtem.pəl/ <br> a building where people go to say prayers to a god or gods
+- `prayer`  /prer/ <br> the words that someone says or thinks when they are praying
+- `pray (verb)`  /preɪ/ <br> to speak to God or a god: They prayed to God for help
 ---

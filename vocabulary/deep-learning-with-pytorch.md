@@ -1,13 +1,13 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 974**
+**Total words: 973**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
 - [foreword (51 words)](#foreword-51-words)
 - [preface (91 words)](#preface-91-words)
-- [acknowledgments (59 words)](#acknowledgments-59-words)
+- [acknowledgments (58 words)](#acknowledgments-58-words)
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
@@ -206,7 +206,7 @@
 - `chose`  <br> past of choose
 ---
 
-## acknowledgments (59 words)
+## acknowledgments (58 words)
 - `acknowledgments`  <br> تشکرها
 - `deeply`  <br> عمیقاً
 - `indebted`  <br> مدیون
@@ -259,7 +259,6 @@
 - `left off this list`  <br> از این فهرست جا افتاده‌اند
 - `honest`  <br> صادقانه
 - `tireless`  <br> خستگی‌ناپذیر
-- `tropical`  <br> گرمسیری
 - `island`  <br> جزیره
 - `dragging`  <br> کشیدن
 - `grace`  <br> لطف
@@ -367,7 +366,7 @@
 - `produce`  <br> generate
 - `heatmap`  <br> نقشه حرارتی (نمایش شدت با رنگ)
 - `nodule`  <br> توده کوچک در ریه
-- `entire`  <br> all of something, whole
+- `entire`  <br> all of something; whole
 - `diagnosis`  <br> identification of disease
 - `disease`  <br> بیماری
 - `patient`  <br> a person who is receiving medical treatment - بیمار

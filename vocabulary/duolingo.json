@@ -364,7 +364,13 @@
               "word": "the tropics",
               "phonetic": "/ðə ˈtrɑːpɪks/",
               "mean_fa": "",
-              "mean_en": "the part of the world where it is very hot and wet <br> `tropical` tropical fruit"
+              "mean_en": "the part of the world where it is very hot and wet <br> <img src='images/tropic.jpg' alt='tropic' width='200'>"
+            },
+            {
+              "word": "tropical (adjective)",
+              "phonetic": "/ˈtrɑː.pɪ.kəl/",
+              "mean_fa": "گرمسیری",
+              "mean_en": "relating to or characteristic of the tropics: tropical fruit"
             },
             {
               "word": "boba",
@@ -2978,6 +2984,41 @@
               "phonetic": "/ˈlænd.lɔːrd/",
               "mean_fa": "",
               "mean_en": "a man who rents a house or room to people for money"
+            }
+          ]
+        },
+        {
+          "heading": "Wildlife",
+          "words": [
+            {
+              "word": "jungle",
+              "phonetic": "/ˈdʒʌŋ.ɡəl/",
+              "mean_fa": "",
+              "mean_en": "a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa"
+            },
+            {
+              "word": "bench",
+              "phonetic": "/bentʃ/",
+              "mean_fa": "",
+              "mean_en": "a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>"
+            },
+            {
+              "word": "temple",
+              "phonetic": "/ˈtem.pəl/",
+              "mean_fa": "",
+              "mean_en": "a building where people go to say prayers to a god or gods"
+            },
+            {
+              "word": "prayer",
+              "phonetic": "/prer/",
+              "mean_fa": "",
+              "mean_en": "the words that someone says or thinks when they are praying"
+            },
+            {
+              "word": "pray (verb)",
+              "phonetic": "/preɪ/",
+              "mean_fa": "",
+              "mean_en": "to speak to God or a god: They prayed to God for help"
             }
           ]
         }
