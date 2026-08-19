@@ -1814,7 +1814,7 @@
               "word": "beside",
               "phonetic": "/bɪˈsaɪd/",
               "mean_fa": "",
-              "mean_en": "at the side of, next to: Come and sit here beside me - Our school was built right beside a river"
+              "mean_en": "at the side of; next to: Come and sit here beside me - Our school was built right beside a river"
             },
             {
               "word": "off (preposition, adverb)",
@@ -3019,6 +3019,36 @@
               "phonetic": "/preɪ/",
               "mean_fa": "",
               "mean_en": "to speak to God or a god: They prayed to God for help"
+            },
+            {
+              "word": "parrot",
+              "phonetic": "/ˈper.ət/",
+              "mean_fa": "",
+              "mean_en": "a bird that can talk <br> <img src='images/parrot.jpg' alt='parrot' width='200'>"
+            },
+            {
+              "word": "cage",
+              "phonetic": "/keɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "a box for keeping animals <br> <img src='images/cage.jpg' alt='cage' width='200'>"
+            },
+            {
+              "word": "recognize",
+              "phonetic": "/ˈrek.əɡ.naɪz/",
+              "mean_fa": "",
+              "mean_en": "1. to know again somebody or something that you have seen or heard before: I didn't recognize you without your glasses <br> 2. to know that something is true: They recognize that there is a problem"
+            },
+            {
+              "word": "predator",
+              "phonetic": "/ˈpredətər/",
+              "mean_fa": "",
+              "mean_en": "an animal that hunts, kills, and eats other animals: lions, wolves, and other predators"
+            },
+            {
+              "word": "caught",
+              "phonetic": "/kɑːt/",
+              "mean_fa": "",
+              "mean_en": "past simple and past participle of catch"
             }
           ]
         }

@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1664**
+**Total words: 1669**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (506 words)](#part-1-core-pytorch-506-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (205 words)](#chapter-2-pretrained-networks-205-words)
-- [Duolingo - Vocabulary (488 words)](#duolingo---vocabulary-488-words)
-  - [SECTION 1 (488 words)](#section-1-488-words)
+- [Duolingo - Vocabulary (493 words)](#duolingo---vocabulary-493-words)
+  - [SECTION 1 (493 words)](#section-1-493-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -40,7 +40,7 @@
     - [Clothing (32 words)](#clothing-32-words)
     - [Airport (23 words)](#airport-23-words)
     - [News (28 words)](#news-28-words)
-    - [Wildlife (5 words)](#wildlife-5-words)
+    - [Wildlife (10 words)](#wildlife-10-words)
 - [General - Vocabulary (53 words)](#general---vocabulary-53-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1220,9 +1220,9 @@
 
 ---
 
-## Duolingo - Vocabulary (488 words)
+## Duolingo - Vocabulary (493 words)
 
-### SECTION 1 (488 words)
+### SECTION 1 (493 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1536,7 +1536,7 @@
 - `toothbrush`  /ˈtuːθ.brʌʃ/ <br> a small brush with a long handle that you use to clean your teeth <br> <img src='images/toothbrush.jpg' alt='toothbrush' width='200'>
 - `asleep`  /əˈsliːp/ <br> sleeping: The baby is asleep in the bedroom - He fell asleep (= started sleeping) in front of the fire (OPPOSITE: awake)
 - `write down`  <br> to write something on a piece of paper so that you do not forget it: Alice wrote down the address - Did you write down Jo's phone number?
-- `beside`  /bɪˈsaɪd/ <br> at the side of, next to: Come and sit here beside me - Our school was built right beside a river
+- `beside`  /bɪˈsaɪd/ <br> at the side of; next to: Come and sit here beside me - Our school was built right beside a river
 - `off (preposition, adverb)`  /ɑːf/ <br> 1. away from a place; at a distance in space or time: My birthday is not far off - I most be off soon (= leave) <br> 2. down or away from something: He fell off the roof - We got off the bus - The thief ran off <br> 3. used for talking about removing something: If you're hot, take your coat off - Can you clean that paint off the carpet? (OPPOSITE: on) <br> 4. not connected; not working: Make sure the lights are off before you go (OPPOSITE: on) <br> 5. not at work or school: I had the day off yesterday <br> 6. joined to something and leading from it: The bathroom is off the bedroom
 - `beard`  /bɪrd/ <br> the hair that grow on the chin and sides of a man’s face <br> <img src='images/beard.jpg' alt='beard' width='200'>
 - `chin`  /ʧɪn/ <br> the lowest part of our face that is below our mouth <br> <img src='images/chin.jpg' alt='chin' width='200'>
@@ -1741,12 +1741,17 @@
 - `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
 - `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
 
-#### Wildlife (5 words)
+#### Wildlife (10 words)
 - `jungle`  /ˈdʒʌŋ.ɡəl/ <br> a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa
 - `bench`  /bentʃ/ <br> a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>
 - `temple`  /ˈtem.pəl/ <br> a building where people go to say prayers to a god or gods
 - `prayer`  /prer/ <br> the words that someone says or thinks when they are praying
 - `pray (verb)`  /preɪ/ <br> to speak to God or a god: They prayed to God for help
+- `parrot`  /ˈper.ət/ <br> a bird that can talk <br> <img src='images/parrot.jpg' alt='parrot' width='200'>
+- `cage`  /keɪdʒ/ <br> a box for keeping animals <br> <img src='images/cage.jpg' alt='cage' width='200'>
+- `recognize`  /ˈrek.əɡ.naɪz/ <br> 1. to know again somebody or something that you have seen or heard before: I didn't recognize you without your glasses <br> 2. to know that something is true: They recognize that there is a problem
+- `predator`  /ˈpredətər/ <br> an animal that hunts, kills, and eats other animals: lions, wolves, and other predators
+- `caught`  /kɑːt/ <br> past simple and past participle of catch
 ---
 
 ---
