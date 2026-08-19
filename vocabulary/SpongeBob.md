@@ -1,18 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 150**
+**Total words: 151**
 
 ## 📑 Table of Contents
 
-- [S1 (150 words)](#s1-150-words)
+- [S1 (151 words)](#s1-151-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
   - [E4 (19 words)](#e4-19-words)
-  - [E5 (34 words)](#e5-34-words)
+  - [E5 (35 words)](#e5-35-words)
 
 ---
 
-## S1 (150 words)
+## S1 (151 words)
 
 ### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -136,11 +136,12 @@
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
-### E5 (34 words)
+### E5 (35 words)
 - `rip`  /rɪp/ <br> to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
 - `stinky`  /ˈstɪŋ.ki/ <br> smelling very bad
 - `mud`  /mʌd/ <br> earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
 - `puddle`  /ˈpʌd.əl/ <br> a small pool of liquid on the ground, especially from rain <br> <img src='images/puddle.jpg' alt='puddle' width='200'>
+- `mud puddle`  <br> a small pool of dirty water usually left by a rain storm
 - `inhabitant`  /ɪnˈhæb.ɪ.tənt/ <br> a person or animal that lives in a particular place: a city of five million inhabitants
 - `observe`  /əb.ˈzɜrv/ <br> to carefully watch something in order gain knowledge or understanding about the subject
 - `hilarious`  /hɪˈler.i.əs/ <br> If something is hilarious, it is extremely funny and makes you laugh a lot

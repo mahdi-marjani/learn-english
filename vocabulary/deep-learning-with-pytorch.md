@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 973**
+**Total words: 974**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (506 words)](#part-1-core-pytorch-506-words)
+- [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-  - [Chapter 2: Pretrained networks (205 words)](#chapter-2-pretrained-networks-205-words)
+  - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
 
 ---
 
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (506 words)
+## Part 1: Core PyTorch (507 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -810,7 +810,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (205 words)
+### Chapter 2: Pretrained networks (206 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1016,4 +1016,5 @@
 - `halves`  /hævz/ <br> plural of half
 - `descriptive (adjective)`  /dɪˈskrɪp.t̬ɪv/ <br> describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing
 - `then (adverb)`  /ðen/ <br> 1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus
+- `processor`  /ˈprɑːsesər/ <br> the part of a computer that performs operations on the information that is put into it (SAME MEANING: CPU)
 ---

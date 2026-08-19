@@ -1,16 +1,16 @@
 # All Vocabulary
 
-**Total words: 1669**
+**Total words: 1671**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (150 words)](#spongebob-squarepants---vocabulary-150-words)
-  - [S1 (150 words)](#s1-150-words)
+- [SpongeBob SquarePants - Vocabulary (151 words)](#spongebob-squarepants---vocabulary-151-words)
+  - [S1 (151 words)](#s1-151-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
-    - [E5 (34 words)](#e5-34-words)
-- [Deep Learning with PyTorch - Vocabulary (973 words)](#deep-learning-with-pytorch---vocabulary-973-words)
+    - [E5 (35 words)](#e5-35-words)
+- [Deep Learning with PyTorch - Vocabulary (974 words)](#deep-learning-with-pytorch---vocabulary-974-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (506 words)](#part-1-core-pytorch-506-words)
+  - [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
-    - [Chapter 2: Pretrained networks (205 words)](#chapter-2-pretrained-networks-205-words)
+    - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
 - [Duolingo - Vocabulary (493 words)](#duolingo---vocabulary-493-words)
   - [SECTION 1 (493 words)](#section-1-493-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -50,9 +50,9 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (150 words)
+## SpongeBob SquarePants - Vocabulary (151 words)
 
-### S1 (150 words)
+### S1 (151 words)
 
 #### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -176,11 +176,12 @@
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
-#### E5 (34 words)
+#### E5 (35 words)
 - `rip`  /rɪp/ <br> to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
 - `stinky`  /ˈstɪŋ.ki/ <br> smelling very bad
 - `mud`  /mʌd/ <br> earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
 - `puddle`  /ˈpʌd.əl/ <br> a small pool of liquid on the ground, especially from rain <br> <img src='images/puddle.jpg' alt='puddle' width='200'>
+- `mud puddle`  <br> a small pool of dirty water usually left by a rain storm
 - `inhabitant`  /ɪnˈhæb.ɪ.tənt/ <br> a person or animal that lives in a particular place: a city of five million inhabitants
 - `observe`  /əb.ˈzɜrv/ <br> to carefully watch something in order gain knowledge or understanding about the subject
 - `hilarious`  /hɪˈler.i.əs/ <br> If something is hilarious, it is extremely funny and makes you laugh a lot
@@ -215,7 +216,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (973 words)
+## Deep Learning with PyTorch - Vocabulary (974 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -705,7 +706,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (506 words)
+### Part 1: Core PyTorch (507 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1010,7 +1011,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (205 words)
+#### Chapter 2: Pretrained networks (206 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1216,6 +1217,7 @@
 - `halves`  /hævz/ <br> plural of half
 - `descriptive (adjective)`  /dɪˈskrɪp.t̬ɪv/ <br> describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing
 - `then (adverb)`  /ðen/ <br> 1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus
+- `processor`  /ˈprɑːsesər/ <br> the part of a computer that performs operations on the information that is put into it (SAME MEANING: CPU)
 ---
 
 ---
