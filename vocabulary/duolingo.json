@@ -985,7 +985,7 @@
               "word": "pot",
               "phonetic": "/pɒt/",
               "mean_fa": "",
-              "mean_en": "a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>"
+              "mean_en": "1. a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'> <br> 2. a container that you use for a special thing: a teapot - a pot of paint - a plant pot"
             },
             {
               "word": "make",
@@ -3151,6 +3151,66 @@
               "phonetic": "/ˈsek·əndˈhænd/",
               "mean_fa": "",
               "mean_en": "not new; used by another person before: second-hand books - I bought this car second-hand"
+            },
+            {
+              "word": "nature",
+              "phonetic": "/ˈneɪtʃər/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) all the plants, animals, etc. in the world and all the things that happen in it that are not made or caused by people: the beauty of nature <br> 2. (plural natures) the way a person or thing is: Our cat has a very friendly nature"
+            },
+            {
+              "word": "potted plant",
+              "phonetic": "/ˈpɑːtɪd ˈplænt/",
+              "mean_fa": "",
+              "mean_en": "a plant that is grown in a pot <br> <img src='images/potted-plant.jpg' alt='potted plant' width='200'>"
+            },
+            {
+              "word": "shovel",
+              "phonetic": "/ˈʃʌv.əl/",
+              "mean_fa": "",
+              "mean_en": "a tool for digging <br> <img src='images/shovel.jpg' alt='shovel' width='200'>"
+            },
+            {
+              "word": "obvious (adjective)",
+              "phonetic": "/ˈɑːb.vi.əs/",
+              "mean_fa": "",
+              "mean_en": "easy to see or understand (SAME MEANING: clear): it's obvious that she's not happy"
+            },
+            {
+              "word": "thoughtful",
+              "phonetic": "/ˈθɑːt.fəl/",
+              "mean_fa": "",
+              "mean_en": "1. thinking carefully: She listened with a thoughtful look on her face <br> 2. thinking about other people (SAME MEANING: kind, considerate): It was very thoughtful of you to cook us dinner"
+            },
+            {
+              "word": "tent",
+              "phonetic": "/tent/",
+              "mean_fa": "",
+              "mean_en": "a kind of small house made of cloth. You sleep in a tent when you go camping: We put up our tent <br> <img src='images/tent.jpg' alt='tent' width='200'>"
+            },
+            {
+              "word": "lake",
+              "phonetic": "/leɪk/",
+              "mean_fa": "",
+              "mean_en": "a large area of water surrounded by land and not connected to the sea except by rivers or streams <br> <img src='images/lake.jpg' alt='lake' width='200'>"
+            },
+            {
+              "word": "soap",
+              "phonetic": "/soʊp/",
+              "mean_fa": "",
+              "mean_en": "a substance that you use with water for washing and cleaning: a bar of soap <br> <img src='images/soap.jpg' alt='soap' width='200'>"
+            },
+            {
+              "word": "allergic",
+              "phonetic": "/əˈlɜːrdʒɪk/",
+              "mean_fa": "",
+              "mean_en": "having an allergy: He's allergic to cow's milk"
+            },
+            {
+              "word": "allergy",
+              "phonetic": "/əˈlɜːrdʒi/",
+              "mean_fa": "",
+              "mean_en": "a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats"
             }
           ]
         }

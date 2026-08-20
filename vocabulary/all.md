@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1688**
+**Total words: 1698**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
-- [Duolingo - Vocabulary (510 words)](#duolingo---vocabulary-510-words)
-  - [SECTION 1 (510 words)](#section-1-510-words)
+- [Duolingo - Vocabulary (520 words)](#duolingo---vocabulary-520-words)
+  - [SECTION 1 (520 words)](#section-1-520-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -40,7 +40,7 @@
     - [Clothing (32 words)](#clothing-32-words)
     - [Airport (23 words)](#airport-23-words)
     - [News (28 words)](#news-28-words)
-    - [Wildlife (27 words)](#wildlife-27-words)
+    - [Wildlife (37 words)](#wildlife-37-words)
 - [General - Vocabulary (53 words)](#general---vocabulary-53-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1222,9 +1222,9 @@
 
 ---
 
-## Duolingo - Vocabulary (510 words)
+## Duolingo - Vocabulary (520 words)
 
-### SECTION 1 (510 words)
+### SECTION 1 (520 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1394,7 +1394,7 @@
 - `spill`  /spɪl/ <br> drop; if you spill a liquid, it flows out of something by accident: I've spilt my coffee <br> <img src='images/spill.jpg' alt='spill' width='200'>
 - `disaster`  /dɪ.zæs.tər/ <br> a very bad event
 - `stain`  /steɪn/ <br> a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
-- `pot`  /pɒt/ <br> a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'>
+- `pot`  /pɒt/ <br> 1. a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'> <br> 2. a container that you use for a special thing: a teapot - a pot of paint - a plant pot
 - `make`  <br> 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)
 - `blanket`  /ˈblæŋ.kɪt/ <br> covers for keeping warm <br> <img src='images/blanket.jpg' alt='blanket' width='200'>
 - `stove`  /stoʊv/ <br> a device for cooking food <br> <img src='images/stove.jpg' alt='stove' width='200'>
@@ -1743,7 +1743,7 @@
 - `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
 - `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
 
-#### Wildlife (27 words)
+#### Wildlife (37 words)
 - `jungle`  /ˈdʒʌŋ.ɡəl/ <br> a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa
 - `bench`  /bentʃ/ <br> a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>
 - `temple`  /ˈtem.pəl/ <br> a building where people go to say prayers to a god or gods
@@ -1771,6 +1771,16 @@
 - `plant (verb)`  /plænt/ <br> to put plants or seeds in the ground: We planted some roses in the garden
 - `recycle`  /ˌriːˈsaɪ.kəl/ <br> to sort and collect rubbish in order to treat it and produce useful materials that can be used again: Shall I just throw this bottle away, or do you recycle? <br> <img src='images/recycle.jpg' alt='recycle' width='200'>
 - `secondhand (adjective, adverb)`  /ˈsek·əndˈhænd/ <br> not new; used by another person before: second-hand books - I bought this car second-hand
+- `nature`  /ˈneɪtʃər/ <br> 1. (no plural) all the plants, animals, etc. in the world and all the things that happen in it that are not made or caused by people: the beauty of nature <br> 2. (plural natures) the way a person or thing is: Our cat has a very friendly nature
+- `potted plant`  /ˈpɑːtɪd ˈplænt/ <br> a plant that is grown in a pot <br> <img src='images/potted-plant.jpg' alt='potted plant' width='200'>
+- `shovel`  /ˈʃʌv.əl/ <br> a tool for digging <br> <img src='images/shovel.jpg' alt='shovel' width='200'>
+- `obvious (adjective)`  /ˈɑːb.vi.əs/ <br> easy to see or understand (SAME MEANING: clear): it's obvious that she's not happy
+- `thoughtful`  /ˈθɑːt.fəl/ <br> 1. thinking carefully: She listened with a thoughtful look on her face <br> 2. thinking about other people (SAME MEANING: kind, considerate): It was very thoughtful of you to cook us dinner
+- `tent`  /tent/ <br> a kind of small house made of cloth. You sleep in a tent when you go camping: We put up our tent <br> <img src='images/tent.jpg' alt='tent' width='200'>
+- `lake`  /leɪk/ <br> a large area of water surrounded by land and not connected to the sea except by rivers or streams <br> <img src='images/lake.jpg' alt='lake' width='200'>
+- `soap`  /soʊp/ <br> a substance that you use with water for washing and cleaning: a bar of soap <br> <img src='images/soap.jpg' alt='soap' width='200'>
+- `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
+- `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 ---
 
 ---
