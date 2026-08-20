@@ -189,10 +189,10 @@
           "mean_en": "an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>"
         },
         {
-          "word": "worse",
+          "word": "worse (adjective, adverb) ",
           "phonetic": "/wɜːrs/",
           "mean_fa": "",
-          "mean_en": "bad"
+          "mean_en": "1. not as good or as well as something else: The weather today is worse than yesterday - Her Spanish is bad but her Italian is even worse (OPPOSITE: better) <br> 2. more ill: If you get worse, you must go to the doctor's (OPPOSITE: better)"
         },
         {
           "word": "adopt",
@@ -293,7 +293,7 @@
           "word": "autumn",
           "phonetic": "/ˈɑːtəm/",
           "mean_fa": "",
-          "mean_en": "the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>"
+          "mean_en": "(American fall) the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>"
         },
         {
           "word": "ahead",

@@ -406,7 +406,7 @@
 - `Purchase`  <br> buy
 - `rule`  <br> an official instruction about what to do or not to do
 - `conduct`  <br> behavior
-- `Commitment`  <br> تعهد
+- `commitment`  /kəˈmɪt.mənt/ <br> 1. (plural commitments) a promise to do something: When I make a commitment, I always stick to it <br> 2. (no plural) being prepared to give a lot of your time and attention to something: I admire his commitment to his work
 - `venue`  <br> the place where an event or meeting happens
 - `dialogue`  <br> conversation
 - `take place`  <br> happen

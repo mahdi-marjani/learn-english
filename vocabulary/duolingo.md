@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 493**
+**Total words: 510**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (493 words)](#section-1-493-words)
+- [SECTION 1 (510 words)](#section-1-510-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -22,11 +22,11 @@
   - [Clothing (32 words)](#clothing-32-words)
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
-  - [Wildlife (10 words)](#wildlife-10-words)
+  - [Wildlife (27 words)](#wildlife-27-words)
 
 ---
 
-## SECTION 1 (493 words)
+## SECTION 1 (510 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -545,7 +545,7 @@
 - `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
 - `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
 
-### Wildlife (10 words)
+### Wildlife (27 words)
 - `jungle`  /ˈdʒʌŋ.ɡəl/ <br> a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa
 - `bench`  /bentʃ/ <br> a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>
 - `temple`  /ˈtem.pəl/ <br> a building where people go to say prayers to a god or gods
@@ -556,4 +556,21 @@
 - `recognize`  /ˈrek.əɡ.naɪz/ <br> 1. to know again somebody or something that you have seen or heard before: I didn't recognize you without your glasses <br> 2. to know that something is true: They recognize that there is a problem
 - `predator`  /ˈpredətər/ <br> an animal that hunts, kills, and eats other animals: lions, wolves, and other predators
 - `caught`  /kɑːt/ <br> past simple and past participle of catch
+- `humid (adjective)`  /ˈhjuː.mɪd/ <br> (used about the weather or climate) warm and wet (SAME MEANING: damp): The island is hot and humid
+- `mildew`  /ˈmɪl.duː/ <br> a type of fungus that grows in damp places
+- `fungus`  /ˈfʌŋ.ɡəs/ <br> any plant without leaves, flowers or green coloring, that grows on other plants or on other surfaces. Mushrooms are fungi
+- `fungi`  /ˈfʌŋ.ɡaɪ/ <br> plural of fungus
+- `expression`  /ɪkˈspreʃ.ən/ <br> 1. the look on your face that shows how you feel: an expression of surprise <br> 2. a word or group of words; a way of saying something: The expression 'to drop off' means 'to fall asleep'
+- `ventilation`  /ˌventəˈleɪʃən/ <br> airflow system; the movement of fresh air around a closed space, or the system that does this
+- `heat (noun)`  /hiːt/ <br> high temperature (OPPOSITE: cold)
+- `vent`  /vent/ <br> a small opening that allows air, smoke, or gas to enter or leave a closed space <br> <img src='images/vent.jpg' alt='vent' width='200'>
+- `basket`  /ˈbæs.kət/ <br> a container made of thin sticks or thin pieces of plastic or metal, that you use for holding or carrying things: a shopping basket - a laundry/clothes basket <br> <img src='images/basket.jpg' alt='basket' width='200'>
+- `beer`  /bɪr/ <br> 1. (no plural) an alcoholic drink made from grain: a pint of beer <br> 2. (plural beers) a glass, bottle or can of beer: Three beers, please
+- `leaves`  /liːvz/ <br> plural of leaf
+- `leaf`  /liːf/ <br> one of the flat green parts that grow on a plant or tree: Leaves fall from the trees in autumn <br> <img src='images/leaf.jpg' alt='leaf' width='200'>
+- `bright`  /braɪt/ <br> 1. with a lot of light: It was a bright sunny day - That lamp is very bright <br> 2. with a strong color: a bright yellow shirt <br> 3. clever: She is the brightest child in the class
+- `go back`  <br> to return
+- `plant (verb)`  /plænt/ <br> to put plants or seeds in the ground: We planted some roses in the garden
+- `recycle`  /ˌriːˈsaɪ.kəl/ <br> to sort and collect rubbish in order to treat it and produce useful materials that can be used again: Shall I just throw this bottle away, or do you recycle? <br> <img src='images/recycle.jpg' alt='recycle' width='200'>
+- `secondhand (adjective, adverb)`  /ˈsek·əndˈhænd/ <br> not new; used by another person before: second-hand books - I bought this car second-hand
 ---

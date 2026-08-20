@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1671**
+**Total words: 1688**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
-- [Duolingo - Vocabulary (493 words)](#duolingo---vocabulary-493-words)
-  - [SECTION 1 (493 words)](#section-1-493-words)
+- [Duolingo - Vocabulary (510 words)](#duolingo---vocabulary-510-words)
+  - [SECTION 1 (510 words)](#section-1-510-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -40,7 +40,7 @@
     - [Clothing (32 words)](#clothing-32-words)
     - [Airport (23 words)](#airport-23-words)
     - [News (28 words)](#news-28-words)
-    - [Wildlife (10 words)](#wildlife-10-words)
+    - [Wildlife (27 words)](#wildlife-27-words)
 - [General - Vocabulary (53 words)](#general---vocabulary-53-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -607,7 +607,7 @@
 - `Purchase`  <br> buy
 - `rule`  <br> an official instruction about what to do or not to do
 - `conduct`  <br> behavior
-- `Commitment`  <br> تعهد
+- `commitment`  /kəˈmɪt.mənt/ <br> 1. (plural commitments) a promise to do something: When I make a commitment, I always stick to it <br> 2. (no plural) being prepared to give a lot of your time and attention to something: I admire his commitment to his work
 - `venue`  <br> the place where an event or meeting happens
 - `dialogue`  <br> conversation
 - `take place`  <br> happen
@@ -1222,9 +1222,9 @@
 
 ---
 
-## Duolingo - Vocabulary (493 words)
+## Duolingo - Vocabulary (510 words)
 
-### SECTION 1 (493 words)
+### SECTION 1 (510 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1743,7 +1743,7 @@
 - `crash (verb)`  /kraʃ/ <br> 1. to have an accident in a car or other vehicle and hit something: The bus crashed into a tree - I crashed my father's car <br> 2. to fall or hit something with a loud noise: The tree crashed to the ground <br> 3. If a computer crashes, it suddenly stops working
 - `landlord`  /ˈlænd.lɔːrd/ <br> a man who rents a house or room to people for money
 
-#### Wildlife (10 words)
+#### Wildlife (27 words)
 - `jungle`  /ˈdʒʌŋ.ɡəl/ <br> a thick forest in a hot part of the world (the tropics): the jungles of South America and Africa
 - `bench`  /bentʃ/ <br> a long, usually hard seat for two or more people, often found in public places: They sat on a park bench <br> <img src='images/bench.jpg' alt='bench' width='200'>
 - `temple`  /ˈtem.pəl/ <br> a building where people go to say prayers to a god or gods
@@ -1754,6 +1754,23 @@
 - `recognize`  /ˈrek.əɡ.naɪz/ <br> 1. to know again somebody or something that you have seen or heard before: I didn't recognize you without your glasses <br> 2. to know that something is true: They recognize that there is a problem
 - `predator`  /ˈpredətər/ <br> an animal that hunts, kills, and eats other animals: lions, wolves, and other predators
 - `caught`  /kɑːt/ <br> past simple and past participle of catch
+- `humid (adjective)`  /ˈhjuː.mɪd/ <br> (used about the weather or climate) warm and wet (SAME MEANING: damp): The island is hot and humid
+- `mildew`  /ˈmɪl.duː/ <br> a type of fungus that grows in damp places
+- `fungus`  /ˈfʌŋ.ɡəs/ <br> any plant without leaves, flowers or green coloring, that grows on other plants or on other surfaces. Mushrooms are fungi
+- `fungi`  /ˈfʌŋ.ɡaɪ/ <br> plural of fungus
+- `expression`  /ɪkˈspreʃ.ən/ <br> 1. the look on your face that shows how you feel: an expression of surprise <br> 2. a word or group of words; a way of saying something: The expression 'to drop off' means 'to fall asleep'
+- `ventilation`  /ˌventəˈleɪʃən/ <br> airflow system; the movement of fresh air around a closed space, or the system that does this
+- `heat (noun)`  /hiːt/ <br> high temperature (OPPOSITE: cold)
+- `vent`  /vent/ <br> a small opening that allows air, smoke, or gas to enter or leave a closed space <br> <img src='images/vent.jpg' alt='vent' width='200'>
+- `basket`  /ˈbæs.kət/ <br> a container made of thin sticks or thin pieces of plastic or metal, that you use for holding or carrying things: a shopping basket - a laundry/clothes basket <br> <img src='images/basket.jpg' alt='basket' width='200'>
+- `beer`  /bɪr/ <br> 1. (no plural) an alcoholic drink made from grain: a pint of beer <br> 2. (plural beers) a glass, bottle or can of beer: Three beers, please
+- `leaves`  /liːvz/ <br> plural of leaf
+- `leaf`  /liːf/ <br> one of the flat green parts that grow on a plant or tree: Leaves fall from the trees in autumn <br> <img src='images/leaf.jpg' alt='leaf' width='200'>
+- `bright`  /braɪt/ <br> 1. with a lot of light: It was a bright sunny day - That lamp is very bright <br> 2. with a strong color: a bright yellow shirt <br> 3. clever: She is the brightest child in the class
+- `go back`  <br> to return
+- `plant (verb)`  /plænt/ <br> to put plants or seeds in the ground: We planted some roses in the garden
+- `recycle`  /ˌriːˈsaɪ.kəl/ <br> to sort and collect rubbish in order to treat it and produce useful materials that can be used again: Shall I just throw this bottle away, or do you recycle? <br> <img src='images/recycle.jpg' alt='recycle' width='200'>
+- `secondhand (adjective, adverb)`  /ˈsek·əndˈhænd/ <br> not new; used by another person before: second-hand books - I bought this car second-hand
 ---
 
 ---
@@ -1796,7 +1813,7 @@
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
-- `worse`  /wɜːrs/ <br> bad
+- `worse (adjective, adverb) `  /wɜːrs/ <br> 1. not as good or as well as something else: The weather today is worse than yesterday - Her Spanish is bad but her Italian is even worse (OPPOSITE: better) <br> 2. more ill: If you get worse, you must go to the doctor's (OPPOSITE: better)
 - `adopt`  /əˈdɑːpt/ <br> to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - `rarely`  /ˈrerli/ <br> not very often: We rarely agree with each other
 - `stranger`  /ˈstreɪndʒər/ <br> someone you do not know
@@ -1815,7 +1832,7 @@
 - `to`  <br> 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)
 - `for (preposition)`  <br> 1. a word that shows who will get or have something: These flowers are for you <br> 2. a word that shows how something is used or why something is done: We had fish and chips for dinner - Take this medicine for your cold - He was sent to prison for murder <br> 3. a word that shows how long something has been happening: She has lived here for 20 years <br> 4. a word that shows how far somebody or something goes: We walked for miles (= a very long way) <br> 5. a word that shows where a person or thing is going: Is this the train for Glasgow? <br> 6. a word that shows the person or thing you are talking about: It's time for us to go <br> 7. a word that shows how much something is: I bought this book for $9 <br> 8. a word that shows that you like an idea: Some people were for the strike and others were against it (OPPOSITE: against) <br> 9. on the side of somebody or something: He plays football for Italy <br> 10. with the meaning of: What is the word for 'table' in Persian?
 - `abbreviation`  /əˌbriːviˈeɪʃən/ <br> a short form of a word or phrase
-- `autumn`  /ˈɑːtəm/ <br> the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
+- `autumn`  /ˈɑːtəm/ <br> (American fall) the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - `ahead`  /əˈhed/ <br> 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> `go ahead` used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead' <br> `ahead of time` before the scheduled or expected time
 - `likely`  <br> if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
 ---
