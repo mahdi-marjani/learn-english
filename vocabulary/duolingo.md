@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 520**
+**Total words: 533**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (520 words)](#section-1-520-words)
+- [SECTION 1 (533 words)](#section-1-533-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -23,10 +23,11 @@
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
+  - [Old Times (13 words)](#old-times-13-words)
 
 ---
 
-## SECTION 1 (520 words)
+## SECTION 1 (533 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -583,4 +584,19 @@
 - `soap`  /soʊp/ <br> a substance that you use with water for washing and cleaning: a bar of soap <br> <img src='images/soap.jpg' alt='soap' width='200'>
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
+
+### Old Times (13 words)
+- `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
+- `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
+- `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
+- `trail (noun)`  /treɪl/ <br> 1. a line of marks that show which way a person or thing has gone: There was a trail of blood across the floor <br> 2. a path in the country: We followed the trail through the forest
+- `horrify (verb)`  /ˈhɔːr.ə.faɪ/ <br> to shock and frighten somebody: Everyone was horrified by the murders
+- `cross (verb)`  /krɑːs/ <br> 1. to go from one side of something to the other: Be careful when you cross the road <br> 2. to put one thing over another thing: She sat down and crossed her legs <br> `cross something out` to draw a line through a word or words, for example because you have made a mistake: I crossed the word out and wrote it again
+- `violet`  /ˈvaɪə.lət/ <br> a purple color
+- `sweat (verb)`  /swet/ <br> to lose water from the body; to produce liquid through your skin because you are hot, ill or afraid: I am sweating after running <br> <img src='images/sweat.jpg' alt='sweat' width='200'>
+- `corn`  /kɔrn/ <br> a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food <br> <img src='images/corn.jpg' alt='corn' width='200'>
+- `channel`  /ˈtʃæn.əl/ <br> 1. a TV station: Which channel is the film on? <br> 2. a long narrow place where water can go: the English Channel (= the sea between England and France)
+- `narrow (adjective)`  /ˈnæroʊ/ <br> 1. not far from one side to the other: The bridge was very narrow - a narrow ribbon (OPPOSITE: broad or wide) <br> 2. by a small amount: We had a narrow escape _ the car nearly hit a tree - a narrow defeat
+- `deter (verb)`  /dɪˈtɜːr/ <br> to prevent someone from doing something or to make someone less enthusiastic about doing something
+- `fly (noun)`  /flaɪ/ <br> a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>
 ---

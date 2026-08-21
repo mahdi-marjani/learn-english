@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1698**
+**Total words: 1713**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
     - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
-- [Duolingo - Vocabulary (520 words)](#duolingo---vocabulary-520-words)
-  - [SECTION 1 (520 words)](#section-1-520-words)
+- [Duolingo - Vocabulary (533 words)](#duolingo---vocabulary-533-words)
+  - [SECTION 1 (533 words)](#section-1-533-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -41,12 +41,13 @@
     - [Airport (23 words)](#airport-23-words)
     - [News (28 words)](#news-28-words)
     - [Wildlife (37 words)](#wildlife-37-words)
-- [General - Vocabulary (53 words)](#general---vocabulary-53-words)
+    - [Old Times (13 words)](#old-times-13-words)
+- [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (24 words)](#social-media-24-words)
   - [other (13 words)](#other-13-words)
-  - [Wow! Words (5 words)](#wow-words-5-words)
+  - [Wow! Words (7 words)](#wow-words-7-words)
 
 ---
 
@@ -388,7 +389,7 @@
 - `integration`  /ˌɪn.t̬əˈɡreɪ.ʃən/ <br> the process of combining two or more things so that they work together as one connected system: numpy integration (= combine with numpy)
 - `given`  <br> با توجه به
 - `involvement`  <br> مشارکت
-- `enthusiasm`  <br> اشتیاق
+- `enthusiasm`  /ɪnˈθuː.zi.æz.əm/ <br> a strong feeling of wanting to do something or liking something: The pupils showed great enthusiasm for the new project - اشتیاق
 - `organizing`  <br> سازمان‌دهی
 - `couple`  <br> یه جفت / چند تا
 - `felt`  <br> past of feel
@@ -584,7 +585,7 @@
 - `make use of`  <br> use
 - `heavy`  /ˈhevi/ <br> 1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)
 - `intensity`  <br> شدت
-- `Almost`  <br> nearly, not completely but very close - تقریباً
+- `almost`  /ˈɑːl.moʊst/ <br> nearly, not completely but very close: She's almost 30 - Most artists find it almost impossible to make a living from art alone
 - `boilerplate`  <br> template
 - `partial`  <br> not complete; only a part of something
 - `excessive`  <br> more than what is necessary or normal
@@ -1222,9 +1223,9 @@
 
 ---
 
-## Duolingo - Vocabulary (520 words)
+## Duolingo - Vocabulary (533 words)
 
-### SECTION 1 (520 words)
+### SECTION 1 (533 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1781,11 +1782,26 @@
 - `soap`  /soʊp/ <br> a substance that you use with water for washing and cleaning: a bar of soap <br> <img src='images/soap.jpg' alt='soap' width='200'>
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
+
+#### Old Times (13 words)
+- `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
+- `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
+- `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
+- `trail (noun)`  /treɪl/ <br> 1. a line of marks that show which way a person or thing has gone: There was a trail of blood across the floor <br> 2. a path in the country: We followed the trail through the forest
+- `horrify (verb)`  /ˈhɔːr.ə.faɪ/ <br> to shock and frighten somebody: Everyone was horrified by the murders
+- `cross (verb)`  /krɑːs/ <br> 1. to go from one side of something to the other: Be careful when you cross the road <br> 2. to put one thing over another thing: She sat down and crossed her legs <br> `cross something out` to draw a line through a word or words, for example because you have made a mistake: I crossed the word out and wrote it again
+- `violet`  /ˈvaɪə.lət/ <br> a purple color
+- `sweat (verb)`  /swet/ <br> to lose water from the body; to produce liquid through your skin because you are hot, ill or afraid: I am sweating after running <br> <img src='images/sweat.jpg' alt='sweat' width='200'>
+- `corn`  /kɔrn/ <br> a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food <br> <img src='images/corn.jpg' alt='corn' width='200'>
+- `channel`  /ˈtʃæn.əl/ <br> 1. a TV station: Which channel is the film on? <br> 2. a long narrow place where water can go: the English Channel (= the sea between England and France)
+- `narrow (adjective)`  /ˈnæroʊ/ <br> 1. not far from one side to the other: The bridge was very narrow - a narrow ribbon (OPPOSITE: broad or wide) <br> 2. by a small amount: We had a narrow escape _ the car nearly hit a tree - a narrow defeat
+- `deter (verb)`  /dɪˈtɜːr/ <br> to prevent someone from doing something or to make someone less enthusiastic about doing something
+- `fly (noun)`  /flaɪ/ <br> a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>
 ---
 
 ---
 
-## General - Vocabulary (53 words)
+## General - Vocabulary (55 words)
 
 ### game (5 words)
 - `swipe`  /swaɪp/ <br> 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1847,12 +1863,14 @@
 - `likely`  <br> if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
 ---
 
-### Wow! Words (5 words)
+### Wow! Words (7 words)
 - `interesting`  /ˈɪn.trəs.tɪng/ <br> A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
 - `exciting`  /ˈɪks.aɪ.tɪng/ <br> making us feel interested, happy, and energetic
 - `wonderful`  /ˈwʌndərfl/ <br> very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
 - `fantastic`  /fænˈtæstɪk/ <br> very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - `amazing`  /əˈmeɪzɪŋ/ <br> if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
+- `stunning`  /ˈstʌn.ɪŋ/ <br> very beautiful; wonderful: a stunning dress - a stunning victory
+- `magnificent`  /mæɡˈnɪf.ə.sənt/ <br> very good or beautiful: The Taj Mahal is a magnificent building
 ---
 
 ---

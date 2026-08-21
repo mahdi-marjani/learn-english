@@ -3213,6 +3213,89 @@
               "mean_en": "a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats"
             }
           ]
+        },
+        {
+          "heading": "Old Times",
+          "words": [
+            {
+              "word": "stream (noun)",
+              "phonetic": "/striːm/",
+              "mean_fa": "",
+              "mean_en": "1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors"
+            },
+            {
+              "word": "sunrise",
+              "phonetic": "/ˈsʌnrʌɪz/",
+              "mean_fa": "",
+              "mean_en": "the time in the morning when the sun comes up: They were up before sunrise"
+            },
+            {
+              "word": "sunset",
+              "phonetic": "/ˈsʌnsɛt/",
+              "mean_fa": "",
+              "mean_en": "the time in the evening when the sun goes down: The park closes at sunset"
+            },
+            {
+              "word": "trail (noun)",
+              "phonetic": "/treɪl/",
+              "mean_fa": "",
+              "mean_en": "1. a line of marks that show which way a person or thing has gone: There was a trail of blood across the floor <br> 2. a path in the country: We followed the trail through the forest"
+            },
+            {
+              "word": "horrify (verb)",
+              "phonetic": "/ˈhɔːr.ə.faɪ/",
+              "mean_fa": "",
+              "mean_en": "to shock and frighten somebody: Everyone was horrified by the murders"
+            },
+            {
+              "word": "cross (verb)",
+              "phonetic": "/krɑːs/",
+              "mean_fa": "",
+              "mean_en": "1. to go from one side of something to the other: Be careful when you cross the road <br> 2. to put one thing over another thing: She sat down and crossed her legs <br> `cross something out` to draw a line through a word or words, for example because you have made a mistake: I crossed the word out and wrote it again"
+            },
+            {
+              "word": "violet",
+              "phonetic": "/ˈvaɪə.lət/",
+              "mean_fa": "",
+              "mean_en": "a purple color"
+            },
+            {
+              "word": "sweat (verb)",
+              "phonetic": "/swet/",
+              "mean_fa": "",
+              "mean_en": "to lose water from the body; to produce liquid through your skin because you are hot, ill or afraid: I am sweating after running <br> <img src='images/sweat.jpg' alt='sweat' width='200'>"
+            },
+            {
+              "word": "corn",
+              "phonetic": "/kɔrn/",
+              "mean_fa": "",
+              "mean_en": "a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food <br> <img src='images/corn.jpg' alt='corn' width='200'>"
+            },
+            {
+              "word": "channel",
+              "phonetic": "/ˈtʃæn.əl/",
+              "mean_fa": "",
+              "mean_en": "1. a TV station: Which channel is the film on? <br> 2. a long narrow place where water can go: the English Channel (= the sea between England and France)"
+            },
+            {
+              "word": "narrow (adjective)",
+              "phonetic": "/ˈnæroʊ/",
+              "mean_fa": "",
+              "mean_en": "1. not far from one side to the other: The bridge was very narrow - a narrow ribbon (OPPOSITE: broad or wide) <br> 2. by a small amount: We had a narrow escape _ the car nearly hit a tree - a narrow defeat"
+            },
+            {
+              "word": "deter (verb)",
+              "phonetic": "/dɪˈtɜːr/",
+              "mean_fa": "",
+              "mean_en": "to prevent someone from doing something or to make someone less enthusiastic about doing something"
+            },
+            {
+              "word": "fly (noun)",
+              "phonetic": "/flaɪ/",
+              "mean_fa": "",
+              "mean_en": "a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>"
+            }
+          ]
         }
       ]
     }

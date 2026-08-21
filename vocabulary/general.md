@@ -1,6 +1,6 @@
 # General - Vocabulary
 
-**Total words: 53**
+**Total words: 55**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [news (6 words)](#news-6-words)
 - [social media (24 words)](#social-media-24-words)
 - [other (13 words)](#other-13-words)
-- [Wow! Words (5 words)](#wow-words-5-words)
+- [Wow! Words (7 words)](#wow-words-7-words)
 
 ---
 
@@ -72,10 +72,12 @@
 - `likely`  <br> if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
 ---
 
-## Wow! Words (5 words)
+## Wow! Words (7 words)
 - `interesting`  /ˈɪn.trəs.tɪng/ <br> A person or thing that is interesting makes you want to know more about them: This book is very interesting - That's an interesting idea (OPPOSITE: boring)
 - `exciting`  /ˈɪks.aɪ.tɪng/ <br> making us feel interested, happy, and energetic
 - `wonderful`  /ˈwʌndərfl/ <br> very good (SAME MEANING: fantastic): What a wonderful present! - This food is wonderful
 - `fantastic`  /fænˈtæstɪk/ <br> very good; wonderful (SAME MEANING: great) or brilliant: We had a fantastic holiday
 - `amazing`  /əˈmeɪzɪŋ/ <br> if something is amazing, it surprises you very much and is difficult to believe (SAME MEANING: incredible): he has shown amazing courage - I've got an amazing story to tell you
+- `stunning`  /ˈstʌn.ɪŋ/ <br> very beautiful; wonderful: a stunning dress - a stunning victory
+- `magnificent`  /mæɡˈnɪf.ə.sənt/ <br> very good or beautiful: The Taj Mahal is a magnificent building
 ---

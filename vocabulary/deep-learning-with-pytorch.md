@@ -187,7 +187,7 @@
 - `integration`  /ˌɪn.t̬əˈɡreɪ.ʃən/ <br> the process of combining two or more things so that they work together as one connected system: numpy integration (= combine with numpy)
 - `given`  <br> با توجه به
 - `involvement`  <br> مشارکت
-- `enthusiasm`  <br> اشتیاق
+- `enthusiasm`  /ɪnˈθuː.zi.æz.əm/ <br> a strong feeling of wanting to do something or liking something: The pupils showed great enthusiasm for the new project - اشتیاق
 - `organizing`  <br> سازمان‌دهی
 - `couple`  <br> یه جفت / چند تا
 - `felt`  <br> past of feel
@@ -383,7 +383,7 @@
 - `make use of`  <br> use
 - `heavy`  /ˈhevi/ <br> 1. weighing a lot; difficult to lift or move: I can't carry this bag _ it's too heavy (OPPOSITE: light) <br> 2. larger, stronger or more than usual: heavy rain - the traffic was very heavy this morning (OPPOSITE: light)
 - `intensity`  <br> شدت
-- `Almost`  <br> nearly, not completely but very close - تقریباً
+- `almost`  /ˈɑːl.moʊst/ <br> nearly, not completely but very close: She's almost 30 - Most artists find it almost impossible to make a living from art alone
 - `boilerplate`  <br> template
 - `partial`  <br> not complete; only a part of something
 - `excessive`  <br> more than what is necessary or normal
