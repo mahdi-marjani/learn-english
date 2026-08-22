@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 533**
+**Total words: 548**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (533 words)](#section-1-533-words)
+- [SECTION 1 (548 words)](#section-1-548-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -23,11 +23,11 @@
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
-  - [Old Times (13 words)](#old-times-13-words)
+  - [Old Times (28 words)](#old-times-28-words)
 
 ---
 
-## SECTION 1 (533 words)
+## SECTION 1 (548 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -585,7 +585,7 @@
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 
-### Old Times (13 words)
+### Old Times (28 words)
 - `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
 - `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
 - `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
@@ -599,4 +599,19 @@
 - `narrow (adjective)`  /ˈnæroʊ/ <br> 1. not far from one side to the other: The bridge was very narrow - a narrow ribbon (OPPOSITE: broad or wide) <br> 2. by a small amount: We had a narrow escape _ the car nearly hit a tree - a narrow defeat
 - `deter (verb)`  /dɪˈtɜːr/ <br> to prevent someone from doing something or to make someone less enthusiastic about doing something
 - `fly (noun)`  /flaɪ/ <br> a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>
+- ``  <br> 
+- `outdoors (adverb, noun)`  /ˌaʊtˈdɔːrz/ <br> not in a building; outside (OPPOSITE: indoors): In summer we sometimes eat outdoors - Come to Canada and enjoy the great outdoors
+- `indoors (adverb)`  /ˌɪnˈdɔːrz/ <br> in or into a building: Let's go indoors. I'm cold (OPPOSITE: outdoors)
+- `indoor (adjective)`  /ˈɪndɔːr/ <br> done or used inside a building: an indoor swimming pool - indoor games (OPPOSITE: outdoor)
+- `outdoor (adjective)`  /ˈaʊtdɔːr/ <br> happening, existing or used outside a building: an outdoor swimming pool/festival - outdoor clothes
+- `pickleball`  /ˈpɪk.əl.bɑːl/ <br> a game played in the US that is similar to tennis, but played close to the net with short wooden bats and a plastic ball with holes in it <br> <img src='images/pickleball.jpg' alt='pickleball' width='200'>
+- `sneaker`  /ˈsniːkər/ <br> a type of light, comfortable shoe that is suitable for playing sports <br> <img src='images/sneaker.jpg' alt='sneaker' width='200'>
+- `sheet`  /ʃiːt/ <br> 1. a big piece of thin material for a bed: I put some clean sheets on the bed <br> 2. a thin flat piece of something like paper, glass or metal: a sheet of writing paper
+- `swept`  /swept/ <br> past simple and past participle of sweep
+- `sweep`  /swiːp/ <br> 1. to clean something by moving dirt or rubbish away with a brush: I've swept the floor <br> 2. to push something along or away quickly and strongly: The bridge was swept away by the floods
+- `hand (verb)`  <br> to put something into somebody's hand: Can you hand me the scissors, please? - I handed the money to the shop assistant <br> `hand something down` to pass something from an older person to a younger one: He never had any new clothes _ they were all handed down from his older brothers <br> `hand something in` to give something to somebody: The teacher asked us to hand in our homework <br> `hand something out` to give something to many people: Please hand out these books <br> `hand something over` to give something to somebody: 'Hand over your weapons'
+- `cereal`  /ˈsɪr.i.əl/ <br> 1. (plural cereals) a plant that farmers grow so that we can eat the grain (= the seed): Wheat and oats are cereals <br> 2. (no plural) a food made from grain, that you can eat for breakfast with milk: a bowl of cereal with milk <br> <img src='images/cereal.jpg' alt='cereal' width='200'>
+- `lucky (adjective)`  /ˈlʌk.i/ <br> 1. having good luck: She is lucky to be alive after the accident (OPPOSITE: unlucky) <br> 2. bringing success or good luck: My lucky number is 3 (OPPOSITE: unlucky)
+- `potato chip`  /pəˈteɪ.t̬oʊ ˌtʃɪp/ <br> a very thin, often round piece of fried potato, sometimes with a flavour added, sold especially in plastic bags <br> <img src='images/potato-chip.jpg' alt='potato chip' width='200'>
+- `potato`  /pəˈteɪ.t̬oʊ/ <br> a round vegetable that grows underground and has white flesh with light brown, red, or pink skin, or the plant on which these grow <br> <img src='images/potato.jpg' alt='potato' width='200'>
 ---

@@ -2581,8 +2581,8 @@
         {
           "word": "magazine",
           "phonetic": "/ˌmæɡəˈziːn/",
-          "mean_fa": "مجله",
-          "mean_en": "a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside <br> <img src='images/magazine.jpg' alt='magazine' width='200'>"
+          "mean_fa": "مجله <br> <img src='images/magazine.jpg' alt='magazine' width='200'>",
+          "mean_en": "a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside"
         },
         {
           "word": "illustration",
@@ -3605,8 +3605,14 @@
             {
               "word": "dedicate",
               "phonetic": "/ˈded.ə.keɪt/",
-              "mean_fa": "اختصاص دادن",
-              "mean_en": "to give all or most of one's time, effort, or resources to a particular activity, cause, or person"
+              "mean_fa": "",
+              "mean_en": "to give all of your energy, time, etc to a particular activity, cause, or person: He has dedicated his life to scientific research"
+            },
+            {
+              "word": "dedicated (adjective)",
+              "phonetic": "/ˈdedɪkeɪtɪd/",
+              "mean_fa": "",
+              "mean_en": "1. believing that something is very important and giving a lot of time and energy to it: a dedicated father/teacher - The Green Party is dedicated to protecting the environment <br> 2. designed to be used for one particular purpose: a dedicated computer - a dedicated sports channel"
             },
             {
               "word": "convenient",

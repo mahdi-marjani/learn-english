@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 974**
+**Total words: 975**
 
 ## 📑 Table of Contents
 
@@ -11,8 +11,8 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (507 words)](#part-1-core-pytorch-507-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (288 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-288-words)
+- [Part 1: Core PyTorch (508 words)](#part-1-core-pytorch-508-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
 
 ---
@@ -460,7 +460,7 @@
 
 ## about the cover illustration (44 words)
 - `cover (noun)`  <br> 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
-- `magazine`  /ˌmæɡəˈziːn/ <br> a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside <br> <img src='images/magazine.jpg' alt='magazine' width='200'> - مجله
+- `magazine`  /ˌmæɡəˈziːn/ <br> a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside - مجله <br> <img src='images/magazine.jpg' alt='magazine' width='200'>
 - `illustration`  /ˌɪl.əˈstreɪ.ʃən/ <br> a picture in a book
 - `figure`  /ˈfɪɡjər/ <br> 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - `shall`  /ʃæl/ <br> should, must
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (507 words)
+## Part 1: Core PyTorch (508 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -520,7 +520,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (288 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -634,7 +634,8 @@
 - `multidimensional`  /ˌmʌl.ti.dɪˈmen.ʃən.əl/ <br> having more than two dimensions (for example, a 3D or 4D array)
 - `feature`  /ˈfiːtʃər/ <br> 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
 - `accelerate`  /ə.ˈksɛ.lə.reɪt/ <br> to make something happen faster or more quickly
-- `dedicate`  /ˈded.ə.keɪt/ <br> to give all or most of one's time, effort, or resources to a particular activity, cause, or person - اختصاص دادن
+- `dedicate`  /ˈded.ə.keɪt/ <br> to give all of your energy, time, etc to a particular activity, cause, or person: He has dedicated his life to scientific research
+- `dedicated (adjective)`  /ˈdedɪkeɪtɪd/ <br> 1. believing that something is very important and giving a lot of time and energy to it: a dedicated father/teacher - The Green Party is dedicated to protecting the environment <br> 2. designed to be used for one particular purpose: a dedicated computer - a dedicated sports channel
 - `convenient`  /kənˈviːniənt/ <br> 1. useful, easy or quick to do; not causing problems: Let's meet on Friday. What's the most convenient time for you? (OPPOSITE: inconvenient) <br> 2. near to a place or easy to get to: The house is very convenient for the station (OPPOSITE: inconvenient)
 - `parallel`  /ˈper.ə.lel/ <br> 1. Parallel lines have the same distance from each other at every point <br> <img src='images/parallel.jpg' alt='parallel' width='200'> <br> 2. happening at the same time; in computing, doing many calculations at once
 - `motivate`  /ˈmoʊtɪveɪt/ <br> to make somebody want to do something: The best teachers know how to motivate children to learn
