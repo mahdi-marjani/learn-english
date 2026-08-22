@@ -1,18 +1,18 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 151**
+**Total words: 152**
 
 ## 📑 Table of Contents
 
-- [S1 (151 words)](#s1-151-words)
+- [S1 (152 words)](#s1-152-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
   - [E4 (19 words)](#e4-19-words)
-  - [E5 (35 words)](#e5-35-words)
+  - [E5 (36 words)](#e5-36-words)
 
 ---
 
-## S1 (151 words)
+## S1 (152 words)
 
 ### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -136,7 +136,7 @@
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
-### E5 (35 words)
+### E5 (36 words)
 - `rip`  /rɪp/ <br> to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
 - `stinky`  /ˈstɪŋ.ki/ <br> smelling very bad
 - `mud`  /mʌd/ <br> earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
@@ -162,7 +162,8 @@
 - `drown`  /draʊn/ <br> to die under water because you cannot breathe; to make somebody die in this way: The boy fell in the river and drowned - Twenty people were drowned in the floods
 - `thief`  /θiːf/ <br> a person who steals <br> <img src='images/thief.jpg' alt='thief' width='200'>
 - `steal`  /stiːl/ <br> to secretly take something that is not yours: Her money has been stolen
-- `fool`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance
+- `fool (noun)`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance <br> `make a fool of yourself` to do something that makes you look silly in front of other people: He always makes a fool of himself at parties
+- `fool (verb)`  /fuːl/ <br> to make somebody believe something that is not true (SAME MEANING: trick): You can't fool me! I know you're lying <br> `fool about; fool around` to do silly things: Stop fooling about with that knife
 - `sunscreen`  /ˈsʌn.skriːn/ <br> a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>
 - `ouch`  /aʊtʃ/ <br> used to express pain: Ouch! That hurts!
 - `hurt (verb)`  /hɜrt/ <br> 1. to make somebody or something feel pain: I fell and hurt my leg - Did you hurt yourself - These shoes hurt _ they are too small <br> 2. to fell painful: My leg hurts <br> 3. to make somebody unhappy: I never meant to hurt your feelings

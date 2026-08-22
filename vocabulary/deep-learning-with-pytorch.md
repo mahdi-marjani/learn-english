@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 975**
+**Total words: 981**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (508 words)](#part-1-core-pytorch-508-words)
+- [Part 1: Core PyTorch (514 words)](#part-1-core-pytorch-514-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-  - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
+  - [Chapter 2: Pretrained networks (212 words)](#chapter-2-pretrained-networks-212-words)
 
 ---
 
@@ -247,7 +247,7 @@
 - `deal (verb)`  /diːl/ <br> 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> `deal out` to give something to a number of people: The profits will be dealt out among us <br> `deal with something` 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
 - `wacky`  <br> عجیب و غریب
 - `copyeditor`  <br> ویراستار متنی
-- `impressive`  <br> قابل توجه
+- `impressive (adjective)`  /ɪmˈpres.ɪv/ <br> If somebody or something is impressive, you admire them: an impressive building - Your work is very impressive
 - `eye for detail`  <br> توجه به جزئیات
 - `mistake`  <br> اشتباه
 - `proofreader`  <br> ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (508 words)
+## Part 1: Core PyTorch (514 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -811,7 +811,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (206 words)
+### Chapter 2: Pretrained networks (212 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1018,4 +1018,10 @@
 - `descriptive (adjective)`  /dɪˈskrɪp.t̬ɪv/ <br> describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing
 - `then (adverb)`  /ðen/ <br> 1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus
 - `processor`  /ˈprɑːsesər/ <br> the part of a computer that performs operations on the information that is put into it (SAME MEANING: CPU)
+- `feat (noun)`  /fiːt/ <br> an action or achievement that requires great skill, strength, or courage; something you do that is clever, difficult or dangerous: Climbing the mountain alone was quite a feat
+- `achievement (noun)`  /əˈtʃiːv.mənt/ <br> something that somebody has done after trying hard: Climbing Mount Everest was his greatest achievement
+- `strength (noun)`  /streŋθ/ <br> how strong or powerful you are: I don't have the strength to lift this box _ it's too heavy
+- `courage (noun)`  /ˈkɜːrɪdʒ/ <br> not being afraid, or not showing that you are afraid when you do something dangerous or difficult (SAME MEANING: bravery): She showed great courage in the face of danger
+- `subject (noun)`  /ˈsʌb.dʒɪkt/ <br> 1. the person or thing that you are talking or writing about: What is the subject of the talk? <br> 2. something you study at school, university or college: I'm studying three subjects: Maths, Physics and Chemistry <br> 3. (grammar) the word in a sentence that does the action of the verb: In the sentence 'Sue ate the cake', 'Sue' is the subject <br> 4. a person who belongs to a certain country: British subjects
+- `hardcoded (adjective)`  /ˈhɑːrd.koʊ.dɪd/ <br> (programming) written directly into the source code as a fixed value, instead of being calculated, configured, or generated dynamically: The API key was hardcoded instead of loaded from an environment variable, which is bad practice
 ---

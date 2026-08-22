@@ -1,16 +1,16 @@
 # All Vocabulary
 
-**Total words: 1729**
+**Total words: 1736**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (151 words)](#spongebob-squarepants---vocabulary-151-words)
-  - [S1 (151 words)](#s1-151-words)
+- [SpongeBob SquarePants - Vocabulary (152 words)](#spongebob-squarepants---vocabulary-152-words)
+  - [S1 (152 words)](#s1-152-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
-    - [E5 (35 words)](#e5-35-words)
-- [Deep Learning with PyTorch - Vocabulary (975 words)](#deep-learning-with-pytorch---vocabulary-975-words)
+    - [E5 (36 words)](#e5-36-words)
+- [Deep Learning with PyTorch - Vocabulary (981 words)](#deep-learning-with-pytorch---vocabulary-981-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,9 +18,9 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (508 words)](#part-1-core-pytorch-508-words)
+  - [Part 1: Core PyTorch (514 words)](#part-1-core-pytorch-514-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-    - [Chapter 2: Pretrained networks (206 words)](#chapter-2-pretrained-networks-206-words)
+    - [Chapter 2: Pretrained networks (212 words)](#chapter-2-pretrained-networks-212-words)
 - [Duolingo - Vocabulary (548 words)](#duolingo---vocabulary-548-words)
   - [SECTION 1 (548 words)](#section-1-548-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -51,9 +51,9 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (151 words)
+## SpongeBob SquarePants - Vocabulary (152 words)
 
-### S1 (151 words)
+### S1 (152 words)
 
 #### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -177,7 +177,7 @@
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
-#### E5 (35 words)
+#### E5 (36 words)
 - `rip`  /rɪp/ <br> to pull apart; to tear, cut, or open or be torn something forcefully and quickly <br> <img src='images/rip.jpg' alt='rip' width='200'>
 - `stinky`  /ˈstɪŋ.ki/ <br> smelling very bad
 - `mud`  /mʌd/ <br> earth that has been mixed with water: The vehicles got bogged down in the heavy mud <br> <img src='images/mud.jpg' alt='mud' width='200'>
@@ -203,7 +203,8 @@
 - `drown`  /draʊn/ <br> to die under water because you cannot breathe; to make somebody die in this way: The boy fell in the river and drowned - Twenty people were drowned in the floods
 - `thief`  /θiːf/ <br> a person who steals <br> <img src='images/thief.jpg' alt='thief' width='200'>
 - `steal`  /stiːl/ <br> to secretly take something that is not yours: Her money has been stolen
-- `fool`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance
+- `fool (noun)`  /fuːl/ <br> a person who behaves in a silly way without thinking: You fool, you missed your chance <br> `make a fool of yourself` to do something that makes you look silly in front of other people: He always makes a fool of himself at parties
+- `fool (verb)`  /fuːl/ <br> to make somebody believe something that is not true (SAME MEANING: trick): You can't fool me! I know you're lying <br> `fool about; fool around` to do silly things: Stop fooling about with that knife
 - `sunscreen`  /ˈsʌn.skriːn/ <br> a cream that you put on your skin to prevent it from being damaged by the sun <br> <img src='images/sunscreen.jpg' alt='sunscreen' width='200'>
 - `ouch`  /aʊtʃ/ <br> used to express pain: Ouch! That hurts!
 - `hurt (verb)`  /hɜrt/ <br> 1. to make somebody or something feel pain: I fell and hurt my leg - Did you hurt yourself - These shoes hurt _ they are too small <br> 2. to fell painful: My leg hurts <br> 3. to make somebody unhappy: I never meant to hurt your feelings
@@ -217,7 +218,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (975 words)
+## Deep Learning with PyTorch - Vocabulary (981 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -449,7 +450,7 @@
 - `deal (verb)`  /diːl/ <br> 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> `deal out` to give something to a number of people: The profits will be dealt out among us <br> `deal with something` 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
 - `wacky`  <br> عجیب و غریب
 - `copyeditor`  <br> ویراستار متنی
-- `impressive`  <br> قابل توجه
+- `impressive (adjective)`  /ɪmˈpres.ɪv/ <br> If somebody or something is impressive, you admire them: an impressive building - Your work is very impressive
 - `eye for detail`  <br> توجه به جزئیات
 - `mistake`  <br> اشتباه
 - `proofreader`  <br> ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
@@ -707,7 +708,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (508 words)
+### Part 1: Core PyTorch (514 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1013,7 +1014,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (206 words)
+#### Chapter 2: Pretrained networks (212 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1220,6 +1221,12 @@
 - `descriptive (adjective)`  /dɪˈskrɪp.t̬ɪv/ <br> describing something, especially in a detailed, interesting way: an image encoder that learns to generate 'descriptive' numerical representations of the scene - She used very descriptive language in her writing
 - `then (adverb)`  /ðen/ <br> 1. at that time: I became a teacher in 1999. I lived in London then, but now I live in Paris - I'm going tomorrow. Can you wait until then? <br> 2. next; after that: We had dinner and then watched a movie <br> 3. if that is true: If you miss that train then you'll have to get a bus
 - `processor`  /ˈprɑːsesər/ <br> the part of a computer that performs operations on the information that is put into it (SAME MEANING: CPU)
+- `feat (noun)`  /fiːt/ <br> an action or achievement that requires great skill, strength, or courage; something you do that is clever, difficult or dangerous: Climbing the mountain alone was quite a feat
+- `achievement (noun)`  /əˈtʃiːv.mənt/ <br> something that somebody has done after trying hard: Climbing Mount Everest was his greatest achievement
+- `strength (noun)`  /streŋθ/ <br> how strong or powerful you are: I don't have the strength to lift this box _ it's too heavy
+- `courage (noun)`  /ˈkɜːrɪdʒ/ <br> not being afraid, or not showing that you are afraid when you do something dangerous or difficult (SAME MEANING: bravery): She showed great courage in the face of danger
+- `subject (noun)`  /ˈsʌb.dʒɪkt/ <br> 1. the person or thing that you are talking or writing about: What is the subject of the talk? <br> 2. something you study at school, university or college: I'm studying three subjects: Maths, Physics and Chemistry <br> 3. (grammar) the word in a sentence that does the action of the verb: In the sentence 'Sue ate the cake', 'Sue' is the subject <br> 4. a person who belongs to a certain country: British subjects
+- `hardcoded (adjective)`  /ˈhɑːrd.koʊ.dɪd/ <br> (programming) written directly into the source code as a fixed value, instead of being calculated, configured, or generated dynamically: The API key was hardcoded instead of loaded from an environment variable, which is bad practice
 ---
 
 ---
@@ -1849,7 +1856,7 @@
 - `stupid`  /ˈstuːpɪd/ <br> not intelligent; silly: Don't be so stupid! - What a stupid question!
 - `silly`  /ˈsɪli/ <br> not sensible or clever; stupid: Don't be so silly - It was silly of you to leave the door open when you went out
 - `sensible`  /ˈsensəbl/ <br> able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
-- `clever`  /ˈklevər/ <br> quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
+- `clever (adjective)`  /ˈklevər/ <br> quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - `crazy`  /ˈkreɪzi/ <br> 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - `comfortable`  /ˈkʌm.fɚ.t̬ə.bəl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>

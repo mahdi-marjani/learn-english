@@ -869,10 +869,16 @@
               "mean_en": "to secretly take something that is not yours: Her money has been stolen"
             },
             {
-              "word": "fool",
+              "word": "fool (noun)",
               "phonetic": "/fuːl/",
               "mean_fa": "",
-              "mean_en": "a person who behaves in a silly way without thinking: You fool, you missed your chance"
+              "mean_en": "a person who behaves in a silly way without thinking: You fool, you missed your chance <br> `make a fool of yourself` to do something that makes you look silly in front of other people: He always makes a fool of himself at parties"
+            },
+            {
+              "word": "fool (verb)",
+              "phonetic": "/fuːl/",
+              "mean_fa": "",
+              "mean_en": "to make somebody believe something that is not true (SAME MEANING: trick): You can't fool me! I know you're lying <br> `fool about; fool around` to do silly things: Stop fooling about with that knife"
             },
             {
               "word": "sunscreen",

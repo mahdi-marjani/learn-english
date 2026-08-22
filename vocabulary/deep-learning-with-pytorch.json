@@ -1340,10 +1340,10 @@
           "mean_en": ""
         },
         {
-          "word": "impressive",
-          "phonetic": "",
-          "mean_fa": "قابل توجه",
-          "mean_en": ""
+          "word": "impressive (adjective)",
+          "phonetic": "/ɪmˈpres.ɪv/",
+          "mean_fa": "",
+          "mean_en": "If somebody or something is impressive, you admire them: an impressive building - Your work is very impressive"
         },
         {
           "word": "eye for detail",
@@ -5897,6 +5897,42 @@
               "phonetic": "/ˈprɑːsesər/",
               "mean_fa": "",
               "mean_en": "the part of a computer that performs operations on the information that is put into it (SAME MEANING: CPU)"
+            },
+            {
+              "word": "feat (noun)",
+              "phonetic": "/fiːt/",
+              "mean_fa": "",
+              "mean_en": "an action or achievement that requires great skill, strength, or courage; something you do that is clever, difficult or dangerous: Climbing the mountain alone was quite a feat"
+            },
+            {
+              "word": "achievement (noun)",
+              "phonetic": "/əˈtʃiːv.mənt/",
+              "mean_fa": "",
+              "mean_en": "something that somebody has done after trying hard: Climbing Mount Everest was his greatest achievement"
+            },
+            {
+              "word": "strength (noun)",
+              "phonetic": "/streŋθ/",
+              "mean_fa": "",
+              "mean_en": "how strong or powerful you are: I don't have the strength to lift this box _ it's too heavy"
+            },
+            {
+              "word": "courage (noun)",
+              "phonetic": "/ˈkɜːrɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "not being afraid, or not showing that you are afraid when you do something dangerous or difficult (SAME MEANING: bravery): She showed great courage in the face of danger"
+            },
+            {
+              "word": "subject (noun)",
+              "phonetic": "/ˈsʌb.dʒɪkt/",
+              "mean_fa": "",
+              "mean_en": "1. the person or thing that you are talking or writing about: What is the subject of the talk? <br> 2. something you study at school, university or college: I'm studying three subjects: Maths, Physics and Chemistry <br> 3. (grammar) the word in a sentence that does the action of the verb: In the sentence 'Sue ate the cake', 'Sue' is the subject <br> 4. a person who belongs to a certain country: British subjects"
+            },
+            {
+              "word": "hardcoded (adjective)",
+              "phonetic": "/ˈhɑːrd.koʊ.dɪd/",
+              "mean_fa": "",
+              "mean_en": "(programming) written directly into the source code as a fixed value, instead of being calculated, configured, or generated dynamically: The API key was hardcoded instead of loaded from an environment variable, which is bad practice"
             }
           ]
         }
