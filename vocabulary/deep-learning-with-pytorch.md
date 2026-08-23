@@ -523,7 +523,7 @@
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
-- `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. teaching you to control yourself and follow rules: Children learn discipline at school <br> 2. a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines
+- `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. (no plural) teaching you to control yourself and follow rules: Children learn discipline at school - The new manager brought more discipline to the team <br> 2. (plural disciplines) a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines - Engineering is a discipline that combines math and creativity
 - `tremendous`  /trəˈmendəs/ <br> huge, very great in amount, size, or intensity
 - `scrutiny`  /ˈskruːtəni/ <br> بررسی موشکافانه، وارسی دقیق
 - `confuse`  /kənˈfjuːz/ <br> 1. to mix somebody's ideas, so that they cannot think clearly or understand: They confused me by asking so many questions <br> 2. to think that one thing or person is another thing or person: I often confuse Lee with his brother. They look so similar
