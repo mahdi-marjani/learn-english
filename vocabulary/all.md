@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1746**
+**Total words: 1748**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (525 words)](#part-1-core-pytorch-525-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (223 words)](#chapter-2-pretrained-networks-223-words)
-- [Duolingo - Vocabulary (548 words)](#duolingo---vocabulary-548-words)
-  - [SECTION 1 (548 words)](#section-1-548-words)
+- [Duolingo - Vocabulary (550 words)](#duolingo---vocabulary-550-words)
+  - [SECTION 1 (550 words)](#section-1-550-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -41,7 +41,7 @@
     - [Airport (23 words)](#airport-23-words)
     - [News (28 words)](#news-28-words)
     - [Wildlife (37 words)](#wildlife-37-words)
-    - [Old Times (28 words)](#old-times-28-words)
+    - [Old Times (30 words)](#old-times-30-words)
 - [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -726,7 +726,7 @@
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
-- `discipline`  /ˈdɪsəplɪn/ <br> a specific area of academic study or professional practice
+- `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. teaching you to control yourself and follow rules: Children learn discipline at school <br> 2. a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines
 - `tremendous`  /trəˈmendəs/ <br> huge, very great in amount, size, or intensity
 - `scrutiny`  /ˈskruːtəni/ <br> بررسی موشکافانه، وارسی دقیق
 - `confuse`  /kənˈfjuːz/ <br> 1. to mix somebody's ideas, so that they cannot think clearly or understand: They confused me by asking so many questions <br> 2. to think that one thing or person is another thing or person: I often confuse Lee with his brother. They look so similar
@@ -800,7 +800,7 @@
 - `pair`  /per/ <br> 1. two things of the same kind that you use together: a pair of shoes <br> 2. a thing with two parts that are joined together: a pair of glasses <br> 3. two people or animals together: a pair of ducks <br> `in pairs` with two things or people together: Shoes are only sold in pairs - The students are working in pairs
 - `often`  /ˈɑːfən/ <br> many times; happening a lot
 - `inject`  /ɪnˈdʒekt/ <br> 1. to insert a substance or material into the body, often through a needle <br> <img src='images/inject.jpg' alt='inject' width='200'> <br> 2. to add or insert something new or different into a situation, system, or activity: inject data into a system
-- `however`  /haʊˈevər/ <br> 1. it does not matter how: I never win, however hard I try <br> 2. but: She's very intelligent. However, she's quite lazy <br> 3. a way of saying 'how' more strongly
+- `however`  /haʊˈevər/ <br> 1. but: She's very intelligent. However, she's quite lazy <br> 2. it does not matter how: I never win, however hard I try <br> 3. a way of saying 'how' more strongly
 - `ingest`  /ɪnˈdʒest/ <br> to take something (e.g., data or food) into a system
 - `basis`  /ˈbeɪsɪs/ <br> 1. the most important part or idea, from which something grows: Her notes formed the basis of a book <br> 2. the way something is done or organized: We meet on a regular basis (= often)
 - `handcraft`  /ˈhændkræft/ <br> to make something by hand; in ML, features/rules created by humans rather than learned
@@ -1241,9 +1241,9 @@
 
 ---
 
-## Duolingo - Vocabulary (548 words)
+## Duolingo - Vocabulary (550 words)
 
-### SECTION 1 (548 words)
+### SECTION 1 (550 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1457,7 +1457,7 @@
 - `agenda`  /əˈdʒen.də/ <br> a list of all the things to be talked about in a meeting
 - `counter`  /ˈkaʊn.tər/ <br> 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
 - `sigh (verb)`  /saɪ/ <br> to let out a deep breath, for example because you are sad, tired or pleased
-- `proud`  /praʊd/ <br> feeling pleasure and satisfaction because you or people connected with you have done or got something good: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>
+- `proud`  /praʊd/ <br> very happy about someone's success: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>
 - `pleasure`  /ˈplɛ.ʒər/ <br> 1. the feeling of being happy or enjoying something: She gets a lot of pleasure from her music <br> 2. something that makes you happy: It was a pleasure to meet you <br> `it's a pleasure` You say 'it's a pleasure' as a polite way of answering somebody who thanks you: 'Thank you for your help' 'It's a pleasure' <br> `with pleasure` You say 'with pleasure' to show in a polite way that you are happy to do something: 'Can you help me move these boxes?' 'Yes, with pleasure'
 - `satisfaction`  /ˌsæ.tɪs.ˈfæk.ʃən/ <br> being pleased with what you or other people have done: She looked at the finished painting with satisfaction
 - `pleased`  /pliːzd/ <br> happy or satisfied: He wasn't very pleased to see me - Are you pleased with your new watch?
@@ -1801,7 +1801,7 @@
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 
-#### Old Times (28 words)
+#### Old Times (30 words)
 - `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
 - `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
 - `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
@@ -1830,6 +1830,8 @@
 - `lucky (adjective)`  /ˈlʌk.i/ <br> 1. having good luck: She is lucky to be alive after the accident (OPPOSITE: unlucky) <br> 2. bringing success or good luck: My lucky number is 3 (OPPOSITE: unlucky)
 - `potato chip`  /pəˈteɪ.t̬oʊ ˌtʃɪp/ <br> a very thin, often round piece of fried potato, sometimes with a flavour added, sold especially in plastic bags <br> <img src='images/potato-chip.jpg' alt='potato chip' width='200'>
 - `potato`  /pəˈteɪ.t̬oʊ/ <br> a round vegetable that grows underground and has white flesh with light brown, red, or pink skin, or the plant on which these grow <br> <img src='images/potato.jpg' alt='potato' width='200'>
+- `religion (noun)`  /rɪˈlɪdʒ.ən/ <br> 1. (no plural) believing in a god or gods and the activities connected with this <br> 2. (plural religions) one of the ways of believing in a god or gods: Christianity, Islam and other world religions
+- `patience (noun)`  /ˈpeɪ.ʃəns/ <br> ability to wait calmly; staying calm and not getting angry when you are waiting for something, or when you have problems: Learning to play the piano takes hard work and patience - She was walking so slowly that her sister finally lost patience with her (= became angry with her) (OPPOSITE: impatience)
 ---
 
 ---

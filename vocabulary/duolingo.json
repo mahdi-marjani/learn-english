@@ -1242,7 +1242,7 @@
               "word": "proud",
               "phonetic": "/praʊd/",
               "mean_fa": "",
-              "mean_en": "feeling pleasure and satisfaction because you or people connected with you have done or got something good: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>"
+              "mean_en": "very happy about someone's success: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>"
             },
             {
               "word": "pleasure",
@@ -3384,6 +3384,18 @@
               "phonetic": "/pəˈteɪ.t̬oʊ/",
               "mean_fa": "",
               "mean_en": "a round vegetable that grows underground and has white flesh with light brown, red, or pink skin, or the plant on which these grow <br> <img src='images/potato.jpg' alt='potato' width='200'>"
+            },
+            {
+              "word": "religion (noun)",
+              "phonetic": "/rɪˈlɪdʒ.ən/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) believing in a god or gods and the activities connected with this <br> 2. (plural religions) one of the ways of believing in a god or gods: Christianity, Islam and other world religions"
+            },
+            {
+              "word": "patience (noun)",
+              "phonetic": "/ˈpeɪ.ʃəns/",
+              "mean_fa": "",
+              "mean_en": "ability to wait calmly; staying calm and not getting angry when you are waiting for something, or when you have problems: Learning to play the piano takes hard work and patience - She was walking so slowly that her sister finally lost patience with her (= became angry with her) (OPPOSITE: impatience)"
             }
           ]
         }

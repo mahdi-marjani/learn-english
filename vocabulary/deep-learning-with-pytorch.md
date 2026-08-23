@@ -523,7 +523,7 @@
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
-- `discipline`  /ˈdɪsəplɪn/ <br> a specific area of academic study or professional practice
+- `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. teaching you to control yourself and follow rules: Children learn discipline at school <br> 2. a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines
 - `tremendous`  /trəˈmendəs/ <br> huge, very great in amount, size, or intensity
 - `scrutiny`  /ˈskruːtəni/ <br> بررسی موشکافانه، وارسی دقیق
 - `confuse`  /kənˈfjuːz/ <br> 1. to mix somebody's ideas, so that they cannot think clearly or understand: They confused me by asking so many questions <br> 2. to think that one thing or person is another thing or person: I often confuse Lee with his brother. They look so similar
@@ -597,7 +597,7 @@
 - `pair`  /per/ <br> 1. two things of the same kind that you use together: a pair of shoes <br> 2. a thing with two parts that are joined together: a pair of glasses <br> 3. two people or animals together: a pair of ducks <br> `in pairs` with two things or people together: Shoes are only sold in pairs - The students are working in pairs
 - `often`  /ˈɑːfən/ <br> many times; happening a lot
 - `inject`  /ɪnˈdʒekt/ <br> 1. to insert a substance or material into the body, often through a needle <br> <img src='images/inject.jpg' alt='inject' width='200'> <br> 2. to add or insert something new or different into a situation, system, or activity: inject data into a system
-- `however`  /haʊˈevər/ <br> 1. it does not matter how: I never win, however hard I try <br> 2. but: She's very intelligent. However, she's quite lazy <br> 3. a way of saying 'how' more strongly
+- `however`  /haʊˈevər/ <br> 1. but: She's very intelligent. However, she's quite lazy <br> 2. it does not matter how: I never win, however hard I try <br> 3. a way of saying 'how' more strongly
 - `ingest`  /ɪnˈdʒest/ <br> to take something (e.g., data or food) into a system
 - `basis`  /ˈbeɪsɪs/ <br> 1. the most important part or idea, from which something grows: Her notes formed the basis of a book <br> 2. the way something is done or organized: We meet on a regular basis (= often)
 - `handcraft`  /ˈhændkræft/ <br> to make something by hand; in ML, features/rules created by humans rather than learned

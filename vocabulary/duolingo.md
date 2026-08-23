@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 548**
+**Total words: 550**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (548 words)](#section-1-548-words)
+- [SECTION 1 (550 words)](#section-1-550-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -23,11 +23,11 @@
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
-  - [Old Times (28 words)](#old-times-28-words)
+  - [Old Times (30 words)](#old-times-30-words)
 
 ---
 
-## SECTION 1 (548 words)
+## SECTION 1 (550 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -241,7 +241,7 @@
 - `agenda`  /əˈdʒen.də/ <br> a list of all the things to be talked about in a meeting
 - `counter`  /ˈkaʊn.tər/ <br> 1. a long high table in a shop, bank or bar, that is between the people who work there and the customers: The man behind the counter in the bank was very helpful <br> <img src='images/counter.jpg' alt='counter' width='200'> <br> 2. a small round thing that you use when you play some games
 - `sigh (verb)`  /saɪ/ <br> to let out a deep breath, for example because you are sad, tired or pleased
-- `proud`  /praʊd/ <br> feeling pleasure and satisfaction because you or people connected with you have done or got something good: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>
+- `proud`  /praʊd/ <br> very happy about someone's success: You must be very proud of your son - I'm very proud to have been involved in this project <br> <img src='images/proud.jpg' alt='proud' width='200'>
 - `pleasure`  /ˈplɛ.ʒər/ <br> 1. the feeling of being happy or enjoying something: She gets a lot of pleasure from her music <br> 2. something that makes you happy: It was a pleasure to meet you <br> `it's a pleasure` You say 'it's a pleasure' as a polite way of answering somebody who thanks you: 'Thank you for your help' 'It's a pleasure' <br> `with pleasure` You say 'with pleasure' to show in a polite way that you are happy to do something: 'Can you help me move these boxes?' 'Yes, with pleasure'
 - `satisfaction`  /ˌsæ.tɪs.ˈfæk.ʃən/ <br> being pleased with what you or other people have done: She looked at the finished painting with satisfaction
 - `pleased`  /pliːzd/ <br> happy or satisfied: He wasn't very pleased to see me - Are you pleased with your new watch?
@@ -585,7 +585,7 @@
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 
-### Old Times (28 words)
+### Old Times (30 words)
 - `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
 - `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
 - `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
@@ -614,4 +614,6 @@
 - `lucky (adjective)`  /ˈlʌk.i/ <br> 1. having good luck: She is lucky to be alive after the accident (OPPOSITE: unlucky) <br> 2. bringing success or good luck: My lucky number is 3 (OPPOSITE: unlucky)
 - `potato chip`  /pəˈteɪ.t̬oʊ ˌtʃɪp/ <br> a very thin, often round piece of fried potato, sometimes with a flavour added, sold especially in plastic bags <br> <img src='images/potato-chip.jpg' alt='potato chip' width='200'>
 - `potato`  /pəˈteɪ.t̬oʊ/ <br> a round vegetable that grows underground and has white flesh with light brown, red, or pink skin, or the plant on which these grow <br> <img src='images/potato.jpg' alt='potato' width='200'>
+- `religion (noun)`  /rɪˈlɪdʒ.ən/ <br> 1. (no plural) believing in a god or gods and the activities connected with this <br> 2. (plural religions) one of the ways of believing in a god or gods: Christianity, Islam and other world religions
+- `patience (noun)`  /ˈpeɪ.ʃəns/ <br> ability to wait calmly; staying calm and not getting angry when you are waiting for something, or when you have problems: Learning to play the piano takes hard work and patience - She was walking so slowly that her sister finally lost patience with her (= became angry with her) (OPPOSITE: impatience)
 ---
