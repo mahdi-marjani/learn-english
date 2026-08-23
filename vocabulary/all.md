@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1736**
+**Total words: 1746**
 
 ## 📑 Table of Contents
 
@@ -10,17 +10,17 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (981 words)](#deep-learning-with-pytorch---vocabulary-981-words)
+- [Deep Learning with PyTorch - Vocabulary (991 words)](#deep-learning-with-pytorch---vocabulary-991-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
-  - [about this book (163 words)](#about-this-book-163-words)
+  - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (514 words)](#part-1-core-pytorch-514-words)
+  - [Part 1: Core PyTorch (525 words)](#part-1-core-pytorch-525-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-    - [Chapter 2: Pretrained networks (212 words)](#chapter-2-pretrained-networks-212-words)
+    - [Chapter 2: Pretrained networks (223 words)](#chapter-2-pretrained-networks-223-words)
 - [Duolingo - Vocabulary (548 words)](#duolingo---vocabulary-548-words)
   - [SECTION 1 (548 words)](#section-1-548-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -218,7 +218,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (981 words)
+## Deep Learning with PyTorch - Vocabulary (991 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -275,7 +275,7 @@
 - `significant`  /sɪɡˈnɪf.ə.kənt/ <br> important; with a special meaning: The police say that the time of the robbery was very significant
 - `pioneered`  <br> پیشگام بودن
 - `rich`  <br> غنی
-- `rather`  /ˈræðər/ <br> more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus
+- `rather`  /ˈræðər/ <br> 1. more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> 2. instead; used to introduce an idea that is different or opposite to the idea that you have stated previously: This book does not focus on X; rather, we will build Y <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus
 - `conceptually`  <br> از نظر مفهومی
 - `from scratch`  <br> from the beginning, without using anything that already exists: Ben built the shed from scratch
 - `attribute`  <br> عامل دانستن
@@ -470,7 +470,7 @@
 - `these`  <br> this جمعِ
 ---
 
-### about this book (163 words)
+### about this book (162 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -519,7 +519,6 @@
 - `came along`  <br> joined
 - `blend`  <br> combine
 - `various`  /ˈver.i.əs/ <br> many different: We sell this shirt in various colors and sizes
-- `rather than`  <br> instead of
 - `common`  <br> 1. happening often or found in many places: jackson is a common English name <br> 2. shared by two or more people or by everybody in a group: they share a common interest in photography - رایج، مشترک
 - `denominator`  <br> مخرج (در کسر ریاضی)
 - `preserve`  /prɪˈzɜːrv/ <br> to keep something unchanged, safe or in good condition: pixels outside the mask are preserved by re-inserting the original content
@@ -708,7 +707,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (514 words)
+### Part 1: Core PyTorch (525 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1014,7 +1013,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (212 words)
+#### Chapter 2: Pretrained networks (223 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1227,6 +1226,17 @@
 - `courage (noun)`  /ˈkɜːrɪdʒ/ <br> not being afraid, or not showing that you are afraid when you do something dangerous or difficult (SAME MEANING: bravery): She showed great courage in the face of danger
 - `subject (noun)`  /ˈsʌb.dʒɪkt/ <br> 1. the person or thing that you are talking or writing about: What is the subject of the talk? <br> 2. something you study at school, university or college: I'm studying three subjects: Maths, Physics and Chemistry <br> 3. (grammar) the word in a sentence that does the action of the verb: In the sentence 'Sue ate the cake', 'Sue' is the subject <br> 4. a person who belongs to a certain country: British subjects
 - `hardcoded (adjective)`  /ˈhɑːrd.koʊ.dɪd/ <br> (programming) written directly into the source code as a fixed value, instead of being calculated, configured, or generated dynamically: The API key was hardcoded instead of loaded from an environment variable, which is bad practice
+- `enterprising (adjective)`  /ˈentərpraɪzɪŋ/ <br> good at thinking of and doing new and difficult things, especially things that will make money: She's an enterprising young woman who started her own company at 22
+- `profit`  /ˈprɑː.fɪt/ <br> money that is earned in trade or business after paying the costs of producing and selling goods and services: She makes a big profit from selling waste material to textile companies - Company profits are down from last year's figures
+- `goods`  /ɡʊdz/ <br> 1. things that you buy or sell: That shop sells electrical goods <br> 2. things that a train or lorry carries: a goods train
+- `franchise (noun)`  /ˈfræntʃaɪz/ <br> formal permission given by a company to somebody who wants to sell its goods or services in a particular area; formal permission given by a government to somebody who wants to operate a public service as a business: a franchise agreement/company
+- `opportunity`  /ˌɑːpərˈtuːnəti/ <br> a chance to do something; a time when you can do something that you want to do: I didn't get the opportunity to visit them - It was a golden (= perfect) opportunity and I decided to take it
+- `toolset`  /ˈtuːlsɛt/ <br> (Computing) a set of software tools
+- `knowledge (noun)`  /ˈnɑː.lɪdʒ/ <br> information, understanding, or skills gained through experience or study: She has deep knowledge of computer science
+- `documentation (noun)`  /ˌdɑːk.jə.mənˈteɪ.ʃən/ <br> written information that explains how something works, especially software: Always read the documentation before using a new library
+- `solid`  /ˈsɑːlɪd/ <br> 1. hard or firm; not in the form of a liquid or gas: The planet Jupiter may have no solid surface at all - The stream had frozen solid <br> 2. having no holes or spaces inside; not hollow: They were drilling through solid rock <br> 3. (of a line) without spaces; continuous: solid border - The national boundary is shown on the map as a solid line <br> 4. [only before noun] made completely of the material mentioned (that is, the material is not only on the surface): a solid gold bracelet - Each piece is individually made in solid silver <br> 5. strong and unlikely to break or fall down: The door was solid as rock <br> 6. reliable; that you can rely on; having a strong basis: This provided a solid foundation for their marriage - His advice was always solid and practical <br> 7. definitely good and steady but perhaps not excellent or special: 2008 was a year of solid achievement - He's a good solid player
+- `data point (noun)`  /ˈdeɪ.tə pɔɪnt/ <br> a single piece of information within a larger set of data: Each patient's age is a data point in the study - when the data points are not particularly numerous
+- `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 ---
 
 ---

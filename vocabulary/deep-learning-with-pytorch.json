@@ -319,7 +319,7 @@
           "word": "rather",
           "phonetic": "/ˈræðər/",
           "mean_fa": "",
-          "mean_en": "more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus"
+          "mean_en": "1. more than a little but not very (SAME MEANING: quite): We were rather tired after our long journey - It's rather a small room <br> 2. instead; used to introduce an idea that is different or opposite to the idea that you have stated previously: This book does not focus on X; rather, we will build Y <br> `rather than` in the place of; instead of: Could I have tea rather than coffee? <br> `would rather` would prefer to do something: I'd rather go by train than by bus"
         },
         {
           "word": "conceptually",
@@ -1739,12 +1739,6 @@
           "phonetic": "/ˈver.i.əs/",
           "mean_fa": "",
           "mean_en": "many different: We sell this shirt in various colors and sizes"
-        },
-        {
-          "word": "rather than",
-          "phonetic": "",
-          "mean_fa": "",
-          "mean_en": "instead of"
         },
         {
           "word": "common",
@@ -5933,6 +5927,72 @@
               "phonetic": "/ˈhɑːrd.koʊ.dɪd/",
               "mean_fa": "",
               "mean_en": "(programming) written directly into the source code as a fixed value, instead of being calculated, configured, or generated dynamically: The API key was hardcoded instead of loaded from an environment variable, which is bad practice"
+            },
+            {
+              "word": "enterprising (adjective)",
+              "phonetic": "/ˈentərpraɪzɪŋ/",
+              "mean_fa": "",
+              "mean_en": "good at thinking of and doing new and difficult things, especially things that will make money: She's an enterprising young woman who started her own company at 22"
+            },
+            {
+              "word": "profit",
+              "phonetic": "/ˈprɑː.fɪt/",
+              "mean_fa": "",
+              "mean_en": "money that is earned in trade or business after paying the costs of producing and selling goods and services: She makes a big profit from selling waste material to textile companies - Company profits are down from last year's figures"
+            },
+            {
+              "word": "goods",
+              "phonetic": "/ɡʊdz/",
+              "mean_fa": "",
+              "mean_en": "1. things that you buy or sell: That shop sells electrical goods <br> 2. things that a train or lorry carries: a goods train"
+            },
+            {
+              "word": "franchise (noun)",
+              "phonetic": "/ˈfræntʃaɪz/",
+              "mean_fa": "",
+              "mean_en": "formal permission given by a company to somebody who wants to sell its goods or services in a particular area; formal permission given by a government to somebody who wants to operate a public service as a business: a franchise agreement/company"
+            },
+            {
+              "word": "opportunity",
+              "phonetic": "/ˌɑːpərˈtuːnəti/",
+              "mean_fa": "",
+              "mean_en": "a chance to do something; a time when you can do something that you want to do: I didn't get the opportunity to visit them - It was a golden (= perfect) opportunity and I decided to take it"
+            },
+            {
+              "word": "toolset",
+              "phonetic": "/ˈtuːlsɛt/",
+              "mean_fa": "",
+              "mean_en": "(Computing) a set of software tools"
+            },
+            {
+              "word": "knowledge (noun)",
+              "phonetic": "/ˈnɑː.lɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "information, understanding, or skills gained through experience or study: She has deep knowledge of computer science"
+            },
+            {
+              "word": "documentation (noun)",
+              "phonetic": "/ˌdɑːk.jə.mənˈteɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "written information that explains how something works, especially software: Always read the documentation before using a new library"
+            },
+            {
+              "word": "solid",
+              "phonetic": "/ˈsɑːlɪd/",
+              "mean_fa": "",
+              "mean_en": "1. hard or firm; not in the form of a liquid or gas: The planet Jupiter may have no solid surface at all - The stream had frozen solid <br> 2. having no holes or spaces inside; not hollow: They were drilling through solid rock <br> 3. (of a line) without spaces; continuous: solid border - The national boundary is shown on the map as a solid line <br> 4. [only before noun] made completely of the material mentioned (that is, the material is not only on the surface): a solid gold bracelet - Each piece is individually made in solid silver <br> 5. strong and unlikely to break or fall down: The door was solid as rock <br> 6. reliable; that you can rely on; having a strong basis: This provided a solid foundation for their marriage - His advice was always solid and practical <br> 7. definitely good and steady but perhaps not excellent or special: 2008 was a year of solid achievement - He's a good solid player"
+            },
+            {
+              "word": "data point (noun)",
+              "phonetic": "/ˈdeɪ.tə pɔɪnt/",
+              "mean_fa": "",
+              "mean_en": "a single piece of information within a larger set of data: Each patient's age is a data point in the study - when the data points are not particularly numerous"
+            },
+            {
+              "word": "numerous (adjective)",
+              "phonetic": "/ˈnuː.mɚ.əs/",
+              "mean_fa": "",
+              "mean_en": "many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous"
             }
           ]
         }
