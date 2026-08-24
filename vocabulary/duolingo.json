@@ -1922,7 +1922,7 @@
               "word": "worst",
               "phonetic": "/wɜrst/",
               "mean_fa": "",
-              "mean_en": "bad"
+              "mean_en": "superlative of bad (OPPOSITE: best)"
             }
           ]
         },
@@ -3396,6 +3396,95 @@
               "phonetic": "/ˈpeɪ.ʃəns/",
               "mean_fa": "",
               "mean_en": "ability to wait calmly; staying calm and not getting angry when you are waiting for something, or when you have problems: Learning to play the piano takes hard work and patience - She was walking so slowly that her sister finally lost patience with her (= became angry with her) (OPPOSITE: impatience)"
+            },
+            {
+              "word": "tax (noun)",
+              "phonetic": "/tæks/",
+              "mean_fa": "",
+              "mean_en": "money that you have to pay to the government. You pay tax from the money you earn or when you buy things: There is a tax on cigarettes in this country"
+            },
+            {
+              "word": "accountant",
+              "phonetic": "/əˈkaʊntənt/",
+              "mean_fa": "",
+              "mean_en": "a person whose job is to make lists of all the money that people or businesses receive and pay; someone who keeps or examines the records of money received, paid, and owed by a company or person: Nicky is an accountant"
+            },
+            {
+              "word": "crane (noun)",
+              "phonetic": "/kreɪn/",
+              "mean_fa": "",
+              "mean_en": "1. a big machine with a long metal arm for lifting heavy things <br> <img src='images/crane1.jpg' alt='crane1' width='200'> <br> 2. a large bird with long legs and necks <br> <img src='images/crane2.jpg' alt='crane2' width='200'>"
+            },
+            {
+              "word": "deadline",
+              "phonetic": "/ˈded.laɪn/",
+              "mean_fa": "",
+              "mean_en": "a day or time before which you must do something: The deadline for finishing this essay is next Tuesday"
+            },
+            {
+              "word": "fold (verb)",
+              "phonetic": "/foʊld/",
+              "mean_fa": "",
+              "mean_en": "1. to bend something so that one part is on top of another part: I folded the letter and put it in the envelope - Fold up your clothes (OPPOSITE: unfold) <br> <img src='images/fold.jpg' alt='fold' width='200'> <br> 2. to be able to be made smaller in order to be carried or stored more easily: a folding chair - This table folds up flat <br> `fold your arms` If you fold your arms, you cross them in front of your chest: She folded her arms and waited <br> <img src='images/fold-your-arms.jpg' alt='fold your arms' width='200'>"
+            },
+            {
+              "word": "fold (noun)",
+              "phonetic": "/foʊld/",
+              "mean_fa": "",
+              "mean_en": "a line that is made when you bend cloth or paper"
+            },
+            {
+              "word": "paper crane",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>"
+            },
+            {
+              "word": "spooky (adjective)",
+              "phonetic": "/ˈspuː.ki/",
+              "mean_fa": "",
+              "mean_en": "strange and frightening: spooky house"
+            }
+          ]
+        },
+        {
+          "heading": "Romance",
+          "words": [
+            {
+              "word": "romance",
+              "phonetic": "/roʊˈmæns/",
+              "mean_fa": "",
+              "mean_en": "1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances"
+            },
+            {
+              "word": "workout",
+              "phonetic": "/ˈwɜːrkaʊt/",
+              "mean_fa": "",
+              "mean_en": "a period of physical exercise"
+            },
+            {
+              "word": "tear (verb)",
+              "phonetic": "/ter/",
+              "mean_fa": "",
+              "mean_en": "1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away"
+            },
+            {
+              "word": "tear 1 (noun)",
+              "phonetic": "/ter/",
+              "mean_fa": "",
+              "mean_en": "where it has been torn; an untidy hole in something like paper, cloth, or other material: You've got a tear in your jeans"
+            },
+            {
+              "word": "tear 2 (noun)",
+              "phonetic": "/tɪr/",
+              "mean_fa": "",
+              "mean_en": "a drop of water that comes from your eye when you cry: I was in tears (= crying) at the end of the film - She read the letter and burst into tears (= suddenly started to cry)"
+            },
+            {
+              "word": "nightclub",
+              "phonetic": "/ˈnaɪt.klʌb/",
+              "mean_fa": "",
+              "mean_en": "a place where you can go late in the evening to drink and dance (SAME MEANING: club)"
             }
           ]
         }

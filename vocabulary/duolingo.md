@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 550**
+**Total words: 564**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (550 words)](#section-1-550-words)
+- [SECTION 1 (564 words)](#section-1-564-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -23,11 +23,12 @@
   - [Airport (23 words)](#airport-23-words)
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
-  - [Old Times (30 words)](#old-times-30-words)
+  - [Old Times (38 words)](#old-times-38-words)
+  - [Romance (6 words)](#romance-6-words)
 
 ---
 
-## SECTION 1 (550 words)
+## SECTION 1 (564 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -359,7 +360,7 @@
 - `recall`  /rɪˈkɑːl/ <br> remember; to bring the memory of a past event into your mind, and often to give a description of what you remember: Can you recall what happened last night?
 - `laughter`  <br> the sound of laughing: I could hear laughter in the next room
 - `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
-- `worst`  /wɜrst/ <br> bad
+- `worst`  /wɜrst/ <br> superlative of bad (OPPOSITE: best)
 
 ### Stories (27 words)
 - `pillow`  /ˈpɪl.oʊ/ <br> a soft thing that you put your head on when you are in bed <br> <img src='images/pillow.jpg' alt='pillow' width='200'>
@@ -585,7 +586,7 @@
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 
-### Old Times (30 words)
+### Old Times (38 words)
 - `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
 - `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
 - `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
@@ -616,4 +617,20 @@
 - `potato`  /pəˈteɪ.t̬oʊ/ <br> a round vegetable that grows underground and has white flesh with light brown, red, or pink skin, or the plant on which these grow <br> <img src='images/potato.jpg' alt='potato' width='200'>
 - `religion (noun)`  /rɪˈlɪdʒ.ən/ <br> 1. (no plural) believing in a god or gods and the activities connected with this <br> 2. (plural religions) one of the ways of believing in a god or gods: Christianity, Islam and other world religions
 - `patience (noun)`  /ˈpeɪ.ʃəns/ <br> ability to wait calmly; staying calm and not getting angry when you are waiting for something, or when you have problems: Learning to play the piano takes hard work and patience - She was walking so slowly that her sister finally lost patience with her (= became angry with her) (OPPOSITE: impatience)
+- `tax (noun)`  /tæks/ <br> money that you have to pay to the government. You pay tax from the money you earn or when you buy things: There is a tax on cigarettes in this country
+- `accountant`  /əˈkaʊntənt/ <br> a person whose job is to make lists of all the money that people or businesses receive and pay; someone who keeps or examines the records of money received, paid, and owed by a company or person: Nicky is an accountant
+- `crane (noun)`  /kreɪn/ <br> 1. a big machine with a long metal arm for lifting heavy things <br> <img src='images/crane1.jpg' alt='crane1' width='200'> <br> 2. a large bird with long legs and necks <br> <img src='images/crane2.jpg' alt='crane2' width='200'>
+- `deadline`  /ˈded.laɪn/ <br> a day or time before which you must do something: The deadline for finishing this essay is next Tuesday
+- `fold (verb)`  /foʊld/ <br> 1. to bend something so that one part is on top of another part: I folded the letter and put it in the envelope - Fold up your clothes (OPPOSITE: unfold) <br> <img src='images/fold.jpg' alt='fold' width='200'> <br> 2. to be able to be made smaller in order to be carried or stored more easily: a folding chair - This table folds up flat <br> `fold your arms` If you fold your arms, you cross them in front of your chest: She folded her arms and waited <br> <img src='images/fold-your-arms.jpg' alt='fold your arms' width='200'>
+- `fold (noun)`  /foʊld/ <br> a line that is made when you bend cloth or paper
+- `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
+- `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
+
+### Romance (6 words)
+- `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
+- `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
+- `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
+- `tear 1 (noun)`  /ter/ <br> where it has been torn; an untidy hole in something like paper, cloth, or other material: You've got a tear in your jeans
+- `tear 2 (noun)`  /tɪr/ <br> a drop of water that comes from your eye when you cry: I was in tears (= crying) at the end of the film - She read the letter and burst into tears (= suddenly started to cry)
+- `nightclub`  /ˈnaɪt.klʌb/ <br> a place where you can go late in the evening to drink and dance (SAME MEANING: club)
 ---
