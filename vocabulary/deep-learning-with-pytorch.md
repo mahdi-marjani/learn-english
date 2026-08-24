@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 991**
+**Total words: 992**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (525 words)](#part-1-core-pytorch-525-words)
+- [Part 1: Core PyTorch (526 words)](#part-1-core-pytorch-526-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
-  - [Chapter 2: Pretrained networks (223 words)](#chapter-2-pretrained-networks-223-words)
+  - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (525 words)
+## Part 1: Core PyTorch (526 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -810,7 +810,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (223 words)
+### Chapter 2: Pretrained networks (224 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1034,4 +1034,5 @@
 - `solid`  /ˈsɑːlɪd/ <br> 1. hard or firm; not in the form of a liquid or gas: The planet Jupiter may have no solid surface at all - The stream had frozen solid <br> 2. having no holes or spaces inside; not hollow: They were drilling through solid rock <br> 3. (of a line) without spaces; continuous: solid border - The national boundary is shown on the map as a solid line <br> 4. [only before noun] made completely of the material mentioned (that is, the material is not only on the surface): a solid gold bracelet - Each piece is individually made in solid silver <br> 5. strong and unlikely to break or fall down: The door was solid as rock <br> 6. reliable; that you can rely on; having a strong basis: This provided a solid foundation for their marriage - His advice was always solid and practical <br> 7. definitely good and steady but perhaps not excellent or special: 2008 was a year of solid achievement - He's a good solid player
 - `data point (noun)`  /ˈdeɪ.tə pɔɪnt/ <br> a single piece of information within a larger set of data: Each patient's age is a data point in the study - when the data points are not particularly numerous
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
+- `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 ---
