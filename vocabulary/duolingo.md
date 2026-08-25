@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 564**
+**Total words: 571**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (564 words)](#section-1-564-words)
+- [SECTION 1 (571 words)](#section-1-571-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -24,11 +24,11 @@
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
-  - [Romance (6 words)](#romance-6-words)
+  - [Romance (13 words)](#romance-13-words)
 
 ---
 
-## SECTION 1 (564 words)
+## SECTION 1 (571 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -626,11 +626,18 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-### Romance (6 words)
+### Romance (13 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
 - `tear 1 (noun)`  /ter/ <br> where it has been torn; an untidy hole in something like paper, cloth, or other material: You've got a tear in your jeans
 - `tear 2 (noun)`  /tɪr/ <br> a drop of water that comes from your eye when you cry: I was in tears (= crying) at the end of the film - She read the letter and burst into tears (= suddenly started to cry)
 - `nightclub`  /ˈnaɪt.klʌb/ <br> a place where you can go late in the evening to drink and dance (SAME MEANING: club)
+- `social`  /ˈsoʊ.ʃəl/ <br> connected with people together in society; connected with being with other people: the social problems of big cities - Anne has a busy social life (= she goes out with friends a lot)
+- `break (verb)`  /breɪk/ <br> 1. to make something go into smaller pieces, for example by dropping it or hitting it: He broke the window - She has broken her arm <br> 2. to go into smaller pieces, for example by falling or hitting: I dropped the cup and it broke <br> 3. to stop working; to damage a machine so that it stops working: You've broken my watch <br> 4. to do something that is against the law or against what has been agreed or promised: People who break the law must be punished - I never break my promises <br> `break down` 1. If a machine or car breaks down, it stops working: We were late because our car broke down <br> 2. If a person breaks down, they start to cry: He broke down when he heard the news <br> `break in; break into something` to go into a place by breaking a door or window so that you can steal something: Thieves broke into the house. They broke in through a window <br> `break off` to take away a piece of something by breaking it: He broke off a piece of chocolate for me <br> `break out` 1. to start suddenly: A fire broke out last night <br> 2. to get free from a place like a prison: Four prisoners broke out of the jail last night <br> `break up` (British) to start the school holidays: We break up at the end of July <br> `break up with somebody` to end a relationship with somebody: Susy broke up with her boyfriend last week
+- `upset (adjective)`  /ʌpˈset/ <br> 1. unhappy or worried: The children were very upset when their dog died <br> 2. ill: I've got an upset stomach
+- `nap`  /næp/ <br> a short sleep
+- `point (noun)`  /pɔɪnt/ <br> 1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up
+- `nightlife (noun)`  /ˈnaɪt.laɪf/ <br> things to do in the evenings in a particular area, such as dancing or going to bars: What's the nightlife like round here?
+- `wives`  /waɪvz/ <br> plural of wife
 ---
