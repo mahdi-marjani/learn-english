@@ -2053,10 +2053,16 @@
           "mean_en": ""
         },
         {
-          "word": "patient",
-          "phonetic": "",
-          "mean_fa": "بیمار",
-          "mean_en": "a person who is receiving medical treatment"
+          "word": "patient (noun)",
+          "phonetic": "/ˈpeɪ.ʃənt/",
+          "mean_fa": "",
+          "mean_en": "a person who is receiving medical treatment; a sick person that a doctor is looking after"
+        },
+        {
+          "word": "patient (adjective)",
+          "phonetic": "/ˈpeɪ.ʃənt/",
+          "mean_fa": "",
+          "mean_en": "able to stay calm and not get angry when you are waiting for something or when you have problems: Just sit there and be patient. Your mum will be here soon (OPPOSITE: impatient)"
         },
         {
           "word": "treatment",

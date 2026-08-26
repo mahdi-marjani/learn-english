@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1770**
+**Total words: 1780**
 
 ## 📑 Table of Contents
 
@@ -10,19 +10,19 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (992 words)](#deep-learning-with-pytorch---vocabulary-992-words)
+- [Deep Learning with PyTorch - Vocabulary (993 words)](#deep-learning-with-pytorch---vocabulary-993-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (51 words)](#foreword-51-words)
   - [preface (91 words)](#preface-91-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
-  - [about this book (162 words)](#about-this-book-162-words)
+  - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
   - [Part 1: Core PyTorch (526 words)](#part-1-core-pytorch-526-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-- [Duolingo - Vocabulary (571 words)](#duolingo---vocabulary-571-words)
-  - [SECTION 1 (571 words)](#section-1-571-words)
+- [Duolingo - Vocabulary (580 words)](#duolingo---vocabulary-580-words)
+  - [SECTION 1 (580 words)](#section-1-580-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -42,7 +42,7 @@
     - [News (28 words)](#news-28-words)
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
-    - [Romance (13 words)](#romance-13-words)
+    - [Romance (22 words)](#romance-22-words)
 - [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -219,7 +219,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (992 words)
+## Deep Learning with PyTorch - Vocabulary (993 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -471,7 +471,7 @@
 - `these`  <br> this جمعِ
 ---
 
-### about this book (162 words)
+### about this book (163 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -572,7 +572,8 @@
 - `entire`  <br> all of something; whole
 - `diagnosis`  <br> identification of disease
 - `disease`  <br> بیماری
-- `patient`  <br> a person who is receiving medical treatment - بیمار
+- `patient (noun)`  /ˈpeɪ.ʃənt/ <br> a person who is receiving medical treatment; a sick person that a doctor is looking after
+- `patient (adjective)`  /ˈpeɪ.ʃənt/ <br> able to stay calm and not get angry when you are waiting for something or when you have problems: Just sit there and be patient. Your mum will be here soon (OPPOSITE: impatient)
 - `treatment`  <br> درمان
 - `overview`  <br> a general explanation without details
 - `embed`  <br> to place something inside something else
@@ -1243,9 +1244,9 @@
 
 ---
 
-## Duolingo - Vocabulary (571 words)
+## Duolingo - Vocabulary (580 words)
 
-### SECTION 1 (571 words)
+### SECTION 1 (580 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1843,7 +1844,7 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-#### Romance (13 words)
+#### Romance (22 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
@@ -1857,6 +1858,15 @@
 - `point (noun)`  /pɔɪnt/ <br> 1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up
 - `nightlife (noun)`  /ˈnaɪt.laɪf/ <br> things to do in the evenings in a particular area, such as dancing or going to bars: What's the nightlife like round here?
 - `wives`  /waɪvz/ <br> plural of wife
+- `have (verb)`  /hæv/ <br> 1. (also have got) to own or keep something: She has blue eyes - They've got (= have got) a big car - Do you have any brothers and sisters? <br> 2. a word that you use with many nouns to talk about doing something: What time do you have breakfast? - Let's have a drink - I had a shower - Jill and I have had a fight <br> 3. a word that you use with many nouns to talk about experiencing something: Have fun! - He has had an accident - Did you have a good holiday? - I have an idea - Have you got time to help me? <br> 4. (also have got) to be ill with something: She's got (= has got) a headache - I have flu <br> `have something done` to let somebody do something for you: I had my hair cut yesterday - Have you had your car mended? <br> `have somebody over` to invite someone to your home for a visit, meal, etc.: We're having some friends over for dinner on Saturday - Why don't you have them over sometime? - We had my parents over last weekend
+- `babysitting (noun)`  /ˈbeɪ.biˌsɪt̬.ɪŋ/ <br> taking care of a child
+- `craft (noun)`  /kræft/ <br> a job or activity for which you need skill with your hands: Pottery is a traditional craft
+- `supply (noun)`  /səˈplaɪ/ <br> a store or an amount of something that you need: Food supplies were dropped by helicopter - The water supply was cut off - bag of art supplies (= materials used for making art)
+- `supply (verb)`  /səˈplaɪ/ <br> to give or sell something that somebody needs: The school supplies us with books - The lake supplies water to thousands of homes
+- `glitter (noun)`  /ˈglɪdər/ <br> small pieces of shiny material used as decoration <br> <img src='images/glitter.jpg' alt='glitter' width='200'>
+- `owe (verb)`  /oʊ/ <br> 1. to have to pay money to somebody: I lent you $10 last week and $10 the week before, so you owe me $20 <br> 2. to have something because of a particular person or thing: He owes his life to the man who pulled him out of the river - She owes her success to hard work
+- `brush`  /brʌʃ/ <br> an object with short pieces of stiff hair, plastic, or wire attached to a base or handle, used for cleaning, arranging your hair, or painting <br> <img src='images/brush.jpg' alt='brush' width='200'>
+- `memories`  / ˈmɛm ə riz / <br> plural of memory
 ---
 
 ---

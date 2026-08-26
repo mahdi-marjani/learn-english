@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 992**
+**Total words: 993**
 
 ## 📑 Table of Contents
 
@@ -8,7 +8,7 @@
 - [foreword (51 words)](#foreword-51-words)
 - [preface (91 words)](#preface-91-words)
 - [acknowledgments (58 words)](#acknowledgments-58-words)
-- [about this book (162 words)](#about-this-book-162-words)
+- [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
 - [Part 1: Core PyTorch (526 words)](#part-1-core-pytorch-526-words)
@@ -267,7 +267,7 @@
 - `these`  <br> this جمعِ
 ---
 
-## about this book (162 words)
+## about this book (163 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -368,7 +368,8 @@
 - `entire`  <br> all of something; whole
 - `diagnosis`  <br> identification of disease
 - `disease`  <br> بیماری
-- `patient`  <br> a person who is receiving medical treatment - بیمار
+- `patient (noun)`  /ˈpeɪ.ʃənt/ <br> a person who is receiving medical treatment; a sick person that a doctor is looking after
+- `patient (adjective)`  /ˈpeɪ.ʃənt/ <br> able to stay calm and not get angry when you are waiting for something or when you have problems: Just sit there and be patient. Your mum will be here soon (OPPOSITE: impatient)
 - `treatment`  <br> درمان
 - `overview`  <br> a general explanation without details
 - `embed`  <br> to place something inside something else
