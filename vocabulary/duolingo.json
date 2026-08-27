@@ -3629,6 +3629,24 @@
               "phonetic": "/ˈnɑːtʃəʊz/",
               "mean_fa": "",
               "mean_en": "crispy chips with cheese or toppings <br> <img src='images/nachos.jpg' alt='nachos' width='200'>"
+            },
+            {
+              "word": "attic",
+              "phonetic": "/ˈætɪk/",
+              "mean_fa": "",
+              "mean_en": "the room or space under the roof of a house (SAME MEANING: loft): My old clothes are in a box in the attic <br> <img src='images/attic.jpg' alt='attic' width='200'>"
+            },
+            {
+              "word": "waitress",
+              "phonetic": "/ˈweɪtrəs/",
+              "mean_fa": "",
+              "mean_en": "a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>"
+            },
+            {
+              "word": "waiter",
+              "phonetic": "/ˈweɪtər/",
+              "mean_fa": "",
+              "mean_en": "a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>"
             }
           ]
         }

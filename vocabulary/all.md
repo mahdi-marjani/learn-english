@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1788**
+**Total words: 1791**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (526 words)](#part-1-core-pytorch-526-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-- [Duolingo - Vocabulary (588 words)](#duolingo---vocabulary-588-words)
-  - [SECTION 1 (588 words)](#section-1-588-words)
+- [Duolingo - Vocabulary (591 words)](#duolingo---vocabulary-591-words)
+  - [SECTION 1 (591 words)](#section-1-591-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -42,7 +42,7 @@
     - [News (28 words)](#news-28-words)
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
-    - [Romance (30 words)](#romance-30-words)
+    - [Romance (33 words)](#romance-33-words)
 - [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1244,9 +1244,9 @@
 
 ---
 
-## Duolingo - Vocabulary (588 words)
+## Duolingo - Vocabulary (591 words)
 
-### SECTION 1 (588 words)
+### SECTION 1 (591 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1844,7 +1844,7 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-#### Romance (30 words)
+#### Romance (33 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
@@ -1875,6 +1875,9 @@
 - `slip (verb)`  /slɪp/ <br> 1. to move smoothly over something by accident and fall or almost fall; fall because of losing balance: He slipped on the ice and broke his leg <br> 2. to go quickly and quietly so that nobody sees you: Ann slipped out of the room - We slipped away when no one was looking <br> 3. to put something in a place quickly and quietly: He slipped the money into his pocket <br> `slip up` (informal) to make a mistake
 - `mysterious (adjective)`  /mɪˈstɪr.i.əs/ <br> not easy to understand or explain; strange, not known, or not understood: The story is very mysterious
 - `nachos`  /ˈnɑːtʃəʊz/ <br> crispy chips with cheese or toppings <br> <img src='images/nachos.jpg' alt='nachos' width='200'>
+- `attic`  /ˈætɪk/ <br> the room or space under the roof of a house (SAME MEANING: loft): My old clothes are in a box in the attic <br> <img src='images/attic.jpg' alt='attic' width='200'>
+- `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
+- `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 ---
 
 ---
