@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 580**
+**Total words: 588**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (580 words)](#section-1-580-words)
+- [SECTION 1 (588 words)](#section-1-588-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -24,11 +24,11 @@
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
-  - [Romance (22 words)](#romance-22-words)
+  - [Romance (30 words)](#romance-30-words)
 
 ---
 
-## SECTION 1 (580 words)
+## SECTION 1 (588 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -199,7 +199,7 @@
 - `disaster`  /dɪ.zæs.tər/ <br> a very bad event
 - `stain`  /steɪn/ <br> a colored patch or dirty mark that is difficult to remove <br> <img src='images/stain.jpg' alt='stain' width='200'>
 - `pot`  /pɒt/ <br> 1. a container for cooking <br> <img src='images/pot.jpg' alt='pot' width='200'> <br> 2. a container that you use for a special thing: a teapot - a pot of paint - a plant pot
-- `make`  <br> 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)
+- `make`  <br> 1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody) <br> `make a friend` to start to have someone as a friend: I've made a lot of friends in this job
 - `blanket`  /ˈblæŋ.kɪt/ <br> covers for keeping warm <br> <img src='images/blanket.jpg' alt='blanket' width='200'>
 - `stove`  /stoʊv/ <br> a device for cooking food <br> <img src='images/stove.jpg' alt='stove' width='200'>
 - `corner`  /ˈkɔr.nɜr/ <br> where two walls meet <br> <img src='images/corner.jpg' alt='corner' width='200'>
@@ -626,7 +626,7 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-### Romance (22 words)
+### Romance (30 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
@@ -648,5 +648,13 @@
 - `glitter (noun)`  /ˈglɪdər/ <br> small pieces of shiny material used as decoration <br> <img src='images/glitter.jpg' alt='glitter' width='200'>
 - `owe (verb)`  /oʊ/ <br> 1. to have to pay money to somebody: I lent you $10 last week and $10 the week before, so you owe me $20 <br> 2. to have something because of a particular person or thing: He owes his life to the man who pulled him out of the river - She owes her success to hard work
 - `brush`  /brʌʃ/ <br> an object with short pieces of stiff hair, plastic, or wire attached to a base or handle, used for cleaning, arranging your hair, or painting <br> <img src='images/brush.jpg' alt='brush' width='200'>
-- `memories`  / ˈmɛm ə riz / <br> plural of memory
+- `memories`  /ˈmɛm ə riz / <br> plural of memory
+- `hurry (noun)`  /ˈhʌri/ <br> `in a hurry` needing or wanting to do something quickly: I can't talk to you now _ I'm in a hurry
+- `grape`  /ɡreɪp/ <br> a small, round, purple or pale green fruit that you can eat or make into wine <br> <img src='images/grape.jpg' alt='grape' width='200'>
+- `passionate (adjective)`  /ˈpæʃ.ən.ət/ <br> having or showing very strong feelings: a passionate kiss
+- `careless (adjective)`  /ˈker.ləs/ <br> not thinking enough about what you are doing so that you make mistakes: Careless drivers can cause accident
+- `chip (verb)`  /tʃɪp/ <br> to break a small piece off something <br> <img src='images/chip.jpg' alt='chip' width='200'>
+- `slip (verb)`  /slɪp/ <br> 1. to move smoothly over something by accident and fall or almost fall; fall because of losing balance: He slipped on the ice and broke his leg <br> 2. to go quickly and quietly so that nobody sees you: Ann slipped out of the room - We slipped away when no one was looking <br> 3. to put something in a place quickly and quietly: He slipped the money into his pocket <br> `slip up` (informal) to make a mistake
+- `mysterious (adjective)`  /mɪˈstɪr.i.əs/ <br> not easy to understand or explain; strange, not known, or not understood: The story is very mysterious
+- `nachos`  /ˈnɑːtʃəʊz/ <br> crispy chips with cheese or toppings <br> <img src='images/nachos.jpg' alt='nachos' width='200'>
 ---

@@ -991,7 +991,7 @@
               "word": "make",
               "phonetic": "",
               "mean_fa": "",
-              "mean_en": "1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody)"
+              "mean_en": "1. to produce or create something: They make cars in that factory - He made a box out of some pieces of wood - This shirt is made of cotton <br> 2. to cause something to be or to happen; to produce something: The plane made a loud noise when it landed - Chocolate makes you fat - That film made me cry - I made a mistake <br> 3. to force somebody to do something: My father made me stay at home <br> 4. to choose somebody to do a job: They made him President <br> 5. a word that you use with money, numbers and time: She makes (= earns) a lot of money - Five and seven make twelve - 'What's the time?' 'I make it six o'clock' <br> 6. to be able to go somewhere: I'm afraid I can't make the meeting on Friday <br> `make do with something` to use something that is not very good, because there is nothing better: We didn't have a table, but we made do with some boxes <br> `make something into something` to change something so that it becomes a different thing: They made the bedroom into an office <br> `make something or somebody out` to be able to see, hear or understand something or somebody: It was dark and I couldn't make out the words on the sign <br> `make something up` to tell somebody something that is not true (SAME MEANING: invent): Nobody believes that story _ he made it up <br> `make up` to become friends again after an argument: Jane and Tom had an argument last week, but they've made up now - Has she made up with him yet? (OPPOSITE: fall out with somebody) <br> `make a friend` to start to have someone as a friend: I've made a lot of friends in this job"
             },
             {
               "word": "blanket",
@@ -3578,9 +3578,57 @@
             },
             {
               "word": "memories",
-              "phonetic": "/ ˈmɛm ə riz /",
+              "phonetic": "/ˈmɛm ə riz /",
               "mean_fa": "",
               "mean_en": "plural of memory"
+            },
+            {
+              "word": "hurry (noun)",
+              "phonetic": "/ˈhʌri/",
+              "mean_fa": "",
+              "mean_en": "`in a hurry` needing or wanting to do something quickly: I can't talk to you now _ I'm in a hurry"
+            },
+            {
+              "word": "grape",
+              "phonetic": "/ɡreɪp/",
+              "mean_fa": "",
+              "mean_en": "a small, round, purple or pale green fruit that you can eat or make into wine <br> <img src='images/grape.jpg' alt='grape' width='200'>"
+            },
+            {
+              "word": "passionate (adjective)",
+              "phonetic": "/ˈpæʃ.ən.ət/",
+              "mean_fa": "",
+              "mean_en": "having or showing very strong feelings: a passionate kiss"
+            },
+            {
+              "word": "careless (adjective)",
+              "phonetic": "/ˈker.ləs/",
+              "mean_fa": "",
+              "mean_en": "not thinking enough about what you are doing so that you make mistakes: Careless drivers can cause accident"
+            },
+            {
+              "word": "chip (verb)",
+              "phonetic": "/tʃɪp/",
+              "mean_fa": "",
+              "mean_en": "to break a small piece off something <br> <img src='images/chip.jpg' alt='chip' width='200'>"
+            },
+            {
+              "word": "slip (verb)",
+              "phonetic": "/slɪp/",
+              "mean_fa": "",
+              "mean_en": "1. to move smoothly over something by accident and fall or almost fall; fall because of losing balance: He slipped on the ice and broke his leg <br> 2. to go quickly and quietly so that nobody sees you: Ann slipped out of the room - We slipped away when no one was looking <br> 3. to put something in a place quickly and quietly: He slipped the money into his pocket <br> `slip up` (informal) to make a mistake"
+            },
+            {
+              "word": "mysterious (adjective)",
+              "phonetic": "/mɪˈstɪr.i.əs/",
+              "mean_fa": "",
+              "mean_en": "not easy to understand or explain; strange, not known, or not understood: The story is very mysterious"
+            },
+            {
+              "word": "nachos",
+              "phonetic": "/ˈnɑːtʃəʊz/",
+              "mean_fa": "",
+              "mean_en": "crispy chips with cheese or toppings <br> <img src='images/nachos.jpg' alt='nachos' width='200'>"
             }
           ]
         }

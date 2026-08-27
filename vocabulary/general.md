@@ -42,7 +42,7 @@
 - `stupid`  /ˈstuːpɪd/ <br> not intelligent; silly: Don't be so stupid! - What a stupid question!
 - `silly`  /ˈsɪli/ <br> not sensible or clever; stupid: Don't be so silly - It was silly of you to leave the door open when you went out
 - `sensible`  /ˈsensəbl/ <br> able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
-- `clever (adjective)`  /ˈklevər/ <br> quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
+- `clever (adjective)`  /ˈklevər/ <br> smart; quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - `crazy`  /ˈkreɪzi/ <br> 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
 - `comfortable`  /ˈkʌm.fɚ.t̬ə.bəl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
