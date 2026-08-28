@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1791**
+**Total words: 1794**
 
 ## 📑 Table of Contents
 
@@ -21,8 +21,8 @@
   - [Part 1: Core PyTorch (526 words)](#part-1-core-pytorch-526-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-- [Duolingo - Vocabulary (591 words)](#duolingo---vocabulary-591-words)
-  - [SECTION 1 (591 words)](#section-1-591-words)
+- [Duolingo - Vocabulary (594 words)](#duolingo---vocabulary-594-words)
+  - [SECTION 1 (594 words)](#section-1-594-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -43,6 +43,7 @@
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
     - [Romance (33 words)](#romance-33-words)
+    - [Party (3 words)](#party-3-words)
 - [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1244,9 +1245,9 @@
 
 ---
 
-## Duolingo - Vocabulary (591 words)
+## Duolingo - Vocabulary (594 words)
 
-### SECTION 1 (591 words)
+### SECTION 1 (594 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1878,6 +1879,11 @@
 - `attic`  /ˈætɪk/ <br> the room or space under the roof of a house (SAME MEANING: loft): My old clothes are in a box in the attic <br> <img src='images/attic.jpg' alt='attic' width='200'>
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
+
+#### Party (3 words)
+- `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
+- `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
+- `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
 ---
 
 ---

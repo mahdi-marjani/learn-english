@@ -3649,6 +3649,29 @@
               "mean_en": "a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "Party",
+          "words": [
+            {
+              "word": "day off",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "day without work: I won't be in on Thursday _ it's my day off"
+            },
+            {
+              "word": "shrimp",
+              "phonetic": "/ʃrɪmp/",
+              "mean_fa": "",
+              "mean_en": "a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>"
+            },
+            {
+              "word": "inflation",
+              "phonetic": "/ɪnˈfleɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a general, continuous increase in prices: 13 percent inflation"
+            }
+          ]
         }
       ]
     }
