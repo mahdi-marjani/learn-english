@@ -1585,10 +1585,10 @@
           "mean_en": "a little"
         },
         {
-          "word": "angle",
-          "phonetic": "",
-          "mean_fa": "رویکرد، دیدگاه",
-          "mean_en": ""
+          "word": "angle (noun)",
+          "phonetic": "/ˈæŋ.ɡəl/",
+          "mean_fa": "",
+          "mean_en": "1. the space between two lines or surfaces that are joined, measured in degrees or radians <br> <img src='images/angle.jpg' alt='angle' width='200'> <br> 2. a particular way of looking at or thinking about a situation; a perspective: Let's look at the problem from a different angle"
         },
         {
           "word": "expect",
@@ -3303,10 +3303,10 @@
               "mean_en": "result"
             },
             {
-              "word": "consist",
+              "word": "consist (verb)",
               "phonetic": "/kənˈsɪst/",
               "mean_fa": "",
-              "mean_en": "consist of something to be made from two or more things; to have things as parts: Jam consists of fruit and sugar"
+              "mean_en": "`consist of something` to be made from two or more things; to have things as parts: The team consists of four Europeans and two Americans - Jam consists of fruit and sugar"
             },
             {
               "word": "Jam (noun)",
@@ -6005,6 +6005,47 @@
               "phonetic": "/kənˈfaɪn/",
               "mean_fa": "",
               "mean_en": "to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand"
+            }
+          ]
+        },
+        {
+          "heading": "Chapter 3: It starts with a tensor",
+          "words": [
+            {
+              "word": "index (verb)",
+              "phonetic": "/ˈɪn.deks/",
+              "mean_fa": "",
+              "mean_en": "to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets."
+            },
+            {
+              "word": "interoperate",
+              "phonetic": "/ˌɪntərˈɑːpəreɪt/",
+              "mean_fa": "",
+              "mean_en": "If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate"
+            },
+            {
+              "word": "invariably (adverb)",
+              "phonetic": "/ɪnˈver.i.ə.bli/",
+              "mean_fa": "",
+              "mean_en": "always: He invariably arrives late to meetings"
+            },
+            {
+              "word": "drive (verb)",
+              "phonetic": "/draɪv/",
+              "mean_fa": "",
+              "mean_en": "1. to control a car, bus, etc. and make it go where you want to go: Can you drive? - She usually drives to work <br> 2. to take somebody to a place in a car: My parents drove me to the airport <br> 3. to cause or push something to happen or move forward: Her success was driven by hard work"
+            },
+            {
+              "word": "tawny (adjective)",
+              "phonetic": "/ˈtɔːni/",
+              "mean_fa": "",
+              "mean_en": "having a brown-orange or brown-yellow color: a tawny tomcat - The lion has a tawny coat"
+            },
+            {
+              "word": "tomcat",
+              "phonetic": "/ˈtɑːm.kæt/",
+              "mean_fa": "",
+              "mean_en": "a male cat"
             }
           ]
         }
