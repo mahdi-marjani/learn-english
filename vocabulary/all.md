@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1800**
+**Total words: 1808**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (6 words)](#chapter-3-it-starts-with-a-tensor-6-words)
-- [Duolingo - Vocabulary (594 words)](#duolingo---vocabulary-594-words)
-  - [SECTION 1 (594 words)](#section-1-594-words)
+- [Duolingo - Vocabulary (602 words)](#duolingo---vocabulary-602-words)
+  - [SECTION 1 (602 words)](#section-1-602-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -44,7 +44,7 @@
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
     - [Romance (33 words)](#romance-33-words)
-    - [Party (3 words)](#party-3-words)
+    - [Party (11 words)](#party-11-words)
 - [General - Vocabulary (55 words)](#general---vocabulary-55-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -671,7 +671,7 @@
 - `figure`  /ˈfɪɡjər/ <br> 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - `shall`  /ʃæl/ <br> should, must
 - `dress (noun)`  /dres/ <br> 1. a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg <br> <img src='images/dress1.jpg' alt='dress1' width='200'> <br> 2. clothing in general <br> <img src='images/dress2.jpg' alt='dress2' width='200'>
-- `costume`  /ˈkɑː.stuːm/ <br> لباس محلی
+- `costume`  /ˈkɑː.stuːm/ <br> the special clothes that people wear in a country or at a certain time: The actors wore beautiful costume - the national costume of Japan
 - `finely`  /ˈfaɪn.li/ <br> با ظرافت، دقیق
 - `drawn`  /drɔːn/ <br> past participle of draw - کشیده شده (نقاشی شده)
 - `vividly`  /ˈvɪv.ɪd.li/ <br> clearly, brightly - in a way that produces strong, clear images in the mind
@@ -1254,9 +1254,9 @@
 
 ---
 
-## Duolingo - Vocabulary (594 words)
+## Duolingo - Vocabulary (602 words)
 
-### SECTION 1 (594 words)
+### SECTION 1 (602 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1889,10 +1889,18 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-#### Party (3 words)
+#### Party (11 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
+- ` mascot-is-lion  `  <br> 
+- `increase (verb)`  /ɪnˈkriːs/ <br> to become bigger or more; to make something bigger or more (OPPOSITE: decrease): The number of women who go out to work has increased - I'm going to increase your pocket money to $5
+- `increase (noun)`  /ˈɪŋkriːs/ <br> a rise in the amount, number or value of something (OPPOSITE: decrease): There has been an increase in road accidents - a price increase
+- `rise (noun)`  /raɪz/ <br> an increase in an amount, a number or a level
+- `cape`  /keɪp/ <br> 1. a piece of clothing that covers your body and your arms, but does not have separate sleeves <br> <img src='images/cape.jpg' alt='cape' width='200'> <br> 2. a high part of the land that goes out into the sea: the Cape of Good Hope
+- `sparkle (verb)`  /ˈspɑːr.kəl/ <br> to shine brightly with a lot of small points of light: The snow/sea sparkled in the sunlight
+- `sparkle (noun)`  /ˈspɑːr.kəl/ <br> bright shine: the sparkle of diamonds
+- `mascot`  /ˈmæs.kɑːt/ <br> a person, animal or thing that people think brings them good luck
 ---
 
 ---

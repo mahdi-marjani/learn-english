@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 594**
+**Total words: 602**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (594 words)](#section-1-594-words)
+- [SECTION 1 (602 words)](#section-1-602-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -25,11 +25,11 @@
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
   - [Romance (33 words)](#romance-33-words)
-  - [Party (3 words)](#party-3-words)
+  - [Party (11 words)](#party-11-words)
 
 ---
 
-## SECTION 1 (594 words)
+## SECTION 1 (602 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -662,8 +662,16 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-### Party (3 words)
+### Party (11 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
+- ` mascot-is-lion  `  <br> 
+- `increase (verb)`  /ɪnˈkriːs/ <br> to become bigger or more; to make something bigger or more (OPPOSITE: decrease): The number of women who go out to work has increased - I'm going to increase your pocket money to $5
+- `increase (noun)`  /ˈɪŋkriːs/ <br> a rise in the amount, number or value of something (OPPOSITE: decrease): There has been an increase in road accidents - a price increase
+- `rise (noun)`  /raɪz/ <br> an increase in an amount, a number or a level
+- `cape`  /keɪp/ <br> 1. a piece of clothing that covers your body and your arms, but does not have separate sleeves <br> <img src='images/cape.jpg' alt='cape' width='200'> <br> 2. a high part of the land that goes out into the sea: the Cape of Good Hope
+- `sparkle (verb)`  /ˈspɑːr.kəl/ <br> to shine brightly with a lot of small points of light: The snow/sea sparkled in the sunlight
+- `sparkle (noun)`  /ˈspɑːr.kəl/ <br> bright shine: the sparkle of diamonds
+- `mascot`  /ˈmæs.kɑːt/ <br> a person, animal or thing that people think brings them good luck
 ---

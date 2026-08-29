@@ -466,7 +466,7 @@
 - `figure`  /ˈfɪɡjər/ <br> 1. one of the symbols (0-9) that we use to show numbers: Shall I write the numbers in words or figures? <br> 2. an amount or price: What are our sales figures for Spain this year? <br> 3. the shape of a person's body: She's got a good figure <br> 4. a shape of a person that you cannot see clearly: I saw a tall figure outside the window
 - `shall`  /ʃæl/ <br> should, must
 - `dress (noun)`  /dres/ <br> 1. a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg <br> <img src='images/dress1.jpg' alt='dress1' width='200'> <br> 2. clothing in general <br> <img src='images/dress2.jpg' alt='dress2' width='200'>
-- `costume`  /ˈkɑː.stuːm/ <br> لباس محلی
+- `costume`  /ˈkɑː.stuːm/ <br> the special clothes that people wear in a country or at a certain time: The actors wore beautiful costume - the national costume of Japan
 - `finely`  /ˈfaɪn.li/ <br> با ظرافت، دقیق
 - `drawn`  /drɔːn/ <br> past participle of draw - کشیده شده (نقاشی شده)
 - `vividly`  /ˈvɪv.ɪd.li/ <br> clearly, brightly - in a way that produces strong, clear images in the mind
