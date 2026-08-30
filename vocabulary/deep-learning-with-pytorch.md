@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1000**
+**Total words: 1010**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (532 words)](#part-1-core-pytorch-532-words)
+- [Part 1: Core PyTorch (542 words)](#part-1-core-pytorch-542-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (6 words)](#chapter-3-it-starts-with-a-tensor-6-words)
+  - [Chapter 3: It starts with a tensor (16 words)](#chapter-3-it-starts-with-a-tensor-16-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (532 words)
+## Part 1: Core PyTorch (542 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,11 +1039,21 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (6 words)
+### Chapter 3: It starts with a tensor (16 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
 - `drive (verb)`  /draɪv/ <br> 1. to control a car, bus, etc. and make it go where you want to go: Can you drive? - She usually drives to work <br> 2. to take somebody to a place in a car: My parents drove me to the airport <br> 3. to cause or push something to happen or move forward: Her success was driven by hard work
 - `tawny (adjective)`  /ˈtɔːni/ <br> having a brown-orange or brown-yellow color: a tawny tomcat - The lion has a tawny coat
 - `tomcat`  /ˈtɑːm.kæt/ <br> a male cat
+- `resulting (adjective)`  /rɪˈzʌl.tɪŋ/ <br> happening or produced as a result of something: The resulting damage was worse than expected
+- `swath (noun)`  /swɑːθ/ <br> a large area or amount of something: consume broad swaths of similar inputs - The fire destroyed a large swath of forest
+- `floating point (adjective)`  /ˈfloʊ.tɪŋ pɔɪnt/ <br> (computing) a way of representing numbers with a decimal point that can move, used for numbers with fractional parts: converting our input into floating-point numbers - The calculation uses 64-bit floating-point precision.
+- `manipulate (verb)`  /məˈnɪpjuleɪt/ <br> 1. to influence somebody so that they do or think what you want: Politicians know how to manipulate people's opinions <br> 2. (formal) to control, use or change something with skill: Computers are very efficient at manipulating information
+- `influence (verb)`  /ˈɪn.flu.əns/ <br> to change the way that somebody thinks or the way that something happens: She is easily influenced by her friends
+- `digestible (adjective)`  /daɪˈdʒes.tə.bəl/ <br> easy to digest
+- `digest (verb)`  /daɪˈdʒest/ <br> 1. to change food in your stomach into substances that your body can use: Sit still and allow your meal to digest <br> 2. to read or hear new information and take the necessary time to understand it: This chapter is so difficult to digest, I'll have to read it again later
+- `stage (noun)`  /steɪdʒ/ <br> a particular point or period in a process of development: The project is still in its early stages - The project is in its final stages and should be completed by August - Their youngest child is at the stage where she can say individual words but not full sentences
+- `texture (noun)`  /ˈtekstʃər/ <br> the way a surface feels or looks, especially how rough or smooth it is: The fabric has a soft, silky texture - The painting had a rough, bumpy texture you could see even from far away
+- `fur (noun)`  /fɜːr/ <br> the soft, thick hair that covers the bodies of many animals: certain textures like fur - The cat's fur was soft and warm
 ---

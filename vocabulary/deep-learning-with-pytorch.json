@@ -6052,6 +6052,66 @@
               "phonetic": "/ˈtɑːm.kæt/",
               "mean_fa": "",
               "mean_en": "a male cat"
+            },
+            {
+              "word": "resulting (adjective)",
+              "phonetic": "/rɪˈzʌl.tɪŋ/",
+              "mean_fa": "",
+              "mean_en": "happening or produced as a result of something: The resulting damage was worse than expected"
+            },
+            {
+              "word": "swath (noun)",
+              "phonetic": "/swɑːθ/",
+              "mean_fa": "",
+              "mean_en": "a large area or amount of something: consume broad swaths of similar inputs - The fire destroyed a large swath of forest"
+            },
+            {
+              "word": "floating point (adjective)",
+              "phonetic": "/ˈfloʊ.tɪŋ pɔɪnt/",
+              "mean_fa": "",
+              "mean_en": "(computing) a way of representing numbers with a decimal point that can move, used for numbers with fractional parts: converting our input into floating-point numbers - The calculation uses 64-bit floating-point precision."
+            },
+            {
+              "word": "manipulate (verb)",
+              "phonetic": "/məˈnɪpjuleɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to influence somebody so that they do or think what you want: Politicians know how to manipulate people's opinions <br> 2. (formal) to control, use or change something with skill: Computers are very efficient at manipulating information"
+            },
+            {
+              "word": "influence (verb)",
+              "phonetic": "/ˈɪn.flu.əns/",
+              "mean_fa": "",
+              "mean_en": "to change the way that somebody thinks or the way that something happens: She is easily influenced by her friends"
+            },
+            {
+              "word": "digestible (adjective)",
+              "phonetic": "/daɪˈdʒes.tə.bəl/",
+              "mean_fa": "",
+              "mean_en": "easy to digest"
+            },
+            {
+              "word": "digest (verb)",
+              "phonetic": "/daɪˈdʒest/",
+              "mean_fa": "",
+              "mean_en": "1. to change food in your stomach into substances that your body can use: Sit still and allow your meal to digest <br> 2. to read or hear new information and take the necessary time to understand it: This chapter is so difficult to digest, I'll have to read it again later"
+            },
+            {
+              "word": "stage (noun)",
+              "phonetic": "/steɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "a particular point or period in a process of development: The project is still in its early stages - The project is in its final stages and should be completed by August - Their youngest child is at the stage where she can say individual words but not full sentences"
+            },
+            {
+              "word": "texture (noun)",
+              "phonetic": "/ˈtekstʃər/",
+              "mean_fa": "",
+              "mean_en": "the way a surface feels or looks, especially how rough or smooth it is: The fabric has a soft, silky texture - The painting had a rough, bumpy texture you could see even from far away"
+            },
+            {
+              "word": "fur (noun)",
+              "phonetic": "/fɜːr/",
+              "mean_fa": "",
+              "mean_en": "the soft, thick hair that covers the bodies of many animals: certain textures like fur - The cat's fur was soft and warm"
             }
           ]
         }
