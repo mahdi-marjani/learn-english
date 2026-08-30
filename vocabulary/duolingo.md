@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 602**
+**Total words: 606**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (602 words)](#section-1-602-words)
+- [SECTION 1 (606 words)](#section-1-606-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -24,12 +24,12 @@
   - [News (28 words)](#news-28-words)
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
-  - [Romance (33 words)](#romance-33-words)
-  - [Party (11 words)](#party-11-words)
+  - [Romance (34 words)](#romance-34-words)
+  - [Party (14 words)](#party-14-words)
 
 ---
 
-## SECTION 1 (602 words)
+## SECTION 1 (606 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -144,7 +144,7 @@
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
-- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care about someone/something` to think that something or someone is important and to feel interested in it or them: Clearly this generation is a group that cares about the environment - Your parents are only doing this because they care about you - He genuinely cares about his employees <br> `care to do something` to make the effort to do something: I've done this job more times than I care to remember <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
 - `approach (verb)`  /əˈproʊtʃ/ <br> to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - `church`  /tʃɜːrtʃ/ <br> a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - `boring`  <br> not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
@@ -627,7 +627,7 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-### Romance (33 words)
+### Romance (34 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
@@ -639,6 +639,7 @@
 - `upset (adjective)`  /ʌpˈset/ <br> 1. unhappy or worried: The children were very upset when their dog died <br> 2. ill: I've got an upset stomach
 - `nap`  /næp/ <br> a short sleep
 - `point (noun)`  /pɔɪnt/ <br> 1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up
+- `needle`  /ˈniː.dəl/ <br> 1. a thin metal pin, used in sewing, that is pointed at one end and has a hole called an eye at the other end for thread <br> <img src='images/needle1.jpg' alt='needle1' width='200'> <br> 2. a very thin, hollow, pointed piece of metal that is connected to a syringe and used to take blood from the body or to put drugs or medicine in <br> <img src='images/needle2.jpg' alt='needle2' width='200'> <br> 3. a pine tree's leaf that is thin and hard: cactus needle <br> <img src='images/needle3.jpg' alt='needle3' width='200'>
 - `nightlife (noun)`  /ˈnaɪt.laɪf/ <br> things to do in the evenings in a particular area, such as dancing or going to bars: What's the nightlife like round here?
 - `wives`  /waɪvz/ <br> plural of wife
 - `have (verb)`  /hæv/ <br> 1. (also have got) to own or keep something: She has blue eyes - They've got (= have got) a big car - Do you have any brothers and sisters? <br> 2. a word that you use with many nouns to talk about doing something: What time do you have breakfast? - Let's have a drink - I had a shower - Jill and I have had a fight <br> 3. a word that you use with many nouns to talk about experiencing something: Have fun! - He has had an accident - Did you have a good holiday? - I have an idea - Have you got time to help me? <br> 4. (also have got) to be ill with something: She's got (= has got) a headache - I have flu <br> `have something done` to let somebody do something for you: I had my hair cut yesterday - Have you had your car mended? <br> `have somebody over` to invite someone to your home for a visit, meal, etc.: We're having some friends over for dinner on Saturday - Why don't you have them over sometime? - We had my parents over last weekend
@@ -662,7 +663,7 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-### Party (11 words)
+### Party (14 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
@@ -674,4 +675,7 @@
 - `sparkle (verb)`  /ˈspɑːr.kəl/ <br> to shine brightly with a lot of small points of light: The snow/sea sparkled in the sunlight
 - `sparkle (noun)`  /ˈspɑːr.kəl/ <br> bright shine: the sparkle of diamonds
 - `mascot`  /ˈmæs.kɑːt/ <br> a person, animal or thing that people think brings them good luck
+- `pea`  /piː/ <br> a green seed, eaten as a vegetable <br> <img src='images/pea.jpg' alt='pea' width='200'>
+- `cabbage`  /ˈkæb.ɪdʒ/ <br> a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked <br> <img src='images/cabbage.jpg' alt='cabbage' width='200'>
+- `topping`  /ˈtɑː.pɪŋ/ <br> a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive: pizza topping
 ---

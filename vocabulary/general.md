@@ -1,12 +1,12 @@
 # General - Vocabulary
 
-**Total words: 55**
+**Total words: 57**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
-- [social media (24 words)](#social-media-24-words)
+- [social media (26 words)](#social-media-26-words)
 - [other (13 words)](#other-13-words)
 - [Wow! Words (7 words)](#wow-words-7-words)
 
@@ -29,7 +29,7 @@
 - `lonely`  /ˈloʊnli/ <br> 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-## social media (24 words)
+## social media (26 words)
 - `teenager`  /ˈtiːneɪdʒər/ <br> a person who is between 13 and 19 years old
 - `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
 - `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -54,6 +54,8 @@
 - `stranger`  /ˈstreɪndʒər/ <br> someone you do not know
 - `tradition`  /trəˈdɪʃ.ən/ <br> a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group
 - `mustard`  /ˈmʌstərd/ <br> a thick yellow or brown sauce that tastes spicy and is eaten cold in small amounts, especially with meat <br> <img src='images/mustard.jpg' alt='mustard' width='200'>
+- `toxic (adjective)`  /ˈtɑːk.sɪk/ <br> 1. poisonous; containing poison: toxic waste/chemicals/effluent - The tree's bark is toxic to insects <br> 2. (informal) (of a person, relationship or situation) very unpleasant, especially in the way somebody likes to control and influence other people in a dishonest way: I felt trapped in this toxic relationship
+- `omni-`  /ɑːm.nɪ-/ <br> everywhere or everything: omnipresent - omniscient
 ---
 
 ## other (13 words)

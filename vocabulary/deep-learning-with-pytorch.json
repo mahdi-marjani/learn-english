@@ -244,10 +244,16 @@
           "mean_en": ""
         },
         {
-          "word": "instrumental",
-          "phonetic": "",
-          "mean_fa": "تأثیرگذار",
-          "mean_en": ""
+          "word": "instrumental (adjective)",
+          "phonetic": "/ˌɪn.strəˈmen.t̬əl/",
+          "mean_fa": "",
+          "mean_en": "If someone or something is instrumental in a process, plan, or system, that person or thing is one of the most important influences in causing it to happen: She was instrumental in bringing about the prison reform act"
+        },
+        {
+          "word": "influence (noun)",
+          "phonetic": "/ˈɪn.flu.əns/",
+          "mean_fa": "",
+          "mean_en": "the power to have an effect on people or things, or a person or thing that is able to do this: Family is the most important influence on children"
         },
         {
           "word": "flexible",
@@ -1305,9 +1311,9 @@
         },
         {
           "word": "beyond",
-          "phonetic": "",
-          "mean_fa": "بیش از",
-          "mean_en": ""
+          "phonetic": "/biˈjɑːnd/",
+          "mean_fa": "فراتر از",
+          "mean_en": "on the other side of something; further than something: The road continues beyond the village up into the hills - We could see the lake and the mountains beyond"
         },
         {
           "word": "reviewer",
@@ -1771,10 +1777,10 @@
           "mean_en": ""
         },
         {
-          "word": "brief",
-          "phonetic": "",
+          "word": "brief (adjective)",
+          "phonetic": "/briːf/",
           "mean_fa": "",
-          "mean_en": "short"
+          "mean_en": "short or quick: a brief telephone call - Please be brief"
         },
         {
           "word": "fundamental",

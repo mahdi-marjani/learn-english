@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1808**
+**Total words: 1815**
 
 ## 📑 Table of Contents
 
@@ -10,9 +10,9 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (999 words)](#deep-learning-with-pytorch---vocabulary-999-words)
+- [Deep Learning with PyTorch - Vocabulary (1000 words)](#deep-learning-with-pytorch---vocabulary-1000-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
-  - [foreword (51 words)](#foreword-51-words)
+  - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
   - [about this book (163 words)](#about-this-book-163-words)
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (6 words)](#chapter-3-it-starts-with-a-tensor-6-words)
-- [Duolingo - Vocabulary (602 words)](#duolingo---vocabulary-602-words)
-  - [SECTION 1 (602 words)](#section-1-602-words)
+- [Duolingo - Vocabulary (606 words)](#duolingo---vocabulary-606-words)
+  - [SECTION 1 (606 words)](#section-1-606-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -43,12 +43,12 @@
     - [News (28 words)](#news-28-words)
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
-    - [Romance (33 words)](#romance-33-words)
-    - [Party (11 words)](#party-11-words)
-- [General - Vocabulary (55 words)](#general---vocabulary-55-words)
+    - [Romance (34 words)](#romance-34-words)
+    - [Party (14 words)](#party-14-words)
+- [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
-  - [social media (24 words)](#social-media-24-words)
+  - [social media (26 words)](#social-media-26-words)
   - [other (13 words)](#other-13-words)
   - [Wow! Words (7 words)](#wow-words-7-words)
 
@@ -94,7 +94,7 @@
 - `cube`  /kjuːb/ <br> 1. a shape like a box with six square sides all the same size <br> 2. the number that you get if you multiply a number by itself twice: The cube of 5 (= 5³) is 125 (= 5 * 5 * 5)
 - `hurry (verb)`  /ˈhʌri/ <br> to move or do something quickly: We hurried home after school <br> `hurry up` to move or do something more quickly because there is not much time: Hurry up or we'll be late!
 - `to come aboard`  /tuː kʌm əˈbɔːrd/ <br> to get on a ship, plane, train, or other vehicle: We need to come aboard before the ship leaves
-- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180
+- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180 <br> `get along` If two or more people get along, they like each other and are friendly to each other: I don't really get along with my sister's husband
 - `train (verb)`  /treɪn/ <br> 1. to teach a person or an animal to do something: He was trained as a pilot <br> 2. to make yourself ready for something by studying or doing something a lot: Ann is training to be a doctor - She's training for the Olympics
 - `crew`  /kruː/ <br> all the people who work on a ship or a plane
 - `lad`  /læd/ <br> a boy or young man
@@ -221,7 +221,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (999 words)
+## Deep Learning with PyTorch - Vocabulary (1000 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -264,9 +264,10 @@
 - `same (adjective)`  <br> the same not different; not another: Emma and I like the same kind of music - I've lived in the same town all my life - He went to the same school as me
 ---
 
-### foreword (51 words)
+### foreword (52 words)
 - `author`  <br> نویسنده
-- `instrumental`  <br> تأثیرگذار
+- `instrumental (adjective)`  /ˌɪn.strəˈmen.t̬əl/ <br> If someone or something is instrumental in a process, plan, or system, that person or thing is one of the most important influences in causing it to happen: She was instrumental in bringing about the prison reform act
+- `influence (noun)`  /ˈɪn.flu.əns/ <br> the power to have an effect on people or things, or a person or thing that is able to do this: Family is the most important influence on children
 - `flexible`  <br> انعطاف پذیر
 - `express`  <br> to say or show how you think or feel: She expressed her ideas well - بیان کردن
 - `executed`  <br> اجرا کردن
@@ -447,7 +448,7 @@
 - `tricking`  <br> حقه زدن، trick
 - `above and beyond`  <br> بیش از حد انتظار
 - `above`  /əˈbʌv/ <br> 1. in or to a higher place; higher than somebody or something: The sun is above the clouds (OPPOSITE: below) <br> 2. more than a number or price: Temperatures above 40°C
-- `beyond`  <br> بیش از
+- `beyond`  /biˈjɑːnd/ <br> on the other side of something; further than something: The road continues beyond the village up into the hills - We could see the lake and the mountains beyond - فراتر از
 - `reviewer`  <br> بازبین
 - `duty`  <br> وظیفه
 - `deal (verb)`  /diːl/ <br> 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> `deal out` to give something to a number of people: The profits will be dealt out among us <br> `deal with something` 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
@@ -527,7 +528,7 @@
 - `preserve`  /prɪˈzɜːrv/ <br> to keep something unchanged, safe or in good condition: pixels outside the mask are preserved by re-inserting the original content
 - `characterize`  /ˈker.ək.tə.raɪz/ <br> describe; define
 - `breakdown`  <br> تقسیم‌بندی
-- `brief`  <br> short
+- `brief (adjective)`  /briːf/ <br> short or quick: a brief telephone call - Please be brief
 - `fundamental`  <br> basic
 - `out there`  <br> in the real world
 - `wild`  /waɪld/ <br> 1. Wild plants and animals live or grow in nature. not with people: We picked some wild flowers <br> 2. excited; not controlled: She was wild with anger - The crowd went wild with excitement <br> 3. (in the phrase 'in the wild') means real-world environments, not just in tutorials or controlled settings.
@@ -1254,9 +1255,9 @@
 
 ---
 
-## Duolingo - Vocabulary (602 words)
+## Duolingo - Vocabulary (606 words)
 
-### SECTION 1 (602 words)
+### SECTION 1 (606 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1371,7 +1372,7 @@
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
-- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
+- `care (verb)`  /ker/ <br> to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care about someone/something` to think that something or someone is important and to feel interested in it or them: Clearly this generation is a group that cares about the environment - Your parents are only doing this because they care about you - He genuinely cares about his employees <br> `care to do something` to make the effort to do something: I've done this job more times than I care to remember <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better
 - `approach (verb)`  /əˈproʊtʃ/ <br> to come near to somebody or something in distance or time: As you approach the village, you'll see a church on your right - The exams were approaching
 - `church`  /tʃɜːrtʃ/ <br> a building for Christian religious activities <br> <img src='images/church.jpg' alt='church' width='200'>
 - `boring`  <br> not interesting or exciting: The movie was so boring I fell asleep - It's boring to sit on the plane with nothing to read
@@ -1854,7 +1855,7 @@
 - `paper crane`  <br> a bird shape made of paper <br> <img src='images/paper-crane.jpg' alt='paper-crane' width='200'>
 - `spooky (adjective)`  /ˈspuː.ki/ <br> strange and frightening: spooky house
 
-#### Romance (33 words)
+#### Romance (34 words)
 - `romance`  /roʊˈmæns/ <br> 1. a time when two people are in love: a romance between a doctor and a nurse <br> 2. a story about love: She writes romances
 - `workout`  /ˈwɜːrkaʊt/ <br> a period of physical exercise
 - `tear (verb)`  /ter/ <br> 1. to damage something by pulling it apart or making an untidy hole in it: She tore her dress on a nail - I tore the piece of paper in half - I can't use this bag _ It's torn <br> 2. to come apart; to break: Paper tears easily <br> 3. to take something from somebody or something in a quick and violent way: He tore the bag out of her hands <br> 4. to move somewhere very fast: He tore down the street <br> `tear something up` to destroy something by pulling it into small pieces: I tore the letter up and threw it away
@@ -1866,6 +1867,7 @@
 - `upset (adjective)`  /ʌpˈset/ <br> 1. unhappy or worried: The children were very upset when their dog died <br> 2. ill: I've got an upset stomach
 - `nap`  /næp/ <br> a short sleep
 - `point (noun)`  /pɔɪnt/ <br> 1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up
+- `needle`  /ˈniː.dəl/ <br> 1. a thin metal pin, used in sewing, that is pointed at one end and has a hole called an eye at the other end for thread <br> <img src='images/needle1.jpg' alt='needle1' width='200'> <br> 2. a very thin, hollow, pointed piece of metal that is connected to a syringe and used to take blood from the body or to put drugs or medicine in <br> <img src='images/needle2.jpg' alt='needle2' width='200'> <br> 3. a pine tree's leaf that is thin and hard: cactus needle <br> <img src='images/needle3.jpg' alt='needle3' width='200'>
 - `nightlife (noun)`  /ˈnaɪt.laɪf/ <br> things to do in the evenings in a particular area, such as dancing or going to bars: What's the nightlife like round here?
 - `wives`  /waɪvz/ <br> plural of wife
 - `have (verb)`  /hæv/ <br> 1. (also have got) to own or keep something: She has blue eyes - They've got (= have got) a big car - Do you have any brothers and sisters? <br> 2. a word that you use with many nouns to talk about doing something: What time do you have breakfast? - Let's have a drink - I had a shower - Jill and I have had a fight <br> 3. a word that you use with many nouns to talk about experiencing something: Have fun! - He has had an accident - Did you have a good holiday? - I have an idea - Have you got time to help me? <br> 4. (also have got) to be ill with something: She's got (= has got) a headache - I have flu <br> `have something done` to let somebody do something for you: I had my hair cut yesterday - Have you had your car mended? <br> `have somebody over` to invite someone to your home for a visit, meal, etc.: We're having some friends over for dinner on Saturday - Why don't you have them over sometime? - We had my parents over last weekend
@@ -1889,7 +1891,7 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-#### Party (11 words)
+#### Party (14 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
@@ -1901,11 +1903,14 @@
 - `sparkle (verb)`  /ˈspɑːr.kəl/ <br> to shine brightly with a lot of small points of light: The snow/sea sparkled in the sunlight
 - `sparkle (noun)`  /ˈspɑːr.kəl/ <br> bright shine: the sparkle of diamonds
 - `mascot`  /ˈmæs.kɑːt/ <br> a person, animal or thing that people think brings them good luck
+- `pea`  /piː/ <br> a green seed, eaten as a vegetable <br> <img src='images/pea.jpg' alt='pea' width='200'>
+- `cabbage`  /ˈkæb.ɪdʒ/ <br> a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked <br> <img src='images/cabbage.jpg' alt='cabbage' width='200'>
+- `topping`  /ˈtɑː.pɪŋ/ <br> a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive: pizza topping
 ---
 
 ---
 
-## General - Vocabulary (55 words)
+## General - Vocabulary (57 words)
 
 ### game (5 words)
 - `swipe`  /swaɪp/ <br> 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -1924,7 +1929,7 @@
 - `lonely`  /ˈloʊnli/ <br> 1. unhappy because you are not with other people: She felt very lonely when she first went to live in the city <br> 2. far from other places: a lonely house in the hills
 ---
 
-### social media (24 words)
+### social media (26 words)
 - `teenager`  /ˈtiːneɪdʒər/ <br> a person who is between 13 and 19 years old
 - `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
 - `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
@@ -1949,6 +1954,8 @@
 - `stranger`  /ˈstreɪndʒər/ <br> someone you do not know
 - `tradition`  /trəˈdɪʃ.ən/ <br> a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group
 - `mustard`  /ˈmʌstərd/ <br> a thick yellow or brown sauce that tastes spicy and is eaten cold in small amounts, especially with meat <br> <img src='images/mustard.jpg' alt='mustard' width='200'>
+- `toxic (adjective)`  /ˈtɑːk.sɪk/ <br> 1. poisonous; containing poison: toxic waste/chemicals/effluent - The tree's bark is toxic to insects <br> 2. (informal) (of a person, relationship or situation) very unpleasant, especially in the way somebody likes to control and influence other people in a dishonest way: I felt trapped in this toxic relationship
+- `omni-`  /ɑːm.nɪ-/ <br> everywhere or everything: omnipresent - omniscient
 ---
 
 ### other (13 words)

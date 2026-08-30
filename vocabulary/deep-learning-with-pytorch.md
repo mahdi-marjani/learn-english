@@ -1,11 +1,11 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 999**
+**Total words: 1000**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
-- [foreword (51 words)](#foreword-51-words)
+- [foreword (52 words)](#foreword-52-words)
 - [preface (91 words)](#preface-91-words)
 - [acknowledgments (58 words)](#acknowledgments-58-words)
 - [about this book (163 words)](#about-this-book-163-words)
@@ -59,9 +59,10 @@
 - `same (adjective)`  <br> the same not different; not another: Emma and I like the same kind of music - I've lived in the same town all my life - He went to the same school as me
 ---
 
-## foreword (51 words)
+## foreword (52 words)
 - `author`  <br> نویسنده
-- `instrumental`  <br> تأثیرگذار
+- `instrumental (adjective)`  /ˌɪn.strəˈmen.t̬əl/ <br> If someone or something is instrumental in a process, plan, or system, that person or thing is one of the most important influences in causing it to happen: She was instrumental in bringing about the prison reform act
+- `influence (noun)`  /ˈɪn.flu.əns/ <br> the power to have an effect on people or things, or a person or thing that is able to do this: Family is the most important influence on children
 - `flexible`  <br> انعطاف پذیر
 - `express`  <br> to say or show how you think or feel: She expressed her ideas well - بیان کردن
 - `executed`  <br> اجرا کردن
@@ -242,7 +243,7 @@
 - `tricking`  <br> حقه زدن، trick
 - `above and beyond`  <br> بیش از حد انتظار
 - `above`  /əˈbʌv/ <br> 1. in or to a higher place; higher than somebody or something: The sun is above the clouds (OPPOSITE: below) <br> 2. more than a number or price: Temperatures above 40°C
-- `beyond`  <br> بیش از
+- `beyond`  /biˈjɑːnd/ <br> on the other side of something; further than something: The road continues beyond the village up into the hills - We could see the lake and the mountains beyond - فراتر از
 - `reviewer`  <br> بازبین
 - `duty`  <br> وظیفه
 - `deal (verb)`  /diːl/ <br> 1. to give cards to players in a game of cards: Start by dealing seven cards to each player <br> 2. to buy and sell something in business <br> `deal out` to give something to a number of people: The profits will be dealt out among us <br> `deal with something` 1. to take action in a particular situation in order to solve a problem or do a particular job: I am too busy to deal with this problem now <br> 2. to be about a special subject: The first chapter of the book deals with letter writing
@@ -322,7 +323,7 @@
 - `preserve`  /prɪˈzɜːrv/ <br> to keep something unchanged, safe or in good condition: pixels outside the mask are preserved by re-inserting the original content
 - `characterize`  /ˈker.ək.tə.raɪz/ <br> describe; define
 - `breakdown`  <br> تقسیم‌بندی
-- `brief`  <br> short
+- `brief (adjective)`  /briːf/ <br> short or quick: a brief telephone call - Please be brief
 - `fundamental`  <br> basic
 - `out there`  <br> in the real world
 - `wild`  /waɪld/ <br> 1. Wild plants and animals live or grow in nature. not with people: We picked some wild flowers <br> 2. excited; not controlled: She was wild with anger - The crowd went wild with excitement <br> 3. (in the phrase 'in the wild') means real-world environments, not just in tutorials or controlled settings.

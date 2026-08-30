@@ -662,7 +662,7 @@
               "word": "care (verb)",
               "phonetic": "/ker/",
               "mean_fa": "",
-              "mean_en": "to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better"
+              "mean_en": "to think that somebody or something is important: The only thing he cares about is money - I don't care who wins _ I'm not interested in football <br> `care about someone/something` to think that something or someone is important and to feel interested in it or them: Clearly this generation is a group that cares about the environment - Your parents are only doing this because they care about you - He genuinely cares about his employees <br> `care to do something` to make the effort to do something: I've done this job more times than I care to remember <br> `care for somebody` to do the things for somebody that they need: After the accident, her parents cared for her until she was better"
             },
             {
               "word": "approach (verb)",
@@ -3517,6 +3517,12 @@
               "mean_en": "1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up"
             },
             {
+              "word": "needle",
+              "phonetic": "/ˈniː.dəl/",
+              "mean_fa": "",
+              "mean_en": "1. a thin metal pin, used in sewing, that is pointed at one end and has a hole called an eye at the other end for thread <br> <img src='images/needle1.jpg' alt='needle1' width='200'> <br> 2. a very thin, hollow, pointed piece of metal that is connected to a syringe and used to take blood from the body or to put drugs or medicine in <br> <img src='images/needle2.jpg' alt='needle2' width='200'> <br> 3. a pine tree's leaf that is thin and hard: cactus needle <br> <img src='images/needle3.jpg' alt='needle3' width='200'>"
+            },
+            {
               "word": "nightlife (noun)",
               "phonetic": "/ˈnaɪt.laɪf/",
               "mean_fa": "",
@@ -3718,6 +3724,24 @@
               "phonetic": "/ˈmæs.kɑːt/",
               "mean_fa": "",
               "mean_en": "a person, animal or thing that people think brings them good luck"
+            },
+            {
+              "word": "pea",
+              "phonetic": "/piː/",
+              "mean_fa": "",
+              "mean_en": "a green seed, eaten as a vegetable <br> <img src='images/pea.jpg' alt='pea' width='200'>"
+            },
+            {
+              "word": "cabbage",
+              "phonetic": "/ˈkæb.ɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked <br> <img src='images/cabbage.jpg' alt='cabbage' width='200'>"
+            },
+            {
+              "word": "topping",
+              "phonetic": "/ˈtɑː.pɪŋ/",
+              "mean_fa": "",
+              "mean_en": "a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive: pizza topping"
             }
           ]
         }
