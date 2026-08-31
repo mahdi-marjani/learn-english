@@ -6112,6 +6112,96 @@
               "phonetic": "/fɜːr/",
               "mean_fa": "",
               "mean_en": "the soft, thick hair that covers the bodies of many animals: certain textures like fur - The cat's fur was soft and warm"
+            },
+            {
+              "word": "such (adjective)",
+              "phonetic": "/sʌtʃ/",
+              "mean_fa": "",
+              "mean_en": "1. a word that makes another word stronger; used before a noun or noun phrase to add emphasis: He wears such strange clothes - It was such a nice day that we decided to go to the beach <br> 2. like this or that: 'Can I speak to Mrs Graham?' 'I'm sorry. There's no such person here'"
+            },
+            {
+              "word": "precede (verb)",
+              "phonetic": "/priːˈsiːd/",
+              "mean_fa": "",
+              "mean_en": "to come before something in time or order: Spring precedes summer"
+            },
+            {
+              "word": "precisely (adverb)",
+              "phonetic": "/prɪˈsaɪs.li/",
+              "mean_fa": "",
+              "mean_en": "exactly; in an exact and accurate way: The train arrived precisely on time"
+            },
+            {
+              "word": "bump (verb)",
+              "phonetic": "/bʌmp/",
+              "mean_fa": "",
+              "mean_en": "1. to hit somebody or something when you are moving: She bumped into a chair <br> 2. to hit a part of your body against something hard: I bumped my knee on the table <br> `bump into somebody or something` to meet somebody or something by chance: I bumped into David today - We already bumped into tensors in chapter 2, when we ran inference on pretrained networks"
+            },
+            {
+              "word": "arbitrary (adjective)",
+              "phonetic": "/ˈɑːr.bɪ.trer.i/",
+              "mean_fa": "",
+              "mean_en": "not based on a fixed rule or system; chosen or decided randomly or freely: the generalization of vectors and matrices to an arbitrary number of dimensions - He picked a number at random, with no real reason _ it was completely arbitrary"
+            },
+            {
+              "word": "coincide (verb)",
+              "phonetic": "/ˌkoʊ.ɪnˈsaɪd/",
+              "mean_fa": "",
+              "mean_en": "to happen at the same time as something else, or to match/correspond exactly: Her birthday coincides with mine; we're both born on May 1st"
+            },
+            {
+              "word": "scalar (noun)",
+              "phonetic": "/ˈskeɪlər/",
+              "mean_fa": "",
+              "mean_en": "(math/physics) a single number, as opposed to a vector or array of numbers: Temperature is a scalar, but velocity is a vector because it has direction"
+            },
+            {
+              "word": "opposed (adjective)",
+              "phonetic": "/əˈpoʊzd/",
+              "mean_fa": "",
+              "mean_en": "completely different: His view of the situation is diametrically (= very strongly) opposed to mine"
+            },
+            {
+              "word": "leftmost (adjective)",
+              "phonetic": "/ˈleft.moʊst/",
+              "mean_fa": "",
+              "mean_en": "farthest to the left; the one positioned at the very left: Click the leftmost button on the toolbar"
+            },
+            {
+              "word": "and so on",
+              "phonetic": "/ænd soʊ ɑːn/",
+              "mean_fa": "",
+              "mean_en": "and similar things; et cetera: - We need apples, bananas, oranges, and so on"
+            },
+            {
+              "word": "lingua franca (noun)",
+              "phonetic": "/ˌlɪŋ.ɡwə ˈfræŋ.kə/",
+              "mean_fa": "",
+              "mean_en": "a language or system that is widely used as a common means of communication among people who don't share a native language: NumPy has now arguably become the lingua franca of data science - English is often used as the lingua franca in international business"
+            },
+            {
+              "word": "first class (adjective)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "excellent; of the highest quality or level: The hotel offered first-class service to all its guests - She did a first-class job of decorating the living room"
+            },
+            {
+              "word": "motion (noun)",
+              "phonetic": "/ˈmoʊ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "movement: The motion of the boat made her feel sick - Please remain seated while the bus is in motion (= moving) <br> `set/put something in motion` start something moving or working: The plan was set in motion last week"
+            },
+            {
+              "word": "aforementioned (adjective)",
+              "phonetic": "/əˈfɔːr.men.ʃənd/",
+              "mean_fa": "",
+              "mean_en": "mentioned earlier: the aforementioned NumPy interoperability and GPU acceleration - Please review the aforementioned documents before the meeting - The aforementioned Mr Parkes then entered the cinema"
+            },
+            {
+              "word": "go-to (adjective)",
+              "phonetic": "/ˈɡoʊˌtuː/",
+              "mean_fa": "",
+              "mean_en": "used to describe the best person, thing, or place for a particular purpose or need: A side of salmon is the perfect go-to dish for a dinner party"
             }
           ]
         }

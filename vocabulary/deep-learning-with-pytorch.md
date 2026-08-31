@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1010**
+**Total words: 1025**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (542 words)](#part-1-core-pytorch-542-words)
+- [Part 1: Core PyTorch (557 words)](#part-1-core-pytorch-557-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (16 words)](#chapter-3-it-starts-with-a-tensor-16-words)
+  - [Chapter 3: It starts with a tensor (31 words)](#chapter-3-it-starts-with-a-tensor-31-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (542 words)
+## Part 1: Core PyTorch (557 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (16 words)
+### Chapter 3: It starts with a tensor (31 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1056,4 +1056,19 @@
 - `stage (noun)`  /steɪdʒ/ <br> a particular point or period in a process of development: The project is still in its early stages - The project is in its final stages and should be completed by August - Their youngest child is at the stage where she can say individual words but not full sentences
 - `texture (noun)`  /ˈtekstʃər/ <br> the way a surface feels or looks, especially how rough or smooth it is: The fabric has a soft, silky texture - The painting had a rough, bumpy texture you could see even from far away
 - `fur (noun)`  /fɜːr/ <br> the soft, thick hair that covers the bodies of many animals: certain textures like fur - The cat's fur was soft and warm
+- `such (adjective)`  /sʌtʃ/ <br> 1. a word that makes another word stronger; used before a noun or noun phrase to add emphasis: He wears such strange clothes - It was such a nice day that we decided to go to the beach <br> 2. like this or that: 'Can I speak to Mrs Graham?' 'I'm sorry. There's no such person here'
+- `precede (verb)`  /priːˈsiːd/ <br> to come before something in time or order: Spring precedes summer
+- `precisely (adverb)`  /prɪˈsaɪs.li/ <br> exactly; in an exact and accurate way: The train arrived precisely on time
+- `bump (verb)`  /bʌmp/ <br> 1. to hit somebody or something when you are moving: She bumped into a chair <br> 2. to hit a part of your body against something hard: I bumped my knee on the table <br> `bump into somebody or something` to meet somebody or something by chance: I bumped into David today - We already bumped into tensors in chapter 2, when we ran inference on pretrained networks
+- `arbitrary (adjective)`  /ˈɑːr.bɪ.trer.i/ <br> not based on a fixed rule or system; chosen or decided randomly or freely: the generalization of vectors and matrices to an arbitrary number of dimensions - He picked a number at random, with no real reason _ it was completely arbitrary
+- `coincide (verb)`  /ˌkoʊ.ɪnˈsaɪd/ <br> to happen at the same time as something else, or to match/correspond exactly: Her birthday coincides with mine; we're both born on May 1st
+- `scalar (noun)`  /ˈskeɪlər/ <br> (math/physics) a single number, as opposed to a vector or array of numbers: Temperature is a scalar, but velocity is a vector because it has direction
+- `opposed (adjective)`  /əˈpoʊzd/ <br> completely different: His view of the situation is diametrically (= very strongly) opposed to mine
+- `leftmost (adjective)`  /ˈleft.moʊst/ <br> farthest to the left; the one positioned at the very left: Click the leftmost button on the toolbar
+- `and so on`  /ænd soʊ ɑːn/ <br> and similar things; et cetera: - We need apples, bananas, oranges, and so on
+- `lingua franca (noun)`  /ˌlɪŋ.ɡwə ˈfræŋ.kə/ <br> a language or system that is widely used as a common means of communication among people who don't share a native language: NumPy has now arguably become the lingua franca of data science - English is often used as the lingua franca in international business
+- `first class (adjective)`  <br> excellent; of the highest quality or level: The hotel offered first-class service to all its guests - She did a first-class job of decorating the living room
+- `motion (noun)`  /ˈmoʊ.ʃən/ <br> movement: The motion of the boat made her feel sick - Please remain seated while the bus is in motion (= moving) <br> `set/put something in motion` start something moving or working: The plan was set in motion last week
+- `aforementioned (adjective)`  /əˈfɔːr.men.ʃənd/ <br> mentioned earlier: the aforementioned NumPy interoperability and GPU acceleration - Please review the aforementioned documents before the meeting - The aforementioned Mr Parkes then entered the cinema
+- `go-to (adjective)`  /ˈɡoʊˌtuː/ <br> used to describe the best person, thing, or place for a particular purpose or need: A side of salmon is the perfect go-to dish for a dinner party
 ---
