@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1840**
+**Total words: 1848**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1025 words)](#deep-learning-with-pytorch---vocabulary-1025-words)
+- [Deep Learning with PyTorch - Vocabulary (1026 words)](#deep-learning-with-pytorch---vocabulary-1026-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,12 +18,12 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (557 words)](#part-1-core-pytorch-557-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
+  - [Part 1: Core PyTorch (558 words)](#part-1-core-pytorch-558-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (31 words)](#chapter-3-it-starts-with-a-tensor-31-words)
-- [Duolingo - Vocabulary (606 words)](#duolingo---vocabulary-606-words)
-  - [SECTION 1 (606 words)](#section-1-606-words)
+- [Duolingo - Vocabulary (613 words)](#duolingo---vocabulary-613-words)
+  - [SECTION 1 (613 words)](#section-1-613-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -44,7 +44,7 @@
     - [Wildlife (37 words)](#wildlife-37-words)
     - [Old Times (38 words)](#old-times-38-words)
     - [Romance (34 words)](#romance-34-words)
-    - [Party (14 words)](#party-14-words)
+    - [Party (21 words)](#party-21-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -221,7 +221,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1025 words)
+## Deep Learning with PyTorch - Vocabulary (1026 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -712,7 +712,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (557 words)
+### Part 1: Core PyTorch (558 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -727,7 +727,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (290 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -766,6 +766,7 @@
 - `definite`  /ˈdefɪnɪt/ <br> Something that is definite is clear, fixed and unlikely to change (SAME MEANING: certain): I want a definite answer, 'yes' or 'no'
 - `carry`  /ˈkæri/ <br> 1. to hold something and take it to another place or keep it with you: He carried the suitcase to my room - I can't carry this box _ it's too heavy - Do the police carry guns in your country? <br> 2. to move people or things: Special fast trains carry people to the city centre <br> `carry on` to continue: Carry on with your work - If you carry on to the end of this road, you'll see the post office on the right <br> `carry out something` to do or finish what you have planned: The bridge was closed while they carried out the repairs
 - `whether`  /ˈweðər/ <br> 1. a word that we use to talk about choosing between two things: I don't know whether to go or not <br> 2. if: she asked me whether I was Spanish
+- `if`  <br> 1. a word that you use to say what is possible or true when another thing happens or is true: If you press this button, the machine starts - If you see him, give him this letter - If your feet were smaller, you could wear my shoes - If I had a million pounds, I would buy a big house - I may see you tomorrow. If not, I'll see you next week <br> 2. a word that shows a question (SAME MEANING: whether): Do you know if Paul is at home? - She asked me if I wanted to go to a party <br> 3. every time (SAME MEANING: whenever): If I try to phone her she just hangs up <br> `as if` in a way that makes you think something: She looks as if she has been on holiday <br> `if only` words that show that you want something very much: If only I could drive!
 - `submarine`  /ˌsʌbməˈriːn/ <br> a ship that can travel underwater
 - `fall (verb)`  /fɔːl/ <br> 1. to go down quickly towards the ground: The book fell off the table - She fell down the stairs and broke her arm <br> 2. (also fall over) to suddenly stop standing: He slipped on the ice and fell - I fell over and hurt my leg <br> 3. to become lower or less: In the desert the temperature falls quickly at night - Price have fallen again (OPPOSITE: rise) <br> `fall apart` to break into pieces: The chair fell apart when I sat on it <br> `fall asleep` to start sleeping: She fell asleep in the armchair <br> `fall behind` to become slower than others, or not do something when you should do it: She's falling behind with her school work <br> `fall for somebody` to begin to love somebody: He has fallen for someone he met on holiday <br> `fall in love with somebody` to begin to love somebody: He fell in love with Anna the first time they met <br> `fall out with somebody` to argue with somebody so that you stop being friends: Jane has fallen out with her best friend (OPPOSITE: make up) <br> `fall through` if a plan falls through, it does not happen
 - `fall under`  <br> to be classified or included in a category, group, or heading
@@ -1280,9 +1281,9 @@
 
 ---
 
-## Duolingo - Vocabulary (606 words)
+## Duolingo - Vocabulary (613 words)
 
-### SECTION 1 (606 words)
+### SECTION 1 (613 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1916,7 +1917,7 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-#### Party (14 words)
+#### Party (21 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
@@ -1931,6 +1932,13 @@
 - `pea`  /piː/ <br> a green seed, eaten as a vegetable <br> <img src='images/pea.jpg' alt='pea' width='200'>
 - `cabbage`  /ˈkæb.ɪdʒ/ <br> a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked <br> <img src='images/cabbage.jpg' alt='cabbage' width='200'>
 - `topping`  /ˈtɑː.pɪŋ/ <br> a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive: pizza topping
+- `lift (verb)`  /lɪft/ <br> to move somebody or something to a higher position: I can't lift this box. It's too heavy - Lift your arm up
+- `sidewalk`  /ˈsaɪd.wɑːk/ <br> a path for people to walk on <br> <img src='images/sidewalk.jpg' alt='sidewalk' width='200'>
+- `bend (verb)`  /bend/ <br> 1. to make something that was straight into a curved shape: Bend your legs <br> 2. to be or become curved: The road bends to the left - I bend to pick it up <br> <img src='images/bend.jpg' alt='bend' width='200'>
+- `curved (adjective)`  /kɜːrvd/ <br> having the form of a curve
+- `curve (noun)`  /kɜːrv/ <br> a line that is not straight; a bend <br> <img src='images/curve.jpg' alt='curve' width='200'>
+- `band (noun)`  /bænd/ <br> 1. a group of people who play music together: a rock band - a jazz band <br> 2. a thin flat piece of material that you put around something: I put an elastic band round the letter to keep them together - The hat had a red band round it <br> 3. a line of color or material on something that is different from the rest of it: She wore a red jumper with a green band across the middle
+- `safety (noun)`  /ˈseɪf.ti/ <br> being safe: He is worried about the safety of his children
 ---
 
 ---

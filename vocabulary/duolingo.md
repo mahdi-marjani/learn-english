@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 606**
+**Total words: 613**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (606 words)](#section-1-606-words)
+- [SECTION 1 (613 words)](#section-1-613-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -25,11 +25,11 @@
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
   - [Romance (34 words)](#romance-34-words)
-  - [Party (14 words)](#party-14-words)
+  - [Party (21 words)](#party-21-words)
 
 ---
 
-## SECTION 1 (606 words)
+## SECTION 1 (613 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -663,7 +663,7 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-### Party (14 words)
+### Party (21 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
@@ -678,4 +678,11 @@
 - `pea`  /piː/ <br> a green seed, eaten as a vegetable <br> <img src='images/pea.jpg' alt='pea' width='200'>
 - `cabbage`  /ˈkæb.ɪdʒ/ <br> a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked <br> <img src='images/cabbage.jpg' alt='cabbage' width='200'>
 - `topping`  /ˈtɑː.pɪŋ/ <br> a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive: pizza topping
+- `lift (verb)`  /lɪft/ <br> to move somebody or something to a higher position: I can't lift this box. It's too heavy - Lift your arm up
+- `sidewalk`  /ˈsaɪd.wɑːk/ <br> a path for people to walk on <br> <img src='images/sidewalk.jpg' alt='sidewalk' width='200'>
+- `bend (verb)`  /bend/ <br> 1. to make something that was straight into a curved shape: Bend your legs <br> 2. to be or become curved: The road bends to the left - I bend to pick it up <br> <img src='images/bend.jpg' alt='bend' width='200'>
+- `curved (adjective)`  /kɜːrvd/ <br> having the form of a curve
+- `curve (noun)`  /kɜːrv/ <br> a line that is not straight; a bend <br> <img src='images/curve.jpg' alt='curve' width='200'>
+- `band (noun)`  /bænd/ <br> 1. a group of people who play music together: a rock band - a jazz band <br> 2. a thin flat piece of material that you put around something: I put an elastic band round the letter to keep them together - The hat had a red band round it <br> 3. a line of color or material on something that is different from the rest of it: She wore a red jumper with a green band across the middle
+- `safety (noun)`  /ˈseɪf.ti/ <br> being safe: He is worried about the safety of his children
 ---
