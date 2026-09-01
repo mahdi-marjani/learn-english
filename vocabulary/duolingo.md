@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 613**
+**Total words: 623**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (613 words)](#section-1-613-words)
+- [SECTION 1 (623 words)](#section-1-623-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -25,11 +25,12 @@
   - [Wildlife (37 words)](#wildlife-37-words)
   - [Old Times (38 words)](#old-times-38-words)
   - [Romance (34 words)](#romance-34-words)
-  - [Party (21 words)](#party-21-words)
+  - [Party (25 words)](#party-25-words)
+  - [The visit (6 words)](#the-visit-6-words)
 
 ---
 
-## SECTION 1 (613 words)
+## SECTION 1 (623 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -663,7 +664,7 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-### Party (21 words)
+### Party (25 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
@@ -685,4 +686,16 @@
 - `curve (noun)`  /kɜːrv/ <br> a line that is not straight; a bend <br> <img src='images/curve.jpg' alt='curve' width='200'>
 - `band (noun)`  /bænd/ <br> 1. a group of people who play music together: a rock band - a jazz band <br> 2. a thin flat piece of material that you put around something: I put an elastic band round the letter to keep them together - The hat had a red band round it <br> 3. a line of color or material on something that is different from the rest of it: She wore a red jumper with a green band across the middle
 - `safety (noun)`  /ˈseɪf.ti/ <br> being safe: He is worried about the safety of his children
+- `chili`  /ˈtʃɪl.i/ <br> the small, red or green seed case from particular types of pepper plant that is used to make some foods spicy <br> <img src='images/chili.jpg' alt='chili' width='200'>
+- `while (noun)`  /waɪl/ <br> a period of time: Let's sit here for a while - I'm going home in a while (= soon)
+- `spicy (adjective)`  /ˈspaɪsi/ <br> 1. (of food) having a strong taste because spices have been added to it (SAME MEANING: hot): I don't like spicy food - spicy sausage/soup <br> 2. (informal) (of a story, piece of news, etc.) exciting and making you feel slightly shocked: a spicy novel
+- `neighbor`  /ˈneɪbər/ <br> a person who lives near you: Don't make so much noise or you'll wake the neighbors
+
+### The visit (6 words)
+- `broccoli`  /ˈbrɑː.kəl.i/ <br> a vegetable with a thick green stem and several dark green or purple flower heads <br> <img src='images/broccoli.jpg' alt='broccoli' width='200'>
+- `annoy (verb)`  /əˈnɔɪ/ <br> to make somebody a little angry: It really annoys me when my brother leaves his clothes all over the floor - Close the door if the noise is annoying you
+- `vendor`  /ˈvendər/ <br> a person who sells things
+- `miserable (adjective)`  /ˈmɪzrəbl/ <br> very unhappy: She's miserable living on her own
+- `weird (adjective)`  /wɪrd/ <br> strange
+- `apron`  /ˈeɪ.prən/ <br> a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, especially cooking <br> <img src='images/apron.jpg' alt='apron' width='200'>
 ---
