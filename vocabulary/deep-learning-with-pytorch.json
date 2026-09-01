@@ -6208,6 +6208,72 @@
               "phonetic": "/ˈɡoʊˌtuː/",
               "mean_fa": "",
               "mean_en": "used to describe the best person, thing, or place for a particular purpose or need: A side of salmon is the perfect go-to dish for a dinner party"
+            },
+            {
+              "word": "coordinate (noun)",
+              "phonetic": "/koʊˈɔːr.dɪ.nət/",
+              "mean_fa": "",
+              "mean_en": "a set of numbers (like x, y) used to show the exact position of a point on a graph, map, or space:The coordinates (3, 5) mark a specific point on the graph"
+            },
+            {
+              "word": "following (adjective)",
+              "phonetic": "/ˈfɑː.loʊ.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "next in time or order; coming right after: As we will see in the following chapter - Please read the following instructions carefully"
+            },
+            {
+              "word": "expressively (adverb)",
+              "phonetic": "/ɪkˈspres.ɪv.li/",
+              "mean_fa": "",
+              "mean_en": "in a way that clearly communicates meaning, feeling, or ideas: She spoke very expressively, making the story come alive"
+            },
+            {
+              "word": "particularly",
+              "phonetic": "/pərˈtɪkjələrli/",
+              "mean_fa": "",
+              "mean_en": "especially, or more than usual: We're particularly interested to hear from people who speak two or more European languages - I didn't particularly want to go, but I had to"
+            },
+            {
+              "word": "meaningful (adjective)",
+              "phonetic": "/ˈmiː.nɪŋ.fəl/",
+              "mean_fa": "",
+              "mean_en": "having real importance, purpose, or value; making sense: We had a meaningful conversation about our future"
+            },
+            {
+              "word": "essence (noun)",
+              "phonetic": "/ˈes.əns/",
+              "mean_fa": "",
+              "mean_en": "the basic or most important idea or quality of something: Simplicity is the essence of good design"
+            },
+            {
+              "word": "allocate (verb)",
+              "phonetic": "/ˈæl.ə.keɪt/",
+              "mean_fa": "",
+              "mean_en": "to give something (like time, money, or memory) officially to a particular person, task, or purpose; to set something apart for a specific use: The teacher allocated ten minutes for each presentation"
+            },
+            {
+              "word": "contiguous (adjective)",
+              "phonetic": "/kənˈtɪɡ.ju.əs/",
+              "mean_fa": "",
+              "mean_en": "next to each other in an unbroken sequence, without any gaps or breaks: The two houses are contiguous, sharing a wall - The three contiguous parking spots were all empty"
+            },
+            {
+              "word": "homogeneous (adjective)",
+              "phonetic": "/ˌhoʊ.moʊˈdʒiː.ni.əs/",
+              "mean_fa": "",
+              "mean_en": "consisting of parts that are all the same type or kind: Tensors are homogeneous, all elements are of the same data type - The group was homogeneous, everyone came from the same city"
+            },
+            {
+              "word": "i.e. (abbreviation)",
+              "phonetic": "/ˌaɪ ˈiː/",
+              "mean_fa": "",
+              "mean_en": "short for the Latin 'id est,' meaning 'that is' — used to explain or clarify what was just said: Tensors are homogeneous (i.e., all elements are of the same data type) - I'll be there at noon, i.e., 12:00 PM."
+            },
+            {
+              "word": "metadata (noun)",
+              "phonetic": "/ˈmet.ə.deɪ.tə/",
+              "mean_fa": "",
+              "mean_en": "data that gives information about other data, such as its format or properties: The photo's metadata includes the date it was taken and the camera model"
             }
           ]
         }
