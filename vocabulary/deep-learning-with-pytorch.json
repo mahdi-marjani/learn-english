@@ -2786,7 +2786,7 @@
           "word": "perhaps",
           "phonetic": "/pərˈhæps/",
           "mean_fa": "",
-          "mean_en": "maybe"
+          "mean_en": "a word that you use when you are not sure about something (SAME MEANING: maybe): I don't know where she is _ perhaps she's still at work - There were three men, or perhaps four"
         },
         {
           "word": "varied",
@@ -6274,6 +6274,36 @@
               "phonetic": "/ˈmet.ə.deɪ.tə/",
               "mean_fa": "",
               "mean_en": "data that gives information about other data, such as its format or properties: The photo's metadata includes the date it was taken and the camera model"
+            },
+            {
+              "word": "geometrical (adjective)",
+              "phonetic": "/ˌdʒiː.əˈmet.rɪ.kəl/",
+              "mean_fa": "",
+              "mean_en": "relating to geometry, the branch of math dealing with shapes, points, lines, and space: a geometrical object - The rug had a geometrical pattern of squares and triangles"
+            },
+            {
+              "word": "triangle",
+              "phonetic": "/ˈtraɪ.æŋ.ɡəl/",
+              "mean_fa": "",
+              "mean_en": "a shape with three straight sides and three angles <br> <img src='images/triangle.jpg' alt='triangle' width='200'>"
+            },
+            {
+              "word": "vertex (noun)",
+              "phonetic": "/ˈvɜːrteks/",
+              "mean_fa": "",
+              "mean_en": "(plural vertices) a point where two or more lines or edges meet, especially the corner of a shape: a 2D triangle with vertices at coordinates (4, 1), (5, 3), and (2, 1) - Each corner of the triangle is a vertex <br> <img src='images/vertex.jpg' alt='vertex' width='200'>"
+            },
+            {
+              "word": "pertinent (adjective)",
+              "phonetic": "/ˈpɜːrtnənt/",
+              "mean_fa": "",
+              "mean_en": "relevant or directly related to the topic being discussed: The example is not particularly pertinent to deep learning - Please provide any pertinent information about the case"
+            },
+            {
+              "word": "appropriately (adverb)",
+              "phonetic": "/əˈproʊ.pri.ət.li/",
+              "mean_fa": "",
+              "mean_en": "in a suitable or correct way for the situation: just a way to get an appropriately sized array - Please dress appropriately for the interview"
             }
           ]
         }

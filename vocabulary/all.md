@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1880**
+**Total words: 1885**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1037 words)](#deep-learning-with-pytorch---vocabulary-1037-words)
+- [Deep Learning with PyTorch - Vocabulary (1042 words)](#deep-learning-with-pytorch---vocabulary-1042-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,10 +18,10 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (569 words)](#part-1-core-pytorch-569-words)
+  - [Part 1: Core PyTorch (574 words)](#part-1-core-pytorch-574-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (42 words)](#chapter-3-it-starts-with-a-tensor-42-words)
+    - [Chapter 3: It starts with a tensor (47 words)](#chapter-3-it-starts-with-a-tensor-47-words)
 - [Duolingo - Vocabulary (634 words)](#duolingo---vocabulary-634-words)
   - [SECTION 1 (634 words)](#section-1-634-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -222,7 +222,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1037 words)
+## Deep Learning with PyTorch - Vocabulary (1042 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -701,7 +701,7 @@
 - `continents`  /ˈkɑːntɪnənts/ <br> the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)
 - `landmass`  /ˈlænd.mæs/ <br> خشکی بزرگ
 - `let alone`  /let əˈloʊn/ <br> چه برسد به
-- `perhaps`  /pərˈhæps/ <br> maybe
+- `perhaps`  /pərˈhæps/ <br> a word that you use when you are not sure about something (SAME MEANING: maybe): I don't know where she is _ perhaps she's still at work - There were three men, or perhaps four
 - `varied`  /ˈverid/ <br> diverse, consisting of many different kinds
 - `certainly`  /ˈsɜːrtnli/ <br> 1. without any doubt: She is certainly the best swimmer in the team <br> 2. used when answering questions to mean 'of course': 'Will you open the door for me, please?' 'Certainly' - 'Are you going to apologize?' 'Certainly not!'
 - `doubt (noun)`  /daʊt/ <br> a feeling that you are not sure about something: She says the story is true but I have my doubts about it <br> `in doubt` not sure: if you are in doubt, ask your teacher <br> `no doubt` I am sure: Paul isn't here yet, but no doubt he will come later
@@ -713,7 +713,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (569 words)
+### Part 1: Core PyTorch (574 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1246,7 +1246,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (42 words)
+#### Chapter 3: It starts with a tensor (47 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1289,6 +1289,11 @@
 - `homogeneous (adjective)`  /ˌhoʊ.moʊˈdʒiː.ni.əs/ <br> consisting of parts that are all the same type or kind: Tensors are homogeneous, all elements are of the same data type - The group was homogeneous, everyone came from the same city
 - `i.e. (abbreviation)`  /ˌaɪ ˈiː/ <br> short for the Latin 'id est,' meaning 'that is' — used to explain or clarify what was just said: Tensors are homogeneous (i.e., all elements are of the same data type) - I'll be there at noon, i.e., 12:00 PM.
 - `metadata (noun)`  /ˈmet.ə.deɪ.tə/ <br> data that gives information about other data, such as its format or properties: The photo's metadata includes the date it was taken and the camera model
+- `geometrical (adjective)`  /ˌdʒiː.əˈmet.rɪ.kəl/ <br> relating to geometry, the branch of math dealing with shapes, points, lines, and space: a geometrical object - The rug had a geometrical pattern of squares and triangles
+- `triangle`  /ˈtraɪ.æŋ.ɡəl/ <br> a shape with three straight sides and three angles <br> <img src='images/triangle.jpg' alt='triangle' width='200'>
+- `vertex (noun)`  /ˈvɜːrteks/ <br> (plural vertices) a point where two or more lines or edges meet, especially the corner of a shape: a 2D triangle with vertices at coordinates (4, 1), (5, 3), and (2, 1) - Each corner of the triangle is a vertex <br> <img src='images/vertex.jpg' alt='vertex' width='200'>
+- `pertinent (adjective)`  /ˈpɜːrtnənt/ <br> relevant or directly related to the topic being discussed: The example is not particularly pertinent to deep learning - Please provide any pertinent information about the case
+- `appropriately (adverb)`  /əˈproʊ.pri.ət.li/ <br> in a suitable or correct way for the situation: just a way to get an appropriately sized array - Please dress appropriately for the interview
 ---
 
 ---
