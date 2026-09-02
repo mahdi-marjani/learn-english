@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 623**
+**Total words: 634**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (623 words)](#section-1-623-words)
+- [SECTION 1 (634 words)](#section-1-634-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -26,11 +26,11 @@
   - [Old Times (38 words)](#old-times-38-words)
   - [Romance (34 words)](#romance-34-words)
   - [Party (25 words)](#party-25-words)
-  - [The visit (6 words)](#the-visit-6-words)
+  - [The visit (17 words)](#the-visit-17-words)
 
 ---
 
-## SECTION 1 (623 words)
+## SECTION 1 (634 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -691,11 +691,22 @@
 - `spicy (adjective)`  /ˈspaɪsi/ <br> 1. (of food) having a strong taste because spices have been added to it (SAME MEANING: hot): I don't like spicy food - spicy sausage/soup <br> 2. (informal) (of a story, piece of news, etc.) exciting and making you feel slightly shocked: a spicy novel
 - `neighbor`  /ˈneɪbər/ <br> a person who lives near you: Don't make so much noise or you'll wake the neighbors
 
-### The visit (6 words)
+### The visit (17 words)
 - `broccoli`  /ˈbrɑː.kəl.i/ <br> a vegetable with a thick green stem and several dark green or purple flower heads <br> <img src='images/broccoli.jpg' alt='broccoli' width='200'>
 - `annoy (verb)`  /əˈnɔɪ/ <br> to make somebody a little angry: It really annoys me when my brother leaves his clothes all over the floor - Close the door if the noise is annoying you
 - `vendor`  /ˈvendər/ <br> a person who sells things
 - `miserable (adjective)`  /ˈmɪzrəbl/ <br> very unhappy: She's miserable living on her own
 - `weird (adjective)`  /wɪrd/ <br> strange
 - `apron`  /ˈeɪ.prən/ <br> a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, especially cooking <br> <img src='images/apron.jpg' alt='apron' width='200'>
+- `nervous (adjective)`  /ˈnɜːrvəs/ <br> 1. worried or afraid: I'm quite nervous about starting my new job <br> 2. connected with the nerves in your body: the nervous system
+- `mood (noun)`  /muːd/ <br> the way that you feel at a particular time: Dad is in a bad mood because he's lost his glasses - Our teacher was in a very good mood taday - I'm not in the mood for a party
+- `grandkid`  /ˈɡræn.kɪd/ <br> grandchild; the kid of your son or daughter
+- `clipboard`  /ˈklɪp.bɔːrd/ <br> a board with a clip at the top that holds sheets of paper in position and provides a surface for writing on <br> <img src='images/clipboard.jpg' alt='clipboard' width='200'>
+- `afraid (adjective)`  /əˈfreɪd/ <br> If you are afraid of something, it makes you feel fear: Some people are afraid of snakes - I was afraid to open the door <br> `I'm afraid ...` a polite way of saying that you are sorry: I'm afraid I've broken your calculator - I'm afraid that I can't come to your party
+- `next (adjective)`  /nekst/ <br> 1. coming after this one: I'm going on holiday next week - Take the next road on the right <br> 2. nearest to this one: I live in the next village <br> `next to somebody or something` at the side of somebody or something (SAME MEANING: beside): The bank is next to the post office
+- `riverside`  /ˈrɪvərsaɪd/ <br> a place near a river
+- `highway`  /ˈhaɪ.weɪ/ <br> a big road between towns
+- `sandal`  /ˈsæn.dəl/ <br> a shoe for hot weather <br> <img src='images/sandal.jpg' alt='sandal' width='200'>
+- `doorway`  /ˈdɔːr.weɪ/ <br> the space where a door is
+- `stuck (adjective)`  /stʌk/ <br> 1. not able to move: This drawer is stuck _ I can't open it - I was stuck in Italy with no money <br> 2. not able to do something because it is difficult: If you get stuck, ask your teacher for help
 ---
