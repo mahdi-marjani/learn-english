@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1885**
+**Total words: 1890**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (47 words)](#chapter-3-it-starts-with-a-tensor-47-words)
-- [Duolingo - Vocabulary (634 words)](#duolingo---vocabulary-634-words)
-  - [SECTION 1 (634 words)](#section-1-634-words)
+- [Duolingo - Vocabulary (639 words)](#duolingo---vocabulary-639-words)
+  - [SECTION 1 (639 words)](#section-1-639-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -45,7 +45,7 @@
     - [Old Times (38 words)](#old-times-38-words)
     - [Romance (34 words)](#romance-34-words)
     - [Party (25 words)](#party-25-words)
-    - [The visit (17 words)](#the-visit-17-words)
+    - [The visit (22 words)](#the-visit-22-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1298,9 +1298,9 @@
 
 ---
 
-## Duolingo - Vocabulary (634 words)
+## Duolingo - Vocabulary (639 words)
 
-### SECTION 1 (634 words)
+### SECTION 1 (639 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1961,7 +1961,7 @@
 - `spicy (adjective)`  /ˈspaɪsi/ <br> 1. (of food) having a strong taste because spices have been added to it (SAME MEANING: hot): I don't like spicy food - spicy sausage/soup <br> 2. (informal) (of a story, piece of news, etc.) exciting and making you feel slightly shocked: a spicy novel
 - `neighbor`  /ˈneɪbər/ <br> a person who lives near you: Don't make so much noise or you'll wake the neighbors
 
-#### The visit (17 words)
+#### The visit (22 words)
 - `broccoli`  /ˈbrɑː.kəl.i/ <br> a vegetable with a thick green stem and several dark green or purple flower heads <br> <img src='images/broccoli.jpg' alt='broccoli' width='200'>
 - `annoy (verb)`  /əˈnɔɪ/ <br> to make somebody a little angry: It really annoys me when my brother leaves his clothes all over the floor - Close the door if the noise is annoying you
 - `vendor`  /ˈvendər/ <br> a person who sells things
@@ -1979,6 +1979,11 @@
 - `sandal`  /ˈsæn.dəl/ <br> a shoe for hot weather <br> <img src='images/sandal.jpg' alt='sandal' width='200'>
 - `doorway`  /ˈdɔːr.weɪ/ <br> the space where a door is
 - `stuck (adjective)`  /stʌk/ <br> 1. not able to move: This drawer is stuck _ I can't open it - I was stuck in Italy with no money <br> 2. not able to do something because it is difficult: If you get stuck, ask your teacher for help
+- `treasure (noun)`  /ˈtreʒər/ <br> 1. a collection of valuable things such as gold, silver and jewellery: buried treasure - a pirate’s treasure chest <br> 2. a highly valued object: the priceless art treasures of the Uffizi Gallery
+- `going on`  <br> happening: What's going on here?
+- `can (noun)`  <br> a metal container for food or drink that keeps it fresh: a can of lemonade <br> <img src='images/can.jpg' alt='can' width='200'>
+- `bin`  /bɪn/ <br> trash can; a container for waste <br> <img src='images/bin.jpg' alt='bin' width='200'>
+- `brilliant (adjective)`  /ˈbrɪl.jənt/ <br> 1. with a lot of light; very bright: brilliant sunshine <br> 2. very intelligent: a brilliant student <br> 3. (British, informal) very good: The film was brilliant
 ---
 
 ---
