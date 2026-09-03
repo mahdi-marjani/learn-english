@@ -6304,6 +6304,18 @@
               "phonetic": "/əˈproʊ.pri.ət.li/",
               "mean_fa": "",
               "mean_en": "in a suitable or correct way for the situation: just a way to get an appropriately sized array - Please dress appropriately for the interview"
+            },
+            {
+              "word": "inform (verb)",
+              "phonetic": "/ɪnˈfɔːrm/",
+              "mean_fa": "",
+              "mean_en": "to tell somebody something: You should inform the police of the accident"
+            },
+            {
+              "word": "reference (verb)",
+              "phonetic": "/ˈref.rəns/",
+              "mean_fa": "",
+              "mean_en": "(computing) to point to or access data without making a copy of it: referencing the values of the first row in the points tensor - This variable references the same object in memory as the original"
             }
           ]
         }

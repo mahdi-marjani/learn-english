@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1890**
+**Total words: 1892**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1042 words)](#deep-learning-with-pytorch---vocabulary-1042-words)
+- [Deep Learning with PyTorch - Vocabulary (1044 words)](#deep-learning-with-pytorch---vocabulary-1044-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,10 +18,10 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (574 words)](#part-1-core-pytorch-574-words)
+  - [Part 1: Core PyTorch (576 words)](#part-1-core-pytorch-576-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (47 words)](#chapter-3-it-starts-with-a-tensor-47-words)
+    - [Chapter 3: It starts with a tensor (49 words)](#chapter-3-it-starts-with-a-tensor-49-words)
 - [Duolingo - Vocabulary (639 words)](#duolingo---vocabulary-639-words)
   - [SECTION 1 (639 words)](#section-1-639-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -222,7 +222,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1042 words)
+## Deep Learning with PyTorch - Vocabulary (1044 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -713,7 +713,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (574 words)
+### Part 1: Core PyTorch (576 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1246,7 +1246,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (47 words)
+#### Chapter 3: It starts with a tensor (49 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1294,6 +1294,8 @@
 - `vertex (noun)`  /ˈvɜːrteks/ <br> (plural vertices) a point where two or more lines or edges meet, especially the corner of a shape: a 2D triangle with vertices at coordinates (4, 1), (5, 3), and (2, 1) - Each corner of the triangle is a vertex <br> <img src='images/vertex.jpg' alt='vertex' width='200'>
 - `pertinent (adjective)`  /ˈpɜːrtnənt/ <br> relevant or directly related to the topic being discussed: The example is not particularly pertinent to deep learning - Please provide any pertinent information about the case
 - `appropriately (adverb)`  /əˈproʊ.pri.ət.li/ <br> in a suitable or correct way for the situation: just a way to get an appropriately sized array - Please dress appropriately for the interview
+- `inform (verb)`  /ɪnˈfɔːrm/ <br> to tell somebody something: You should inform the police of the accident
+- `reference (verb)`  /ˈref.rəns/ <br> (computing) to point to or access data without making a copy of it: referencing the values of the first row in the points tensor - This variable references the same object in memory as the original
 ---
 
 ---
