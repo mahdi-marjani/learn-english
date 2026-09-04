@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 639**
+**Total words: 650**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (639 words)](#section-1-639-words)
+- [SECTION 1 (650 words)](#section-1-650-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (37 words)](#at-school-37-words)
@@ -27,10 +27,11 @@
   - [Romance (34 words)](#romance-34-words)
   - [Party (25 words)](#party-25-words)
   - [The visit (22 words)](#the-visit-22-words)
+  - [Promotion (11 words)](#promotion-11-words)
 
 ---
 
-## SECTION 1 (639 words)
+## SECTION 1 (650 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -714,4 +715,17 @@
 - `can (noun)`  <br> a metal container for food or drink that keeps it fresh: a can of lemonade <br> <img src='images/can.jpg' alt='can' width='200'>
 - `bin`  /bɪn/ <br> trash can; a container for waste <br> <img src='images/bin.jpg' alt='bin' width='200'>
 - `brilliant (adjective)`  /ˈbrɪl.jənt/ <br> 1. with a lot of light; very bright: brilliant sunshine <br> 2. very intelligent: a brilliant student <br> 3. (British, informal) very good: The film was brilliant
+
+### Promotion (11 words)
+- `  track vaults `  <br> 
+- `promotion`  /prəˈməʊʃn/ <br> a move to a more important job or rank in a company or an organization: The new job is a promotion for him - Her promotion to Sales Manager took everyone by surprise
+- `branch`  /bræntʃ/ <br> 1. one of the parts of a tree that grow out from the thick main part (called the trunk) <br> 2. an office or a shop that is part of a big company: This bank has branches all over the country
+- `pay (noun)`  /peɪ/ <br> the money that you get for working: There are millions of workers on low pay
+- `savings`  /ˈseɪ·vɪŋz/ <br> money that you are keeping to use later: I keep my savings in the bank
+- `bill`  /bɪl/ <br> (British) (American check) a piece of paper that shows how much money you must pay for something: Can I have the bill, please? (= in a restaurant)
+- `banker`  /ˈbæŋkər/ <br> a person who works at a bank
+- `focus (verb)`  /ˈfoʊ.kəs/ <br> pay attention
+- `budget (noun)`  /ˈbʌdʒ.ɪt/ <br> a plan of how much money you will have and how you will spend it: We have a weekly budget for food
+- `track (verb)`  /træk/ <br> to follow signs or marks to find somebody or something <br> `track somebody or something down` to find somebody or something after looking in several different places: The police have so far failed to track down the attacker
+- `vault`  /vɑːlt/ <br> a room, especially in a bank, with thick walls and a strong door, used to store money or valuable things in safe conditions: bank vault <br> <img src='images/vault.jpg' alt='vault' width='200'>
 ---
