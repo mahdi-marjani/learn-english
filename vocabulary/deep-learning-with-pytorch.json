@@ -3243,12 +3243,6 @@
               "mean_en": "(also informal till) up to a certain time or event: The shop is open until 6.30 - Stay in bed until you feel better - I can't come until tomorrow"
             },
             {
-              "word": "exclusive",
-              "phonetic": "/ɪkˈskluːsɪv/",
-              "mean_fa": "",
-              "mean_en": "limited to only one person or group; not shared"
-            },
-            {
               "word": "paradigm",
               "phonetic": "/ˈpærədaɪm/",
               "mean_fa": "",
@@ -6316,6 +6310,30 @@
               "phonetic": "/ˈref.rəns/",
               "mean_fa": "",
               "mean_en": "(computing) to point to or access data without making a copy of it: referencing the values of the first row in the points tensor - This variable references the same object in memory as the original"
+            },
+            {
+              "word": "notation (noun)",
+              "phonetic": "/noʊˈteɪ.ʃən/",
+              "mean_fa": "",
+              "mean_en": "a system of symbols or signs used to represent numbers, ideas, or information in a particular field: range indexing notation (= When you write list[1:] in Python, that colon : and the numbers around it are a notation _ a specific way of writing that everyone who codes in Python understands as 'give me all items starting from index 1 to the end')"
+            },
+            {
+              "word": "inclusive (adjective)",
+              "phonetic": "/ɪnˈkluː.sɪv/",
+              "mean_fa": "",
+              "mean_en": "including the first and last number or item mentioned in a range: The offer is valid from Monday to Friday inclusive (= meaning Friday is included)"
+            },
+            {
+              "word": "exclusive (adjective)",
+              "phonetic": "/ɪkˈskluː.sɪv/",
+              "mean_fa": "",
+              "mean_en": "1. not including the last number or item mentioned in a range: The range 1 to 5 exclusive (= means 5 itself is not included) <br> 2. limited to only one person or group; not shared"
+            },
+            {
+              "word": "implicitly (adverb)",
+              "phonetic": "/ɪmˈplɪs.ɪt.li/",
+              "mean_fa": "",
+              "mean_en": "in a way that is understood or suggested without being directly or clearly stated: By staying silent, she implicitly agreed to the plan"
             }
           ]
         }

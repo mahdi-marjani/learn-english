@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1909**
+**Total words: 1912**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1044 words)](#deep-learning-with-pytorch---vocabulary-1044-words)
+- [Deep Learning with PyTorch - Vocabulary (1047 words)](#deep-learning-with-pytorch---vocabulary-1047-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -18,10 +18,10 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (576 words)](#part-1-core-pytorch-576-words)
-    - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
+  - [Part 1: Core PyTorch (579 words)](#part-1-core-pytorch-579-words)
+    - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (49 words)](#chapter-3-it-starts-with-a-tensor-49-words)
+    - [Chapter 3: It starts with a tensor (53 words)](#chapter-3-it-starts-with-a-tensor-53-words)
 - [Duolingo - Vocabulary (656 words)](#duolingo---vocabulary-656-words)
   - [SECTION 1 (656 words)](#section-1-656-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -223,7 +223,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1044 words)
+## Deep Learning with PyTorch - Vocabulary (1047 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -714,7 +714,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (576 words)
+### Part 1: Core PyTorch (579 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -729,7 +729,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-#### Chapter 1: Introducing deep learning and the PyTorch Library (290 words)
+#### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set`  <br> a group of similar things that belong together
@@ -782,7 +782,6 @@
 - `golden retriever`  /ˈɡoʊldən rɪˈtriːvər/ <br> breed of dog
 - `breed (noun)`  /briːd/ <br> a kind of animal: There are many different breeds of dog
 - `until`  /ənˈtɪl/ <br> (also informal till) up to a certain time or event: The shop is open until 6.30 - Stay in bed until you feel better - I can't come until tomorrow
-- `exclusive`  /ɪkˈskluːsɪv/ <br> limited to only one person or group; not shared
 - `paradigm`  /ˈpærədaɪm/ <br> model, framework, pattern
 - `shift (noun)`  /ʃɪft/ <br> 1. a change in what people think about something: There has been a shift in public opinion away from the war <br> 2. a group of workers who begin work when another group finishes: the night shift
 - `paradigm shift`  <br> a major change in how people think about something
@@ -1247,7 +1246,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (49 words)
+#### Chapter 3: It starts with a tensor (53 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1297,6 +1296,10 @@
 - `appropriately (adverb)`  /əˈproʊ.pri.ət.li/ <br> in a suitable or correct way for the situation: just a way to get an appropriately sized array - Please dress appropriately for the interview
 - `inform (verb)`  /ɪnˈfɔːrm/ <br> to tell somebody something: You should inform the police of the accident
 - `reference (verb)`  /ˈref.rəns/ <br> (computing) to point to or access data without making a copy of it: referencing the values of the first row in the points tensor - This variable references the same object in memory as the original
+- `notation (noun)`  /noʊˈteɪ.ʃən/ <br> a system of symbols or signs used to represent numbers, ideas, or information in a particular field: range indexing notation (= When you write list[1:] in Python, that colon : and the numbers around it are a notation _ a specific way of writing that everyone who codes in Python understands as 'give me all items starting from index 1 to the end')
+- `inclusive (adjective)`  /ɪnˈkluː.sɪv/ <br> including the first and last number or item mentioned in a range: The offer is valid from Monday to Friday inclusive (= meaning Friday is included)
+- `exclusive (adjective)`  /ɪkˈskluː.sɪv/ <br> 1. not including the last number or item mentioned in a range: The range 1 to 5 exclusive (= means 5 itself is not included) <br> 2. limited to only one person or group; not shared
+- `implicitly (adverb)`  /ɪmˈplɪs.ɪt.li/ <br> in a way that is understood or suggested without being directly or clearly stated: By staying silent, she implicitly agreed to the plan
 ---
 
 ---
