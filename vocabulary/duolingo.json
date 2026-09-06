@@ -4024,6 +4024,12 @@
               "mean_en": "complete your goals; to do or get what you wanted to do or get: She finally succeeded in getting a job - I tried to get a ticket for the concert but I didn't succeed"
             },
             {
+              "word": "success (noun)",
+              "phonetic": "/səkˈses/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) doing or getting what you wanted; doing well: I wish you success with your studies <br> 2. (plural successes) somebody or something that does well or that people like a lot: The film 'The Matrix' was a great success (OPPOSITE: failure)"
+            },
+            {
               "word": "application",
               "phonetic": "/ˌæp.ləˈkeɪ.ʃən/",
               "mean_fa": "",
@@ -4052,6 +4058,18 @@
               "phonetic": "/reɪz/",
               "mean_fa": "",
               "mean_en": "an increase in salary"
+            },
+            {
+              "word": "blank (adjective)",
+              "phonetic": "/blæŋk/",
+              "mean_fa": "",
+              "mean_en": "1. with no writing, pictures or anything else on it: a blank piece of paper <br> 2. If your face is blank, it shows no feelings or understanding: I asked her a question, but she just gave me a blank look"
+            },
+            {
+              "word": "signature",
+              "phonetic": "/ˈsɪɡnətʃər/",
+              "mean_fa": "",
+              "mean_en": "a way of writing your name <br> <img src='images/signature.jpg' alt='signature' width='200'>"
             }
           ]
         }

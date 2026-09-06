@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1912**
+**Total words: 1915**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (53 words)](#chapter-3-it-starts-with-a-tensor-53-words)
-- [Duolingo - Vocabulary (656 words)](#duolingo---vocabulary-656-words)
-  - [SECTION 1 (656 words)](#section-1-656-words)
+- [Duolingo - Vocabulary (659 words)](#duolingo---vocabulary-659-words)
+  - [SECTION 1 (659 words)](#section-1-659-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -46,7 +46,7 @@
     - [Romance (34 words)](#romance-34-words)
     - [Party (25 words)](#party-25-words)
     - [The visit (22 words)](#the-visit-22-words)
-    - [Promotion (17 words)](#promotion-17-words)
+    - [Promotion (20 words)](#promotion-20-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1304,9 +1304,9 @@
 
 ---
 
-## Duolingo - Vocabulary (656 words)
+## Duolingo - Vocabulary (659 words)
 
-### SECTION 1 (656 words)
+### SECTION 1 (659 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1991,7 +1991,7 @@
 - `bin`  /bɪn/ <br> trash can; a container for waste <br> <img src='images/bin.jpg' alt='bin' width='200'>
 - `brilliant (adjective)`  /ˈbrɪl.jənt/ <br> 1. with a lot of light; very bright: brilliant sunshine <br> 2. very intelligent: a brilliant student <br> 3. (British, informal) very good: The film was brilliant
 
-#### Promotion (17 words)
+#### Promotion (20 words)
 - `  track vaults `  <br> 
 - `promotion`  /prəˈməʊʃn/ <br> a move to a more important job or rank in a company or an organization: The new job is a promotion for him - Her promotion to Sales Manager took everyone by surprise
 - `branch`  /bræntʃ/ <br> 1. one of the parts of a tree that grow out from the thick main part (called the trunk) <br> 2. an office or a shop that is part of a big company: This bank has branches all over the country
@@ -2004,11 +2004,14 @@
 - `track (verb)`  /træk/ <br> to follow signs or marks to find somebody or something <br> `track somebody or something down` to find somebody or something after looking in several different places: The police have so far failed to track down the attacker
 - `vault`  /vɑːlt/ <br> a room, especially in a bank, with thick walls and a strong door, used to store money or valuable things in safe conditions: bank vault <br> <img src='images/vault.jpg' alt='vault' width='200'>
 - `succeed (verb)`  /səkˈsiːd/ <br> complete your goals; to do or get what you wanted to do or get: She finally succeeded in getting a job - I tried to get a ticket for the concert but I didn't succeed
+- `success (noun)`  /səkˈses/ <br> 1. (no plural) doing or getting what you wanted; doing well: I wish you success with your studies <br> 2. (plural successes) somebody or something that does well or that people like a lot: The film 'The Matrix' was a great success (OPPOSITE: failure)
 - `application`  /ˌæp.ləˈkeɪ.ʃən/ <br> 1. writing to ask for something, for example a job: Applications for the job should be made to the Personnel Manager <br> 2. (computers) a computer program that is designed to do a particular job
 - `ordinary (adjective)`  /ˈɔːr.dən.er.i/ <br> normal; usual; not different or special or unexpected in any way: an ordinary neighbourhood
 - `grant`  /ɡrænt/ <br> an amount of money given especially by the government to a person or organization for a special purpose: a student/research grant
 - `tremble (verb)`  /ˈtrem.bəl/ <br> to shake, for example because you are cold, afraid or ill: She was trembling with fear
 - `raise (noun)`  /reɪz/ <br> an increase in salary
+- `blank (adjective)`  /blæŋk/ <br> 1. with no writing, pictures or anything else on it: a blank piece of paper <br> 2. If your face is blank, it shows no feelings or understanding: I asked her a question, but she just gave me a blank look
+- `signature`  /ˈsɪɡnətʃər/ <br> a way of writing your name <br> <img src='images/signature.jpg' alt='signature' width='200'>
 ---
 
 ---
