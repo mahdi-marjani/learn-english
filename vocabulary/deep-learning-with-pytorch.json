@@ -3597,7 +3597,7 @@
               "mean_en": "having more than two dimensions (for example, a 3D or 4D array)"
             },
             {
-              "word": "feature",
+              "word": "feature (noun)",
               "phonetic": "/ˈfiːtʃər/",
               "mean_fa": "",
               "mean_en": "1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education"
@@ -5099,7 +5099,7 @@
               "word": "match (verb)",
               "phonetic": "/mætʃ/",
               "mean_fa": "",
-              "mean_en": "1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture"
+              "mean_en": "1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture <br> `match up` to compare corresponding parts to see if they correspond or fit together: I matched up each sock with its pair after doing laundry"
             },
             {
               "word": "nowadays",
@@ -6334,6 +6334,54 @@
               "phonetic": "/ɪmˈplɪs.ɪt.li/",
               "mean_fa": "",
               "mean_en": "in a way that is understood or suggested without being directly or clearly stated: By staying silent, she implicitly agreed to the plan"
+            },
+            {
+              "word": "feature (verb)",
+              "phonetic": "/ˈfiːtʃər/",
+              "mean_fa": "",
+              "mean_en": "to have something as an important part or quality: PyTorch features a powerful form of indexing called advanced indexing - This phone features a high-resolution camera"
+            },
+            {
+              "word": "broadcast (verb/noun)",
+              "phonetic": "/ˈbrɔːd.kæst/",
+              "mean_fa": "",
+              "mean_en": "(computing) to automatically expand or repeat a smaller array/tensor so it can be combined with a larger one in operations: The smaller array was broadcast to match the shape of the larger one"
+            },
+            {
+              "word": "semantics (noun)",
+              "phonetic": "/sɪˈmæn.tɪks/",
+              "mean_fa": "",
+              "mean_en": "the rules or system that determines the meaning or behavior of something: Understanding the semantics of the language helps avoid confusion"
+            },
+            {
+              "word": "-wise",
+              "phonetic": "/ -waɪz/",
+              "mean_fa": "",
+              "mean_en": "in this way or in this direction: clockwise - lengthwise"
+            },
+            {
+              "word": "varying (adjective)",
+              "phonetic": "/ˈver.i.ɪŋ/",
+              "mean_fa": "",
+              "mean_en": "different from each other; changing: The bags come in varying sizes, from small to large - People walk at varying speeds"
+            },
+            {
+              "word": "therefore (adverb)",
+              "phonetic": "/ˈðer.fɔːr/",
+              "mean_fa": "",
+              "mean_en": "for that reason: Simon was busy and therefore could not come to the meeting"
+            },
+            {
+              "word": "align (verb)",
+              "phonetic": "/əˈlaɪn/",
+              "mean_fa": "",
+              "mean_en": "to arrange things so they are in a straight line or correctly positioned relative to each other: Please align the text to the left margin"
+            },
+            {
+              "word": "virtually (adverb)",
+              "phonetic": "/ˈvɜːrtʃuəli/",
+              "mean_fa": "",
+              "mean_en": "almost: The two boys look virtually the same"
             }
           ]
         }

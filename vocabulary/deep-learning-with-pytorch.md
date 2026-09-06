@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1047**
+**Total words: 1055**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (579 words)](#part-1-core-pytorch-579-words)
+- [Part 1: Core PyTorch (587 words)](#part-1-core-pytorch-587-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (53 words)](#chapter-3-it-starts-with-a-tensor-53-words)
+  - [Chapter 3: It starts with a tensor (61 words)](#chapter-3-it-starts-with-a-tensor-61-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (579 words)
+## Part 1: Core PyTorch (587 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -634,7 +634,7 @@
 - `ought to`  /ɔ:t tu:/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
 - `map (verb)`  <br> to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label
 - `multidimensional`  /ˌmʌl.ti.dɪˈmen.ʃən.əl/ <br> having more than two dimensions (for example, a 3D or 4D array)
-- `feature`  /ˈfiːtʃər/ <br> 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
+- `feature (noun)`  /ˈfiːtʃər/ <br> 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
 - `accelerate`  /ə.ˈksɛ.lə.reɪt/ <br> to make something happen faster or more quickly
 - `dedicate`  /ˈded.ə.keɪt/ <br> to give all of your energy, time, etc to a particular activity, cause, or person: He has dedicated his life to scientific research
 - `dedicated (adjective)`  /ˈdedɪkeɪtɪd/ <br> 1. believing that something is very important and giving a lot of time and energy to it: a dedicated father/teacher - The Green Party is dedicated to protecting the environment <br> 2. designed to be used for one particular purpose: a dedicated computer - a dedicated sports channel
@@ -885,7 +885,7 @@
 - `forward pass`  /ˈfɔːr.wərd pæs/ <br> in a neural network, the process of moving data forward from the input layer, through all the hidden layers, to the output layer in order to generate a prediction or output
 - `assume`  /əˈsuːm/ <br> to think that something is true although you are not really sure: Jo is not here today, so I assume that she is ill
 - `slate`  /sleɪt/ <br> 1. a type of dark gray stone used for roofs or writing on <br> 2. a completely clean, empty, or new state that has not yet been marked or trained; ready to be started from zero
-- `match (verb)`  /mætʃ/ <br> 1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture
+- `match (verb)`  /mætʃ/ <br> 1. to have the same color, shape or pattern as something else, or to look good with something else: That scarf doesn't match your blouse <br> 2. to find something that is like another thing or that you can put with it: Match the word with the right picture <br> `match up` to compare corresponding parts to see if they correspond or fit together: I matched up each sock with its pair after doing laundry
 - `nowadays`  /ˈnaʊ.ə.deɪz/ <br> at the present time, in comparison to the past: Nowadays most people have internet access
 - `capture (verb)`  /ˈkæptʃər/ <br> 1. to catch a person, animal, or place and take control of it by force <br> <img src='images/capture.jpg' alt='capture' width='200'> <br> 2. to succeed in representing or expressing something (a feeling, idea, or quality) in words, pictures, art, etc.: The photo captures the beauty of the mountains <br> 3. to record something by taking a photo or video of it
 - `intricate`  /ˈɪn.trə.kət/ <br> complex; very complicated or detailed: an intricate pattern / intricate relationships
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (53 words)
+### Chapter 3: It starts with a tensor (61 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1093,4 +1093,12 @@
 - `inclusive (adjective)`  /ɪnˈkluː.sɪv/ <br> including the first and last number or item mentioned in a range: The offer is valid from Monday to Friday inclusive (= meaning Friday is included)
 - `exclusive (adjective)`  /ɪkˈskluː.sɪv/ <br> 1. not including the last number or item mentioned in a range: The range 1 to 5 exclusive (= means 5 itself is not included) <br> 2. limited to only one person or group; not shared
 - `implicitly (adverb)`  /ɪmˈplɪs.ɪt.li/ <br> in a way that is understood or suggested without being directly or clearly stated: By staying silent, she implicitly agreed to the plan
+- `feature (verb)`  /ˈfiːtʃər/ <br> to have something as an important part or quality: PyTorch features a powerful form of indexing called advanced indexing - This phone features a high-resolution camera
+- `broadcast (verb/noun)`  /ˈbrɔːd.kæst/ <br> (computing) to automatically expand or repeat a smaller array/tensor so it can be combined with a larger one in operations: The smaller array was broadcast to match the shape of the larger one
+- `semantics (noun)`  /sɪˈmæn.tɪks/ <br> the rules or system that determines the meaning or behavior of something: Understanding the semantics of the language helps avoid confusion
+- `-wise`  / -waɪz/ <br> in this way or in this direction: clockwise - lengthwise
+- `varying (adjective)`  /ˈver.i.ɪŋ/ <br> different from each other; changing: The bags come in varying sizes, from small to large - People walk at varying speeds
+- `therefore (adverb)`  /ˈðer.fɔːr/ <br> for that reason: Simon was busy and therefore could not come to the meeting
+- `align (verb)`  /əˈlaɪn/ <br> to arrange things so they are in a straight line or correctly positioned relative to each other: Please align the text to the left margin
+- `virtually (adverb)`  /ˈvɜːrtʃuəli/ <br> almost: The two boys look virtually the same
 ---
