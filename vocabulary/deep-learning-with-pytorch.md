@@ -1,12 +1,12 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1055**
+**Total words: 1056**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
 - [foreword (52 words)](#foreword-52-words)
-- [preface (91 words)](#preface-91-words)
+- [preface (92 words)](#preface-92-words)
 - [acknowledgments (58 words)](#acknowledgments-58-words)
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
@@ -114,7 +114,7 @@
 - `workshop`  <br> کارگاه (آموزشی)
 ---
 
-## preface (91 words)
+## preface (92 words)
 - `preface`  <br> مقدمه
 - `as kids`  <br> وقتی بچه بودیم
 - `sinclair spectrum 48k (luca)`  <br> نام چند کامپیوتر قدیمی
@@ -126,7 +126,8 @@
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - `spy (noun)`  /spaɪ/ <br> a person who tries to learn secrets about another country, person or company
-- `later on`  <br> بعدها
+- `later (adverb)`  /ˈleɪtər/ <br> at a time in the future; after the time you are talking about: See you later - His father died later that year (OPPOSITE: earlier) <br> `later on` (informal) at a time in the future; after the time you are talking about: I'm going out later on
+- `later (adjective)`  /ˈleɪtər/ <br> 1. coming after something else or at a time in the future: The match has been postponed to later date <br> 2. near the end of a period of time: the later part of the twentieth century (OPPOSITE: earlier)
 - `during`  <br> حین
 - `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent
 - `ourselves`  <br> خودمون
@@ -137,7 +138,7 @@
 - `heuristics`  <br> روش‌های اکتشافی
 - `involved`  /ɪnˈvɑːlvd/ <br> taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved
 - `take part`  <br> join in an event or activity; be involved
-- `went`  <br> رفت (past of go)
+- `went`  <br> past tense of go
 - `came about`  <br> به وجود آمد
 - `appearance`  <br> ظاهر شدن
 - `being applied`  <br> در حال اعمال شدن

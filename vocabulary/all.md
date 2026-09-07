@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1923**
+**Total words: 1935**
 
 ## 📑 Table of Contents
 
@@ -10,10 +10,10 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1055 words)](#deep-learning-with-pytorch---vocabulary-1055-words)
+- [Deep Learning with PyTorch - Vocabulary (1056 words)](#deep-learning-with-pytorch---vocabulary-1056-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
-  - [preface (91 words)](#preface-91-words)
+  - [preface (92 words)](#preface-92-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (61 words)](#chapter-3-it-starts-with-a-tensor-61-words)
-- [Duolingo - Vocabulary (659 words)](#duolingo---vocabulary-659-words)
-  - [SECTION 1 (659 words)](#section-1-659-words)
+- [Duolingo - Vocabulary (670 words)](#duolingo---vocabulary-670-words)
+  - [SECTION 1 (670 words)](#section-1-670-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (37 words)](#at-school-37-words)
@@ -46,7 +46,7 @@
     - [Romance (34 words)](#romance-34-words)
     - [Party (25 words)](#party-25-words)
     - [The visit (22 words)](#the-visit-22-words)
-    - [Promotion (20 words)](#promotion-20-words)
+    - [Promotion (31 words)](#promotion-31-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -223,7 +223,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1055 words)
+## Deep Learning with PyTorch - Vocabulary (1056 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -321,7 +321,7 @@
 - `workshop`  <br> کارگاه (آموزشی)
 ---
 
-### preface (91 words)
+### preface (92 words)
 - `preface`  <br> مقدمه
 - `as kids`  <br> وقتی بچه بودیم
 - `sinclair spectrum 48k (luca)`  <br> نام چند کامپیوتر قدیمی
@@ -333,7 +333,8 @@
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - `spy (noun)`  /spaɪ/ <br> a person who tries to learn secrets about another country, person or company
-- `later on`  <br> بعدها
+- `later (adverb)`  /ˈleɪtər/ <br> at a time in the future; after the time you are talking about: See you later - His father died later that year (OPPOSITE: earlier) <br> `later on` (informal) at a time in the future; after the time you are talking about: I'm going out later on
+- `later (adjective)`  /ˈleɪtər/ <br> 1. coming after something else or at a time in the future: The match has been postponed to later date <br> 2. near the end of a period of time: the later part of the twentieth century (OPPOSITE: earlier)
 - `during`  <br> حین
 - `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent
 - `ourselves`  <br> خودمون
@@ -344,7 +345,7 @@
 - `heuristics`  <br> روش‌های اکتشافی
 - `involved`  /ɪnˈvɑːlvd/ <br> taking part in something; being part of something or connected with something: I'm very involved in local politics - We need to interview the people involved
 - `take part`  <br> join in an event or activity; be involved
-- `went`  <br> رفت (past of go)
+- `went`  <br> past tense of go
 - `came about`  <br> به وجود آمد
 - `appearance`  <br> ظاهر شدن
 - `being applied`  <br> در حال اعمال شدن
@@ -1312,9 +1313,9 @@
 
 ---
 
-## Duolingo - Vocabulary (659 words)
+## Duolingo - Vocabulary (670 words)
 
-### SECTION 1 (659 words)
+### SECTION 1 (670 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1999,7 +2000,7 @@
 - `bin`  /bɪn/ <br> trash can; a container for waste <br> <img src='images/bin.jpg' alt='bin' width='200'>
 - `brilliant (adjective)`  /ˈbrɪl.jənt/ <br> 1. with a lot of light; very bright: brilliant sunshine <br> 2. very intelligent: a brilliant student <br> 3. (British, informal) very good: The film was brilliant
 
-#### Promotion (20 words)
+#### Promotion (31 words)
 - `  track vaults `  <br> 
 - `promotion`  /prəˈməʊʃn/ <br> a move to a more important job or rank in a company or an organization: The new job is a promotion for him - Her promotion to Sales Manager took everyone by surprise
 - `branch`  /bræntʃ/ <br> 1. one of the parts of a tree that grow out from the thick main part (called the trunk) <br> 2. an office or a shop that is part of a big company: This bank has branches all over the country
@@ -2020,6 +2021,17 @@
 - `raise (noun)`  /reɪz/ <br> an increase in salary
 - `blank (adjective)`  /blæŋk/ <br> 1. with no writing, pictures or anything else on it: a blank piece of paper <br> 2. If your face is blank, it shows no feelings or understanding: I asked her a question, but she just gave me a blank look
 - `signature`  /ˈsɪɡnətʃər/ <br> a way of writing your name <br> <img src='images/signature.jpg' alt='signature' width='200'>
+- `abstract (adjective)`  /ˈæb.strækt/ <br> 1. about an idea, not a real thing: abstract thought <br> 2. not like a real thing: an abstract painting
+- `past (preposition, adverb)`  /pæst/ <br> 1. a word that shows how many minutes after the hour: It's two minutes past four - It's half past seven <br> 2. from one side to the other of somebody or something; on the other side of somebody or something: Go past the cinema, then turn left - The bus went past without stopping
+- `chat (verb)`  /tʃæt/ <br> to talk to someone in a friendly informal way: We chatted on the phone for a few minutes
+- `dedication`  /ˌdedɪˈkeɪʃn/ <br> 1. the hard work and effort that somebody puts into an activity or a purpose because they think it is important (SAME MEANING: commitment): I really admire Gina for her dedication to her family <br> 2. a ceremony that is held to show that a building or an object has a special purpose or is special to the memory of a particular person: the dedication of a new city church <br> 3. the words that are used at the beginning of a book, piece of music, a performance, etc., or when receiving an award, to offer it to somebody as a sign of thanks or respect
+- `petition`  /pəˈtɪʃn/ <br> 1. a written document signed by a large number of people that asks somebody in a position of authority to do or change something <br> 2. an official document asking a court to take a particular course of action: Her husband has already filed a petition for divorce <br> 3. a formal prayer to God or request to somebody in authority
+- `smoothie`  /ˈsmuː.ði/ <br> a thick, cold drink made from fruit and often yogurt or ice cream, mixed together until smooth <br> <img src='images/smoothie.jpg' alt='smoothie' width='200'>
+- `shook`  <br> past tense of shake
+- `shaken`  <br> past participle of shake
+- `hairstylist`  /ˈher.staɪ.lɪst/ <br> someone whose job is to cut and arrange people's hair
+- `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
+- `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
 ---
 
 ---

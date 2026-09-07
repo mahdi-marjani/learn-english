@@ -621,10 +621,16 @@
           "mean_en": "a person who tries to learn secrets about another country, person or company"
         },
         {
-          "word": "later on",
-          "phonetic": "",
-          "mean_fa": "بعدها",
-          "mean_en": ""
+          "word": "later (adverb)",
+          "phonetic": "/ˈleɪtər/",
+          "mean_fa": "",
+          "mean_en": "at a time in the future; after the time you are talking about: See you later - His father died later that year (OPPOSITE: earlier) <br> `later on` (informal) at a time in the future; after the time you are talking about: I'm going out later on"
+        },
+        {
+          "word": "later (adjective)",
+          "phonetic": "/ˈleɪtər/",
+          "mean_fa": "",
+          "mean_en": "1. coming after something else or at a time in the future: The match has been postponed to later date <br> 2. near the end of a period of time: the later part of the twentieth century (OPPOSITE: earlier)"
         },
         {
           "word": "during",
@@ -689,8 +695,8 @@
         {
           "word": "went",
           "phonetic": "",
-          "mean_fa": "رفت (past of go)",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "past tense of go"
         },
         {
           "word": "came about",
