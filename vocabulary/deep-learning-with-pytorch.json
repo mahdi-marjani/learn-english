@@ -4757,7 +4757,7 @@
               "word": "according to",
               "phonetic": "/əˈkɔːr.dɪŋ ˌtuː/",
               "mean_fa": "",
-              "mean_en": "as somebody or something says: According to Mike, this film is really good"
+              "mean_en": "as somebody or something says: According to Mike, this film is really good - The church was built in 1395, according to this book"
             },
             {
               "word": "fabricate",
@@ -6388,6 +6388,30 @@
               "phonetic": "/ˈvɜːrtʃuəli/",
               "mean_fa": "",
               "mean_en": "almost: The two boys look virtually the same"
+            },
+            {
+              "word": "accordingly",
+              "phonetic": "/əˈkɔːr.dɪŋ.li/",
+              "mean_fa": "",
+              "mean_en": "in a way that is suitable or right for the situation: He knew the rules and behaved accordingly"
+            },
+            {
+              "word": "-prone (adjective)",
+              "phonetic": "/prəʊn/",
+              "mean_fa": "",
+              "mean_en": "likely to suffer or do the thing mentioned: injury-prone"
+            },
+            {
+              "word": "error-prone (adjective)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "tending to make or cause mistakes: The process is manual, time-consuming and error-prone"
+            },
+            {
+              "word": "tend (verb)",
+              "phonetic": "/tend/",
+              "mean_fa": "",
+              "mean_en": "to usually do or be something: Men tend to be taller than women"
             }
           ]
         }
