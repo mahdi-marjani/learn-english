@@ -414,12 +414,6 @@
           "heading": "At School",
           "words": [
             {
-              "word": "dorm:a home for college students  president:leader of a country",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "essay",
               "phonetic": "/ˈes.eɪ/",
               "mean_fa": "",
@@ -2860,12 +2854,6 @@
               "mean_en": "thick cloud which forms close to the ground, and whichis difficult to see through: The fog will clear by late morning <br> <img src='images/fog.jpg' alt='fog' width='200'>"
             },
             {
-              "word": "prevention punishment (prevention is better than punishment) ",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "border",
               "phonetic": "",
               "mean_fa": "",
@@ -3296,12 +3284,6 @@
               "mean_en": "a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>"
             },
             {
-              "word": "",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "outdoors (adverb, noun)",
               "phonetic": "/ˌaʊtˈdɔːrz/",
               "mean_fa": "",
@@ -3678,12 +3660,6 @@
               "mean_en": "a general, continuous increase in prices: 13 percent inflation"
             },
             {
-              "word": " mascot-is-lion  ",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "increase (verb)",
               "phonetic": "/ɪnˈkriːs/",
               "mean_fa": "",
@@ -3952,12 +3928,6 @@
           "heading": "Promotion",
           "words": [
             {
-              "word": "  track vaults ",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "promotion",
               "phonetic": "/prəˈməʊʃn/",
               "mean_fa": "",
@@ -4136,6 +4106,35 @@
               "phonetic": "/ˈsɑː.lə.tuːd/",
               "mean_fa": "",
               "mean_en": "the situation of being alone without other people"
+            }
+          ]
+        },
+        {
+          "heading": "Debate",
+          "words": [
+            {
+              "word": "thought (noun)",
+              "phonetic": "/θɑːt/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?"
+            },
+            {
+              "word": "media",
+              "phonetic": "/ˈmiː.di.ə/",
+              "mean_fa": "",
+              "mean_en": "television, radio and newspapers: The media always takes a great interest in the royal family"
+            },
+            {
+              "word": "adorable (adjective)",
+              "phonetic": "/əˈdɔːr.ə.bəl/",
+              "mean_fa": "",
+              "mean_en": "very cute: She has the most adorable two-year-old girl"
+            },
+            {
+              "word": "subway",
+              "phonetic": "/ˈsʌb.weɪ/",
+              "mean_fa": "",
+              "mean_en": "an underground railroad system, typically in a big city <br> <img src='images/subway.jpg' alt='subway' width='200'>"
             }
           ]
         }

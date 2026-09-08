@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1939**
+**Total words: 1938**
 
 ## 📑 Table of Contents
 
@@ -22,11 +22,11 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (65 words)](#chapter-3-it-starts-with-a-tensor-65-words)
-- [Duolingo - Vocabulary (670 words)](#duolingo---vocabulary-670-words)
-  - [SECTION 1 (670 words)](#section-1-670-words)
+- [Duolingo - Vocabulary (669 words)](#duolingo---vocabulary-669-words)
+  - [SECTION 1 (669 words)](#section-1-669-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
-    - [At School (37 words)](#at-school-37-words)
+    - [At School (36 words)](#at-school-36-words)
     - [Interview (26 words)](#interview-26-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (41 words)](#meeting-41-words)
@@ -40,13 +40,14 @@
     - [Relations (26 words)](#relations-26-words)
     - [Clothing (32 words)](#clothing-32-words)
     - [Airport (23 words)](#airport-23-words)
-    - [News (28 words)](#news-28-words)
+    - [News (27 words)](#news-27-words)
     - [Wildlife (37 words)](#wildlife-37-words)
-    - [Old Times (38 words)](#old-times-38-words)
+    - [Old Times (37 words)](#old-times-37-words)
     - [Romance (34 words)](#romance-34-words)
-    - [Party (25 words)](#party-25-words)
+    - [Party (24 words)](#party-24-words)
     - [The visit (22 words)](#the-visit-22-words)
-    - [Promotion (31 words)](#promotion-31-words)
+    - [Promotion (30 words)](#promotion-30-words)
+    - [Debate (4 words)](#debate-4-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1317,9 +1318,9 @@
 
 ---
 
-## Duolingo - Vocabulary (670 words)
+## Duolingo - Vocabulary (669 words)
 
-### SECTION 1 (670 words)
+### SECTION 1 (669 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1391,8 +1392,7 @@
 - `mango`  /ˈmæŋɡoʊ/ <br> <br> <img src='images/mango.jpg' alt='mango' width='200'>
 - `utensil`  /juˈtensl/ <br> a tool or object used for a particular purpose, especially in cooking or eating like fork, spoon, and knives
 
-#### At School (37 words)
-- `dorm:a home for college students  president:leader of a country`  <br> 
+#### At School (36 words)
 - `essay`  /ˈes.eɪ/ <br> a short piece of writing about a particular subject: Our teacher asked us to write an essay on our favourite outhor
 - `dorm`  /dɔːrm/ <br> a home for college students <br> <img src='images/dorm.jpg' alt='dorm' width='200'>
 - `president`  /ˈprez.ɪ.dənt/ <br> leader of a country
@@ -1808,7 +1808,7 @@
 - `hall`  /hɑːl/ <br> 1. (American entryway, hallway) the room in a house that is near the front door and has doors to other rooms: You can leave your coat in the hall <br> <img src='images/hallway.jpg' alt='hallway' width='200'> <br> 2. a big room or building where a lot of people meet: a concert hall - We did our exams in the school hall
 - `seem`  /siːm/ <br> to give the effect of being; to be judged to be: He's 16, but he often seems (to be) younger - The children seemed (as if/as though/like they were) tired - It seems to me (that) (= I think that) he isn't the right person for the job
 
-#### News (28 words)
+#### News (27 words)
 - `front page`  <br> the first page of a newspaper, containing the most important or remarkable news of the day
 - `headline (noun)`  /ˈhɛdlʌɪn/ <br> 1. the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website <br> 2. `the headlines` (plural) a short summary of the most important items of news, read at the beginning of a news programme on the radio or television
 - `elevator`  /ˈelɪveɪtər/ <br> a device like a box that moves up and down, carrying people or goods from one floor of a building to another or taking people up and down underground in a mine <br> <img src='images/elevator.jpg' alt='elevator' width='200'>
@@ -1816,7 +1816,6 @@
 - `charity`  /ˈtʃer.ə.t̬i/ <br> an organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit: UNICEF is an international charity
 - `cousin`  /ˈkʌz.ən/ <br> the child of your aunt or uncle
 - `fog`  /fɑːɡ/ <br> thick cloud which forms close to the ground, and whichis difficult to see through: The fog will clear by late morning <br> <img src='images/fog.jpg' alt='fog' width='200'>
-- `prevention punishment (prevention is better than punishment) `  <br> 
 - `border`  <br> a line between countries: You need a passport to cross the border
 - `yay`  /jeɪ/ <br> used to show that you are very pleased about something: 'We won.' 'Yay!' - هورا
 - `accuse (verb)`  /əˈkjuːz/ <br> to say that somebody has done something wrong or broken the law: His classmates accused him of cheating in the exam - She was accused of murder
@@ -1877,7 +1876,7 @@
 - `allergic`  /əˈlɜːrdʒɪk/ <br> having an allergy: He's allergic to cow's milk
 - `allergy`  /əˈlɜːrdʒi/ <br> a medical condition that makes you ill when you eat, touch or breathe something that does not normally make other people ill: She has an allergy to cats
 
-#### Old Times (38 words)
+#### Old Times (37 words)
 - `stream (noun)`  /striːm/ <br> 1. a small river: a mountain stream <br> 2. moving liquid, or moving things or people: a stream of blood - I've had a steady stream of visitors
 - `sunrise`  /ˈsʌnrʌɪz/ <br> the time in the morning when the sun comes up: They were up before sunrise
 - `sunset`  /ˈsʌnsɛt/ <br> the time in the evening when the sun goes down: The park closes at sunset
@@ -1891,7 +1890,6 @@
 - `narrow (adjective)`  /ˈnæroʊ/ <br> 1. not far from one side to the other: The bridge was very narrow - a narrow ribbon (OPPOSITE: broad or wide) <br> 2. by a small amount: We had a narrow escape _ the car nearly hit a tree - a narrow defeat
 - `deter (verb)`  /dɪˈtɜːr/ <br> to prevent someone from doing something or to make someone less enthusiastic about doing something
 - `fly (noun)`  /flaɪ/ <br> a small insect with two wings <br> <img src='images/fly.jpg' alt='fly' width='200'>
-- ``  <br> 
 - `outdoors (adverb, noun)`  /ˌaʊtˈdɔːrz/ <br> not in a building; outside (OPPOSITE: indoors): In summer we sometimes eat outdoors - Come to Canada and enjoy the great outdoors
 - `indoors (adverb)`  /ˌɪnˈdɔːrz/ <br> in or into a building: Let's go indoors. I'm cold (OPPOSITE: outdoors)
 - `indoor (adjective)`  /ˈɪndɔːr/ <br> done or used inside a building: an indoor swimming pool - indoor games (OPPOSITE: outdoor)
@@ -1953,11 +1951,10 @@
 - `waitress`  /ˈweɪtrəs/ <br> a woman whose job is to serve customers at their tables in a restaurant <br> <img src='images/waitress.jpg' alt='waitress' width='200'>
 - `waiter`  /ˈweɪtər/ <br> a man whose job is to serve customers at their tables in a restaurant <br> <img src='images/waiter.jpg' alt='waiter' width='200'>
 
-#### Party (25 words)
+#### Party (24 words)
 - `day off`  <br> day without work: I won't be in on Thursday _ it's my day off
 - `shrimp`  /ʃrɪmp/ <br> a small sea creature with a shell and ten legs, that can be eaten: grilled shrimp <br> <img src='images/shrimp.jpg' alt='shrimp' width='200'>
 - `inflation`  /ɪnˈfleɪ.ʃən/ <br> a general, continuous increase in prices: 13 percent inflation
-- ` mascot-is-lion  `  <br> 
 - `increase (verb)`  /ɪnˈkriːs/ <br> to become bigger or more; to make something bigger or more (OPPOSITE: decrease): The number of women who go out to work has increased - I'm going to increase your pocket money to $5
 - `increase (noun)`  /ˈɪŋkriːs/ <br> a rise in the amount, number or value of something (OPPOSITE: decrease): There has been an increase in road accidents - a price increase
 - `rise (noun)`  /raɪz/ <br> an increase in an amount, a number or a level
@@ -2004,8 +2001,7 @@
 - `bin`  /bɪn/ <br> trash can; a container for waste <br> <img src='images/bin.jpg' alt='bin' width='200'>
 - `brilliant (adjective)`  /ˈbrɪl.jənt/ <br> 1. with a lot of light; very bright: brilliant sunshine <br> 2. very intelligent: a brilliant student <br> 3. (British, informal) very good: The film was brilliant
 
-#### Promotion (31 words)
-- `  track vaults `  <br> 
+#### Promotion (30 words)
 - `promotion`  /prəˈməʊʃn/ <br> a move to a more important job or rank in a company or an organization: The new job is a promotion for him - Her promotion to Sales Manager took everyone by surprise
 - `branch`  /bræntʃ/ <br> 1. one of the parts of a tree that grow out from the thick main part (called the trunk) <br> 2. an office or a shop that is part of a big company: This bank has branches all over the country
 - `pay (noun)`  /peɪ/ <br> the money that you get for working: There are millions of workers on low pay
@@ -2036,6 +2032,12 @@
 - `hairstylist`  /ˈher.staɪ.lɪst/ <br> someone whose job is to cut and arrange people's hair
 - `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
 - `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
+
+#### Debate (4 words)
+- `thought (noun)`  /θɑːt/ <br> 1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?
+- `media`  /ˈmiː.di.ə/ <br> television, radio and newspapers: The media always takes a great interest in the royal family
+- `adorable (adjective)`  /əˈdɔːr.ə.bəl/ <br> very cute: She has the most adorable two-year-old girl
+- `subway`  /ˈsʌb.weɪ/ <br> an underground railroad system, typically in a big city <br> <img src='images/subway.jpg' alt='subway' width='200'>
 ---
 
 ---
