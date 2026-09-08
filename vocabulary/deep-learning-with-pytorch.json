@@ -6412,6 +6412,48 @@
               "phonetic": "/tend/",
               "mean_fa": "",
               "mean_en": "to usually do or be something: Men tend to be taller than women"
+            },
+            {
+              "word": "concrete (adjective)",
+              "phonetic": "/kɑːnˈkriːt/",
+              "mean_fa": "",
+              "mean_en": "relating to real things, not ideas or theories: Can you give a concrete example instead of a general idea?"
+            },
+            {
+              "word": "dummy (adjective)",
+              "phonetic": "/ˈdʌm.i/",
+              "mean_fa": "",
+              "mean_en": "not real; used for practice or testing purposes: The developer tested the app with dummy data before using real user information"
+            },
+            {
+              "word": "simplicity (noun)",
+              "phonetic": "/sɪmˈplɪs.ə.ti/",
+              "mean_fa": "",
+              "mean_en": "the quality of being simple; not complicated: I love the simplicity of this design"
+            },
+            {
+              "word": "derive (verb)",
+              "phonetic": "/dɪˈraɪv/",
+              "mean_fa": "",
+              "mean_en": "to obtain or get something from a source, especially through a process of calculation: The result is derived from combining several measurements"
+            },
+            {
+              "word": "batch (noun)",
+              "phonetic": "/bætʃ/",
+              "mean_fa": "",
+              "mean_en": "a group of things (like images or data samples) processed together as one set: The model was trained using a batch of 32 images at a time"
+            },
+            {
+              "word": "weighted (adjective)",
+              "phonetic": "/ˈweɪ.tɪd/",
+              "mean_fa": "",
+              "mean_en": "giving some values more importance than others, so they affect the result more: weighted mean of [course, grade, unit] (math, 18, 4) (chemistry, 20, 2) → grade = ((18*4) + (20*2)) / 6 = 18.66 - unweighted mean of [18, 20] is (18+20) / 2 = 19"
+            },
+            {
+              "word": "thus (adverb)",
+              "phonetic": "/ðʌs/",
+              "mean_fa": "",
+              "mean_en": "1. in this way: Hold the wheel in both hands, thus <br> 2. because of this; therefore: He was very busy and was thus unable to come to the meeting - He studied hard; thus, he passed the exam"
             }
           ]
         }

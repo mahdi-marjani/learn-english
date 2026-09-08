@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1938**
+**Total words: 1945**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1060 words)](#deep-learning-with-pytorch---vocabulary-1060-words)
+- [Deep Learning with PyTorch - Vocabulary (1067 words)](#deep-learning-with-pytorch---vocabulary-1067-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (92 words)](#preface-92-words)
@@ -18,10 +18,10 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (591 words)](#part-1-core-pytorch-591-words)
+  - [Part 1: Core PyTorch (598 words)](#part-1-core-pytorch-598-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (65 words)](#chapter-3-it-starts-with-a-tensor-65-words)
+    - [Chapter 3: It starts with a tensor (72 words)](#chapter-3-it-starts-with-a-tensor-72-words)
 - [Duolingo - Vocabulary (669 words)](#duolingo---vocabulary-669-words)
   - [SECTION 1 (669 words)](#section-1-669-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -224,7 +224,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1060 words)
+## Deep Learning with PyTorch - Vocabulary (1067 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -716,7 +716,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (591 words)
+### Part 1: Core PyTorch (598 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1248,7 +1248,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (65 words)
+#### Chapter 3: It starts with a tensor (72 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1314,6 +1314,13 @@
 - `-prone (adjective)`  /prəʊn/ <br> likely to suffer or do the thing mentioned: injury-prone
 - `error-prone (adjective)`  <br> tending to make or cause mistakes: The process is manual, time-consuming and error-prone
 - `tend (verb)`  /tend/ <br> to usually do or be something: Men tend to be taller than women
+- `concrete (adjective)`  /kɑːnˈkriːt/ <br> relating to real things, not ideas or theories: Can you give a concrete example instead of a general idea?
+- `dummy (adjective)`  /ˈdʌm.i/ <br> not real; used for practice or testing purposes: The developer tested the app with dummy data before using real user information
+- `simplicity (noun)`  /sɪmˈplɪs.ə.ti/ <br> the quality of being simple; not complicated: I love the simplicity of this design
+- `derive (verb)`  /dɪˈraɪv/ <br> to obtain or get something from a source, especially through a process of calculation: The result is derived from combining several measurements
+- `batch (noun)`  /bætʃ/ <br> a group of things (like images or data samples) processed together as one set: The model was trained using a batch of 32 images at a time
+- `weighted (adjective)`  /ˈweɪ.tɪd/ <br> giving some values more importance than others, so they affect the result more: weighted mean of [course, grade, unit] (math, 18, 4) (chemistry, 20, 2) → grade = ((18*4) + (20*2)) / 6 = 18.66 - unweighted mean of [18, 20] is (18+20) / 2 = 19
+- `thus (adverb)`  /ðʌs/ <br> 1. in this way: Hold the wheel in both hands, thus <br> 2. because of this; therefore: He was very busy and was thus unable to come to the meeting - He studied hard; thus, he passed the exam
 ---
 
 ---
@@ -1665,7 +1672,7 @@
 - `necklace`  /ˈnek.ləs/ <br> a piece of jewellery worn around the neck <br> <img src='images/necklace.jpg' alt='necklace' width='200'>
 - `neck`  /nek/ <br> the body part that is connecting the head to the shoulders <br> <img src='images/neck.jpg' alt='neck' width='200'>
 - `footstep`  /ˈfʊt.step/ <br> the sound or mark made by a person walking as their foot touches the ground
-- `look (verb)`  /lʊk/ <br> 1. to turn your eyes towards somebody or something and try to see them: Look at this picture - You should look both ways before you cross the road <br> 2. to seem to be; to appear: You look tired - It looks as if it's going to rain <br> 3. you say to make somebody listen to you: Look, I know you're busy, but I need your help <br> `look after somebody or something` to take care of somebody or something: Can you look after my cat when I'm on holiday? <br> `look for somebody or something` to try to find somebody or something: I'm looking for my keys <br> `look forward to something` to wait for something with pleasure: I'm looking forward to seeing you again <br> `look into something` to study or try to find out something: We will look into the problem <br> `look like somebody or something` 1. to seem to be something: That looks like a good film <br> 2. words that you use to ask about somebody's appearance: 'What does he look like?' 'He's tall with dark hair' <br> 3. to have the same appearance as somebody or something: She looks like her mother <br> `look out` be careful: Look out! There's a car coming! <br> `look out for somebody or something` to pay attention and try to see or find somebody or something: Look out for thieves! <br> `look round something` to visit a place: We looked round the museum <br> `look something up` to try to find information in a book: I looked the word up in my dictionary
+- `look (verb)`  /lʊk/ <br> 1. to turn your eyes towards somebody or something and try to see them: Look at this picture - You should look both ways before you cross the road <br> 2. to seem to be; to appear: You look tired - It looks as if it's going to rain <br> 3. you say to make somebody listen to you: Look, I know you're busy, but I need your help <br> `look after somebody or something` to take care of somebody or something: Can you look after my cat when I'm on holiday? <br> `look for somebody or something` to try to find somebody or something: I'm looking for my keys <br> `look forward to something` to wait for something with pleasure: I'm looking forward to seeing you again <br> `look into something` to study or try to find out something: We will look into the problem <br> `look like somebody or something` 1. to seem to be something: That looks like a good film <br> 2. words that you use to ask about somebody's appearance: 'What does he look like?' 'He's tall with dark hair' <br> 3. to have the same appearance as somebody or something: She looks like her mother <br> `look out` be careful: Look out! There's a car coming! <br> `look out for somebody or something` to pay attention and try to see or find somebody or something: Look out for thieves! <br> `look round something` to visit a place: We looked round the museum <br> `look something up` to try to find information in a book, list, or online: I looked the word up in my dictionary
 - `tight (adjective)`  /taɪt/ <br> 1. fixed firmly so that you cannot move it easily: a tight knot - I can't open this jar of jam _ the lid is too tight (OPPOSITE: loose) <br> 2. Tight clothes fit very closely in a way that is often uncomfortable: These shoes are too tight - tight trousers
 - `firm (adjective)`  /fɜr:m/ <br> 1. Something that is firm is quite hard or does not move easily: Wait until the glue is firm - The shelf isn't very firm, so don't put too many books on it <br> 2. showing that you will not change your ideas: She's very firm with her children (= she makes them do what she wants) - a firm promise
 - `shout`  /ʃaʊt/ <br> to speak very loudly: Don't shout at me - 'Go back!' she shouted
