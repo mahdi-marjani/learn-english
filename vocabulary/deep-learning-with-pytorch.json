@@ -6454,6 +6454,30 @@
               "phonetic": "/ðʌs/",
               "mean_fa": "",
               "mean_en": "1. in this way: Hold the wheel in both hands, thus <br> 2. because of this; therefore: He was very busy and was thus unable to come to the meeting - He studied hard; thus, he passed the exam"
+            },
+            {
+              "word": "operand",
+              "phonetic": "/ˈɑː.pə.rænd/",
+              "mean_fa": "",
+              "mean_en": "a number, value, or object that is used in a mathematical or computational operation (like addition or multiplication). For example, in 7 + y, 7 and y are the operands"
+            },
+            {
+              "word": "leading (adjective)",
+              "phonetic": "/ˈliː.dɪŋ/",
+              "mean_fa": "",
+              "mean_en": "at the front or beginning; in the first position of a series or order: The batch size is usually stored in the leading dimension of a tensor (at index 0)"
+            },
+            {
+              "word": "apparent (adjective)",
+              "phonetic": "/əˈper.ənt/",
+              "mean_fa": "",
+              "mean_en": "clear; obvious; easy to see, understand, or notice"
+            },
+            {
+              "word": "unless",
+              "phonetic": "/ʌnˈles/",
+              "mean_fa": "",
+              "mean_en": "if not; except if: You will be late unless you leave now - Unless you work harder you'll fail the exam"
             }
           ]
         }

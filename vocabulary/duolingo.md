@@ -360,7 +360,7 @@
 - `waste (verb)`  /weɪst/ <br> to use too much of something or not use something in a good way: She wastes a lot of money on sweets - He wasted his time at university _ he didn't do any work
 - `shower`  /ʃaʊər/ <br> <br> <img src='images/shower.jpg' alt='shower' width='200'>
 - `creepy`  /ˈkriː.pi/ <br> making you feel nervous or afraid (SAME MEANING: scary): a creepy ghost story
-- `recall`  /rɪˈkɑːl/ <br> remember; to bring the memory of a past event into your mind, and often to give a description of what you remember: Can you recall what happened last night?
+- `recall (verb)`  /rɪˈkɑːl/ <br> to remember; to bring the memory of a past event into your mind: Can you recall what happened last night?
 - `laughter`  <br> the sound of laughing: I could hear laughter in the next room
 - `horrible`  /ˈhɔːr.ə.bəl/ <br> very bad or unpleasant: What horrible weather! - I had a horrible dream
 - `worst`  /wɜrst/ <br> superlative of bad (OPPOSITE: best)
