@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 669**
+**Total words: 670**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (669 words)](#section-1-669-words)
+- [SECTION 1 (670 words)](#section-1-670-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -28,11 +28,11 @@
   - [Party (24 words)](#party-24-words)
   - [The visit (22 words)](#the-visit-22-words)
   - [Promotion (30 words)](#promotion-30-words)
-  - [Debate (4 words)](#debate-4-words)
+  - [Debate (5 words)](#debate-5-words)
 
 ---
 
-## SECTION 1 (669 words)
+## SECTION 1 (670 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -745,9 +745,10 @@
 - `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
 - `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
 
-### Debate (4 words)
+### Debate (5 words)
 - `thought (noun)`  /θɑːt/ <br> 1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?
 - `media`  /ˈmiː.di.ə/ <br> television, radio and newspapers: The media always takes a great interest in the royal family
 - `adorable (adjective)`  /əˈdɔːr.ə.bəl/ <br> very cute: She has the most adorable two-year-old girl
 - `subway`  /ˈsʌb.weɪ/ <br> an underground railroad system, typically in a big city <br> <img src='images/subway.jpg' alt='subway' width='200'>
+- `bowl`  /boʊl/ <br> a deep round dish that is used for holding food or liquids: a bowl of soup <br> <img src='images/bowl.jpg' alt='bowl' width='200'>
 ---

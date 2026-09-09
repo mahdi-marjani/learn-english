@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1945**
+**Total words: 1946**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (72 words)](#chapter-3-it-starts-with-a-tensor-72-words)
-- [Duolingo - Vocabulary (669 words)](#duolingo---vocabulary-669-words)
-  - [SECTION 1 (669 words)](#section-1-669-words)
+- [Duolingo - Vocabulary (670 words)](#duolingo---vocabulary-670-words)
+  - [SECTION 1 (670 words)](#section-1-670-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -47,7 +47,7 @@
     - [Party (24 words)](#party-24-words)
     - [The visit (22 words)](#the-visit-22-words)
     - [Promotion (30 words)](#promotion-30-words)
-    - [Debate (4 words)](#debate-4-words)
+    - [Debate (5 words)](#debate-5-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1325,9 +1325,9 @@
 
 ---
 
-## Duolingo - Vocabulary (669 words)
+## Duolingo - Vocabulary (670 words)
 
-### SECTION 1 (669 words)
+### SECTION 1 (670 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2040,11 +2040,12 @@
 - `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
 - `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
 
-#### Debate (4 words)
+#### Debate (5 words)
 - `thought (noun)`  /θɑːt/ <br> 1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?
 - `media`  /ˈmiː.di.ə/ <br> television, radio and newspapers: The media always takes a great interest in the royal family
 - `adorable (adjective)`  /əˈdɔːr.ə.bəl/ <br> very cute: She has the most adorable two-year-old girl
 - `subway`  /ˈsʌb.weɪ/ <br> an underground railroad system, typically in a big city <br> <img src='images/subway.jpg' alt='subway' width='200'>
+- `bowl`  /boʊl/ <br> a deep round dish that is used for holding food or liquids: a bowl of soup <br> <img src='images/bowl.jpg' alt='bowl' width='200'>
 ---
 
 ---
@@ -2073,7 +2074,7 @@
 - `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
 - `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
 - `wear (verb)`  /wer/ <br> to have clothes, jewellery, etc. on your body: She was wearing a red dress - I wear glasses
-- `even (adverb)`  /ˈiːvən/ <br> 1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours
+- `even (adverb)`  /ˈiːvən/ <br> 1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours <br> `even if` it does not change anything if: Even if you run, you won't catch the bus <br> `even so` although that is true: I didn't have any lunch, but even so I'm not hungry <br> `even though` although: I went to the party, even though I was tired
 - `pretty (adverb)`  /ˈprɪti/ <br> quite; fairly: It's pretty cold today
 - `quite`  /kwaɪt/ <br> 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - `fairly`  /ˈferli/ <br> 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
