@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1950**
+**Total words: 1958**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (76 words)](#chapter-3-it-starts-with-a-tensor-76-words)
-- [Duolingo - Vocabulary (670 words)](#duolingo---vocabulary-670-words)
-  - [SECTION 1 (670 words)](#section-1-670-words)
+- [Duolingo - Vocabulary (678 words)](#duolingo---vocabulary-678-words)
+  - [SECTION 1 (678 words)](#section-1-678-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -47,7 +47,7 @@
     - [Party (24 words)](#party-24-words)
     - [The visit (22 words)](#the-visit-22-words)
     - [Promotion (30 words)](#promotion-30-words)
-    - [Debate (5 words)](#debate-5-words)
+    - [Debate (13 words)](#debate-13-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1329,9 +1329,9 @@
 
 ---
 
-## Duolingo - Vocabulary (670 words)
+## Duolingo - Vocabulary (678 words)
 
-### SECTION 1 (670 words)
+### SECTION 1 (678 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2044,12 +2044,20 @@
 - `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
 - `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
 
-#### Debate (5 words)
+#### Debate (13 words)
 - `thought (noun)`  /θɑːt/ <br> 1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?
 - `media`  /ˈmiː.di.ə/ <br> television, radio and newspapers: The media always takes a great interest in the royal family
 - `adorable (adjective)`  /əˈdɔːr.ə.bəl/ <br> very cute: She has the most adorable two-year-old girl
 - `subway`  /ˈsʌb.weɪ/ <br> an underground railroad system, typically in a big city <br> <img src='images/subway.jpg' alt='subway' width='200'>
 - `bowl`  /boʊl/ <br> a deep round dish that is used for holding food or liquids: a bowl of soup <br> <img src='images/bowl.jpg' alt='bowl' width='200'>
+- `pepper wrong`  <br> 
+- `disagree (verb)`  /ˌdɪs.əˈɡriː/ <br> to have a different opinion from somebody else: I said it was a good film, but Jason disagreed with me - My sister and I disagree about everything (OPPOSITE: agree)
+- `spirit (noun)`  /ˈspɪr.ət/ <br> 1. the part of a person that is not the body. Some people that your spirit does not die when your body dies <br> 2. spirits (plural) strong alcoholic drinks such as whisky <br> 3. spirits (plural) the way that a person feels: She's in high spirits (= happy) today
+- `pepper (noun)`  /ˈpepər/ <br> 1. (no plural) powder with a hot taste that you put on food: salt and pepper <br> 2. (plural pepper) a red, green or yellow vegetable that is almost empty inside
+- `wrong (adjective)`  /rɑːŋ/ <br> 1. not true or not correct: She gave me the wrong key, so I couldn't open the door - This clock is wrong (OPPOSITE: right) <br> 2. not the best: We took the wrong road and got lost (OPPOSITE: right) <br> 3. not as it should be, or not working well: There's something wrong with my car _ it won't start - 'What's wrong with Judith?' 'She's got a cold' <br> 4. bad, or not what the law allows: Stealing is wrong - I haven't done anything wrong (OPPOSITE: right)
+- `wrong (adverb)`  /rɑːŋ/ <br> not correctly; not right: You've spelt my name wrong (OPPOSITE: right) <br> `go wrong` 1. to not happen as you hoped or wanted: All our plans went wrong <br> 2. to stop working well: My watch keeps going wrong
+- `wrong (noun)`  /rɑːŋ/ <br> what is bad or not right: Babies don't know the difference between right and wrong
+- `wrongly (adverb)`  /ˈrɑːŋ.li/ <br> not correctly: He was wrongly accused of stealing the money
 ---
 
 ---
