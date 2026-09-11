@@ -4143,12 +4143,6 @@
               "mean_en": "a deep round dish that is used for holding food or liquids: a bowl of soup <br> <img src='images/bowl.jpg' alt='bowl' width='200'>"
             },
             {
-              "word": "pepper wrong",
-              "phonetic": "",
-              "mean_fa": "",
-              "mean_en": ""
-            },
-            {
               "word": "disagree (verb)",
               "phonetic": "/ˌdɪs.əˈɡriː/",
               "mean_fa": "",
@@ -4189,6 +4183,18 @@
               "phonetic": "/ˈrɑːŋ.li/",
               "mean_fa": "",
               "mean_en": "not correctly: He was wrongly accused of stealing the money"
+            },
+            {
+              "word": "grounded (adjective)",
+              "phonetic": "/ˈɡraʊn.dɪd/",
+              "mean_fa": "",
+              "mean_en": "A child or young person who is grounded is not allowed to go out as a punishment: I stayed out til 1 am last night and now I'm grounded for a week"
+            },
+            {
+              "word": "investment (noun)",
+              "phonetic": "/ɪnˈvestmənt/",
+              "mean_fa": "",
+              "mean_en": "money or time put into something to get more back"
             }
           ]
         }
