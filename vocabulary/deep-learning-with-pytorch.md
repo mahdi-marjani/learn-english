@@ -258,7 +258,7 @@
 - `glimpse (verb)`  /ɡlɪmps/ <br> to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - `cc`  <br> Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - `threads`  <br> زنجیره پیام‌ها
-- `necessary`  <br> ضروری
+- `necessary (adjective)`  /ˈnes.ə.ser.i/ <br> If something is necessary, you must have it or do it: Warm clothes are necessary in winter
 - `left off this list`  <br> از این فهرست جا افتاده‌اند
 - `honest`  <br> صادقانه
 - `tireless`  <br> خستگی‌ناپذیر

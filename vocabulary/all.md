@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1959**
+**Total words: 1967**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (76 words)](#chapter-3-it-starts-with-a-tensor-76-words)
-- [Duolingo - Vocabulary (679 words)](#duolingo---vocabulary-679-words)
-  - [SECTION 1 (679 words)](#section-1-679-words)
+- [Duolingo - Vocabulary (687 words)](#duolingo---vocabulary-687-words)
+  - [SECTION 1 (687 words)](#section-1-687-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -47,7 +47,7 @@
     - [Party (24 words)](#party-24-words)
     - [The visit (22 words)](#the-visit-22-words)
     - [Promotion (30 words)](#promotion-30-words)
-    - [Debate (14 words)](#debate-14-words)
+    - [Debate (22 words)](#debate-22-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -466,7 +466,7 @@
 - `glimpse (verb)`  /ɡlɪmps/ <br> to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - `cc`  <br> Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - `threads`  <br> زنجیره پیام‌ها
-- `necessary`  <br> ضروری
+- `necessary (adjective)`  /ˈnes.ə.ser.i/ <br> If something is necessary, you must have it or do it: Warm clothes are necessary in winter
 - `left off this list`  <br> از این فهرست جا افتاده‌اند
 - `honest`  <br> صادقانه
 - `tireless`  <br> خستگی‌ناپذیر
@@ -1329,9 +1329,9 @@
 
 ---
 
-## Duolingo - Vocabulary (679 words)
+## Duolingo - Vocabulary (687 words)
 
-### SECTION 1 (679 words)
+### SECTION 1 (687 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1425,7 +1425,7 @@
 - `die`  /daɪ/ <br> to stop living: People, animals and plants die if they don't have water - She died of cancer
 - `shrug`  /ʃrʌɡ/ <br> to move your shoulders to show that you do not know or do not care about something: I asked her where Same was but she just shrugged
 - `pretend`  /prɪˈtend/ <br> to try to make somebody believe something that is not true: He didn't want to talk, so he pretended to be asleep - I pretended that I was enjoying myself
-- `sketchbook`  /ˈsketʃbʊk/ <br> book of plain paper for drawing on
+- `sketchbook`  /ˈsketʃbʊk/ <br> a book for drawing
 - `horror`  /ˈhɔːrər/ <br> a feeling of fear or shock: They watched in horror as the child ran in front of the bus <br> `horrer film` a film which tries to frighten or shock you for entertainment <br> `horrer story` a story which tries to frighten or shock you for entertainment
 - `figure something/someone out`  /ˈfɪɡ.ər/ <br> to finally understand something or someone, or find the solution to a problem after a lot of thought: Can you figure out the answer to question 5?
 - `find out about something`  <br> to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time: How did you find out about the party?
@@ -1586,7 +1586,7 @@
 - `shame`  /ʃeɪm/ <br> an uneasy feeling that we get because of our own or someone else's mistake or bad manner <br> <img src='images/shame.jpg' alt='shame' width='200'>
 - `critic`  /ˈkrɪ.tɪk/ <br> someone who evaluates and provides opinions or judgments about various forms of art, literature, performances, or other creative works <br> <img src='images/critic.jpg' alt='critic' width='200'>
 - `hallway`  /hɑ:l.weɪ/ <br> a space inside a building entrance, which connects to the other rooms <br> <img src='images/hallway.jpg' alt='hallway' width='200'>
-- `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly
+- `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly <br> `turn something in` to give something to a person in authority, especially work that you have completed: I need to turn in my assignment by Friday
 - `properly`  /ˈprɑ.pər.li/ <br> well or correctly: Close the door properly - I can't see properly without my glasses
 
 #### Health (28 words)
@@ -2044,7 +2044,7 @@
 - `trim (verb)`  /trɪm/ <br> to cut a small amount off something to make it tidy: He trimmed my hair
 - `solitude`  /ˈsɑː.lə.tuːd/ <br> the situation of being alone without other people
 
-#### Debate (14 words)
+#### Debate (22 words)
 - `thought (noun)`  /θɑːt/ <br> 1. (no plural) thinking: After a lot of thought, I decided not to take the job <br> 2. (plural thoughts) an idea: Have you had any thoughts about what you want to do when you leave school?
 - `media`  /ˈmiː.di.ə/ <br> television, radio and newspapers: The media always takes a great interest in the royal family
 - `adorable (adjective)`  /əˈdɔːr.ə.bəl/ <br> very cute: She has the most adorable two-year-old girl
@@ -2059,6 +2059,14 @@
 - `wrongly (adverb)`  /ˈrɑːŋ.li/ <br> not correctly: He was wrongly accused of stealing the money
 - `grounded (adjective)`  /ˈɡraʊn.dɪd/ <br> A child or young person who is grounded is not allowed to go out as a punishment: I stayed out til 1 am last night and now I'm grounded for a week
 - `investment (noun)`  /ɪnˈvestmənt/ <br> money or time put into something to get more back
+- `make up one's mind`  <br> make a decision; decide
+- `raise (verb)`  /reɪz/ <br> 1. to move something or somebody up: Raise your hand if you want to ask a question (OPPOSITE: lower) <br> 2. to make something bigger, higher, stronger, etc.: They've raised the price of petrol - She raised her voice (= spoke more loudly) (OPPOSITE: lower) <br> 3. to get moeny from other people for a particular purpose: We raised $1000 for the hospital <br> 4. to start to talk about something: He raised an interesting question <br> 5. to look after a child or an animal until they are an adult: It's difficult to raise a family with so little money
+- `rush`  /rʌʃ/ <br> moving or doing something quickly
+- `awkward (adjective)`  /ˈɔːkwərd/ <br> 1. difficult or causing problems: This big box will be awkward to carry - an awkward question <br> 2. not comfortable; embarrassing: I felt awkward at the party because I didn't know anybody <br> 3. not able to move your body in an easy way: He's very awkward when he dances
+- `silence (noun)`  /ˈsaɪ.ləns/ <br> 1. (no plural) a situation in which there is no sound: I can only work in complete silence <br> 2. (plural silences) a time when nobody speaks or makes noise: There was a long silence before she answered the question - We ate our dinner in silence
+- `silent (adjective)`  /ˈsaɪ.lənt/ <br> 1. with no sound; completely quiet: Everyone was asleep, and the house was silent <br> 2. If you are silent, you are not speaking: I asked him a question and he was silent for a moment before he answered
+- `hardly ever`  <br> very rarely: we hardly ever see them
+- `yet (adverb)`  /jet/ <br> 1. a word that you use for talking about something that has not happened but that you expect to happen: I haven't finished the book yet - Have you seen that film yet? <br> 2. now; as early as this: You don't need to go yet _ it's only seven o'clock <br> 3. in the future: They may win yet <br> 4. but; in spite of that: We arrived home tired yet happy <br> `yet again` once more: John is late yet again
 ---
 
 ---
