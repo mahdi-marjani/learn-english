@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1976**
+**Total words: 1977**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (687 words)](#duolingo---vocabulary-687-words)
-  - [SECTION 1 (687 words)](#section-1-687-words)
+- [Duolingo - Vocabulary (688 words)](#duolingo---vocabulary-688-words)
+  - [SECTION 1 (688 words)](#section-1-688-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -48,6 +48,7 @@
     - [The visit (22 words)](#the-visit-22-words)
     - [Promotion (30 words)](#promotion-30-words)
     - [Debate (22 words)](#debate-22-words)
+    - [Arts (1 words)](#arts-1-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1338,9 +1339,9 @@
 
 ---
 
-## Duolingo - Vocabulary (687 words)
+## Duolingo - Vocabulary (688 words)
 
-### SECTION 1 (687 words)
+### SECTION 1 (688 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2076,6 +2077,9 @@
 - `silent (adjective)`  /ˈsaɪ.lənt/ <br> 1. with no sound; completely quiet: Everyone was asleep, and the house was silent <br> 2. If you are silent, you are not speaking: I asked him a question and he was silent for a moment before he answered
 - `hardly ever`  <br> very rarely: we hardly ever see them
 - `yet (adverb)`  /jet/ <br> 1. a word that you use for talking about something that has not happened but that you expect to happen: I haven't finished the book yet - Have you seen that film yet? <br> 2. now; as early as this: You don't need to go yet _ it's only seven o'clock <br> 3. in the future: They may win yet <br> 4. but; in spite of that: We arrived home tired yet happy <br> `yet again` once more: John is late yet again
+
+#### Arts (1 words)
+- `publish (verb)`  /ˈpʌb.lɪʃ/ <br> 1. to prepare and print a book, magazine or newspaper for selling: This dictionary was published by Oxford University Press <br> 2. to make information available to the public, especially on the Internet
 ---
 
 ---
