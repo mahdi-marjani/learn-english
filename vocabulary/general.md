@@ -49,7 +49,7 @@
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
 - `worse (adjective, adverb) `  /wɜːrs/ <br> 1. not as good or as well as something else: The weather today is worse than yesterday - Her Spanish is bad but her Italian is even worse (OPPOSITE: better) <br> 2. more ill: If you get worse, you must go to the doctor's (OPPOSITE: better)
-- `adopt`  /əˈdɑːpt/ <br> to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
+- `adopt (verb)`  /əˈdɑːpt/ <br> 1. to start using or accepting a new method, idea, or technology: Many companies have adopted remote work policies <br> 2. to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - `rarely`  /ˈrerli/ <br> not very often: We rarely agree with each other
 - `stranger`  /ˈstreɪndʒər/ <br> someone you do not know
 - `tradition`  /trəˈdɪʃ.ən/ <br> a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group

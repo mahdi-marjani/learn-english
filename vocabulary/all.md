@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1967**
+**Total words: 1976**
 
 ## 📑 Table of Contents
 
@@ -10,7 +10,7 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1071 words)](#deep-learning-with-pytorch---vocabulary-1071-words)
+- [Deep Learning with PyTorch - Vocabulary (1080 words)](#deep-learning-with-pytorch---vocabulary-1080-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (92 words)](#preface-92-words)
@@ -18,10 +18,10 @@
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-  - [Part 1: Core PyTorch (602 words)](#part-1-core-pytorch-602-words)
+  - [Part 1: Core PyTorch (611 words)](#part-1-core-pytorch-611-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (76 words)](#chapter-3-it-starts-with-a-tensor-76-words)
+    - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
 - [Duolingo - Vocabulary (687 words)](#duolingo---vocabulary-687-words)
   - [SECTION 1 (687 words)](#section-1-687-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -224,7 +224,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1071 words)
+## Deep Learning with PyTorch - Vocabulary (1080 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -716,7 +716,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (602 words)
+### Part 1: Core PyTorch (611 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1248,7 +1248,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (76 words)
+#### Chapter 3: It starts with a tensor (85 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1325,6 +1325,15 @@
 - `leading (adjective)`  /ˈliː.dɪŋ/ <br> at the front or beginning; in the first position of a series or order: The batch size is usually stored in the leading dimension of a tensor (at index 0)
 - `apparent (adjective)`  /əˈper.ənt/ <br> clear; obvious; easy to see, understand, or notice
 - `unless`  /ʌnˈles/ <br> if not; except if: You will be late unless you leave now - Unless you work harder you'll fail the exam
+- `ellipsis (noun)`  /ɪˈlɪp.sɪs/ <br> (programming) the symbol '...' used to represent or skip over one or more dimensions/elements without naming them individually: the ellipsis (...) allows you to leave out any number of dimensions - img_named = img_t.refine_names(..., 'channels', 'rows', 'columns')  # the '...' covers any leading dimensions we don't want to name
+- `sibling (noun)`  /ˈsɪb.lɪŋ/ <br> 1. a brother or sister <br> 2. (programming) describing a method/function that is closely related to another one, often doing a similar job in a slightly different way (e.g., one returns a new object, the other changes it in place): list.sort() and sorted() are sibling methods; one changes the list in place, the other returns a new one
+- `explicitly (adverb)`  /ɪkˈsplɪs.ɪt.li/ <br> in a way that is clear and exact: we need to do this explicitly - He explicitly told me not to touch his laptop
+- `permute (verb)`  /pərˈmjuːt/ <br> to change the order of a set of things
+- `muck around with (phrasal verb)`  /mʌk əˈraʊnd wɪð/ <br> behave in a silly or aimless way; to spend time doing something in a silly or unproductive way: I spent an hour mucking around with the settings before it finally worked
+- `alignment (noun)`  /əˈlaɪn.mənt/ <br> the act of arranging things in a straight line or in correct relative positions
+- `stick (verb)`  /stɪk/ <br> 1. to push a pointed thing into something: Stick a fork into the meat to see if it's cooked <br> 2. to join something to something else with a sticky substance; to become joined in this way: I stuck a stamp on the envelope <br> 3. to be fixed in one place; to not be able to move: This door always sticks <br> 4. (informal) to put something somewhere: Stick that box on the floor <br> `stick out` to come out of the side or top of something so that you can see it easily: The boy's head was sticking out of the window <br> `stick something out` to push something out: Don't stick your tongue out <br> `stick to something` to continue with something and not change it: We're sticking to Peter's plan <br> `stick up for somebody or something` to say that somebody or something is right: Everyone else said I was wrong, but Kim stuck up for me
+- `eliminate (verb)`  /ɪˈlɪm.ə.neɪt/ <br> to remove something that is not needed or wanted: We must try to eliminate waste
+- `indication`  /ˌɪn.dəˈkeɪ.ʃən/ <br> a sign or piece of information that shows or suggests something; something that indicates a fact or situation: Her smile was a clear indication that she was happy
 ---
 
 ---
@@ -2110,7 +2119,7 @@
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
 - `worse (adjective, adverb) `  /wɜːrs/ <br> 1. not as good or as well as something else: The weather today is worse than yesterday - Her Spanish is bad but her Italian is even worse (OPPOSITE: better) <br> 2. more ill: If you get worse, you must go to the doctor's (OPPOSITE: better)
-- `adopt`  /əˈdɑːpt/ <br> to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
+- `adopt (verb)`  /əˈdɑːpt/ <br> 1. to start using or accepting a new method, idea, or technology: Many companies have adopted remote work policies <br> 2. to take the child of another person into your family and treat them as your own child by law: They adopted Micky after his parents died
 - `rarely`  /ˈrerli/ <br> not very often: We rarely agree with each other
 - `stranger`  /ˈstreɪndʒər/ <br> someone you do not know
 - `tradition`  /trəˈdɪʃ.ən/ <br> a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group
