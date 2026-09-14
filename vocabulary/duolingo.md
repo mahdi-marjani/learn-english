@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 688**
+**Total words: 693**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (688 words)](#section-1-688-words)
+- [SECTION 1 (693 words)](#section-1-693-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -29,11 +29,11 @@
   - [The visit (22 words)](#the-visit-22-words)
   - [Promotion (30 words)](#promotion-30-words)
   - [Debate (22 words)](#debate-22-words)
-  - [Arts (1 words)](#arts-1-words)
+  - [Arts (6 words)](#arts-6-words)
 
 ---
 
-## SECTION 1 (688 words)
+## SECTION 1 (693 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -770,6 +770,11 @@
 - `hardly ever`  <br> very rarely: we hardly ever see them
 - `yet (adverb)`  /jet/ <br> 1. a word that you use for talking about something that has not happened but that you expect to happen: I haven't finished the book yet - Have you seen that film yet? <br> 2. now; as early as this: You don't need to go yet _ it's only seven o'clock <br> 3. in the future: They may win yet <br> 4. but; in spite of that: We arrived home tired yet happy <br> `yet again` once more: John is late yet again
 
-### Arts (1 words)
+### Arts (6 words)
 - `publish (verb)`  /ˈpʌb.lɪʃ/ <br> 1. to prepare and print a book, magazine or newspaper for selling: This dictionary was published by Oxford University Press <br> 2. to make information available to the public, especially on the Internet
+- `performance (noun)`  /pərˈfɔːrməns/ <br> 1. (plural performances) a time when a play, etc. is shown, or music is played in front of a lot of people: We went to the evening performance of the play <br> 2. (no plural) how well you do something: My parents were pleased with my performance in the exam
+- `comedy`  /ˈkɑː.mə.di/ <br> a funny movie
+- `dilemma`  /dɪˈlem.ə/ <br> a situation in which a difficult choice has to be made between two different things you could do: She faced a dilemma about whether to accept the offer or not
+- `chainsaw`  /ˈtʃeɪn.sɔː/ <br> a tool for cutting wood <br> <img src='images/chainsaw.jpg' alt='chainsaw' width='200'>
+- `whichever`  wɪtʃˈevər/ <br> any one from a limited set: We can go to the seven o'clock performance or the eight _ whichever is best for you - Either Thursday or Friday _ choose whichever day is best for you
 ---
