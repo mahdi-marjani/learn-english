@@ -4281,9 +4281,33 @@
             },
             {
               "word": "whichever",
-              "phonetic": "wɪtʃˈevər/",
+              "phonetic": "/wɪtʃˈevər/",
               "mean_fa": "",
               "mean_en": "any one from a limited set: We can go to the seven o'clock performance or the eight _ whichever is best for you - Either Thursday or Friday _ choose whichever day is best for you"
+            },
+            {
+              "word": "commercial",
+              "phonetic": "/kəˈmɜːrʃl/",
+              "mean_fa": "",
+              "mean_en": "a television or radio advertisement"
+            },
+            {
+              "word": "sculpture",
+              "phonetic": "/ˈskʌlptʃər/",
+              "mean_fa": "",
+              "mean_en": "the art of forming solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone, or an object made in this way <br> <img src='images/sculpture.jpg' alt='sculpture' width='200'>"
+            },
+            {
+              "word": "orchestra",
+              "phonetic": "/ˈɔːr.kə.strə/",
+              "mean_fa": "",
+              "mean_en": "a team of musicians"
+            },
+            {
+              "word": "soundproof (adjective)",
+              "phonetic": "/ˈsaʊnd.pruːf/",
+              "mean_fa": "",
+              "mean_en": "(of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy"
             }
           ]
         }
