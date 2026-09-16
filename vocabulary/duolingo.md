@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 697**
+**Total words: 699**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (697 words)](#section-1-697-words)
+- [SECTION 1 (699 words)](#section-1-699-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -30,10 +30,11 @@
   - [Promotion (30 words)](#promotion-30-words)
   - [Debate (22 words)](#debate-22-words)
   - [Arts (10 words)](#arts-10-words)
+  - [Bedtime (2 words)](#bedtime-2-words)
 
 ---
 
-## SECTION 1 (697 words)
+## SECTION 1 (699 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -781,4 +782,8 @@
 - `sculpture`  /ˈskʌlptʃər/ <br> the art of forming solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone, or an object made in this way <br> <img src='images/sculpture.jpg' alt='sculpture' width='200'>
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
+
+### Bedtime (2 words)
+- `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
+- `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 ---

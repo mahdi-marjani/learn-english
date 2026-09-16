@@ -4310,6 +4310,23 @@
               "mean_en": "(of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy"
             }
           ]
+        },
+        {
+          "heading": "Bedtime",
+          "words": [
+            {
+              "word": "truly (adverb)",
+              "phonetic": "/ˈtruː.li/",
+              "mean_fa": "",
+              "mean_en": "really: I'm truly sorry"
+            },
+            {
+              "word": "lightning (noun)",
+              "phonetic": "/ˈlaɪt.nɪŋ/",
+              "mean_fa": "",
+              "mean_en": "a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>"
+            }
+          ]
         }
       ]
     }

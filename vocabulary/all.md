@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1986**
+**Total words: 1988**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (697 words)](#duolingo---vocabulary-697-words)
-  - [SECTION 1 (697 words)](#section-1-697-words)
+- [Duolingo - Vocabulary (699 words)](#duolingo---vocabulary-699-words)
+  - [SECTION 1 (699 words)](#section-1-699-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -49,6 +49,7 @@
     - [Promotion (30 words)](#promotion-30-words)
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
+    - [Bedtime (2 words)](#bedtime-2-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1339,9 +1340,9 @@
 
 ---
 
-## Duolingo - Vocabulary (697 words)
+## Duolingo - Vocabulary (699 words)
 
-### SECTION 1 (697 words)
+### SECTION 1 (699 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2089,6 +2090,10 @@
 - `sculpture`  /ˈskʌlptʃər/ <br> the art of forming solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone, or an object made in this way <br> <img src='images/sculpture.jpg' alt='sculpture' width='200'>
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
+
+#### Bedtime (2 words)
+- `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
+- `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 ---
 
 ---
