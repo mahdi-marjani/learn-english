@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 699**
+**Total words: 704**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (699 words)](#section-1-699-words)
+- [SECTION 1 (704 words)](#section-1-704-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -30,11 +30,11 @@
   - [Promotion (30 words)](#promotion-30-words)
   - [Debate (22 words)](#debate-22-words)
   - [Arts (10 words)](#arts-10-words)
-  - [Bedtime (2 words)](#bedtime-2-words)
+  - [Bedtime (7 words)](#bedtime-7-words)
 
 ---
 
-## SECTION 1 (699 words)
+## SECTION 1 (704 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -783,7 +783,12 @@
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
 
-### Bedtime (2 words)
+### Bedtime (7 words)
 - `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
 - `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
+- `flu (noun)`  /fluː/ <br> an illness like a very bad cold that makes your body sore and hot: I think I've got flu
+- `fan (noun)`  /fæn/ <br> a machine that makes air move
+- `smooth (adjective)`  /smuːð/ <br> 1. having a completely flat surface: Babies have such smooth skin - The surface should be completely smooth (OPPOSITE: rough) <br> 2. with no big piece in it: Beat the sauce until it is smooth (OPPOSITE: lumpy) <br> 3. A smooth movement or journey is even and comfortable: The weather was good so we had a very smooth flight (OPPOSITE: bumpy)
+- `wrapped (adjective)`  /ræpt/ <br> covered with paper or other material: The baby was wrapped in a warm blanket - individually wrapped chocolates
+- `ceiling (noun)`  /ˈsiː.lɪŋ/ <br> the top part of the inside of a room; the inside surface of a room that you can see when you look above you <br> <img src='images/ceiling.jpg' alt='ceiling' width='200'>
 ---
