@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 704**
+**Total words: 711**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (704 words)](#section-1-704-words)
+- [SECTION 1 (711 words)](#section-1-711-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -30,11 +30,11 @@
   - [Promotion (30 words)](#promotion-30-words)
   - [Debate (22 words)](#debate-22-words)
   - [Arts (10 words)](#arts-10-words)
-  - [Bedtime (7 words)](#bedtime-7-words)
+  - [Bedtime (14 words)](#bedtime-14-words)
 
 ---
 
-## SECTION 1 (704 words)
+## SECTION 1 (711 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -783,7 +783,7 @@
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
 
-### Bedtime (7 words)
+### Bedtime (14 words)
 - `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
 - `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 - `flu (noun)`  /fluː/ <br> an illness like a very bad cold that makes your body sore and hot: I think I've got flu
@@ -791,4 +791,11 @@
 - `smooth (adjective)`  /smuːð/ <br> 1. having a completely flat surface: Babies have such smooth skin - The surface should be completely smooth (OPPOSITE: rough) <br> 2. with no big piece in it: Beat the sauce until it is smooth (OPPOSITE: lumpy) <br> 3. A smooth movement or journey is even and comfortable: The weather was good so we had a very smooth flight (OPPOSITE: bumpy)
 - `wrapped (adjective)`  /ræpt/ <br> covered with paper or other material: The baby was wrapped in a warm blanket - individually wrapped chocolates
 - `ceiling (noun)`  /ˈsiː.lɪŋ/ <br> the top part of the inside of a room; the inside surface of a room that you can see when you look above you <br> <img src='images/ceiling.jpg' alt='ceiling' width='200'>
+- `ambulance`  /ˈæm.bjə.ləns/ <br> a special vehicle used to take sick or injured people to hospital <br> <img src='images/ambulance.jpg' alt='ambulance' width='200'>
+- `wing (noun)`  /wɪŋ/ <br> 1. one of the two parts that a bird or an insect uses to fly: The chicken ran around flapping its wings <br> <img src='images/wing.jpg' alt='wing' width='200'> <br> 2. one of the two long parts at the sides of a plane that support it in the air
+- `dream (noun)`  /driːm/ <br> 1. pictures or events which happen in your mind when you are asleep: I had a dream about school last night <br> 2. something nice that you hope for: His dream was to give up his job and live in the country
+- `dream (verb)`  /driːm/ <br> 1. to have a picture or idea in your mind when you are asleep: I dreamt about you last night - I dreamt that I was flying <br> 2. to hope for something nice in the future: She dreams of becoming a famous actress
+- `ankle`  /ˈæŋ.kəl/ <br> the joint (= place where two bones are connected) between the foot and the leg, or the thin part of the leg just above the foot: I fell over and twisted my ankle <br> <img src='images/ankle.jpg' alt='ankle' width='200'>
+- `wrist`  /rɪst/ <br> the part of the body between the hand and the arm: I sprained my wrist playing tennis <br> <img src='images/wrist.jpg' alt='wrist' width='200'>
+- `twist (verb)`  /twɪst/ <br> 1. to change the shape of something by turning it in different directions; to turn in many directions: She twisted the metal into strange shapes - The path twists and turns through the forest <br> 2. to turn something with your hand: Twist the lid off the jar <br> 3. to turn something round another object many times: They twisted the sheets into a rope and escaped through the window <br> 4. to hurt part of your body by suddenly turning it in a way that is not natural: She fell and twisted her ankle
 ---

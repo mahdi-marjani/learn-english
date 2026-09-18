@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1993**
+**Total words: 1999**
 
 ## 📑 Table of Contents
 
@@ -10,10 +10,10 @@
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
-- [Deep Learning with PyTorch - Vocabulary (1080 words)](#deep-learning-with-pytorch---vocabulary-1080-words)
+- [Deep Learning with PyTorch - Vocabulary (1079 words)](#deep-learning-with-pytorch---vocabulary-1079-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
-  - [preface (92 words)](#preface-92-words)
+  - [preface (91 words)](#preface-91-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
   - [about this book (163 words)](#about-this-book-163-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (704 words)](#duolingo---vocabulary-704-words)
-  - [SECTION 1 (704 words)](#section-1-704-words)
+- [Duolingo - Vocabulary (711 words)](#duolingo---vocabulary-711-words)
+  - [SECTION 1 (711 words)](#section-1-711-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -49,7 +49,7 @@
     - [Promotion (30 words)](#promotion-30-words)
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
-    - [Bedtime (7 words)](#bedtime-7-words)
+    - [Bedtime (14 words)](#bedtime-14-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -181,7 +181,7 @@
 - `annoying`  /əˈnɔɪ.ɪŋ/ <br> if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
 - `ashamed`  /əˈʃeɪmd/ <br> feeling sory and unhappy because you have done something wrong, or because you are not as good as other people: I was ashamed about lying to my parents - She was ashamed of her old clothes
 - `mere`  /mɪər/ <br> only; not more than: She was a mere child when her parents died
-- `step (verb)`  <br> to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
+- `step (verb)`  <br> walk; to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1080 words)
+## Deep Learning with PyTorch - Vocabulary (1079 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -324,14 +324,13 @@
 - `workshop`  <br> کارگاه (آموزشی)
 ---
 
-### preface (92 words)
+### preface (91 words)
 - `preface`  <br> مقدمه
 - `as kids`  <br> وقتی بچه بودیم
 - `sinclair spectrum 48k (luca)`  <br> نام چند کامپیوتر قدیمی
 - `commodore vic 20 (eli)`  <br> نام چند کامپیوتر قدیمی
 - `commodore c16 (thomas)`  <br> نام چند کامپیوتر قدیمی
 - `dawn`  <br> start (of something big or new)
-- `dreamed`  <br> رؤیا دیدیم
 - `take`  <br> 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> `take your time` do not rush; use as much time as you need <br> `take a break` to stop something for a short period, often to rest, to eat food, or to have a drink
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
@@ -1340,9 +1339,9 @@
 
 ---
 
-## Duolingo - Vocabulary (704 words)
+## Duolingo - Vocabulary (711 words)
 
-### SECTION 1 (704 words)
+### SECTION 1 (711 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2091,7 +2090,7 @@
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
 
-#### Bedtime (7 words)
+#### Bedtime (14 words)
 - `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
 - `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 - `flu (noun)`  /fluː/ <br> an illness like a very bad cold that makes your body sore and hot: I think I've got flu
@@ -2099,6 +2098,13 @@
 - `smooth (adjective)`  /smuːð/ <br> 1. having a completely flat surface: Babies have such smooth skin - The surface should be completely smooth (OPPOSITE: rough) <br> 2. with no big piece in it: Beat the sauce until it is smooth (OPPOSITE: lumpy) <br> 3. A smooth movement or journey is even and comfortable: The weather was good so we had a very smooth flight (OPPOSITE: bumpy)
 - `wrapped (adjective)`  /ræpt/ <br> covered with paper or other material: The baby was wrapped in a warm blanket - individually wrapped chocolates
 - `ceiling (noun)`  /ˈsiː.lɪŋ/ <br> the top part of the inside of a room; the inside surface of a room that you can see when you look above you <br> <img src='images/ceiling.jpg' alt='ceiling' width='200'>
+- `ambulance`  /ˈæm.bjə.ləns/ <br> a special vehicle used to take sick or injured people to hospital <br> <img src='images/ambulance.jpg' alt='ambulance' width='200'>
+- `wing (noun)`  /wɪŋ/ <br> 1. one of the two parts that a bird or an insect uses to fly: The chicken ran around flapping its wings <br> <img src='images/wing.jpg' alt='wing' width='200'> <br> 2. one of the two long parts at the sides of a plane that support it in the air
+- `dream (noun)`  /driːm/ <br> 1. pictures or events which happen in your mind when you are asleep: I had a dream about school last night <br> 2. something nice that you hope for: His dream was to give up his job and live in the country
+- `dream (verb)`  /driːm/ <br> 1. to have a picture or idea in your mind when you are asleep: I dreamt about you last night - I dreamt that I was flying <br> 2. to hope for something nice in the future: She dreams of becoming a famous actress
+- `ankle`  /ˈæŋ.kəl/ <br> the joint (= place where two bones are connected) between the foot and the leg, or the thin part of the leg just above the foot: I fell over and twisted my ankle <br> <img src='images/ankle.jpg' alt='ankle' width='200'>
+- `wrist`  /rɪst/ <br> the part of the body between the hand and the arm: I sprained my wrist playing tennis <br> <img src='images/wrist.jpg' alt='wrist' width='200'>
+- `twist (verb)`  /twɪst/ <br> 1. to change the shape of something by turning it in different directions; to turn in many directions: She twisted the metal into strange shapes - The path twists and turns through the forest <br> 2. to turn something with your hand: Twist the lid off the jar <br> 3. to turn something round another object many times: They twisted the sheets into a rope and escaped through the window <br> 4. to hurt part of your body by suddenly turning it in a way that is not natural: She fell and twisted her ankle
 ---
 
 ---

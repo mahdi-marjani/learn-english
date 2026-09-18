@@ -1,12 +1,12 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1080**
+**Total words: 1079**
 
 ## 📑 Table of Contents
 
 - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
 - [foreword (52 words)](#foreword-52-words)
-- [preface (92 words)](#preface-92-words)
+- [preface (91 words)](#preface-91-words)
 - [acknowledgments (58 words)](#acknowledgments-58-words)
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
@@ -114,14 +114,13 @@
 - `workshop`  <br> کارگاه (آموزشی)
 ---
 
-## preface (92 words)
+## preface (91 words)
 - `preface`  <br> مقدمه
 - `as kids`  <br> وقتی بچه بودیم
 - `sinclair spectrum 48k (luca)`  <br> نام چند کامپیوتر قدیمی
 - `commodore vic 20 (eli)`  <br> نام چند کامپیوتر قدیمی
 - `commodore c16 (thomas)`  <br> نام چند کامپیوتر قدیمی
 - `dawn`  <br> start (of something big or new)
-- `dreamed`  <br> رؤیا دیدیم
 - `take`  <br> 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> `take your time` do not rush; use as much time as you need <br> `take a break` to stop something for a short period, often to rest, to eat food, or to have a drink
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه

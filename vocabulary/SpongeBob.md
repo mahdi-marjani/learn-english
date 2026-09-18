@@ -132,7 +132,7 @@
 - `annoying`  /əˈnɔɪ.ɪŋ/ <br> if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
 - `ashamed`  /əˈʃeɪmd/ <br> feeling sory and unhappy because you have done something wrong, or because you are not as good as other people: I was ashamed about lying to my parents - She was ashamed of her old clothes
 - `mere`  /mɪər/ <br> only; not more than: She was a mere child when her parents died
-- `step (verb)`  <br> to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
+- `step (verb)`  <br> walk; to move your foot up and put it down in another place when you walk, run or dance: You stepped on my foot!
 - `spin`  <br> to turn around over and over very fast <br> <img src='images/spin.jpg' alt='spin' width='200'>
 - `gene`  /dʒiːn/ <br> a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents: The illness is believed to be caused by a defective gene <br> <img src='images/gene.jpg' alt='gene' width='200'>
 
