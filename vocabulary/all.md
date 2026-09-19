@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 1999**
+**Total words: 2004**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (711 words)](#duolingo---vocabulary-711-words)
-  - [SECTION 1 (711 words)](#section-1-711-words)
+- [Duolingo - Vocabulary (716 words)](#duolingo---vocabulary-716-words)
+  - [SECTION 1 (716 words)](#section-1-716-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -49,7 +49,7 @@
     - [Promotion (30 words)](#promotion-30-words)
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
-    - [Bedtime (14 words)](#bedtime-14-words)
+    - [Bedtime (19 words)](#bedtime-19-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1339,9 +1339,9 @@
 
 ---
 
-## Duolingo - Vocabulary (711 words)
+## Duolingo - Vocabulary (716 words)
 
-### SECTION 1 (711 words)
+### SECTION 1 (716 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2090,7 +2090,7 @@
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
 
-#### Bedtime (14 words)
+#### Bedtime (19 words)
 - `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
 - `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 - `flu (noun)`  /fluː/ <br> an illness like a very bad cold that makes your body sore and hot: I think I've got flu
@@ -2105,6 +2105,11 @@
 - `ankle`  /ˈæŋ.kəl/ <br> the joint (= place where two bones are connected) between the foot and the leg, or the thin part of the leg just above the foot: I fell over and twisted my ankle <br> <img src='images/ankle.jpg' alt='ankle' width='200'>
 - `wrist`  /rɪst/ <br> the part of the body between the hand and the arm: I sprained my wrist playing tennis <br> <img src='images/wrist.jpg' alt='wrist' width='200'>
 - `twist (verb)`  /twɪst/ <br> 1. to change the shape of something by turning it in different directions; to turn in many directions: She twisted the metal into strange shapes - The path twists and turns through the forest <br> 2. to turn something with your hand: Twist the lid off the jar <br> 3. to turn something round another object many times: They twisted the sheets into a rope and escaped through the window <br> 4. to hurt part of your body by suddenly turning it in a way that is not natural: She fell and twisted her ankle
+- `next door`  /ˌnekst ˈdɔːr/ <br> next to another room, house or building; living in the house that is next to your house: our next-door neighbours - Margot is our next-door neighbour
+- `lullaby`  /ˈlʌl.ə.baɪ/ <br> a quiet song that is sung to children to help them go to sleep
+- `mattress`  /ˈmæt.rəs/ <br> the thing you sleep on <br> <img src='images/mattress.jpg' alt='mattress' width='200'>
+- `fluffy (adjective)`  /ˈflʌf.i/ <br> feeling or looking very light and soft: a fluffy kitten - fluffy clouds
+- `howl (verb)`  /haʊl/ <br> If a dog or wolf howls, it makes a long, sad sound: In the silence of the night, a lone wolf howled
 ---
 
 ---
