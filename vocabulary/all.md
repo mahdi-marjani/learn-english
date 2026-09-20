@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2004**
+**Total words: 2007**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (716 words)](#duolingo---vocabulary-716-words)
-  - [SECTION 1 (716 words)](#section-1-716-words)
+- [Duolingo - Vocabulary (719 words)](#duolingo---vocabulary-719-words)
+  - [SECTION 1 (719 words)](#section-1-719-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -49,7 +49,7 @@
     - [Promotion (30 words)](#promotion-30-words)
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
-    - [Bedtime (19 words)](#bedtime-19-words)
+    - [Bedtime (22 words)](#bedtime-22-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1339,9 +1339,9 @@
 
 ---
 
-## Duolingo - Vocabulary (716 words)
+## Duolingo - Vocabulary (719 words)
 
-### SECTION 1 (716 words)
+### SECTION 1 (719 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2090,7 +2090,7 @@
 - `orchestra`  /ˈɔːr.kə.strə/ <br> a team of musicians
 - `soundproof (adjective)`  /ˈsaʊnd.pruːf/ <br> (of a building or part of a building) not allowing sound to go through: a soundproof room/wall/studio - The hotel is fully soundproofed so getting a good night's sleep in such a busy area is easy
 
-#### Bedtime (19 words)
+#### Bedtime (22 words)
 - `truly (adverb)`  /ˈtruː.li/ <br> really: I'm truly sorry
 - `lightning (noun)`  /ˈlaɪt.nɪŋ/ <br> a sudden bright light in the sky when there is a storm: He was struck (= hit) by lightning <br> <img src='images/lightning.jpg' alt='lightning' width='200'>
 - `flu (noun)`  /fluː/ <br> an illness like a very bad cold that makes your body sore and hot: I think I've got flu
@@ -2110,6 +2110,9 @@
 - `mattress`  /ˈmæt.rəs/ <br> the thing you sleep on <br> <img src='images/mattress.jpg' alt='mattress' width='200'>
 - `fluffy (adjective)`  /ˈflʌf.i/ <br> feeling or looking very light and soft: a fluffy kitten - fluffy clouds
 - `howl (verb)`  /haʊl/ <br> If a dog or wolf howls, it makes a long, sad sound: In the silence of the night, a lone wolf howled
+- `chaos (noun)`  /ˈkeɪ.ɑːs/ <br> when everything is confused and nothing is organized: The house was in chaos after the party
+- `oversleep (verb)`  /ˌoʊvərˈsliːp/ <br> to sleep too long and not wake up at the right time: I overslept and was late for work
+- `gently (adverb)`  /ˈdʒentli/ <br> 1. in a way that is soft and light, not strong, extreme or violent: She held the baby gently <br> 2. in a calm, kind and quiet way
 ---
 
 ---
