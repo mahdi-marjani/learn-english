@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2007**
+**Total words: 2014**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (719 words)](#duolingo---vocabulary-719-words)
-  - [SECTION 1 (719 words)](#section-1-719-words)
+- [Duolingo - Vocabulary (726 words)](#duolingo---vocabulary-726-words)
+  - [SECTION 1 (726 words)](#section-1-726-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -50,6 +50,7 @@
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
     - [Bedtime (22 words)](#bedtime-22-words)
+    - [Games (7 words)](#games-7-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1339,9 +1340,9 @@
 
 ---
 
-## Duolingo - Vocabulary (719 words)
+## Duolingo - Vocabulary (726 words)
 
-### SECTION 1 (719 words)
+### SECTION 1 (726 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2113,6 +2114,15 @@
 - `chaos (noun)`  /ˈkeɪ.ɑːs/ <br> when everything is confused and nothing is organized: The house was in chaos after the party
 - `oversleep (verb)`  /ˌoʊvərˈsliːp/ <br> to sleep too long and not wake up at the right time: I overslept and was late for work
 - `gently (adverb)`  /ˈdʒentli/ <br> 1. in a way that is soft and light, not strong, extreme or violent: She held the baby gently <br> 2. in a calm, kind and quiet way
+
+#### Games (7 words)
+- `fortune (noun)`  /ˈfɔːr.tʃuːn/ <br> 1. (no plural) things that happen that you cannot control (SAME MEANING: luck): I had the good fortune to get the job <br> 2. (plural fortunes) a lot of money: He made a fortune selling old cars <br> `tell somebody's fortune` to say what will happen to somebody in the future: The old lady said she could tell my fortune by looking at my hand
+- `fair (noun)`  /fer/ <br> 1. (also funfair) a place outdoors where you can ride on big machines and play games to win prizes. Fairs usually travel from town to town <br> 2. a large event where people and businesses show and sell the things they make: a book fair - a world trade fair
+- `booth (noun)`  /buːθ/ <br> 1. a place where customers of a bar or restaurant sit, with two high-backed seats and a table in the middle <br> 2. a small shop at a fair; for selling goods or entertainment
+- `trip (verb)`  /trɪp/ <br> to lose your balance after knocking your foot against something when you are walking or running, or to cause someone to do this: He tripped and fell down, grazing his knee
+- `fashion (noun)`  /ˈfæʃ.ən/ <br> a way of dressing or doing something that people like and try to copy for a time: Bright colors are back in fashion - Some style never go out of fashion - a fashion show
+- `fashionable (adjective)`  /ˈfæʃ.ən.ə.bəl/ <br> popular or in a popular style at the time: She was wearing a fashionable black hat (OPPOSITE: old-fashioned or unfashionable)
+- `soccer (noun)`  /ˈsɑːkər/ <br> another word for football
 ---
 
 ---
