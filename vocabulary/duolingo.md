@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 727**
+**Total words: 730**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (727 words)](#section-1-727-words)
+- [SECTION 1 (730 words)](#section-1-730-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -31,11 +31,11 @@
   - [Debate (22 words)](#debate-22-words)
   - [Arts (10 words)](#arts-10-words)
   - [Bedtime (22 words)](#bedtime-22-words)
-  - [Games (8 words)](#games-8-words)
+  - [Games (11 words)](#games-11-words)
 
 ---
 
-## SECTION 1 (727 words)
+## SECTION 1 (730 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -808,7 +808,7 @@
 - `oversleep (verb)`  /ˌoʊvərˈsliːp/ <br> to sleep too long and not wake up at the right time: I overslept and was late for work
 - `gently (adverb)`  /ˈdʒentli/ <br> 1. in a way that is soft and light, not strong, extreme or violent: She held the baby gently <br> 2. in a calm, kind and quiet way
 
-### Games (8 words)
+### Games (11 words)
 - `fortune (noun)`  /ˈfɔːr.tʃuːn/ <br> 1. (no plural) things that happen that you cannot control (SAME MEANING: luck): I had the good fortune to get the job <br> 2. (plural fortunes) a lot of money: He made a fortune selling old cars <br> `tell somebody's fortune` to say what will happen to somebody in the future: The old lady said she could tell my fortune by looking at my hand
 - `fair (noun)`  /fer/ <br> 1. (also funfair) a place outdoors where you can ride on big machines and play games to win prizes. Fairs usually travel from town to town <br> 2. a large event where people and businesses show and sell the things they make: a book fair - a world trade fair
 - `booth (noun)`  /buːθ/ <br> 1. a place where customers of a bar or restaurant sit, with two high-backed seats and a table in the middle <br> 2. a small shop at a fair; for selling goods or entertainment
@@ -817,4 +817,7 @@
 - `fashionable (adjective)`  /ˈfæʃ.ən.ə.bəl/ <br> popular or in a popular style at the time: She was wearing a fashionable black hat (OPPOSITE: old-fashioned or unfashionable)
 - `soccer (noun)`  /ˈsɑːkər/ <br> another word for football
 - `nickname`  /ˈnɪk.neɪm/ <br> a name that your friends or family sometimes call you instead of your real name
+- `carnival`  /ˈkɑːr.nə.vəl/ <br> a public festival that takes place in the streets with music and dancing: the Rio carnival
+- `miss (verb)`  /mɪs/ <br> 1. to not hit or catch something: I tried to hit the ball but I missed <br> 2. to not see or hear something: You missed a good programme on TV last night - Our house is the one on the corner _ you can't miss it <br> 3. to be too late for a train, bus, plane or boat: I just missed my bus (OPPOSITE: catch) <br> 4. to feel sad about somebody or something that has gone: I'll miss you when you leave <br> `miss something out` to not put in or do something; to not include something: I didn't finish the exam _ I missed out two questions
+- `fill (verb)`  /fɪl/ <br> 1. to make something full: Can you fill this glass with water, please? <br> 2. to become full: His eyes filled with tears <br> `fill something in; fill something out` to write facts or answers in the spaces that have been left for them: She gave me a form and told me to fill it in <br> `fill up; fill something` to become full or to make something completely full: The room soon filled up - He filled up the tank with petrol
 ---
