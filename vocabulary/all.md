@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2018**
+**Total words: 2026**
 
 ## 📑 Table of Contents
 
@@ -22,8 +22,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
-- [Duolingo - Vocabulary (730 words)](#duolingo---vocabulary-730-words)
-  - [SECTION 1 (730 words)](#section-1-730-words)
+- [Duolingo - Vocabulary (738 words)](#duolingo---vocabulary-738-words)
+  - [SECTION 1 (738 words)](#section-1-738-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -50,7 +50,7 @@
     - [Debate (22 words)](#debate-22-words)
     - [Arts (10 words)](#arts-10-words)
     - [Bedtime (22 words)](#bedtime-22-words)
-    - [Games (11 words)](#games-11-words)
+    - [Games (19 words)](#games-19-words)
 - [General - Vocabulary (57 words)](#general---vocabulary-57-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1340,9 +1340,9 @@
 
 ---
 
-## Duolingo - Vocabulary (730 words)
+## Duolingo - Vocabulary (738 words)
 
-### SECTION 1 (730 words)
+### SECTION 1 (738 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1590,7 +1590,7 @@
 - `cheers`  /tʃɪrz/ <br> expressing good wishes before drinking <br> <img src='images/cheers.jpg' alt='cheers' width='200'>
 - `champagne`  /ʃæm.ˈpeɪn/ <br> a type of fizzy wine made originally in France, often drunk to celebrate an event <br> <img src='images/champagne.jpg' alt='champagne' width='200'>
 - `equipment`  /ɪˈkwɪp.mənt/ <br> tools or machines for a purpose
-- `gig`  <br> a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'>
+- `gig`  /ɡɪɡ/ <br> 1. a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'> <br> 2. (especially North American English, informal) a job, especially a temporary one
 - `bar`  /bɑːr/ <br> a place to drink alcohol
 - `turntable`  /ˈtɜrn.ˌteɪ.bəl/ <br> a circular surface on a record player on which the record is played <br> <img src='images/turntable.jpg' alt='turntable' width='200'>
 - `exclusively`  /ɪksˈkluː.sɪv.li/ <br> only
@@ -2115,7 +2115,7 @@
 - `oversleep (verb)`  /ˌoʊvərˈsliːp/ <br> to sleep too long and not wake up at the right time: I overslept and was late for work
 - `gently (adverb)`  /ˈdʒentli/ <br> 1. in a way that is soft and light, not strong, extreme or violent: She held the baby gently <br> 2. in a calm, kind and quiet way
 
-#### Games (11 words)
+#### Games (19 words)
 - `fortune (noun)`  /ˈfɔːr.tʃuːn/ <br> 1. (no plural) things that happen that you cannot control (SAME MEANING: luck): I had the good fortune to get the job <br> 2. (plural fortunes) a lot of money: He made a fortune selling old cars <br> `tell somebody's fortune` to say what will happen to somebody in the future: The old lady said she could tell my fortune by looking at my hand
 - `fair (noun)`  /fer/ <br> 1. (also funfair) a place outdoors where you can ride on big machines and play games to win prizes. Fairs usually travel from town to town <br> 2. a large event where people and businesses show and sell the things they make: a book fair - a world trade fair
 - `booth (noun)`  /buːθ/ <br> 1. a place where customers of a bar or restaurant sit, with two high-backed seats and a table in the middle <br> 2. a small shop at a fair; for selling goods or entertainment
@@ -2127,6 +2127,14 @@
 - `carnival`  /ˈkɑːr.nə.vəl/ <br> a public festival that takes place in the streets with music and dancing: the Rio carnival
 - `miss (verb)`  /mɪs/ <br> 1. to not hit or catch something: I tried to hit the ball but I missed <br> 2. to not see or hear something: You missed a good programme on TV last night - Our house is the one on the corner _ you can't miss it <br> 3. to be too late for a train, bus, plane or boat: I just missed my bus (OPPOSITE: catch) <br> 4. to feel sad about somebody or something that has gone: I'll miss you when you leave <br> `miss something out` to not put in or do something; to not include something: I didn't finish the exam _ I missed out two questions
 - `fill (verb)`  /fɪl/ <br> 1. to make something full: Can you fill this glass with water, please? <br> 2. to become full: His eyes filled with tears <br> `fill something in; fill something out` to write facts or answers in the spaces that have been left for them: She gave me a form and told me to fill it in <br> `fill up; fill something` to become full or to make something completely full: The room soon filled up - He filled up the tank with petrol
+- `unemployed (adjective)`  /ˌʌn.ɪmˈplɔɪd/ <br> If you are unemployed, you can work but you do not have a job: She has been unemployed for over a year (OPPOSITE: employed)
+- `nutty (adjective)`  /ˈnʌt̬.i/ <br> containing, tasting of, or similar to nuts: This cake is nutty
+- `nut (noun)`  /nʌt/ <br> 1. a dry fruit that has a hard outside part with a seed inside. Many types of nut can be eaten: walnuts, hazelnuts and peanuts <br> <img src='images/nut1.jpg' alt='nut1' width='200'> <br> 2. a metal ring that you put on the end of a long piece of metal (called a bolt) to fix things together <br> <img src='images/nut2.jpg' alt='nut2' width='200'>
+- `bolt (noun)`  /boʊlt/ <br> 1. a piece of metal that you move across a door to lock it <br> <img src='images/bolt1.jpg' alt='bolt1' width='200'> <br> 2. a thick metal pin that you use with another piece of metal (called a nut) to fix things together <br> <img src='images/bolt2.jpg' alt='bolt2' width='200'>
+- `bitter (adjective)`  /ˈbɪtər/ <br> (of food, etc.) having a strong, unpleasant taste; not sweet: Black coffee leaves a bitter taste in the mouth
+- `palate (noun)`  /ˈpæl.ət/ <br> 1. the top part of the inside of the mouth <br> <img src='images/palate.jpg' alt='palate' width='200'> <br> 2. the ability to recognize and/or enjoy good food and drink; sense of taste
+- `challenging (adjective)`  /ˈtʃæl.ɪn.dʒɪŋ/ <br> difficult: This has been a challenging time for us all
+- `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
 ---
 
 ---

@@ -1437,9 +1437,9 @@
             },
             {
               "word": "gig",
-              "phonetic": "",
+              "phonetic": "/ɡɪɡ/",
               "mean_fa": "",
-              "mean_en": "a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'>"
+              "mean_en": "1. a live performance by a musician or group playing popular or jazz music <br> <img src='images/gig.jpg' alt='gig' width='200'> <br> 2. (especially North American English, informal) a job, especially a temporary one"
             },
             {
               "word": "bar",
@@ -4516,6 +4516,54 @@
               "phonetic": "/fɪl/",
               "mean_fa": "",
               "mean_en": "1. to make something full: Can you fill this glass with water, please? <br> 2. to become full: His eyes filled with tears <br> `fill something in; fill something out` to write facts or answers in the spaces that have been left for them: She gave me a form and told me to fill it in <br> `fill up; fill something` to become full or to make something completely full: The room soon filled up - He filled up the tank with petrol"
+            },
+            {
+              "word": "unemployed (adjective)",
+              "phonetic": "/ˌʌn.ɪmˈplɔɪd/",
+              "mean_fa": "",
+              "mean_en": "If you are unemployed, you can work but you do not have a job: She has been unemployed for over a year (OPPOSITE: employed)"
+            },
+            {
+              "word": "nutty (adjective)",
+              "phonetic": "/ˈnʌt̬.i/",
+              "mean_fa": "",
+              "mean_en": "containing, tasting of, or similar to nuts: This cake is nutty"
+            },
+            {
+              "word": "nut (noun)",
+              "phonetic": "/nʌt/",
+              "mean_fa": "",
+              "mean_en": "1. a dry fruit that has a hard outside part with a seed inside. Many types of nut can be eaten: walnuts, hazelnuts and peanuts <br> <img src='images/nut1.jpg' alt='nut1' width='200'> <br> 2. a metal ring that you put on the end of a long piece of metal (called a bolt) to fix things together <br> <img src='images/nut2.jpg' alt='nut2' width='200'>"
+            },
+            {
+              "word": "bolt (noun)",
+              "phonetic": "/boʊlt/",
+              "mean_fa": "",
+              "mean_en": "1. a piece of metal that you move across a door to lock it <br> <img src='images/bolt1.jpg' alt='bolt1' width='200'> <br> 2. a thick metal pin that you use with another piece of metal (called a nut) to fix things together <br> <img src='images/bolt2.jpg' alt='bolt2' width='200'>"
+            },
+            {
+              "word": "bitter (adjective)",
+              "phonetic": "/ˈbɪtər/",
+              "mean_fa": "",
+              "mean_en": "(of food, etc.) having a strong, unpleasant taste; not sweet: Black coffee leaves a bitter taste in the mouth"
+            },
+            {
+              "word": "palate (noun)",
+              "phonetic": "/ˈpæl.ət/",
+              "mean_fa": "",
+              "mean_en": "1. the top part of the inside of the mouth <br> <img src='images/palate.jpg' alt='palate' width='200'> <br> 2. the ability to recognize and/or enjoy good food and drink; sense of taste"
+            },
+            {
+              "word": "challenging (adjective)",
+              "phonetic": "/ˈtʃæl.ɪn.dʒɪŋ/",
+              "mean_fa": "",
+              "mean_en": "difficult: This has been a challenging time for us all"
+            },
+            {
+              "word": "quit (verb)",
+              "phonetic": "/kwɪt/",
+              "mean_fa": "",
+              "mean_en": "to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now"
             }
           ]
         }
