@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1079**
+**Total words: 1086**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (611 words)](#part-1-core-pytorch-611-words)
+- [Part 1: Core PyTorch (618 words)](#part-1-core-pytorch-618-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (85 words)](#chapter-3-it-starts-with-a-tensor-85-words)
+  - [Chapter 3: It starts with a tensor (92 words)](#chapter-3-it-starts-with-a-tensor-92-words)
 
 ---
 
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (611 words)
+## Part 1: Core PyTorch (618 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (85 words)
+### Chapter 3: It starts with a tensor (92 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1125,4 +1125,11 @@
 - `stick (verb)`  /stɪk/ <br> 1. to push a pointed thing into something: Stick a fork into the meat to see if it's cooked <br> 2. to join something to something else with a sticky substance; to become joined in this way: I stuck a stamp on the envelope <br> 3. to be fixed in one place; to not be able to move: This door always sticks <br> 4. (informal) to put something somewhere: Stick that box on the floor <br> `stick out` to come out of the side or top of something so that you can see it easily: The boy's head was sticking out of the window <br> `stick something out` to push something out: Don't stick your tongue out <br> `stick to something` to continue with something and not change it: We're sticking to Peter's plan <br> `stick up for somebody or something` to say that somebody or something is right: Everyone else said I was wrong, but Kim stuck up for me
 - `eliminate (verb)`  /ɪˈlɪm.ə.neɪt/ <br> to remove something that is not needed or wanted: We must try to eliminate waste
 - `indication`  /ˌɪn.dəˈkeɪ.ʃən/ <br> a sign or piece of information that shows or suggests something; something that indicates a fact or situation: Her smile was a clear indication that she was happy
+- `suboptimal (adjective)`  /ˌsʌbˈɑːptɪməl/ <br> of less than the best standard or quality: A score of 6 is optimal; 5 or less is suboptimal
+- `optimal (adjective)`  /ˈɑːptɪməl/ <br> the best possible; producing the best possible results: The optimal temperature for the development of larvae is in the range 18–26˚C
+- `whereas (conjunction)`  /werˈæz/ <br> a word that you use between two different ideas; but: John likes travelling, whereas I don't
+- `full-fledged (adjective)`  /ˌfʊl ˈfledʒd/ <br> completely developed; with all the qualifications necessary for something
+- `reference counting (noun)`  /ˈrefərəns ˈkaʊntɪŋ/ <br> a method of managing memory by counting how many references point to an object; when the count reaches zero, the object can be removed
+- `track (noun)`  /træk/ <br> `keep/lose track of somebody/something` to have/not have information about what is happening or where somebody/something is: Bank statements help you keep track of where your money is going - I lost all track of time (= forgot what time it was)
+- `deliberately (adverb)`  /dɪˈlɪb.ər.ət.li/ <br> If you do something deliberately, you wanted or planned to do it: He deliberately left the door open for her - The police think that somebody started the fire deliberately
 ---

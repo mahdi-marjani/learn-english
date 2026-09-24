@@ -6526,6 +6526,48 @@
               "phonetic": "/ˌɪn.dəˈkeɪ.ʃən/",
               "mean_fa": "",
               "mean_en": "a sign or piece of information that shows or suggests something; something that indicates a fact or situation: Her smile was a clear indication that she was happy"
+            },
+            {
+              "word": "suboptimal (adjective)",
+              "phonetic": "/ˌsʌbˈɑːptɪməl/",
+              "mean_fa": "",
+              "mean_en": "of less than the best standard or quality: A score of 6 is optimal; 5 or less is suboptimal"
+            },
+            {
+              "word": "optimal (adjective)",
+              "phonetic": "/ˈɑːptɪməl/",
+              "mean_fa": "",
+              "mean_en": "the best possible; producing the best possible results: The optimal temperature for the development of larvae is in the range 18–26˚C"
+            },
+            {
+              "word": "whereas (conjunction)",
+              "phonetic": "/werˈæz/",
+              "mean_fa": "",
+              "mean_en": "a word that you use between two different ideas; but: John likes travelling, whereas I don't"
+            },
+            {
+              "word": "full-fledged (adjective)",
+              "phonetic": "/ˌfʊl ˈfledʒd/",
+              "mean_fa": "",
+              "mean_en": "completely developed; with all the qualifications necessary for something"
+            },
+            {
+              "word": "reference counting (noun)",
+              "phonetic": "/ˈrefərəns ˈkaʊntɪŋ/",
+              "mean_fa": "",
+              "mean_en": "a method of managing memory by counting how many references point to an object; when the count reaches zero, the object can be removed"
+            },
+            {
+              "word": "track (noun)",
+              "phonetic": "/træk/",
+              "mean_fa": "",
+              "mean_en": "`keep/lose track of somebody/something` to have/not have information about what is happening or where somebody/something is: Bank statements help you keep track of where your money is going - I lost all track of time (= forgot what time it was)"
+            },
+            {
+              "word": "deliberately (adverb)",
+              "phonetic": "/dɪˈlɪb.ər.ət.li/",
+              "mean_fa": "",
+              "mean_en": "If you do something deliberately, you wanted or planned to do it: He deliberately left the door open for her - The police think that somebody started the fire deliberately"
             }
           ]
         }
