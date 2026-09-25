@@ -6568,6 +6568,42 @@
               "phonetic": "/dɪˈlɪb.ər.ət.li/",
               "mean_fa": "",
               "mean_en": "If you do something deliberately, you wanted or planned to do it: He deliberately left the door open for her - The police think that somebody started the fire deliberately"
+            },
+            {
+              "word": "precision (noun)",
+              "phonetic": "/prəˈsɪʒ.ən/",
+              "mean_fa": "",
+              "mean_en": "the quality of being exact: Scientific calculations require a high level of precision"
+            },
+            {
+              "word": "buy (verb)",
+              "phonetic": "/baɪ/",
+              "mean_fa": "",
+              "mean_en": "1. to get something by paying money <br> 2. (figurative) to obtain or achieve something; to produce a result or benefit"
+            },
+            {
+              "word": "minor (adjective)",
+              "phonetic": "/ˈmaɪnər/",
+              "mean_fa": "",
+              "mean_en": "not very big or important: Don't worry _ It's only a minor problem - a minor road (OPPOSITE: major)"
+            },
+            {
+              "word": "predicate (noun)",
+              "phonetic": "/ˈpred.ɪ.kət/",
+              "mean_fa": "",
+              "mean_en": "a statement or condition that can be either true or false; in programming, an expression that checks each element and returns a boolean (true/false) result: x > 5 is a predicate that returns true or false depending on the value of x"
+            },
+            {
+              "word": "cast (verb)",
+              "phonetic": "/kæst/",
+              "mean_fa": "",
+              "mean_en": "(programming) to convert a value from one data type to another: You need to cast the integer to a float before dividing"
+            },
+            {
+              "word": "most (adjective, pronoun)",
+              "phonetic": "/moʊst/",
+              "mean_fa": "",
+              "mean_en": "the biggest amount or number of something: Jo did a lot of work, but I did the most - He was ill for most of last week (OPPOSITE: least) <br> `at most; at the most` not more than a certain number, and probably less: We can stay two days at the most <br> `make the most of something` to use something in the best way: We only have one free day, so let's make the most of it"
             }
           ]
         }
