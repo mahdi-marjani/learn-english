@@ -1616,9 +1616,9 @@
         },
         {
           "word": "prerequisite",
-          "phonetic": "",
-          "mean_fa": "پیش‌نیاز",
-          "mean_en": ""
+          "phonetic": "/ˌpriːˈrekwəzɪt/",
+          "mean_fa": "",
+          "mean_en": "that must exist or happen before something else can happen or be done: prerequisite knowledge"
         },
         {
           "word": "pick (verb)",
@@ -6652,6 +6652,42 @@
               "phonetic": "/straɪd/",
               "mean_fa": "",
               "mean_en": "(computing) the number of memory steps needed to move to the next element along a dimension of a tensor/array: The tensor's stride tells you how many elements to skip to move to the next row"
+            },
+            {
+              "word": "aggregate (adjective)",
+              "phonetic": "/ˈæɡ.rɪ.ɡət/",
+              "mean_fa": "",
+              "mean_en": "combined or total, made by adding several amounts or things together: The aggregate score was the sum of all three rounds"
+            },
+            {
+              "word": "iterate (verb)",
+              "phonetic": "/ˈɪt.ə.reɪt/",
+              "mean_fa": "",
+              "mean_en": "(computing) to repeat a process or go through a sequence of items one by one: The loop iterates through each item in the list"
+            },
+            {
+              "word": "frequency (noun)",
+              "phonetic": "/ˈfriː.kwən.si/",
+              "mean_fa": "",
+              "mean_en": "(physics/signal processing) the number of times a wave or signal repeats in a given period of time: Radio stations broadcast at different frequencies"
+            },
+            {
+              "word": "specification (noun)",
+              "phonetic": "/ˌspesɪfɪˈkeɪʃn/",
+              "mean_fa": "",
+              "mean_en": "a detailed description of how something is, or should be, designed or made: The house has been built exactly to our specifications - the technical specifications of the new model (= of car)"
+            },
+            {
+              "word": "probability (noun)",
+              "phonetic": "/ˌprɑːbəˈbɪləti/",
+              "mean_fa": "",
+              "mean_en": "the measure of how likely something is to happen, usually a number between 0 and 1: There's a high probability of rain tomorrow"
+            },
+            {
+              "word": "encounter (verb)",
+              "phonetic": "/ɪnˈkaʊntər/",
+              "mean_fa": "",
+              "mean_en": "to meet someone or experience something, especially unexpectedly or by chance; to come across or face something: She encountered many challenges while learning a new language"
             }
           ]
         }

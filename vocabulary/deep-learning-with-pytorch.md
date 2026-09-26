@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1100**
+**Total words: 1106**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (632 words)](#part-1-core-pytorch-632-words)
+- [Part 1: Core PyTorch (638 words)](#part-1-core-pytorch-638-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (106 words)](#chapter-3-it-starts-with-a-tensor-106-words)
+  - [Chapter 3: It starts with a tensor (112 words)](#chapter-3-it-starts-with-a-tensor-112-words)
 
 ---
 
@@ -296,7 +296,7 @@
 - `expect`  <br> انتظار داشتن
 - `imperative`  <br> دستوری
 - `operating environment`  <br> محیط اجرایی
-- `prerequisite`  <br> پیش‌نیاز
+- `prerequisite`  /ˌpriːˈrekwəzɪt/ <br> that must exist or happen before something else can happen or be done: prerequisite knowledge
 - `pick (verb)`  <br> 1. to take the person or thing you like best (SAME MEANING: choose): They picked Simon as their captain <br> 2. to take a flower, fruit or vegetable from the place where it grows: I've picked some flowers for you <br> `pick on somebody` (informal) to treat somebody in an unfair or cruel way: Sally gets picked on by the other kids <br> `pick somebody or something out` to be able to see somebody or something among a lot of others: Can you pick out my father in this photo? <br> `pick somebody up` to come to get somebody, especially in a car: My father picks me up from school <br> `pick somebody or something up` to take and lift somebody or something: She picked up the kitten and stroked it - The phone stopped ringing just as I picked it up <br> `pick something up` to learn something without really studying it: Did you pick up any Japanese while you were in Tokyo?
 - `do some catch-up`  <br> جبران کردن عقب‌ماندگی
 - `strictly`  <br> به‌طور سختگیرانه
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (632 words)
+## Part 1: Core PyTorch (638 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (106 words)
+### Chapter 3: It starts with a tensor (112 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1146,4 +1146,10 @@
 - `vast (adjective)`  /væst/ <br> extremely large in area, size, or amount; very big (SAME MEANING: enormous, huge): Australia is a vast country
 - `exhaustive (adjective)`  /ɪɡˈzɑː.stɪv/ <br> complete and including everything: an exhaustive study/report
 - `stride (noun)`  /straɪd/ <br> (computing) the number of memory steps needed to move to the next element along a dimension of a tensor/array: The tensor's stride tells you how many elements to skip to move to the next row
+- `aggregate (adjective)`  /ˈæɡ.rɪ.ɡət/ <br> combined or total, made by adding several amounts or things together: The aggregate score was the sum of all three rounds
+- `iterate (verb)`  /ˈɪt.ə.reɪt/ <br> (computing) to repeat a process or go through a sequence of items one by one: The loop iterates through each item in the list
+- `frequency (noun)`  /ˈfriː.kwən.si/ <br> (physics/signal processing) the number of times a wave or signal repeats in a given period of time: Radio stations broadcast at different frequencies
+- `specification (noun)`  /ˌspesɪfɪˈkeɪʃn/ <br> a detailed description of how something is, or should be, designed or made: The house has been built exactly to our specifications - the technical specifications of the new model (= of car)
+- `probability (noun)`  /ˌprɑːbəˈbɪləti/ <br> the measure of how likely something is to happen, usually a number between 0 and 1: There's a high probability of rain tomorrow
+- `encounter (verb)`  /ɪnˈkaʊntər/ <br> to meet someone or experience something, especially unexpectedly or by chance; to come across or face something: She encountered many challenges while learning a new language
 ---
