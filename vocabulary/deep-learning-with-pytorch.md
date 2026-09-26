@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1095**
+**Total words: 1100**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (627 words)](#part-1-core-pytorch-627-words)
+- [Part 1: Core PyTorch (632 words)](#part-1-core-pytorch-632-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (101 words)](#chapter-3-it-starts-with-a-tensor-101-words)
+  - [Chapter 3: It starts with a tensor (106 words)](#chapter-3-it-starts-with-a-tensor-106-words)
 
 ---
 
@@ -438,7 +438,7 @@
 ## about the authors (22 words)
 - `spend`  <br> 1. to pay money for something: Louise spends a lot of money on clothes <br> 2. to pass time: I spent the summer in Italy
 - `spent`  <br> past of spend
-- `majority`  <br> most
+- `majority (noun)`  /məˈdʒɔːrəti/ <br> more than half of a group; the larger part of something: The majority of students passed the exam
 - `career`  /kəˈrɪər/ <br> a job that you learn to do and then do for many years: He is considering a career in teaching - His career was always more important to him than his family
 - `role`  <br> function or part played by a person in a particular situation
 - `function`  <br> the special work that a person or thing does: the function of the heart is to send blood round the body
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (627 words)
+## Part 1: Core PyTorch (632 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (101 words)
+### Chapter 3: It starts with a tensor (106 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1141,4 +1141,9 @@
 - `if so`  /ɪf soʊ/ <br> used to mean 'if that is the case / if that is true,' referring back to something just mentioned: Are you coming to the party? If so, let me know when
 - `shorthand (noun)`  /ˈʃɔːrt.hænd/ <br> a shorter, quicker way of writing or saying something that means the same as a longer version: 'ASAP' is shorthand for 'as soon as possible'
 - `most (adjective, pronoun)`  /moʊst/ <br> the biggest amount or number of something: Jo did a lot of work, but I did the most - He was ill for most of last week (OPPOSITE: least) <br> `at most; at the most` not more than a certain number, and probably less: We can stay two days at the most <br> `make the most of something` to use something in the best way: We only have one free day, so let's make the most of it
+- `wrap (verb)`  /ræp/ <br> to put paper or cloth around somebody or something: The baby was wrapped in a blanket - She wrapped the glasses up in paper (OPPOSITE: unwrap) <br> `wrap something up` to finish or complete something; to bring something to an end: That just about wraps it up for today
+- `worth (adjective)`  /wɜːrθ/ <br> 1. having a particular value: This house is worth $700 000 <br> 2. good or useful enough to do or have: Is this film worth seeing? - It's not worth asking Lyn for money _ she never has any
+- `vast (adjective)`  /væst/ <br> extremely large in area, size, or amount; very big (SAME MEANING: enormous, huge): Australia is a vast country
+- `exhaustive (adjective)`  /ɪɡˈzɑː.stɪv/ <br> complete and including everything: an exhaustive study/report
+- `stride (noun)`  /straɪd/ <br> (computing) the number of memory steps needed to move to the next element along a dimension of a tensor/array: The tensor's stride tells you how many elements to skip to move to the next row
 ---

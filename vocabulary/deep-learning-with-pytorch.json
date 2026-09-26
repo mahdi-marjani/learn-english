@@ -2454,10 +2454,10 @@
           "mean_en": "past of spend"
         },
         {
-          "word": "majority",
-          "phonetic": "",
+          "word": "majority (noun)",
+          "phonetic": "/məˈdʒɔːrəti/",
           "mean_fa": "",
-          "mean_en": "most"
+          "mean_en": "more than half of a group; the larger part of something: The majority of students passed the exam"
         },
         {
           "word": "career",
@@ -6622,6 +6622,36 @@
               "phonetic": "/moʊst/",
               "mean_fa": "",
               "mean_en": "the biggest amount or number of something: Jo did a lot of work, but I did the most - He was ill for most of last week (OPPOSITE: least) <br> `at most; at the most` not more than a certain number, and probably less: We can stay two days at the most <br> `make the most of something` to use something in the best way: We only have one free day, so let's make the most of it"
+            },
+            {
+              "word": "wrap (verb)",
+              "phonetic": "/ræp/",
+              "mean_fa": "",
+              "mean_en": "to put paper or cloth around somebody or something: The baby was wrapped in a blanket - She wrapped the glasses up in paper (OPPOSITE: unwrap) <br> `wrap something up` to finish or complete something; to bring something to an end: That just about wraps it up for today"
+            },
+            {
+              "word": "worth (adjective)",
+              "phonetic": "/wɜːrθ/",
+              "mean_fa": "",
+              "mean_en": "1. having a particular value: This house is worth $700 000 <br> 2. good or useful enough to do or have: Is this film worth seeing? - It's not worth asking Lyn for money _ she never has any"
+            },
+            {
+              "word": "vast (adjective)",
+              "phonetic": "/væst/",
+              "mean_fa": "",
+              "mean_en": "extremely large in area, size, or amount; very big (SAME MEANING: enormous, huge): Australia is a vast country"
+            },
+            {
+              "word": "exhaustive (adjective)",
+              "phonetic": "/ɪɡˈzɑː.stɪv/",
+              "mean_fa": "",
+              "mean_en": "complete and including everything: an exhaustive study/report"
+            },
+            {
+              "word": "stride (noun)",
+              "phonetic": "/straɪd/",
+              "mean_fa": "",
+              "mean_en": "(computing) the number of memory steps needed to move to the next element along a dimension of a tensor/array: The tensor's stride tells you how many elements to skip to move to the next row"
             }
           ]
         }
