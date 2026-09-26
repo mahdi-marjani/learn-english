@@ -4572,6 +4572,35 @@
               "mean_en": "a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "Halloween",
+          "words": [
+            {
+              "word": "astronaut",
+              "phonetic": "/ˈæs.trə.nɑːt/",
+              "mean_fa": "",
+              "mean_en": "a person who works and travels in space <br> <img src='images/astronaut.jpg' alt='astronaut' width='200'>"
+            },
+            {
+              "word": "fabric",
+              "phonetic": "/ˈfæb.rɪk/",
+              "mean_fa": "",
+              "mean_en": "cloth or material for making clothes, covering furniture, etc.: cotton fabrics"
+            },
+            {
+              "word": "try (verb)",
+              "phonetic": "/traɪ/",
+              "mean_fa": "",
+              "mean_en": "1. to make an effort to do something: I tried to remember her name but I couldn't - I'm not sure if I can help you, but I'll try <br> 2. to use or do something to find out if you like it: Have you ever tried Lebanese food? <br> 3. to ask somebody questions in a court of law to decide if they have done something wrong: He was tried for murder <br> `try and do something` (informal) to try to do something: I'll try and come early tomorrow <br> `try something on` to put on a piece of clothing to see if you like it and if it is big enough: I tried the jeans on but they were too small"
+            },
+            {
+              "word": "haunted (adjective)",
+              "phonetic": "/ˈhɑːn.t̬ɪd/",
+              "mean_fa": "",
+              "mean_en": "1. (of a building) believed to be visited by ghosts (= spirits of dead people): a haunted house <br> <img src='images/haunted.jpg' alt='haunted' width='200'> <br> 2. (of an expression on somebody’s face) showing that somebody is very worried: There was a haunted look in his eyes"
+            }
+          ]
         }
       ]
     }
