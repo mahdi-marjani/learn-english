@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1106**
+**Total words: 1114**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (163 words)](#about-this-book-163-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
-- [Part 1: Core PyTorch (638 words)](#part-1-core-pytorch-638-words)
+- [Part 1: Core PyTorch (646 words)](#part-1-core-pytorch-646-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (112 words)](#chapter-3-it-starts-with-a-tensor-112-words)
+  - [Chapter 3: It starts with a tensor (120 words)](#chapter-3-it-starts-with-a-tensor-120-words)
 
 ---
 
@@ -424,7 +424,7 @@
 - `encourage`  /ɪnˈkɜːrɪdʒ/ <br> to give somebody hope or help so that they do something or continue doing something: We encouraged him to write a book about his adventures (OPPOSITE: discourage) <br> <img src='images/encourage.jpg' alt='encourage' width='200'>
 - `build up`  <br> ساختن، ایجاد کردن (به تدریج)
 - `intuitive`  <br> based on feelings rather than facts
-- `mental`  <br> related to the mind or thinking
+- `mental (adjective)`  /ˈmentl/ <br> related to the mind or thinking: I have a clear mental picture of my childhood home
 - `intuition`  <br> the ability to understand something without conscious reasoning
 - `conscious`  <br> aware
 - `thorough`  <br> including every detail; complete
@@ -507,7 +507,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (638 words)
+## Part 1: Core PyTorch (646 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1039,7 +1039,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (112 words)
+### Chapter 3: It starts with a tensor (120 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1152,4 +1152,12 @@
 - `specification (noun)`  /ˌspesɪfɪˈkeɪʃn/ <br> a detailed description of how something is, or should be, designed or made: The house has been built exactly to our specifications - the technical specifications of the new model (= of car)
 - `probability (noun)`  /ˌprɑːbəˈbɪləti/ <br> the measure of how likely something is to happen, usually a number between 0 and 1: There's a high probability of rain tomorrow
 - `encounter (verb)`  /ɪnˈkaʊntər/ <br> to meet someone or experience something, especially unexpectedly or by chance; to come across or face something: She encountered many challenges while learning a new language
+- `scenic (adjective)`  /ˈsiːnɪk/ <br> having or showing beautiful natural views: We found a nice scenic spot for lunch
+- `chunk (noun)`  /tʃʌŋk/ <br> a part of something, especially a large part: contiguous chunks of memory - He cut the cheese into big chunks
+- `alternate (adjective)`  /ˈɑːltərneɪt/ <br> (of two things) different from each other; used instead of the usual one; another possible option: The road is closed, so we need an alternate way home
+- `regardless (adverb)`  /rɪˈɡɑːrd.ləs/ <br> in spite of problems or difficulties: The weather was terrible, but we carried on regardless
+- `spite (noun)`  /spaɪt/ <br> when somebody deliberately says or does unkind things: She broke my watch out of spite <br> `in spite of something` although something is true; not noticing or caring about something (SAME MEANING: despite): I slept well in spite of the noise - In spite of the bad weather, we went out
+- `trailing (adjective)`  /ˈtreɪ.lɪŋ/ <br> coming at the end of something: Delete the trailing space at the end of the line
+- `underscore (noun)`  /ˌʌndərˈskɔːr/ <br> the symbol _: a trailing underscore in their name, like zero_ - Use an underscore instead of a space in file names, like my_file
+- `unequivocally`  /ˌʌnɪˈkwɪvəkəli/ <br> very clearly and strongly; in a way that leaves no doubt: He stated unequivocally that he knew nothing about the document
 ---

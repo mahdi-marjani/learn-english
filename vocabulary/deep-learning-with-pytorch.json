@@ -2383,10 +2383,10 @@
           "mean_en": "based on feelings rather than facts"
         },
         {
-          "word": "mental",
-          "phonetic": "",
+          "word": "mental (adjective)",
+          "phonetic": "/ˈmentl/",
           "mean_fa": "",
-          "mean_en": "related to the mind or thinking"
+          "mean_en": "related to the mind or thinking: I have a clear mental picture of my childhood home"
         },
         {
           "word": "intuition",
@@ -6688,6 +6688,54 @@
               "phonetic": "/ɪnˈkaʊntər/",
               "mean_fa": "",
               "mean_en": "to meet someone or experience something, especially unexpectedly or by chance; to come across or face something: She encountered many challenges while learning a new language"
+            },
+            {
+              "word": "scenic (adjective)",
+              "phonetic": "/ˈsiːnɪk/",
+              "mean_fa": "",
+              "mean_en": "having or showing beautiful natural views: We found a nice scenic spot for lunch"
+            },
+            {
+              "word": "chunk (noun)",
+              "phonetic": "/tʃʌŋk/",
+              "mean_fa": "",
+              "mean_en": "a part of something, especially a large part: contiguous chunks of memory - He cut the cheese into big chunks"
+            },
+            {
+              "word": "alternate (adjective)",
+              "phonetic": "/ˈɑːltərneɪt/",
+              "mean_fa": "",
+              "mean_en": "(of two things) different from each other; used instead of the usual one; another possible option: The road is closed, so we need an alternate way home"
+            },
+            {
+              "word": "regardless (adverb)",
+              "phonetic": "/rɪˈɡɑːrd.ləs/",
+              "mean_fa": "",
+              "mean_en": "in spite of problems or difficulties: The weather was terrible, but we carried on regardless"
+            },
+            {
+              "word": "spite (noun)",
+              "phonetic": "/spaɪt/",
+              "mean_fa": "",
+              "mean_en": "when somebody deliberately says or does unkind things: She broke my watch out of spite <br> `in spite of something` although something is true; not noticing or caring about something (SAME MEANING: despite): I slept well in spite of the noise - In spite of the bad weather, we went out"
+            },
+            {
+              "word": "trailing (adjective)",
+              "phonetic": "/ˈtreɪ.lɪŋ/",
+              "mean_fa": "",
+              "mean_en": "coming at the end of something: Delete the trailing space at the end of the line"
+            },
+            {
+              "word": "underscore (noun)",
+              "phonetic": "/ˌʌndərˈskɔːr/",
+              "mean_fa": "",
+              "mean_en": "the symbol _: a trailing underscore in their name, like zero_ - Use an underscore instead of a space in file names, like my_file"
+            },
+            {
+              "word": "unequivocally",
+              "phonetic": "/ˌʌnɪˈkwɪvəkəli/",
+              "mean_fa": "",
+              "mean_en": "very clearly and strongly; in a way that leaves no doubt: He stated unequivocally that he knew nothing about the document"
             }
           ]
         }
