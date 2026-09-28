@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 746**
+**Total words: 750**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (746 words)](#section-1-746-words)
+- [SECTION 1 (750 words)](#section-1-750-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -32,11 +32,11 @@
   - [Arts (10 words)](#arts-10-words)
   - [Bedtime (22 words)](#bedtime-22-words)
   - [Games (20 words)](#games-20-words)
-  - [Halloween (7 words)](#halloween-7-words)
+  - [Halloween (11 words)](#halloween-11-words)
 
 ---
 
-## SECTION 1 (746 words)
+## SECTION 1 (750 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -831,7 +831,7 @@
 - `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
 - `marker (noun)`  /ˈmɑːrkər/ <br> a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>
 
-### Halloween (7 words)
+### Halloween (11 words)
 - `astronaut`  /ˈæs.trə.nɑːt/ <br> a person who works and travels in space <br> <img src='images/astronaut.jpg' alt='astronaut' width='200'>
 - `fabric`  /ˈfæb.rɪk/ <br> cloth or material for making clothes, covering furniture, etc.: cotton fabrics
 - `try (verb)`  /traɪ/ <br> 1. to make an effort to do something: I tried to remember her name but I couldn't - I'm not sure if I can help you, but I'll try <br> 2. to use or do something to find out if you like it: Have you ever tried Lebanese food? <br> 3. to ask somebody questions in a court of law to decide if they have done something wrong: He was tried for murder <br> `try and do something` (informal) to try to do something: I'll try and come early tomorrow <br> `try something on` to put on a piece of clothing to see if you like it and if it is big enough: I tried the jeans on but they were too small
@@ -839,4 +839,8 @@
 - `witch`  /wɪtʃ/ <br> someone who can do magic <br> <img src='images/witch.jpg' alt='witch' width='200'>
 - `wig`  /wɪɡ/ <br> fake hair worn on the head
 - `drum`  /drʌm/ <br> 1. a musical instrument that you hit with special sticks (called  drumsticks) or with your hands: He plays the drums in a band <br> <img src='images/drum1.jpg' alt='drum1' width='200'> <br> 2. a big round container for oil: an oil drum <br> <img src='images/drum2.jpg' alt='drum2' width='200'>
+- `tie (verb)`  /taɪ/ <br> 1. to fasten or fix something using rope, string, etc.: I tied my hair back with a ribbon - I tied a scarf round my neck - The prisoner was tied to a chair <br> 2. to end a game or competition with the same number of points for both teams or players: France tied with Spain for second place <br> `tie somebody up` to put a piece of rope around somebody so that they cannot move: The robbers tied up the owner of the shop <br> `tie something up` to put a piece of string or rope around something to hold it in place: I tied up the parcel with string - The dog was tied up in the garden
+- `grease (noun)`  /ɡriːs/ <br> fat from animals, or any thick substance that is like oil: You will need very hot water to get the grease of these plates
+- `negotiate (verb)`  /nəˈɡoʊ.ʃi.eɪt/ <br> to reach an agreement by talking with other people; to have formal discussions with someone in order to reach an agreement with them: We have negotiated a deal - The unions were negotiating with the management over pay
+- `rope (noun)`  /roʊp/ <br> very thick strong string <br> <img src='images/rope.jpg' alt='rope' width='200'>
 ---
