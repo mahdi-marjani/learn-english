@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 753**
+**Total words: 754**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (753 words)](#section-1-753-words)
+- [SECTION 1 (754 words)](#section-1-754-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -32,11 +32,11 @@
   - [Arts (10 words)](#arts-10-words)
   - [Bedtime (22 words)](#bedtime-22-words)
   - [Games (20 words)](#games-20-words)
-  - [Halloween (14 words)](#halloween-14-words)
+  - [Halloween (15 words)](#halloween-15-words)
 
 ---
 
-## SECTION 1 (753 words)
+## SECTION 1 (754 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -831,7 +831,7 @@
 - `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
 - `marker (noun)`  /ˈmɑːrkər/ <br> a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>
 
-### Halloween (14 words)
+### Halloween (15 words)
 - `astronaut`  /ˈæs.trə.nɑːt/ <br> a person who works and travels in space <br> <img src='images/astronaut.jpg' alt='astronaut' width='200'>
 - `fabric`  /ˈfæb.rɪk/ <br> cloth or material for making clothes, covering furniture, etc.: cotton fabrics
 - `try (verb)`  /traɪ/ <br> 1. to make an effort to do something: I tried to remember her name but I couldn't - I'm not sure if I can help you, but I'll try <br> 2. to use or do something to find out if you like it: Have you ever tried Lebanese food? <br> 3. to ask somebody questions in a court of law to decide if they have done something wrong: He was tried for murder <br> `try and do something` (informal) to try to do something: I'll try and come early tomorrow <br> `try something on` to put on a piece of clothing to see if you like it and if it is big enough: I tried the jeans on but they were too small
@@ -844,6 +844,7 @@
 - `negotiate (verb)`  /nəˈɡoʊ.ʃi.eɪt/ <br> to reach an agreement by talking with other people; to have formal discussions with someone in order to reach an agreement with them: We have negotiated a deal - The unions were negotiating with the management over pay
 - `rope (noun)`  /roʊp/ <br> very thick strong string <br> <img src='images/rope.jpg' alt='rope' width='200'>
 - `loose (adjective)`  /luːs/ <br> 1. not tied or fixed: The dog broke its chain and got loose - One of his teeth is loose <br> 2. not fitting closely: a loose white shirt (OPPOSITE: tight)
+- `chain (noun)`  <br> a line of metal rings that are joined together: Round her neck she wore a gold chain - My bicycle chain is broken <br> <img src='images/chain.jpg' alt='chain' width='200'>
 - `way too (phrase)`  /ˌweɪ ˈtuː/ <br> used to emphasize that something is more than is usual, wanted, needed, or acceptable: This shirt is way too loose - That's way too expensive - I'm way too tired to go out
 - `cheerful (adjective)`  /ˈtʃɪrfl/ <br> happy and positive: You don't look very cheerful today. What's the matter?
 ---
