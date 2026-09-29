@@ -1,18 +1,19 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 152**
+**Total words: 164**
 
 ## 📑 Table of Contents
 
-- [S1 (152 words)](#s1-152-words)
+- [S1 (164 words)](#s1-164-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
   - [E4 (19 words)](#e4-19-words)
   - [E5 (36 words)](#e5-36-words)
+  - [E6 (12 words)](#e6-12-words)
 
 ---
 
-## S1 (152 words)
+## S1 (164 words)
 
 ### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -173,4 +174,18 @@
 - `clown`  /klaʊn/ <br> a person who wears funny clothes, has a painted face, and makes people laugh by performing tricks and behaving in a silly way <br> <img src='images/clown.jpg' alt='clown' width='200'>
 - `regret (verb)`  /rɪˈɡret/ <br> to feel sorry about something that you did or did not do: He regrets selling his car - I don't regret what I said to her
 - `righteous`  /ˈraɪ.tʃəs/ <br> morally correct
+
+### E6 (12 words)
+- `jellyfish`  /ˈdʒel.i.fɪʃ/ <br> a sea creature that has a clear, soft, almost transparent body and can sting (=hurt) you <br> <img src='images/jellyfish.jpg' alt='jellyfish' width='200'>
+- `jelly`  /ˈdʒel.i/ <br> a soft food made from fruit juice and sugar, that shakes when you move it <br> <img src='images/jelly.jpg' alt='jelly' width='200'>
+- `net`  /net/ <br> 1. material that has very large spaces between the threads; a piece of this material that we use for a particular purpose: a fishing net - a tennis net - He kicked the ball into the back of the net <br> <img src='images/net.jpg' alt='net' width='200'> <br> 2. `the Net` (informal) = the Internet
+- `beat it`  /ˈbiːt ɪt/ <br> (informal) go away; leave quickly
+- `merry (adjective)`  /ˈmer.i/ <br> happy: Merry Christmas
+- `lip`  /lɪp/ <br> one of the two soft red parts above and below your mouth: to kiss somebody on the lips <br> <img src='images/lip.jpg' alt='lip' width='200'>
+- `surefire (adjective)`  /ˈʃʊr.faɪr/ <br> certain or likely, especially to succeed; certain to be successful or to happen as you expect: The film looks a surefire Oscar winner - Bad behaviour is a sure-fire way of getting people’s attention
+- `roam (verb)`  /roʊm/ <br> to walk or travel with no special plan: Dogs were roaming the streets looking for food
+- `eager (adjective)`  /ˈiːɡər/ <br> If you are eager to do something, you want to do it very much (SAME MEANING: keen): She's eager to help with the party
+- `fix (verb)`  /fɪks/ <br> 1. to put something in a place so that it will not move: We fixed the shelf to the wall <br> 2. to decide a date or an amount for something (SAME MEANING: set): They've fixed a date for the wedding <br> 3. to repair something: The light isn't working _ can you fix it? <br> `fix somebody up (with something)` (informal) to arrange for someone to have something; to provide someone with something: I'll fix you up with a place to stay
+- `specimen (noun)`  /ˈspes.ə.mɪn/ <br> 1. one example of a group of things: specimens of different types of rock <br> 2. a small amount or part of something that shows what the rest is like (SAME MEANING: sample): The doctor took a specimen of blood for testing
+- `grasp (verb)`  /ɡræsp/ <br> 1. to quickly take something in your hand(s) and hold it firmly: Claire grasped my arm to stop herself from falling <br> 2. to understand something: He couldn't grasp what I was saying
 ---

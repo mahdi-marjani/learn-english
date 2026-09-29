@@ -1,15 +1,16 @@
 # All Vocabulary
 
-**Total words: 2073**
+**Total words: 2085**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (152 words)](#spongebob-squarepants---vocabulary-152-words)
-  - [S1 (152 words)](#s1-152-words)
+- [SpongeBob SquarePants - Vocabulary (164 words)](#spongebob-squarepants---vocabulary-164-words)
+  - [S1 (164 words)](#s1-164-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
+    - [E6 (12 words)](#e6-12-words)
 - [Deep Learning with PyTorch - Vocabulary (1114 words)](#deep-learning-with-pytorch---vocabulary-1114-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
@@ -61,9 +62,9 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (152 words)
+## SpongeBob SquarePants - Vocabulary (164 words)
 
-### S1 (152 words)
+### S1 (164 words)
 
 #### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -224,6 +225,20 @@
 - `clown`  /klaʊn/ <br> a person who wears funny clothes, has a painted face, and makes people laugh by performing tricks and behaving in a silly way <br> <img src='images/clown.jpg' alt='clown' width='200'>
 - `regret (verb)`  /rɪˈɡret/ <br> to feel sorry about something that you did or did not do: He regrets selling his car - I don't regret what I said to her
 - `righteous`  /ˈraɪ.tʃəs/ <br> morally correct
+
+#### E6 (12 words)
+- `jellyfish`  /ˈdʒel.i.fɪʃ/ <br> a sea creature that has a clear, soft, almost transparent body and can sting (=hurt) you <br> <img src='images/jellyfish.jpg' alt='jellyfish' width='200'>
+- `jelly`  /ˈdʒel.i/ <br> a soft food made from fruit juice and sugar, that shakes when you move it <br> <img src='images/jelly.jpg' alt='jelly' width='200'>
+- `net`  /net/ <br> 1. material that has very large spaces between the threads; a piece of this material that we use for a particular purpose: a fishing net - a tennis net - He kicked the ball into the back of the net <br> <img src='images/net.jpg' alt='net' width='200'> <br> 2. `the Net` (informal) = the Internet
+- `beat it`  /ˈbiːt ɪt/ <br> (informal) go away; leave quickly
+- `merry (adjective)`  /ˈmer.i/ <br> happy: Merry Christmas
+- `lip`  /lɪp/ <br> one of the two soft red parts above and below your mouth: to kiss somebody on the lips <br> <img src='images/lip.jpg' alt='lip' width='200'>
+- `surefire (adjective)`  /ˈʃʊr.faɪr/ <br> certain or likely, especially to succeed; certain to be successful or to happen as you expect: The film looks a surefire Oscar winner - Bad behaviour is a sure-fire way of getting people’s attention
+- `roam (verb)`  /roʊm/ <br> to walk or travel with no special plan: Dogs were roaming the streets looking for food
+- `eager (adjective)`  /ˈiːɡər/ <br> If you are eager to do something, you want to do it very much (SAME MEANING: keen): She's eager to help with the party
+- `fix (verb)`  /fɪks/ <br> 1. to put something in a place so that it will not move: We fixed the shelf to the wall <br> 2. to decide a date or an amount for something (SAME MEANING: set): They've fixed a date for the wedding <br> 3. to repair something: The light isn't working _ can you fix it? <br> `fix somebody up (with something)` (informal) to arrange for someone to have something; to provide someone with something: I'll fix you up with a place to stay
+- `specimen (noun)`  /ˈspes.ə.mɪn/ <br> 1. one example of a group of things: specimens of different types of rock <br> 2. a small amount or part of something that shows what the rest is like (SAME MEANING: sample): The doctor took a specimen of blood for testing
+- `grasp (verb)`  /ɡræsp/ <br> 1. to quickly take something in your hand(s) and hold it firmly: Claire grasped my arm to stop herself from falling <br> 2. to understand something: He couldn't grasp what I was saying
 ---
 
 ---
@@ -843,7 +858,7 @@
 - `qualified`  /ˈkwɑː.lə.faɪd/ <br> having passed the exams or done the training necessary to do a particular job: Tim is now a qualified architect
 - `context`  /ˈkɑːn.tekst/ <br> the situation or background information that helps explain something - زمینه
 - `streamline`  /ˈstriːmlaɪn/ <br> to make a system or process simpler and more efficient
-- `ought to`  /ɔ:t tu:/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
+- `ought to (modal verb)`  /ˈɑːt ˌtə/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home - You oughtn't to argue <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam - That film ought to be good
 - `map (verb)`  <br> to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label
 - `multidimensional`  /ˌmʌl.ti.dɪˈmen.ʃən.əl/ <br> having more than two dimensions (for example, a 3D or 4D array)
 - `feature (noun)`  /ˈfiːtʃər/ <br> 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
@@ -1988,7 +2003,7 @@
 - `needle`  /ˈniː.dəl/ <br> 1. a thin metal pin, used in sewing, that is pointed at one end and has a hole called an eye at the other end for thread <br> <img src='images/needle1.jpg' alt='needle1' width='200'> <br> 2. a very thin, hollow, pointed piece of metal that is connected to a syringe and used to take blood from the body or to put drugs or medicine in <br> <img src='images/needle2.jpg' alt='needle2' width='200'> <br> 3. a pine tree's leaf that is thin and hard: cactus needle <br> <img src='images/needle3.jpg' alt='needle3' width='200'>
 - `nightlife (noun)`  /ˈnaɪt.laɪf/ <br> things to do in the evenings in a particular area, such as dancing or going to bars: What's the nightlife like round here?
 - `wives`  /waɪvz/ <br> plural of wife
-- `have (verb)`  /hæv/ <br> 1. (also have got) to own or keep something: She has blue eyes - They've got (= have got) a big car - Do you have any brothers and sisters? <br> 2. a word that you use with many nouns to talk about doing something: What time do you have breakfast? - Let's have a drink - I had a shower - Jill and I have had a fight <br> 3. a word that you use with many nouns to talk about experiencing something: Have fun! - He has had an accident - Did you have a good holiday? - I have an idea - Have you got time to help me? <br> 4. (also have got) to be ill with something: She's got (= has got) a headache - I have flu <br> `have something done` to let somebody do something for you: I had my hair cut yesterday - Have you had your car mended? <br> `have somebody over` to invite someone to your home for a visit, meal, etc.: We're having some friends over for dinner on Saturday - Why don't you have them over sometime? - We had my parents over last weekend
+- `have (verb)`  /hæv/ <br> 1. (also have got) to own or keep something: She has blue eyes - They've got (= have got) a big car - Do you have any brothers and sisters? <br> 2. a word that you use with many nouns to talk about doing something: What time do you have breakfast? - Let's have a drink - I had a shower - Jill and I have had a fight <br> 3. a word that you use with many nouns to talk about experiencing something: Have fun! - He has had an accident - Did you have a good holiday? - I have an idea - Have you got time to help me? <br> 4. (also have got) to be ill with something: She's got (= has got) a headache - I have flu <br> `have something done` to let somebody do something for you: I had my hair cut yesterday - Have you had your car mended? <br> `have somebody over` to invite someone to your home for a visit, meal, etc.: We're having some friends over for dinner on Saturday - Why don't you have them over sometime? - We had my parents over last weekend <br> `have someone going` to trick or fool someone, or make someone believe something false: Man, you really had me going there with that fake winning lottery ticket! - He had me going for ten minutes
 - `babysitting (noun)`  /ˈbeɪ.biˌsɪt̬.ɪŋ/ <br> taking care of a child
 - `craft (noun)`  /kræft/ <br> a job or activity for which you need skill with your hands: Pottery is a traditional craft
 - `supply (noun)`  /səˈplaɪ/ <br> a store or an amount of something that you need: Food supplies were dropped by helicopter - The water supply was cut off - bag of art supplies (= materials used for making art)

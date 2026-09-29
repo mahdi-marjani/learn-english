@@ -631,7 +631,7 @@
 - `qualified`  /ˈkwɑː.lə.faɪd/ <br> having passed the exams or done the training necessary to do a particular job: Tim is now a qualified architect
 - `context`  /ˈkɑːn.tekst/ <br> the situation or background information that helps explain something - زمینه
 - `streamline`  /ˈstriːmlaɪn/ <br> to make a system or process simpler and more efficient
-- `ought to`  /ɔ:t tu:/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam
+- `ought to (modal verb)`  /ˈɑːt ˌtə/ <br> 1. words that you use to tell or ask somebody what is the right thing to do (SAME MEANING: should): It's late _ you ought to go home - You oughtn't to argue <br> 2. words that you use to say what you think will happen or what you think is true (SAME MEANING: should): Tim has worked very hard, so he ought to pass the exam - That film ought to be good
 - `map (verb)`  <br> to connect or convert one thing (like an input) into another (like an output): f(x) = x², so f maps x to x² - The neural network maps an image to a label
 - `multidimensional`  /ˌmʌl.ti.dɪˈmen.ʃən.əl/ <br> having more than two dimensions (for example, a 3D or 4D array)
 - `feature (noun)`  /ˈfiːtʃər/ <br> 1. an important part of something: Pictures are a feature of this dictionary <br> 2. one of the parts of your face, for example your eyes, nose or mouth: Her eyes are her best feature <br> 3. a newspaper or magazine article or programme about something: The magazine has a special feature on education
