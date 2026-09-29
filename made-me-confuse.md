@@ -24,7 +24,7 @@ A running list of words, sounds, and grammar points that tripped me up while lea
 - **queue** — /kjuː/
 - **cease** — /siːs/
 - **chaos** — /ˈkeɪ.ɑːs/
-- The **"-ough"** family, all pronounced differently: *though, thought, through, thorough, throughout, throw, taught, although*
+- The **"-ough"** family, all pronounced differently: *though, thought, through, thorough, throughout, throw, taught, although, ought*
 
 ---
 
