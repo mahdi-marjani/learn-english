@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 754**
+**Total words: 761**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (754 words)](#section-1-754-words)
+- [SECTION 1 (761 words)](#section-1-761-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -32,11 +32,11 @@
   - [Arts (10 words)](#arts-10-words)
   - [Bedtime (22 words)](#bedtime-22-words)
   - [Games (20 words)](#games-20-words)
-  - [Halloween (15 words)](#halloween-15-words)
+  - [Halloween (22 words)](#halloween-22-words)
 
 ---
 
-## SECTION 1 (754 words)
+## SECTION 1 (761 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -831,7 +831,7 @@
 - `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
 - `marker (noun)`  /ˈmɑːrkər/ <br> a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>
 
-### Halloween (15 words)
+### Halloween (22 words)
 - `astronaut`  /ˈæs.trə.nɑːt/ <br> a person who works and travels in space <br> <img src='images/astronaut.jpg' alt='astronaut' width='200'>
 - `fabric`  /ˈfæb.rɪk/ <br> cloth or material for making clothes, covering furniture, etc.: cotton fabrics
 - `try (verb)`  /traɪ/ <br> 1. to make an effort to do something: I tried to remember her name but I couldn't - I'm not sure if I can help you, but I'll try <br> 2. to use or do something to find out if you like it: Have you ever tried Lebanese food? <br> 3. to ask somebody questions in a court of law to decide if they have done something wrong: He was tried for murder <br> `try and do something` (informal) to try to do something: I'll try and come early tomorrow <br> `try something on` to put on a piece of clothing to see if you like it and if it is big enough: I tried the jeans on but they were too small
@@ -847,4 +847,11 @@
 - `chain (noun)`  <br> a line of metal rings that are joined together: Round her neck she wore a gold chain - My bicycle chain is broken <br> <img src='images/chain.jpg' alt='chain' width='200'>
 - `way too (phrase)`  /ˌweɪ ˈtuː/ <br> used to emphasize that something is more than is usual, wanted, needed, or acceptable: This shirt is way too loose - That's way too expensive - I'm way too tired to go out
 - `cheerful (adjective)`  /ˈtʃɪrfl/ <br> happy and positive: You don't look very cheerful today. What's the matter?
+- `bat`  /bæt/ <br> a small animal like a mouse with wings that flies at night <br> <img src='images/bat.jpg' alt='bat' width='200'>
+- `elegant (adjective)`  /ˈel.ə.ɡənt/ <br> with a beautiful style or shape: She looked very elegant in her new black dress - elegant furniture
+- `hanger`  /ˈhæŋər/ <br> a piece of metal, wood or plastic with a hook. You use it for hanging clothes on <br> <img src='images/hanger.jpg' alt='hanger' width='200'>
+- `frustrated (adjective)`  /ˈfrʌstreɪtɪd/ <br> feeling upset or annoyed: She is frustrated with the noise
+- `avant-garde`  <br> preferring or introducing new and very modern ideas and methods: The theatre shows a lot of avant-garde work - This painting is avant-garde
+- `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
+- `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
 ---
