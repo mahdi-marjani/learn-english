@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2096**
+**Total words: 2098**
 
 ## 📑 Table of Contents
 
@@ -53,11 +53,11 @@
     - [Bedtime (22 words)](#bedtime-22-words)
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
-- [General - Vocabulary (57 words)](#general---vocabulary-57-words)
+- [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (26 words)](#social-media-26-words)
-  - [other (13 words)](#other-13-words)
+  - [other (15 words)](#other-15-words)
   - [Wow! Words (7 words)](#wow-words-7-words)
 
 ---
@@ -2215,7 +2215,7 @@
 
 ---
 
-## General - Vocabulary (57 words)
+## General - Vocabulary (59 words)
 
 ### game (5 words)
 - `swipe`  /swaɪp/ <br> 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -2263,7 +2263,7 @@
 - `omni-`  /ɑːm.nɪ-/ <br> everywhere or everything: omnipresent - omniscient
 ---
 
-### other (13 words)
+### other (15 words)
 - `benefit (verb)`  /ˈbenɪfɪt/ <br> to be good or helpful for somebody: The new law will benefit families with children <br> `benefit from something` to get something good or useful from something: She will benefit from a holiday
 - `purpose`  /ˈpɜːrpəs/ <br> the reason for doing something: What is the purpose of your visit?
 - `reason`  /ˈriːzn/ <br> a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
@@ -2277,6 +2277,8 @@
 - `autumn`  /ˈɑːtəm/ <br> (American fall) the season of the year between summer and winter, when leaves fall from trees <br> <img src='images/autumn.jpg' alt='autumn' width='200'>
 - `ahead`  /əˈhed/ <br> 1. in front of somebody or something: We could see a light ahead of us <br> 2. before or more advanced than somebody or something: Inga and Nils arrived a few minutes ahead of us - London is about five hours ahead of New york <br> 3. into the future: He's got a difficult time ahead of him - We must think ahead and make a plan <br> 4. winning in a game, competition, etc.: Italy were one goal ahead at half time <br> `go ahead` used to give somebody permission to do something: 'Can I borrow your bike?' 'Sure, go ahead' <br> `ahead of time` before the scheduled or expected time
 - `likely`  <br> if something is likely, it will probably happen: It's likely that she will agree - They are likely to be late (OPPOSITE: unlikely)
+- `what (pronoun, adjective)`  /wɑːt/ <br> 1. a words that you use when you ask about somebody or something: What's your name? - What are you reading? - What time is it? - What kind of music do you like? <br> 2. the thing that: I don't know what this word means - Tell me what to do <br> 3. a word that you use to show surprise or other strong feelings: What a terrible day - What beautiful flowers <br> `what about ...?` words that you use when you suggest something (SAME MEANING: how about ...?): What about going to the cinema tonight? <br> `what ... for?` for what purpose or reason?: What did you say that for? - What's this machine for? <br> `what is ... like?` words that you use when you want to know more about somebody or something: 'What's her brother like?' 'He's very nice.' <br> `what's on?` words that you use when you want to know what television programmes or films are being shown: What's on TV tonight? <br> `what's up?` what is wrong?: You look sad. What's up?
+- `how (adverb)`  /haʊ/ <br> 1. in what way: How does this machine work? - She told me how to get to the station - Do you know how to spell 'essential'? <br> 2. a word that you use to ask if somebody is well: 'How is your sister?' 'She's very well, thank you' <br> 3. a word that you use to ask if something is good: How was the film? <br> 4. a word that shows surprise or strong feeling: How kind of you to help <br> `how about ...?` words that you use when you suggest something: How about a drink? - How about going for a walk? <br> `how are you?` do you feel well?: 'How are you?' 'Fine, thanks' <br> `how do you do?` polite words that you say when you meet somebody for the first time <br> `how long?` words that you use to ask questions about time: How long have you spent here? <br> `how many ...?` words that you use to ask questions about numbers: How many brothers and sisters have you got? <br> `how much ...?` words that you use to ask questions about amounts: How much does this cost? <br> `how old?` words that you use to ask questions about age: How old are you?
 ---
 
 ### Wow! Words (7 words)
