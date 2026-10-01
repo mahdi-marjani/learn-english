@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2098**
+**Total words: 2101**
 
 ## 📑 Table of Contents
 
@@ -11,20 +11,20 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1114 words)](#deep-learning-with-pytorch---vocabulary-1114-words)
+- [Deep Learning with PyTorch - Vocabulary (1111 words)](#deep-learning-with-pytorch---vocabulary-1111-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
   - [acknowledgments (58 words)](#acknowledgments-58-words)
-  - [about this book (163 words)](#about-this-book-163-words)
+  - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
-  - [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
+  - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
   - [Part 1: Core PyTorch (646 words)](#part-1-core-pytorch-646-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (120 words)](#chapter-3-it-starts-with-a-tensor-120-words)
-- [Duolingo - Vocabulary (761 words)](#duolingo---vocabulary-761-words)
-  - [SECTION 1 (761 words)](#section-1-761-words)
+- [Duolingo - Vocabulary (767 words)](#duolingo---vocabulary-767-words)
+  - [SECTION 1 (767 words)](#section-1-767-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -53,6 +53,7 @@
     - [Bedtime (22 words)](#bedtime-22-words)
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
+    - [Marriage (6 words)](#marriage-6-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -243,7 +244,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1114 words)
+## Deep Learning with PyTorch - Vocabulary (1111 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -496,7 +497,7 @@
 - `these`  <br> this جمعِ
 ---
 
-### about this book (163 words)
+### about this book (162 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -562,8 +563,7 @@
 - `ran`  <br> past of run
 - `revolution`  /ˌrevəˈluːʃən/ <br> 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
 - `touches on`  <br> به طور کوتاه به چیزی اشاره می‌کند
-- `sets`  <br> متمایز کردن
-- `apart`  /əˈpɑːrt/ <br> متمایز
+- `apart (adverb)`  /əˈpɑːrt/ <br> 1. away from the others; away from each other: The two houses are 500 metres apart - My mother and father live apart now <br> 2. into parts: He took my radio apart to repair it <br> `apart from somebody or something` except for: There's nobody here, apart from me - I like all vegetables apart from carrots <br> `set apart` Distinguish, be better than or different from others: His kindness sets him apart from others - Her elegant style sets her apart from other journalists <br> `tell apart` to see the difference between two people or things: I can't tell the twins apart
 - `kinds`  <br> types
 - `to be shaped`  <br> شکل گرفتن
 - `moves us closer`  <br> ما را به هدف نزدیک‌تر می‌کند
@@ -687,7 +687,7 @@
 - `apply`  /əˈplaɪ/ <br> 1. use / put into practice: Apply a theme to your phone <br> 2. request formally: Mahdi applied for a job in Germany
 ---
 
-### about the cover illustration (44 words)
+### about the cover illustration (42 words)
 - `cover (noun)`  <br> 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
 - `magazine`  /ˌmæɡəˈziːn/ <br> a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside - مجله <br> <img src='images/magazine.jpg' alt='magazine' width='200'>
 - `illustration`  /ˌɪl.əˈstreɪ.ʃən/ <br> a picture in a book
@@ -716,8 +716,6 @@
 - `gradually`  /ˈɡrædʒ.u.ə.li/ <br> slowly over a period of time or a distance: Life gradually returned to normal
 - `away`  <br> 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - `fade away`  <br> به تدریج محو شدن و ناپدید شدن
-- `tell apart`  <br> to see the difference between two people or things: I can't tell the twins apart
-- `set apart`  <br> to make someone or something different from others: His kindness sets him apart from others
 - `inhabitants`  /ɪnˈhæbɪtənts/ <br> people or animals that live in a particular place
 - `continents`  /ˈkɑːntɪnənts/ <br> the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)
 - `landmass`  /ˈlænd.mæs/ <br> خشکی بزرگ
@@ -752,7 +750,7 @@
 #### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
-- `set`  <br> a group of similar things that belong together
+- `set (noun)`  /set/ <br> a group of things of the same kind, or a group of things that you use together: a set of six glasses - a tool set
 - `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. (no plural) teaching you to control yourself and follow rules: Children learn discipline at school - The new manager brought more discipline to the team <br> 2. (plural disciplines) a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines - Engineering is a discipline that combines math and creativity
 - `tremendous`  /trəˈmendəs/ <br> huge, very great in amount, size, or intensity
 - `scrutiny`  /ˈskruːtəni/ <br> بررسی موشکافانه، وارسی دقیق
@@ -1391,9 +1389,9 @@
 
 ---
 
-## Duolingo - Vocabulary (761 words)
+## Duolingo - Vocabulary (767 words)
 
-### SECTION 1 (761 words)
+### SECTION 1 (767 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2211,6 +2209,14 @@
 - `avant-garde`  <br> preferring or introducing new and very modern ideas and methods: The theatre shows a lot of avant-garde work - This painting is avant-garde
 - `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
 - `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
+
+#### Marriage (6 words)
+- `set (verb)`  /set/ <br> 1. to put something somewhere: Dad set the plate in front of me <br> 2. to put the action of a play, book or film in a particular time and place: The film is set in India in the 1920s <br> 3. to make something ready to use or to start working: I set my alarm clock for seven o'clock - Can you set the video recorder (= make it record a programme)? <br> 4. to make something happen: They set the school on fire (= made it start to burn) <br> 5. When the sun sets, it goes down from the sky (OPPOSITE: rise) <br> 6. to decide what something will be; to fix something: Let's set a date for the meeting <br> 7. to give somebody work to do: Our teacher set us a lot of homework <br> 8. to become hard or solid: Wait for the cement to set <br> `set off; set out` to start a journey: We set off for Oxford at two o'clock <br> `set the table` (British) to put knives, forks, plates and other things on the table before you eat (SAME MEANING: lay the table) <br> `set something up` to start something: The company was set up in 1981
+- `tell (verb)`  /tel/ <br> 1. to give information to somebody by speaking or writing: I told her my new address - Thid book tells you how to make bread - He told me that he was tired <br> 2. to say what somebody must do: Our teacher told us to read this book <br> 3. to know, guess or understand something: I can tell that she's been crying because her eyes are red - I can't tell the difference between James and his brother. They look exactly the same <br> `tell somebody off` to speak to somebody in an angry way because they have done something wrong: I told the children off for making so much noise
+- `bargaining (noun)`  /ˈbɑːrɡənɪŋ/ <br> talking to get a better price; discussion of prices, conditions, etc. with the aim of reaching an agreement that is acceptable: After much hard bargaining we reached an agreement
+- `lot (noun)`  /lɒt/ <br> 1. an area of land used for a particular purpose: a parking lot - a used car lot (= a place where a dealer sells second-hand cars) <br> 2. `a lot` / `lots` a large amount or number: I like it a lot - She has a lot of friends
+- `road (noun)`  /roʊd/ <br> the way from one place to another, where cars can go; a long, hard surface built for vehicles to travel along: Is this the road to the city centre? - My address is 34a Windsor Road, London NW2 (SHORT FORM: Rd: 30 Welton Rd) <br> `by road` in a car, bus, etc.: It's a long journey by road _ the train is faster <br> `road trip` a long journey by car
+- `honeymoon (noun)`  /ˈhʌn.i.muːn/ <br> a holiday for two people who have just got married
 ---
 
 ---

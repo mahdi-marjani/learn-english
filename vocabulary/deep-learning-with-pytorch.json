@@ -1849,16 +1849,10 @@
           "mean_en": ""
         },
         {
-          "word": "sets",
-          "phonetic": "",
-          "mean_fa": "متمایز کردن",
-          "mean_en": ""
-        },
-        {
-          "word": "apart",
+          "word": "apart (adverb)",
           "phonetic": "/əˈpɑːrt/",
-          "mean_fa": "متمایز",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "1. away from the others; away from each other: The two houses are 500 metres apart - My mother and father live apart now <br> 2. into parts: He took my radio apart to repair it <br> `apart from somebody or something` except for: There's nobody here, apart from me - I like all vegetables apart from carrots <br> `set apart` Distinguish, be better than or different from others: His kindness sets him apart from others - Her elegant style sets her apart from other journalists <br> `tell apart` to see the difference between two people or things: I can't tell the twins apart"
         },
         {
           "word": "kinds",
@@ -2747,18 +2741,6 @@
           "mean_en": ""
         },
         {
-          "word": "tell apart",
-          "phonetic": "",
-          "mean_fa": "",
-          "mean_en": "to see the difference between two people or things: I can't tell the twins apart"
-        },
-        {
-          "word": "set apart",
-          "phonetic": "",
-          "mean_fa": "",
-          "mean_en": "to make someone or something different from others: His kindness sets him apart from others"
-        },
-        {
           "word": "inhabitants",
           "phonetic": "/ɪnˈhæbɪtənts/",
           "mean_fa": "",
@@ -2943,10 +2925,10 @@
               "mean_en": "a word or group of words used to describe something"
             },
             {
-              "word": "set",
-              "phonetic": "",
+              "word": "set (noun)",
+              "phonetic": "/set/",
               "mean_fa": "",
-              "mean_en": "a group of similar things that belong together"
+              "mean_en": "a group of things of the same kind, or a group of things that you use together: a set of six glasses - a tool set"
             },
             {
               "word": "discipline (noun)",

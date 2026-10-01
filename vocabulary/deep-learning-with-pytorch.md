@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1114**
+**Total words: 1111**
 
 ## 📑 Table of Contents
 
@@ -8,9 +8,9 @@
 - [foreword (52 words)](#foreword-52-words)
 - [preface (91 words)](#preface-91-words)
 - [acknowledgments (58 words)](#acknowledgments-58-words)
-- [about this book (163 words)](#about-this-book-163-words)
+- [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
-- [about the cover illustration (44 words)](#about-the-cover-illustration-44-words)
+- [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
 - [Part 1: Core PyTorch (646 words)](#part-1-core-pytorch-646-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
@@ -269,7 +269,7 @@
 - `these`  <br> this جمعِ
 ---
 
-## about this book (163 words)
+## about this book (162 words)
 - `aim`  <br> target
 - `foundation`  /faʊnˈdeɪʃən/ <br> base
 - `strive`  <br> try
@@ -335,8 +335,7 @@
 - `ran`  <br> past of run
 - `revolution`  /ˌrevəˈluːʃən/ <br> 1. a flight by people against their government in order to put a new government in its place: The French Revolution was in 1789 <br> 2. a big change in the way of doing things: the Industrial Revolution - انقلاب، تغییر بزرگ و اساسی
 - `touches on`  <br> به طور کوتاه به چیزی اشاره می‌کند
-- `sets`  <br> متمایز کردن
-- `apart`  /əˈpɑːrt/ <br> متمایز
+- `apart (adverb)`  /əˈpɑːrt/ <br> 1. away from the others; away from each other: The two houses are 500 metres apart - My mother and father live apart now <br> 2. into parts: He took my radio apart to repair it <br> `apart from somebody or something` except for: There's nobody here, apart from me - I like all vegetables apart from carrots <br> `set apart` Distinguish, be better than or different from others: His kindness sets him apart from others - Her elegant style sets her apart from other journalists <br> `tell apart` to see the difference between two people or things: I can't tell the twins apart
 - `kinds`  <br> types
 - `to be shaped`  <br> شکل گرفتن
 - `moves us closer`  <br> ما را به هدف نزدیک‌تر می‌کند
@@ -460,7 +459,7 @@
 - `apply`  /əˈplaɪ/ <br> 1. use / put into practice: Apply a theme to your phone <br> 2. request formally: Mahdi applied for a job in Germany
 ---
 
-## about the cover illustration (44 words)
+## about the cover illustration (42 words)
 - `cover (noun)`  <br> 1. a thing that you put over another thing, for example to keep it safe: The computer has a plastic cover <br> 2. the outside part of a book or magazine: The book had a picture of a film star on the cover (= the front cover)
 - `magazine`  /ˌmæɡəˈziːn/ <br> a kind of thin book with a paper cover that you can buy every week or every month. It has a lot of different stories and pictures inside - مجله <br> <img src='images/magazine.jpg' alt='magazine' width='200'>
 - `illustration`  /ˌɪl.əˈstreɪ.ʃən/ <br> a picture in a book
@@ -489,8 +488,6 @@
 - `gradually`  /ˈɡrædʒ.u.ə.li/ <br> slowly over a period of time or a distance: Life gradually returned to normal
 - `away`  <br> 1. to or in another place: She ran away from him - He put his book away <br> 2. from a place: The sea is two miles away <br> 3. not here (SAME MEANING: absent): Tim is away from school today because he is ill <br> 4. in the future: Our holiday is only three weeks away
 - `fade away`  <br> به تدریج محو شدن و ناپدید شدن
-- `tell apart`  <br> to see the difference between two people or things: I can't tell the twins apart
-- `set apart`  <br> to make someone or something different from others: His kindness sets him apart from others
 - `inhabitants`  /ɪnˈhæbɪtənts/ <br> people or animals that live in a particular place
 - `continents`  /ˈkɑːntɪnənts/ <br> the large landmasses on Earth (e.g., Asia, Africa, Europe, etc.)
 - `landmass`  /ˈlænd.mæs/ <br> خشکی بزرگ
@@ -525,7 +522,7 @@
 ### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
-- `set`  <br> a group of similar things that belong together
+- `set (noun)`  /set/ <br> a group of things of the same kind, or a group of things that you use together: a set of six glasses - a tool set
 - `discipline (noun)`  /ˈdɪsəplɪn/ <br> 1. (no plural) teaching you to control yourself and follow rules: Children learn discipline at school - The new manager brought more discipline to the team <br> 2. (plural disciplines) a specific area of academic study or professional practice; a branch of knowledge, typically one studied in higher education: We're looking for people from a wide range of disciplines - Engineering is a discipline that combines math and creativity
 - `tremendous`  /trəˈmendəs/ <br> huge, very great in amount, size, or intensity
 - `scrutiny`  /ˈskruːtəni/ <br> بررسی موشکافانه، وارسی دقیق
