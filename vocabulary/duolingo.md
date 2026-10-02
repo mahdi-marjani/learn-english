@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 767**
+**Total words: 772**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (767 words)](#section-1-767-words)
+- [SECTION 1 (772 words)](#section-1-772-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -33,11 +33,11 @@
   - [Bedtime (22 words)](#bedtime-22-words)
   - [Games (20 words)](#games-20-words)
   - [Halloween (22 words)](#halloween-22-words)
-  - [Marriage (6 words)](#marriage-6-words)
+  - [Marriage (11 words)](#marriage-11-words)
 
 ---
 
-## SECTION 1 (767 words)
+## SECTION 1 (772 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -856,11 +856,16 @@
 - `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
 - `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
 
-### Marriage (6 words)
+### Marriage (11 words)
 - `set (verb)`  /set/ <br> 1. to put something somewhere: Dad set the plate in front of me <br> 2. to put the action of a play, book or film in a particular time and place: The film is set in India in the 1920s <br> 3. to make something ready to use or to start working: I set my alarm clock for seven o'clock - Can you set the video recorder (= make it record a programme)? <br> 4. to make something happen: They set the school on fire (= made it start to burn) <br> 5. When the sun sets, it goes down from the sky (OPPOSITE: rise) <br> 6. to decide what something will be; to fix something: Let's set a date for the meeting <br> 7. to give somebody work to do: Our teacher set us a lot of homework <br> 8. to become hard or solid: Wait for the cement to set <br> `set off; set out` to start a journey: We set off for Oxford at two o'clock <br> `set the table` (British) to put knives, forks, plates and other things on the table before you eat (SAME MEANING: lay the table) <br> `set something up` to start something: The company was set up in 1981
 - `tell (verb)`  /tel/ <br> 1. to give information to somebody by speaking or writing: I told her my new address - Thid book tells you how to make bread - He told me that he was tired <br> 2. to say what somebody must do: Our teacher told us to read this book <br> 3. to know, guess or understand something: I can tell that she's been crying because her eyes are red - I can't tell the difference between James and his brother. They look exactly the same <br> `tell somebody off` to speak to somebody in an angry way because they have done something wrong: I told the children off for making so much noise
 - `bargaining (noun)`  /ˈbɑːrɡənɪŋ/ <br> talking to get a better price; discussion of prices, conditions, etc. with the aim of reaching an agreement that is acceptable: After much hard bargaining we reached an agreement
 - `lot (noun)`  /lɒt/ <br> 1. an area of land used for a particular purpose: a parking lot - a used car lot (= a place where a dealer sells second-hand cars) <br> 2. `a lot` / `lots` a large amount or number: I like it a lot - She has a lot of friends
 - `road (noun)`  /roʊd/ <br> the way from one place to another, where cars can go; a long, hard surface built for vehicles to travel along: Is this the road to the city centre? - My address is 34a Windsor Road, London NW2 (SHORT FORM: Rd: 30 Welton Rd) <br> `by road` in a car, bus, etc.: It's a long journey by road _ the train is faster <br> `road trip` a long journey by car
 - `honeymoon (noun)`  /ˈhʌn.i.muːn/ <br> a holiday for two people who have just got married
+- `brochure`  /broʊˈʃʊr/ <br> a type of small magazine that contains pictures and information on a product or a company: a travel brochure
+- `timing (noun)`  /ˈtaɪmɪŋ/ <br> 1. the act of choosing when something happens; a particular point or period of time when something happens or is planned: The timing of the decision was a complete surprise - Please check your flight timings carefully <br> 2. the skill of doing something at exactly the right time: an actor with a great sense of comic timing - Your timing is perfect. I was just about to call you <br> 3. the repeated rhythm of something; the skill of producing this: She played the piano confidently but her timing was not good
+- `once-in-a-lifetime (adjective)`  /ˌwʌn.sɪnəˈlaɪf.taɪm/ <br> very special and rare; A once-in-a-lifetime experience or opportunity is very special because you will probably only have it once: A tour of Australia is a once-in-a-lifetime experience
+- `frown (verb)`  /fraʊn/ <br> to show feelings of anger or worry by making lines appear above your nose: John frowned at me when I came in. 'You're late,' he said
+- `coast (noun)`  /koʊst/ <br> the part of the land that is next to the sea: Their house is near the coast - The city is on the west coast of France
 ---
