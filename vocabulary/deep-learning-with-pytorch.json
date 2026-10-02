@@ -934,9 +934,9 @@
         },
         {
           "word": "eventually",
-          "phonetic": "",
+          "phonetic": "/ɪˈven.tʃu.ə.li/",
           "mean_fa": "در نهایت",
-          "mean_en": ""
+          "mean_en": "in the end, especially after a long time or a lot of effort, problems, etc.: It might take him ages but he'll do it eventually"
         },
         {
           "word": "complexity",
@@ -6718,6 +6718,48 @@
               "phonetic": "/ˌʌnɪˈkwɪvəkəli/",
               "mean_fa": "",
               "mean_en": "very clearly and strongly; in a way that leaves no doubt: He stated unequivocally that he knew nothing about the document"
+            },
+            {
+              "word": "indirection (noun)",
+              "phonetic": "/ˌɪn.dɪˈrek.ʃən/",
+              "mean_fa": "",
+              "mean_en": "1. a way of speaking or writing that avoids clearly saying or mentioning something <br> 2. (computing) a way of accessing data or a resource through a reference or layer, rather than directly, allowing flexibility without copying or moving the actual data"
+            },
+            {
+              "word": "side effect (noun)",
+              "phonetic": "/ˈsaɪd ɪfekt/",
+              "mean_fa": "",
+              "mean_en": "1. an extra and usually bad effect that a drug has on you, as well as curing illness or pain: The drug has few side effects <br> 2. an unexpected result of a situation or course of action that happens as well as the result you were aiming for: Changing the subtensor will have a side effect on the original tensor"
+            },
+            {
+              "word": "setup (noun)",
+              "phonetic": "/ˈset.ʌp/",
+              "mean_fa": "",
+              "mean_en": "the way something is arranged or organized; an arrangement: I like the setup of this kitchen, everything is easy to reach"
+            },
+            {
+              "word": "desirable (adjective)",
+              "phonetic": "/dɪˈzaɪr.ə.bəl/",
+              "mean_fa": "",
+              "mean_en": "worth having and wanted by most people: The house is in a very desirable area of the city"
+            },
+            {
+              "word": "clone (verb)",
+              "phonetic": "/kloʊn/",
+              "mean_fa": "",
+              "mean_en": "to make an exact copy of something: He cloned the repository to work on it locally"
+            },
+            {
+              "word": "transpose (verb)",
+              "phonetic": "/trænˈspoʊz/",
+              "mean_fa": "",
+              "mean_en": "1. to change the position or order of <br> 2. (mathematics) to change a matrix by turning its rows into columns and its columns into rows"
+            },
+            {
+              "word": "alternative (noun)",
+              "phonetic": "/ɑːlˈtɜːrnətɪv/",
+              "mean_fa": "",
+              "mean_en": "another option or choice instead of the one already mentioned: Walking is a healthy alternative to driving - Firefox is a Chrome alternative"
             }
           ]
         }

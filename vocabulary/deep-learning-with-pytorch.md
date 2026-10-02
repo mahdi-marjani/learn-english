@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1111**
+**Total words: 1118**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (646 words)](#part-1-core-pytorch-646-words)
+- [Part 1: Core PyTorch (653 words)](#part-1-core-pytorch-653-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (120 words)](#chapter-3-it-starts-with-a-tensor-120-words)
+  - [Chapter 3: It starts with a tensor (127 words)](#chapter-3-it-starts-with-a-tensor-127-words)
 
 ---
 
@@ -178,7 +178,7 @@
 - `excited`  /ɪkˈsaɪtɪd/ <br> not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
 - `calm`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
 - `odd`  <br> گاهی
-- `eventually`  <br> در نهایت
+- `eventually`  /ɪˈven.tʃu.ə.li/ <br> in the end, especially after a long time or a lot of effort, problems, etc.: It might take him ages but he'll do it eventually - در نهایت
 - `complexity`  <br> پیچیدگی
 - `amount`  <br> مقدار
 - `cognitive overhead`  <br> بار ذهنی اضافی
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (646 words)
+## Part 1: Core PyTorch (653 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1036,7 +1036,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (120 words)
+### Chapter 3: It starts with a tensor (127 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1157,4 +1157,11 @@
 - `trailing (adjective)`  /ˈtreɪ.lɪŋ/ <br> coming at the end of something: Delete the trailing space at the end of the line
 - `underscore (noun)`  /ˌʌndərˈskɔːr/ <br> the symbol _: a trailing underscore in their name, like zero_ - Use an underscore instead of a space in file names, like my_file
 - `unequivocally`  /ˌʌnɪˈkwɪvəkəli/ <br> very clearly and strongly; in a way that leaves no doubt: He stated unequivocally that he knew nothing about the document
+- `indirection (noun)`  /ˌɪn.dɪˈrek.ʃən/ <br> 1. a way of speaking or writing that avoids clearly saying or mentioning something <br> 2. (computing) a way of accessing data or a resource through a reference or layer, rather than directly, allowing flexibility without copying or moving the actual data
+- `side effect (noun)`  /ˈsaɪd ɪfekt/ <br> 1. an extra and usually bad effect that a drug has on you, as well as curing illness or pain: The drug has few side effects <br> 2. an unexpected result of a situation or course of action that happens as well as the result you were aiming for: Changing the subtensor will have a side effect on the original tensor
+- `setup (noun)`  /ˈset.ʌp/ <br> the way something is arranged or organized; an arrangement: I like the setup of this kitchen, everything is easy to reach
+- `desirable (adjective)`  /dɪˈzaɪr.ə.bəl/ <br> worth having and wanted by most people: The house is in a very desirable area of the city
+- `clone (verb)`  /kloʊn/ <br> to make an exact copy of something: He cloned the repository to work on it locally
+- `transpose (verb)`  /trænˈspoʊz/ <br> 1. to change the position or order of <br> 2. (mathematics) to change a matrix by turning its rows into columns and its columns into rows
+- `alternative (noun)`  /ɑːlˈtɜːrnətɪv/ <br> another option or choice instead of the one already mentioned: Walking is a healthy alternative to driving - Firefox is a Chrome alternative
 ---

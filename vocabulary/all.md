@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2106**
+**Total words: 2113**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1111 words)](#deep-learning-with-pytorch---vocabulary-1111-words)
+- [Deep Learning with PyTorch - Vocabulary (1118 words)](#deep-learning-with-pytorch---vocabulary-1118-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (646 words)](#part-1-core-pytorch-646-words)
+  - [Part 1: Core PyTorch (653 words)](#part-1-core-pytorch-653-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (120 words)](#chapter-3-it-starts-with-a-tensor-120-words)
+    - [Chapter 3: It starts with a tensor (127 words)](#chapter-3-it-starts-with-a-tensor-127-words)
 - [Duolingo - Vocabulary (772 words)](#duolingo---vocabulary-772-words)
   - [SECTION 1 (772 words)](#section-1-772-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -244,7 +244,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1111 words)
+## Deep Learning with PyTorch - Vocabulary (1118 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -406,7 +406,7 @@
 - `excited`  /ɪkˈsaɪtɪd/ <br> not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
 - `calm`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
 - `odd`  <br> گاهی
-- `eventually`  <br> در نهایت
+- `eventually`  /ɪˈven.tʃu.ə.li/ <br> in the end, especially after a long time or a lot of effort, problems, etc.: It might take him ages but he'll do it eventually - در نهایت
 - `complexity`  <br> پیچیدگی
 - `amount`  <br> مقدار
 - `cognitive overhead`  <br> بار ذهنی اضافی
@@ -732,7 +732,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (646 words)
+### Part 1: Core PyTorch (653 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1264,7 +1264,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (120 words)
+#### Chapter 3: It starts with a tensor (127 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1385,6 +1385,13 @@
 - `trailing (adjective)`  /ˈtreɪ.lɪŋ/ <br> coming at the end of something: Delete the trailing space at the end of the line
 - `underscore (noun)`  /ˌʌndərˈskɔːr/ <br> the symbol _: a trailing underscore in their name, like zero_ - Use an underscore instead of a space in file names, like my_file
 - `unequivocally`  /ˌʌnɪˈkwɪvəkəli/ <br> very clearly and strongly; in a way that leaves no doubt: He stated unequivocally that he knew nothing about the document
+- `indirection (noun)`  /ˌɪn.dɪˈrek.ʃən/ <br> 1. a way of speaking or writing that avoids clearly saying or mentioning something <br> 2. (computing) a way of accessing data or a resource through a reference or layer, rather than directly, allowing flexibility without copying or moving the actual data
+- `side effect (noun)`  /ˈsaɪd ɪfekt/ <br> 1. an extra and usually bad effect that a drug has on you, as well as curing illness or pain: The drug has few side effects <br> 2. an unexpected result of a situation or course of action that happens as well as the result you were aiming for: Changing the subtensor will have a side effect on the original tensor
+- `setup (noun)`  /ˈset.ʌp/ <br> the way something is arranged or organized; an arrangement: I like the setup of this kitchen, everything is easy to reach
+- `desirable (adjective)`  /dɪˈzaɪr.ə.bəl/ <br> worth having and wanted by most people: The house is in a very desirable area of the city
+- `clone (verb)`  /kloʊn/ <br> to make an exact copy of something: He cloned the repository to work on it locally
+- `transpose (verb)`  /trænˈspoʊz/ <br> 1. to change the position or order of <br> 2. (mathematics) to change a matrix by turning its rows into columns and its columns into rows
+- `alternative (noun)`  /ɑːlˈtɜːrnətɪv/ <br> another option or choice instead of the one already mentioned: Walking is a healthy alternative to driving - Firefox is a Chrome alternative
 ---
 
 ---
@@ -1646,7 +1653,7 @@
 - `shame`  /ʃeɪm/ <br> an uneasy feeling that we get because of our own or someone else's mistake or bad manner <br> <img src='images/shame.jpg' alt='shame' width='200'>
 - `critic`  /ˈkrɪ.tɪk/ <br> someone who evaluates and provides opinions or judgments about various forms of art, literature, performances, or other creative works <br> <img src='images/critic.jpg' alt='critic' width='200'>
 - `hallway`  /hɑ:l.weɪ/ <br> a space inside a building entrance, which connects to the other rooms <br> <img src='images/hallway.jpg' alt='hallway' width='200'>
-- `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly <br> `turn something in` to give something to a person in authority, especially work that you have completed: I need to turn in my assignment by Friday
+- `turn (verb)`  /tɜrn/ <br> 1. to rotate something so that it is facing a different direction or is in a different position: The wheels are turning - Turn the key <br> <img src='images/turn.jpg' alt='turn' width='200'> <br> 2. to move in a different direction: Turn left at the traffic lights <br> 3. to become different: The weather has turned cold <br> 4. to make somebody or something change: The sun turned her hair blond <br> 5. to find a certain page in a book: Turn to page 97 <br> `turn something down` 1. to say no to what somebody wants to do or to give you: They offered me the job but I turned it down <br> 2. to make something produce less sound or heat by moving a switch: I'm too hot _ can you turn the heating down? <br> `turn into something` to become different; to change somebody or something into something different: Water turns into ice when it gets very cold <br> `turn something off` to move the handle or switch that controls something, so that it stops: Turn the tap off - She turned off the television <br> `turn something on` to move the handle or switch that controls something, so that it starts: Could you turn the light on? <br> `turn out` to be something in the end: It has turned out to be a lovely day <br> `turn something out` to switch off a light: can you turn the lights out before you leave? <br> `turn over` to move so that the other side is on top: She turned over and went back to sleep <br> `turn something over` to move something so that the other side is on top: If you turn over the page you'll find the answers on the other side <br> `turn up` (used about a person) to arrive: Has David turned up yet? <br> `turn something up` to make something produce more sound or heat by moving a switch: Turn up the TV _ I can't hear it properly <br> `turn something in` to give something to a person in authority, especially work that you have completed: I need to turn in my assignment by Friday <br> `turn something around` to change the position or direction of something so that it faces the opposite way or is arranged differently
 - `properly`  /ˈprɑ.pər.li/ <br> well or correctly: Close the door properly - I can't see properly without my glasses
 
 #### Health (28 words)
