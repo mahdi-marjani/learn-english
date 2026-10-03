@@ -5710,7 +5710,7 @@
               "word": "flip (verb)",
               "phonetic": "/flɪp/",
               "mean_fa": "",
-              "mean_en": "to turn something over quickly or reverse its direction: we'll flip the direction: a vision-language model that takes an image and produces a caption - She flipped the pancake in the pan - I flipped the book (over) to look at the back cover"
+              "mean_en": "to turn something over quickly or reverse its direction: She flipped the pancake in the pan - I flipped the book (over) to look at the back cover"
             },
             {
               "word": "moment (noun)",
@@ -6760,6 +6760,24 @@
               "phonetic": "/ɑːlˈtɜːrnətɪv/",
               "mean_fa": "",
               "mean_en": "another option or choice instead of the one already mentioned: Walking is a healthy alternative to driving - Firefox is a Chrome alternative"
+            },
+            {
+              "word": "scribble (verb)",
+              "phonetic": "/ˈskrɪb.əl/",
+              "mean_fa": "",
+              "mean_en": "to write something or make marks on paper quickly and without care: The children scribbled in my book"
+            },
+            {
+              "word": "diagram (noun)",
+              "phonetic": "/ˈdaɪ.ə.ɡræm/",
+              "mean_fa": "",
+              "mean_en": "a picture that explains something; a simple plan that represents a machine, system, or idea, etc., often drawn to explain how it works: This diagram shows all the parts of an engine <br> <img src='images/diagram.jpg' alt='diagram' width='200'>"
+            },
+            {
+              "word": "definition (noun)",
+              "phonetic": "/ˌdef.ɪˈnɪʃ.ən/",
+              "mean_fa": "",
+              "mean_en": "a group of words that tell you what another word means: What is the definition of 'mood'?"
             }
           ]
         }

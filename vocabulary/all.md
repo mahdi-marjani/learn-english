@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2115**
+**Total words: 2118**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1118 words)](#deep-learning-with-pytorch---vocabulary-1118-words)
+- [Deep Learning with PyTorch - Vocabulary (1121 words)](#deep-learning-with-pytorch---vocabulary-1121-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (653 words)](#part-1-core-pytorch-653-words)
+  - [Part 1: Core PyTorch (656 words)](#part-1-core-pytorch-656-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (127 words)](#chapter-3-it-starts-with-a-tensor-127-words)
+    - [Chapter 3: It starts with a tensor (130 words)](#chapter-3-it-starts-with-a-tensor-130-words)
 - [Duolingo - Vocabulary (774 words)](#duolingo---vocabulary-774-words)
   - [SECTION 1 (774 words)](#section-1-774-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -244,7 +244,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1118 words)
+## Deep Learning with PyTorch - Vocabulary (1121 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -732,7 +732,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (653 words)
+### Part 1: Core PyTorch (656 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1215,7 +1215,7 @@
 - `article (noun)`  /ˈɑːr.tɪ.kəl/ <br> a piece of writing on a particular topic, published in a newspaper, magazine, or website: A relevant example of face-swapping is described in the Vox article - I read an interesting article about climate change
 - `double edged (adjective)`  /ˌdʌb.əl ˈedʒd/ <br> having two sides or effects, especially both positive and negative at the same time: Jordan Peele's Simulated Obama PSA Is a Double-Edged Warning - Social media is a double-edged tool, helpful but also risky
 - `coarse (adjective)`  /kɔːrs/ <br> not polite, especially in language, often including bad or shocking words: warning: coarse language - He used coarse language that upset some people
-- `flip (verb)`  /flɪp/ <br> to turn something over quickly or reverse its direction: we'll flip the direction: a vision-language model that takes an image and produces a caption - She flipped the pancake in the pan - I flipped the book (over) to look at the back cover
+- `flip (verb)`  /flɪp/ <br> to turn something over quickly or reverse its direction: She flipped the pancake in the pan - I flipped the book (over) to look at the back cover
 - `moment (noun)`  /ˈmoʊ.mənt/ <br> a very short period of time: let's take a moment to look at the options we've explored - Wait a moment, I'll be right back
 - `albeit (conjunction)`  /ɔːlˈbiː.ɪt/ <br> although, even though: The resulting output—albeit a bit concerning—is a demonstration of the ease of use - The trip was fun, albeit a little tiring
 - `concerning (adjective)`  /kənˈsɜːrnɪŋ/ <br> causing worry; making you feel slightly worried: albeit a bit concerning (can they really replace our brains?) - The news about the economy was concerning
@@ -1264,7 +1264,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (127 words)
+#### Chapter 3: It starts with a tensor (130 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1392,6 +1392,9 @@
 - `clone (verb)`  /kloʊn/ <br> to make an exact copy of something: He cloned the repository to work on it locally
 - `transpose (verb)`  /trænˈspoʊz/ <br> 1. to change the position or order of <br> 2. (mathematics) to change a matrix by turning its rows into columns and its columns into rows
 - `alternative (noun)`  /ɑːlˈtɜːrnətɪv/ <br> another option or choice instead of the one already mentioned: Walking is a healthy alternative to driving - Firefox is a Chrome alternative
+- `scribble (verb)`  /ˈskrɪb.əl/ <br> to write something or make marks on paper quickly and without care: The children scribbled in my book
+- `diagram (noun)`  /ˈdaɪ.ə.ɡræm/ <br> a picture that explains something; a simple plan that represents a machine, system, or idea, etc., often drawn to explain how it works: This diagram shows all the parts of an engine <br> <img src='images/diagram.jpg' alt='diagram' width='200'>
+- `definition (noun)`  /ˌdef.ɪˈnɪʃ.ən/ <br> a group of words that tell you what another word means: What is the definition of 'mood'?
 ---
 
 ---
