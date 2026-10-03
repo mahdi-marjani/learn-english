@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2113**
+**Total words: 2115**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (127 words)](#chapter-3-it-starts-with-a-tensor-127-words)
-- [Duolingo - Vocabulary (772 words)](#duolingo---vocabulary-772-words)
-  - [SECTION 1 (772 words)](#section-1-772-words)
+- [Duolingo - Vocabulary (774 words)](#duolingo---vocabulary-774-words)
+  - [SECTION 1 (774 words)](#section-1-774-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -53,7 +53,7 @@
     - [Bedtime (22 words)](#bedtime-22-words)
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
-    - [Marriage (11 words)](#marriage-11-words)
+    - [Marriage (13 words)](#marriage-13-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1396,9 +1396,9 @@
 
 ---
 
-## Duolingo - Vocabulary (772 words)
+## Duolingo - Vocabulary (774 words)
 
-### SECTION 1 (772 words)
+### SECTION 1 (774 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2217,7 +2217,7 @@
 - `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
 - `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
 
-#### Marriage (11 words)
+#### Marriage (13 words)
 - `set (verb)`  /set/ <br> 1. to put something somewhere: Dad set the plate in front of me <br> 2. to put the action of a play, book or film in a particular time and place: The film is set in India in the 1920s <br> 3. to make something ready to use or to start working: I set my alarm clock for seven o'clock - Can you set the video recorder (= make it record a programme)? <br> 4. to make something happen: They set the school on fire (= made it start to burn) <br> 5. When the sun sets, it goes down from the sky (OPPOSITE: rise) <br> 6. to decide what something will be; to fix something: Let's set a date for the meeting <br> 7. to give somebody work to do: Our teacher set us a lot of homework <br> 8. to become hard or solid: Wait for the cement to set <br> `set off; set out` to start a journey: We set off for Oxford at two o'clock <br> `set the table` (British) to put knives, forks, plates and other things on the table before you eat (SAME MEANING: lay the table) <br> `set something up` to start something: The company was set up in 1981
 - `tell (verb)`  /tel/ <br> 1. to give information to somebody by speaking or writing: I told her my new address - Thid book tells you how to make bread - He told me that he was tired <br> 2. to say what somebody must do: Our teacher told us to read this book <br> 3. to know, guess or understand something: I can tell that she's been crying because her eyes are red - I can't tell the difference between James and his brother. They look exactly the same <br> `tell somebody off` to speak to somebody in an angry way because they have done something wrong: I told the children off for making so much noise
 - `bargaining (noun)`  /ˈbɑːrɡənɪŋ/ <br> talking to get a better price; discussion of prices, conditions, etc. with the aim of reaching an agreement that is acceptable: After much hard bargaining we reached an agreement
@@ -2229,6 +2229,8 @@
 - `once-in-a-lifetime (adjective)`  /ˌwʌn.sɪnəˈlaɪf.taɪm/ <br> very special and rare; A once-in-a-lifetime experience or opportunity is very special because you will probably only have it once: A tour of Australia is a once-in-a-lifetime experience
 - `frown (verb)`  /fraʊn/ <br> to show feelings of anger or worry by making lines appear above your nose: John frowned at me when I came in. 'You're late,' he said
 - `coast (noun)`  /koʊst/ <br> the part of the land that is next to the sea: Their house is near the coast - The city is on the west coast of France
+- `long (adverb)`  /lɑːŋ/ <br> for a lot of time: I can't stay long - How long have you been waiting? - She moved to the city long after her children were born - My grandfather died long before I was born - This may take longer than we thought <br> `as long as; so long as` only if: You can borrow the book as long as you promise not to lose it <br> `for long` for a lot of time: She went shopping but she was not out for long <br> `long ago` many years in the past: Long ago there were no cars <br> `no longer; not any longer` not now; not as before: She doesn't live here any longer
+- `instrument (noun)`  /ˈɪn.strə.mənt/ <br> 1. a thing that you use for doing a special job: surgical instruments (= used by doctors) <br> 2. a thing that you use for playing music: Violins and trumpets are musical instruments - What instrument do you play?
 ---
 
 ---
