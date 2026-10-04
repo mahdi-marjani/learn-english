@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2118**
+**Total words: 2121**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (130 words)](#chapter-3-it-starts-with-a-tensor-130-words)
-- [Duolingo - Vocabulary (774 words)](#duolingo---vocabulary-774-words)
-  - [SECTION 1 (774 words)](#section-1-774-words)
+- [Duolingo - Vocabulary (777 words)](#duolingo---vocabulary-777-words)
+  - [SECTION 1 (777 words)](#section-1-777-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -53,7 +53,7 @@
     - [Bedtime (22 words)](#bedtime-22-words)
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
-    - [Marriage (13 words)](#marriage-13-words)
+    - [Marriage (16 words)](#marriage-16-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -736,7 +736,7 @@
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
-- `give`  /ɡɪv/ <br> 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give up` to stop trying to do something: I give up _ what's the answer?
+- `give`  /ɡɪv/ <br> 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give something away` <br> 1. to give something to somebody without getting money for it: I've given all my old clothes away <br> 2. to let someone else have something (a place, slot, ticket, or opportunity) that was previously held for another person: We waited an hour, but he never showed up, so we gave his table away <br> `give up` to stop trying to do something: I give up _ what's the answer?
 - `chance`  /tʃæns/ <br> 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - `serious`  /ˈsɪriəs/ <br> 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - `across`  /əˈkrɔːs/ <br> over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
@@ -939,7 +939,7 @@
 - `era`  /ˈer.ə/ or /ˈɪr.ə/ <br> a long period of time in history that is marked by particular events, developments, or characteristics: The invention of the internet marked the beginning of a new era of communication - Now that I have children, I feel like I've entered a completely different era of my life
 - `consolidation`  /kənˌsɑː.ləˈdeɪ.ʃən/ <br> the process of becoming or being made stronger and more certain: The company is entering a period of consolidation
 - `unification`  /ˌjuː.nə.fəˈkeɪ.ʃən/ <br> the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners
-- `lately`  /ˈleɪt.li/ <br> recently
+- `lately (adverb)`  /ˈleɪt.li/ <br> recently: Have you seen Mark lately? - The weather has been very bad lately
 - `by the time`  <br> at the time; when: I had lived in 12 different cities by the time I turned 18 - By the time she showed up, I was finished eating - by the time you read this in print, it will likely be out of date
 - `premiere`  /prɪˈmɪr/ <br> most important, best, or most well-known; first in rank
 - `niche`  /nɪtʃ/ <br> a job or position that is very suitable for someone, especially one that they like: He has made a niche for himself as a financial advisor
@@ -1399,9 +1399,9 @@
 
 ---
 
-## Duolingo - Vocabulary (774 words)
+## Duolingo - Vocabulary (777 words)
 
-### SECTION 1 (774 words)
+### SECTION 1 (777 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2220,7 +2220,7 @@
 - `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
 - `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
 
-#### Marriage (13 words)
+#### Marriage (16 words)
 - `set (verb)`  /set/ <br> 1. to put something somewhere: Dad set the plate in front of me <br> 2. to put the action of a play, book or film in a particular time and place: The film is set in India in the 1920s <br> 3. to make something ready to use or to start working: I set my alarm clock for seven o'clock - Can you set the video recorder (= make it record a programme)? <br> 4. to make something happen: They set the school on fire (= made it start to burn) <br> 5. When the sun sets, it goes down from the sky (OPPOSITE: rise) <br> 6. to decide what something will be; to fix something: Let's set a date for the meeting <br> 7. to give somebody work to do: Our teacher set us a lot of homework <br> 8. to become hard or solid: Wait for the cement to set <br> `set off; set out` to start a journey: We set off for Oxford at two o'clock <br> `set the table` (British) to put knives, forks, plates and other things on the table before you eat (SAME MEANING: lay the table) <br> `set something up` to start something: The company was set up in 1981
 - `tell (verb)`  /tel/ <br> 1. to give information to somebody by speaking or writing: I told her my new address - Thid book tells you how to make bread - He told me that he was tired <br> 2. to say what somebody must do: Our teacher told us to read this book <br> 3. to know, guess or understand something: I can tell that she's been crying because her eyes are red - I can't tell the difference between James and his brother. They look exactly the same <br> `tell somebody off` to speak to somebody in an angry way because they have done something wrong: I told the children off for making so much noise
 - `bargaining (noun)`  /ˈbɑːrɡənɪŋ/ <br> talking to get a better price; discussion of prices, conditions, etc. with the aim of reaching an agreement that is acceptable: After much hard bargaining we reached an agreement
@@ -2234,6 +2234,9 @@
 - `coast (noun)`  /koʊst/ <br> the part of the land that is next to the sea: Their house is near the coast - The city is on the west coast of France
 - `long (adverb)`  /lɑːŋ/ <br> for a lot of time: I can't stay long - How long have you been waiting? - She moved to the city long after her children were born - My grandfather died long before I was born - This may take longer than we thought <br> `as long as; so long as` only if: You can borrow the book as long as you promise not to lose it <br> `for long` for a lot of time: She went shopping but she was not out for long <br> `long ago` many years in the past: Long ago there were no cars <br> `no longer; not any longer` not now; not as before: She doesn't live here any longer
 - `instrument (noun)`  /ˈɪn.strə.mənt/ <br> 1. a thing that you use for doing a special job: surgical instruments (= used by doctors) <br> 2. a thing that you use for playing music: Violins and trumpets are musical instruments - What instrument do you play?
+- `show (verb)`  /ʃoʊ/ <br> 1. to let somebody see something: She showed me her holiday photos - You have to show your ticket on the train <br> 2. to make something clear; to explain something to somebody: Can you show me how to use the computer? - Research shows that most people get too little exercise <br> 3. to appear or be seen: The anger showed in his face <br> `show off` to talk loudly or do something silly to make people notice you: Joyce was showing off by driving too fast <br> `show something off` to let people see something that is new or beautiful: James wanted to show off his new jacket <br> `show somebody round` to go with somebody and show them everything in a building: David showed me round the school <br> `show up` (informal) to arrive: What time did they show up?
+- `slot (noun)`  /slɑːt/ <br> a time or place available
+- `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
 ---
 
 ---

@@ -2851,7 +2851,7 @@
           "word": "give",
           "phonetic": "/ɡɪv/",
           "mean_fa": "",
-          "mean_en": "1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give up` to stop trying to do something: I give up _ what's the answer?"
+          "mean_en": "1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give something away` <br> 1. to give something to somebody without getting money for it: I've given all my old clothes away <br> 2. to let someone else have something (a place, slot, ticket, or opportunity) that was previously held for another person: We waited an hour, but he never showed up, so we gave his table away <br> `give up` to stop trying to do something: I give up _ what's the answer?"
         },
         {
           "word": "chance",
@@ -4059,10 +4059,10 @@
               "mean_en": "the process of bringing separate things together into a single or combining things or people: The unification of East and West Germany happened in 1990 - The unification of PyTorch and TensorFlow APIs would make it easier for beginners"
             },
             {
-              "word": "lately",
+              "word": "lately (adverb)",
               "phonetic": "/ˈleɪt.li/",
               "mean_fa": "",
-              "mean_en": "recently"
+              "mean_en": "recently: Have you seen Mark lately? - The weather has been very bad lately"
             },
             {
               "word": "by the time",
