@@ -6778,6 +6778,24 @@
               "phonetic": "/ˌdef.ɪˈnɪʃ.ən/",
               "mean_fa": "",
               "mean_en": "a group of words that tell you what another word means: What is the definition of 'mood'?"
+            },
+            {
+              "word": "-most (suffix)",
+              "phonetic": "/məʊst/",
+              "mean_fa": "",
+              "mean_en": "the furthest: inmost (= the furthest in) - southernmost - topmost (= the furthest up/nearest to the top) - rightmost (= positioned at the very right)"
+            },
+            {
+              "word": "onward (adverb)",
+              "phonetic": "/ˈɑːnwərd/",
+              "mean_fa": "",
+              "mean_en": "1. and after: I shall be at home from eight o'clock onward <br> 2. forward; further: The soldiers marched onward until they came to a bridge"
+            },
+            {
+              "word": "locality (noun)",
+              "phonetic": "/loʊˈkæl.ə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "(computing) the quality of data being stored close together in memory, which improves access speed: improving data locality improves performance because of the way memory access works on modern CPUs - Reading an array in order has good locality because the values sit next to each other in memory"
             }
           ]
         }

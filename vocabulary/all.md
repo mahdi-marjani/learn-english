@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2122**
+**Total words: 2125**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1121 words)](#deep-learning-with-pytorch---vocabulary-1121-words)
+- [Deep Learning with PyTorch - Vocabulary (1124 words)](#deep-learning-with-pytorch---vocabulary-1124-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (656 words)](#part-1-core-pytorch-656-words)
+  - [Part 1: Core PyTorch (659 words)](#part-1-core-pytorch-659-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (130 words)](#chapter-3-it-starts-with-a-tensor-130-words)
+    - [Chapter 3: It starts with a tensor (133 words)](#chapter-3-it-starts-with-a-tensor-133-words)
 - [Duolingo - Vocabulary (778 words)](#duolingo---vocabulary-778-words)
   - [SECTION 1 (778 words)](#section-1-778-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -95,7 +95,7 @@
 - `sign (noun)`  /saɪn/ <br> 1. something that tells you that something exists, is happening or may heppen in the future: Dark clouds are a sign of rain <br> 2. a thing with writing or a picture on it that tells you something: The sign said 'No Smoking' - a road sign <br> 3. a mark, shape or movement that has a special meaning: In mathematics, a cross is a plus sign - I put up my hand as a sign for him to stop
 - `march (verb)`  /mɑːrtʃ/ <br> 1. to walk like a soldier: The soldiers marched along the road <br> 2. to walk somewhere quickly in a determined way: She marched up to the manager and asked for her money back <br> 3. to walk through the streets in a large group to show that you do not agree with something: They marched through the town shouting 'Stop the war!'
 - `straight (adverb)`  /streɪt/ <br> 1. in a straight line: Look straight in front of you - Go straight on until you come to the bank, then turn left <br> 2. without stopping or doing anything else; directly: Come straight home - She walked straight past me
-- `lay`  /leɪ/ <br> 1. to put somebody or something carefully on another thing: I laid the papers on the desk <br> 2. to make an egg: birds and insects lay eggs
+- `lay`  /leɪ/ <br> 1. to put somebody or something carefully on another thing: I laid the papers on the desk <br> 2. to make an egg: birds and insects lay eggs <br> `lay something out` to arrange or position things in a particular way: values are laid out in the storage starting from the rightmost dimension onward - The furniture was laid out neatly across the room
 - `whose`  /huːz/ <br> 1. used to ask who something belongs to: Whose car is this? <br> 2. used to say exactly which person or thing you mean, or to give extra information about a person or thing: That's the boy whose sister is a singer
 - `belong`  /bɪˈlɔːŋ/ <br> 1. to be somebody's: 'Who does this pen belong to?' 'It belongs to me' <br> 2. to be a member of a group or an organization: Do you belong to any political party? <br> 3. to have its right or usual place: That chair belongs in my room
 - `spatula`  /ˈspætʃələ/ <br> <br><img src='images/spatula.jpg' alt='spatula' width='200'>
@@ -244,7 +244,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1121 words)
+## Deep Learning with PyTorch - Vocabulary (1124 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -732,7 +732,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (656 words)
+### Part 1: Core PyTorch (659 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1264,7 +1264,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (130 words)
+#### Chapter 3: It starts with a tensor (133 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1395,6 +1395,9 @@
 - `scribble (verb)`  /ˈskrɪb.əl/ <br> to write something or make marks on paper quickly and without care: The children scribbled in my book
 - `diagram (noun)`  /ˈdaɪ.ə.ɡræm/ <br> a picture that explains something; a simple plan that represents a machine, system, or idea, etc., often drawn to explain how it works: This diagram shows all the parts of an engine <br> <img src='images/diagram.jpg' alt='diagram' width='200'>
 - `definition (noun)`  /ˌdef.ɪˈnɪʃ.ən/ <br> a group of words that tell you what another word means: What is the definition of 'mood'?
+- `-most (suffix)`  /məʊst/ <br> the furthest: inmost (= the furthest in) - southernmost - topmost (= the furthest up/nearest to the top) - rightmost (= positioned at the very right)
+- `onward (adverb)`  /ˈɑːnwərd/ <br> 1. and after: I shall be at home from eight o'clock onward <br> 2. forward; further: The soldiers marched onward until they came to a bridge
+- `locality (noun)`  /loʊˈkæl.ə.t̬i/ <br> (computing) the quality of data being stored close together in memory, which improves access speed: improving data locality improves performance because of the way memory access works on modern CPUs - Reading an array in order has good locality because the values sit next to each other in memory
 ---
 
 ---
