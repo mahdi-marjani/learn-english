@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2121**
+**Total words: 2122**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (130 words)](#chapter-3-it-starts-with-a-tensor-130-words)
-- [Duolingo - Vocabulary (777 words)](#duolingo---vocabulary-777-words)
-  - [SECTION 1 (777 words)](#section-1-777-words)
+- [Duolingo - Vocabulary (778 words)](#duolingo---vocabulary-778-words)
+  - [SECTION 1 (778 words)](#section-1-778-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -53,7 +53,7 @@
     - [Bedtime (22 words)](#bedtime-22-words)
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
-    - [Marriage (16 words)](#marriage-16-words)
+    - [Marriage (17 words)](#marriage-17-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -349,7 +349,7 @@
 - `commodore vic 20 (eli)`  <br> نام چند کامپیوتر قدیمی
 - `commodore c16 (thomas)`  <br> نام چند کامپیوتر قدیمی
 - `dawn`  <br> start (of something big or new)
-- `take`  <br> 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> `take your time` do not rush; use as much time as you need <br> `take a break` to stop something for a short period, often to rest, to eat food, or to have a drink
+- `take`  <br> 1. to move something or go with somebody to another place: Take your coat with you it's cold - Mark took me to the station <br> 2. to put your hand round something and hold it: Take this money it's yours - She took my hand and led me outside <br> 3. to remove something from a place or a person, often without asking them: Somebody has taken my bike <br> 4. to eat or drink something: Don't forget to take your medicine <br> 5. to agree to have something; to accept something: if you take my advice you'll forget all about him <br> 6. to need an amount of time: The journey took four hours - It takes a long time to learn a language <br> 7. to travel in a bus, train, etc: I took a taxi to the hospital <br> `take your time` do not rush; use as much time as you need <br> `take a break` to stop something for a short period, often to rest, to eat food, or to have a drink <br> `take something off` 1. to remove clothes from your body: Take off your coat (OPPOSITE: put something on) <br> 2. to have time as a holiday, not working: I am taking a week off in June
 - `collective`  <br> دسته‌جمعی
 - `rolling our eyes`  <br> چشم‌ها را چرخاندن در واکنش به چیزی احمقانه
 - `spy (noun)`  /spaɪ/ <br> a person who tries to learn secrets about another country, person or company
@@ -459,7 +459,7 @@
 - `gratitude`  <br> قدردانی
 - `shoutout`  <br> یک تشکر رسمی یا عمومی
 - `bring`  /brɪŋ/ <br> 1. to take something or somebody with you to a place: Could you bring me a glass of water? - Can I bring a friend to the party? <br> 2. to make something happen: Money doesn't always bring happiness <br> `bring something back` 1. to return something: I've brought back the book you lent me <br> 2. to make you remember something: These old photographs bring back a lot of happy memories <br> `bring somebody up` to look after a child until they are grown up: He was brought up by his aunt after his parents died <br> `bring something up` 1. to be sick, so that food comes up from your stomach and out of your mouth <br> 2. to start to talk about something: Can you bring up this problem at the next meeting? <br> `bring something in` to introduce something new such as a product or a law
-- `incredible`  <br> باور نکردنی
+- `incredible`  /ɪnˈkred.ə.bəl/ <br> 1. impossible or very difficult to believe (SAME MEANING: unbelievable): I found his story completely incredible <br> 2. (informal) very large or very good: She earns an incredible amount of money - The hotel was incredible
 - `fruition`  <br> به ثمر رسیدن
 - `excerpt`  <br> گزیده، بخش کوتاهی از متن
 - `hugely`  <br> بسیار
@@ -1399,9 +1399,9 @@
 
 ---
 
-## Duolingo - Vocabulary (777 words)
+## Duolingo - Vocabulary (778 words)
 
-### SECTION 1 (777 words)
+### SECTION 1 (778 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2220,7 +2220,7 @@
 - `mall`  /mɑːl/ <br> a large building or covered area that has many shops, restaurants, etc. inside it <br> <img src='images/mall.jpg' alt='mall' width='200'>
 - `amazed (adjective)`  /əˈmeɪzd/ <br> very surprised: She was amazed to discover the truth about her father - I was amazed at her knowledge of French literature
 
-#### Marriage (16 words)
+#### Marriage (17 words)
 - `set (verb)`  /set/ <br> 1. to put something somewhere: Dad set the plate in front of me <br> 2. to put the action of a play, book or film in a particular time and place: The film is set in India in the 1920s <br> 3. to make something ready to use or to start working: I set my alarm clock for seven o'clock - Can you set the video recorder (= make it record a programme)? <br> 4. to make something happen: They set the school on fire (= made it start to burn) <br> 5. When the sun sets, it goes down from the sky (OPPOSITE: rise) <br> 6. to decide what something will be; to fix something: Let's set a date for the meeting <br> 7. to give somebody work to do: Our teacher set us a lot of homework <br> 8. to become hard or solid: Wait for the cement to set <br> `set off; set out` to start a journey: We set off for Oxford at two o'clock <br> `set the table` (British) to put knives, forks, plates and other things on the table before you eat (SAME MEANING: lay the table) <br> `set something up` to start something: The company was set up in 1981
 - `tell (verb)`  /tel/ <br> 1. to give information to somebody by speaking or writing: I told her my new address - Thid book tells you how to make bread - He told me that he was tired <br> 2. to say what somebody must do: Our teacher told us to read this book <br> 3. to know, guess or understand something: I can tell that she's been crying because her eyes are red - I can't tell the difference between James and his brother. They look exactly the same <br> `tell somebody off` to speak to somebody in an angry way because they have done something wrong: I told the children off for making so much noise
 - `bargaining (noun)`  /ˈbɑːrɡənɪŋ/ <br> talking to get a better price; discussion of prices, conditions, etc. with the aim of reaching an agreement that is acceptable: After much hard bargaining we reached an agreement
@@ -2237,6 +2237,7 @@
 - `show (verb)`  /ʃoʊ/ <br> 1. to let somebody see something: She showed me her holiday photos - You have to show your ticket on the train <br> 2. to make something clear; to explain something to somebody: Can you show me how to use the computer? - Research shows that most people get too little exercise <br> 3. to appear or be seen: The anger showed in his face <br> `show off` to talk loudly or do something silly to make people notice you: Joyce was showing off by driving too fast <br> `show something off` to let people see something that is new or beautiful: James wanted to show off his new jacket <br> `show somebody round` to go with somebody and show them everything in a building: David showed me round the school <br> `show up` (informal) to arrive: What time did they show up?
 - `slot (noun)`  /slɑːt/ <br> a time or place available
 - `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
+- `point (verb)`  /pɔɪnt/ <br> 1. to show where something is using your finger, a stick, etc.: I asked him where the bank was and he pointed across the road - There was a sign pointing towards the city centre <br> 2. to hold something towards somebody or something: She was pointing a gun at his head <br> `point something out` to tell or show somebody something: Eva pointed out that my bag was open
 ---
 
 ---
