@@ -6796,6 +6796,30 @@
               "phonetic": "/loʊˈkæl.ə.t̬i/",
               "mean_fa": "",
               "mean_en": "(computing) the quality of data being stored close together in memory, which improves access speed: improving data locality improves performance because of the way memory access works on modern CPUs - Reading an array in order has good locality because the values sit next to each other in memory"
+            },
+            {
+              "word": "informative (adjective)",
+              "phonetic": "/ɪnˈfɔːr.mə.tɪv/",
+              "mean_fa": "",
+              "mean_en": "giving useful or helpful information: The talk was very informative"
+            },
+            {
+              "word": "exception (noun)",
+              "phonetic": "/ɪkˈsep.ʃən/",
+              "mean_fa": "",
+              "mean_en": "(computing) an error or unexpected event that occurs while a program is running and needs to be handled: The code crashed because of an unhandled exception"
+            },
+            {
+              "word": "shuffle (verb)",
+              "phonetic": "/ˈʃʌf.əl/",
+              "mean_fa": "",
+              "mean_en": "to move things around and change their order; to mix things together in a different way"
+            },
+            {
+              "word": "reflect (verb)",
+              "phonetic": "/rɪˈflekt/",
+              "mean_fa": "",
+              "mean_en": "1. to show a picture of somebody or something in a mirror, water or glass: She could see herself reflected in the mirror <br> 2. to send back light, heat or sound: The windows reflected the bright morning sunshine <br> 3. to show something: His music reflects his interest in Arab culture"
             }
           ]
         }

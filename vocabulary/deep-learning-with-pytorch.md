@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1124**
+**Total words: 1128**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (659 words)](#part-1-core-pytorch-659-words)
+- [Part 1: Core PyTorch (663 words)](#part-1-core-pytorch-663-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (133 words)](#chapter-3-it-starts-with-a-tensor-133-words)
+  - [Chapter 3: It starts with a tensor (137 words)](#chapter-3-it-starts-with-a-tensor-137-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (659 words)
+## Part 1: Core PyTorch (663 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1036,7 +1036,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (133 words)
+### Chapter 3: It starts with a tensor (137 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1170,4 +1170,8 @@
 - `-most (suffix)`  /məʊst/ <br> the furthest: inmost (= the furthest in) - southernmost - topmost (= the furthest up/nearest to the top) - rightmost (= positioned at the very right)
 - `onward (adverb)`  /ˈɑːnwərd/ <br> 1. and after: I shall be at home from eight o'clock onward <br> 2. forward; further: The soldiers marched onward until they came to a bridge
 - `locality (noun)`  /loʊˈkæl.ə.t̬i/ <br> (computing) the quality of data being stored close together in memory, which improves access speed: improving data locality improves performance because of the way memory access works on modern CPUs - Reading an array in order has good locality because the values sit next to each other in memory
+- `informative (adjective)`  /ɪnˈfɔːr.mə.tɪv/ <br> giving useful or helpful information: The talk was very informative
+- `exception (noun)`  /ɪkˈsep.ʃən/ <br> (computing) an error or unexpected event that occurs while a program is running and needs to be handled: The code crashed because of an unhandled exception
+- `shuffle (verb)`  /ˈʃʌf.əl/ <br> to move things around and change their order; to mix things together in a different way
+- `reflect (verb)`  /rɪˈflekt/ <br> 1. to show a picture of somebody or something in a mirror, water or glass: She could see herself reflected in the mirror <br> 2. to send back light, heat or sound: The windows reflected the bright morning sunshine <br> 3. to show something: His music reflects his interest in Arab culture
 ---
