@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2136**
+**Total words: 2138**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (133 words)](#chapter-3-it-starts-with-a-tensor-133-words)
-- [Duolingo - Vocabulary (789 words)](#duolingo---vocabulary-789-words)
-  - [SECTION 1 (789 words)](#section-1-789-words)
+- [Duolingo - Vocabulary (791 words)](#duolingo---vocabulary-791-words)
+  - [SECTION 1 (791 words)](#section-1-791-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -54,7 +54,7 @@
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
     - [Marriage (17 words)](#marriage-17-words)
-    - [Hiking (11 words)](#hiking-11-words)
+    - [Hiking (13 words)](#hiking-13-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1348,7 +1348,7 @@
 - `permute (verb)`  /pərˈmjuːt/ <br> to change the order of a set of things
 - `muck around with (phrasal verb)`  /mʌk əˈraʊnd wɪð/ <br> behave in a silly or aimless way; to spend time doing something in a silly or unproductive way: I spent an hour mucking around with the settings before it finally worked
 - `alignment (noun)`  /əˈlaɪn.mənt/ <br> the act of arranging things in a straight line or in correct relative positions
-- `stick (verb)`  /stɪk/ <br> 1. to push a pointed thing into something: Stick a fork into the meat to see if it's cooked <br> 2. to join something to something else with a sticky substance; to become joined in this way: I stuck a stamp on the envelope <br> 3. to be fixed in one place; to not be able to move: This door always sticks <br> 4. (informal) to put something somewhere: Stick that box on the floor <br> `stick out` to come out of the side or top of something so that you can see it easily: The boy's head was sticking out of the window <br> `stick something out` to push something out: Don't stick your tongue out <br> `stick to something` to continue with something and not change it: We're sticking to Peter's plan <br> `stick up for somebody or something` to say that somebody or something is right: Everyone else said I was wrong, but Kim stuck up for me
+- `stick (verb)`  /stɪk/ <br> 1. to push a pointed thing into something: Stick a fork into the meat to see if it's cooked <br> 2. to join something to something else with a sticky substance; to become joined in this way: I stuck a stamp on the envelope <br> 3. to be fixed in one place; to not be able to move: This door always sticks <br> 4. (informal) to put something somewhere: Stick that box on the floor <br> `stick out` to come out of the side or top of something so that you can see it easily: The boy's head was sticking out of the window <br> `stick something out` to push something out: Don't stick your tongue out <br> `stick to something` to continue with something and not change it: We're sticking to Peter's plan <br> `stick up for somebody or something` to say that somebody or something is right: Everyone else said I was wrong, but Kim stuck up for me <br> `stick with somebody/something` 1. to stay close to somebody so that they can help you: Stick with me and I’ll make you a millionaire <br> 2. to continue with something or continue doing something: They decided to stick with their original plan
 - `eliminate (verb)`  /ɪˈlɪm.ə.neɪt/ <br> to remove something that is not needed or wanted: We must try to eliminate waste
 - `indication`  /ˌɪn.dəˈkeɪ.ʃən/ <br> a sign or piece of information that shows or suggests something; something that indicates a fact or situation: Her smile was a clear indication that she was happy
 - `suboptimal (adjective)`  /ˌsʌbˈɑːptɪməl/ <br> of less than the best standard or quality: A score of 6 is optimal; 5 or less is suboptimal
@@ -1403,9 +1403,9 @@
 
 ---
 
-## Duolingo - Vocabulary (789 words)
+## Duolingo - Vocabulary (791 words)
 
-### SECTION 1 (789 words)
+### SECTION 1 (791 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2243,7 +2243,7 @@
 - `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
 - `point (verb)`  /pɔɪnt/ <br> 1. to show where something is using your finger, a stick, etc.: I asked him where the bank was and he pointed across the road - There was a sign pointing towards the city centre <br> 2. to hold something towards somebody or something: She was pointing a gun at his head <br> `point something out` to tell or show somebody something: Eva pointed out that my bag was open
 
-#### Hiking (11 words)
+#### Hiking (13 words)
 - `hiking (noun)`  /ˈhaɪ.kɪŋ/ <br> walk in nature for exercise
 - `valley (noun)`  /ˈvæl.i/ <br> the low land between mountains; the land that a river flows through
 - `nowhere (adverb)`  /ˈnoʊ.wer/ <br> not anywhere; at, in or to no place: There's nowhere to stay in this village
@@ -2255,6 +2255,8 @@
 - `just (adverb)`  /dʒʌst/ <br> 1. exactly: This jacket is just my size - You're just in time - She looks just like her mother <br> 2. a very short time before: I've just heard the news - Jim isn't here _ he's just gone out <br> 3. at this or that moment; now or very soon: I'm just going to make some coffee - She phoned just as I was going to bed <br> 4. by a small amount: I got here just after nine - I only just caught the train <br> 5. a word that makes what you say stronger: Just look at that funny little dog <br> 6. only: It's just a small present <br> `just about` (informal) almost; very nearly: I've met just about everyone <br> `just a minute; just a moment` used for asking somebody to wait for a short time: Just a minute _ there's someone at the door <br> `just now` 1. at this moment; now: I can't talk to you just now. I'm busy <br> 2. a short time before: Where's Liz? She was here just now
 - `desert (noun)`  /ˈdezərt/ <br> a large, dry area of land with very few plants: the Sahara Desert
 - `formation (noun)`  /fɔːrˈmeɪ.ʃən/ <br> 1. the action of forming something; the process of being formed: the formation of a new government <br> 2. a thing that has been formed, especially in a particular place or in a particular way: The island is famous for its unusual rock formations
+- `peak (noun)`  /piːk/ <br> 1. the time when something is highest, biggest, etc.: The traffic is at its peak between five and six in the evening <br> 2. the pointed top of a mountain: snowy mountain peaks <br> 3. the front part of a hat that sticks out above your eyes
+- `roast (verb)`  /roʊst/ <br> to cook food in an oven or over a fire: Roast the chicken in a hot oven
 ---
 
 ---

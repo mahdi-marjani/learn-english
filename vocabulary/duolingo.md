@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 789**
+**Total words: 791**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (789 words)](#section-1-789-words)
+- [SECTION 1 (791 words)](#section-1-791-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -34,11 +34,11 @@
   - [Games (20 words)](#games-20-words)
   - [Halloween (22 words)](#halloween-22-words)
   - [Marriage (17 words)](#marriage-17-words)
-  - [Hiking (11 words)](#hiking-11-words)
+  - [Hiking (13 words)](#hiking-13-words)
 
 ---
 
-## SECTION 1 (789 words)
+## SECTION 1 (791 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -876,7 +876,7 @@
 - `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
 - `point (verb)`  /pɔɪnt/ <br> 1. to show where something is using your finger, a stick, etc.: I asked him where the bank was and he pointed across the road - There was a sign pointing towards the city centre <br> 2. to hold something towards somebody or something: She was pointing a gun at his head <br> `point something out` to tell or show somebody something: Eva pointed out that my bag was open
 
-### Hiking (11 words)
+### Hiking (13 words)
 - `hiking (noun)`  /ˈhaɪ.kɪŋ/ <br> walk in nature for exercise
 - `valley (noun)`  /ˈvæl.i/ <br> the low land between mountains; the land that a river flows through
 - `nowhere (adverb)`  /ˈnoʊ.wer/ <br> not anywhere; at, in or to no place: There's nowhere to stay in this village
@@ -888,4 +888,6 @@
 - `just (adverb)`  /dʒʌst/ <br> 1. exactly: This jacket is just my size - You're just in time - She looks just like her mother <br> 2. a very short time before: I've just heard the news - Jim isn't here _ he's just gone out <br> 3. at this or that moment; now or very soon: I'm just going to make some coffee - She phoned just as I was going to bed <br> 4. by a small amount: I got here just after nine - I only just caught the train <br> 5. a word that makes what you say stronger: Just look at that funny little dog <br> 6. only: It's just a small present <br> `just about` (informal) almost; very nearly: I've met just about everyone <br> `just a minute; just a moment` used for asking somebody to wait for a short time: Just a minute _ there's someone at the door <br> `just now` 1. at this moment; now: I can't talk to you just now. I'm busy <br> 2. a short time before: Where's Liz? She was here just now
 - `desert (noun)`  /ˈdezərt/ <br> a large, dry area of land with very few plants: the Sahara Desert
 - `formation (noun)`  /fɔːrˈmeɪ.ʃən/ <br> 1. the action of forming something; the process of being formed: the formation of a new government <br> 2. a thing that has been formed, especially in a particular place or in a particular way: The island is famous for its unusual rock formations
+- `peak (noun)`  /piːk/ <br> 1. the time when something is highest, biggest, etc.: The traffic is at its peak between five and six in the evening <br> 2. the pointed top of a mountain: snowy mountain peaks <br> 3. the front part of a hat that sticks out above your eyes
+- `roast (verb)`  /roʊst/ <br> to cook food in an oven or over a fire: Roast the chicken in a hot oven
 ---
