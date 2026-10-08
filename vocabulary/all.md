@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2142**
+**Total words: 2150**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (137 words)](#chapter-3-it-starts-with-a-tensor-137-words)
-- [Duolingo - Vocabulary (791 words)](#duolingo---vocabulary-791-words)
-  - [SECTION 1 (791 words)](#section-1-791-words)
+- [Duolingo - Vocabulary (799 words)](#duolingo---vocabulary-799-words)
+  - [SECTION 1 (799 words)](#section-1-799-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -54,7 +54,7 @@
     - [Games (20 words)](#games-20-words)
     - [Halloween (22 words)](#halloween-22-words)
     - [Marriage (17 words)](#marriage-17-words)
-    - [Hiking (13 words)](#hiking-13-words)
+    - [Hiking (21 words)](#hiking-21-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1407,9 +1407,9 @@
 
 ---
 
-## Duolingo - Vocabulary (791 words)
+## Duolingo - Vocabulary (799 words)
 
-### SECTION 1 (791 words)
+### SECTION 1 (799 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2247,7 +2247,7 @@
 - `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
 - `point (verb)`  /pɔɪnt/ <br> 1. to show where something is using your finger, a stick, etc.: I asked him where the bank was and he pointed across the road - There was a sign pointing towards the city centre <br> 2. to hold something towards somebody or something: She was pointing a gun at his head <br> `point something out` to tell or show somebody something: Eva pointed out that my bag was open
 
-#### Hiking (13 words)
+#### Hiking (21 words)
 - `hiking (noun)`  /ˈhaɪ.kɪŋ/ <br> walk in nature for exercise
 - `valley (noun)`  /ˈvæl.i/ <br> the low land between mountains; the land that a river flows through
 - `nowhere (adverb)`  /ˈnoʊ.wer/ <br> not anywhere; at, in or to no place: There's nowhere to stay in this village
@@ -2261,6 +2261,14 @@
 - `formation (noun)`  /fɔːrˈmeɪ.ʃən/ <br> 1. the action of forming something; the process of being formed: the formation of a new government <br> 2. a thing that has been formed, especially in a particular place or in a particular way: The island is famous for its unusual rock formations
 - `peak (noun)`  /piːk/ <br> 1. the time when something is highest, biggest, etc.: The traffic is at its peak between five and six in the evening <br> 2. the pointed top of a mountain: snowy mountain peaks <br> 3. the front part of a hat that sticks out above your eyes
 - `roast (verb)`  /roʊst/ <br> to cook food in an oven or over a fire: Roast the chicken in a hot oven
+- `mosquito (noun)`  /məˈskiːtəʊ/ <br> an insect that drinks blood <br> <img src='images/mosquito.jpg' alt='mosquito' width='200'>
+- `ancient (adjective)`  /ˈeɪnʃənt/ <br> very old; from a time long ago: ancient buildings
+- `hill (noun)`  /hɪl/ <br> a high piece of land that is not as high as a mountain: I pushed my bike up the hill - Their house is at the top of the hill
+- `beauty (noun)`  /ˈbjuː.t̬i/ <br> the quality of being beautiful: She was a woman of great beauty - the beauty of the mountains
+- `fragrance (noun)`  /ˈfreɪɡrəns/ <br> nice smell
+- `sketch (verb)`  /sketʃ/ <br> `sketch somebody or something` to make a quick drawing of somebody or something: He quickly sketched the view from the window
+- `concentrate (verb)`  /ˈkɑːn.sən.treɪt/ <br> to give all your attention to something; to focus on something: Stop looking out of the window and concentrate on your work - Be quiet and let him concentrate
+- `slap (verb)`  /slæp/ <br> to hit somebody with the flat inside part of your hand; to hit with an open hand: He slapped me on the face
 ---
 
 ---
