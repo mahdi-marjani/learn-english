@@ -308,7 +308,7 @@
 - `rounds`  <br> بخش‌های پایانی
 - `tour`  /tʊr/ <br> 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
 - `notice`  <br> متوجه شدن
-- `among`  <br> در میان
+- `among (preposition)`  /əˈmʌŋ/ <br> 1. in the middle of a group of people or things: I often feel nervous when I'm among strangers <br> 2. in a particular group of people or things: There is a lot of anger among students about the new law <br> 3. for or by more than two things or people: He divided the money among his six children
 - `although`  /ɑːlˈðoʊ/ <br> 1. used for introducing a statement that makes the main statement in a sentence seem surprising: Although she was ill, she went to work <br> 2. but (SAME MEANING: though): I love dogs, although I wouldn't have one as a pet
 - `collaborative`  <br> مشارکتی
 - `act (noun)`  /ækt/ <br> 1. a thing that you do: an act of kindness <br> 2. one of the main parts of a play or an opera (= a musical play): This play has five acts <br> 3. a law that a government makes: an act of Parliament <br> 4. behaviour that hides your true feelings: She seems very happy, but she's just putting on an act <br> `in the act (of doing something)` while doing something wrong: I caught him in the act of stealing the money
