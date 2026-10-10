@@ -436,10 +436,10 @@
           "mean_en": ""
         },
         {
-          "word": "abstractions",
-          "phonetic": "",
-          "mean_fa": "چکیده مفاهیم",
-          "mean_en": ""
+          "word": "abstraction (noun)",
+          "phonetic": "/æbˈstrækʃn/",
+          "mean_fa": "",
+          "mean_en": "1. a general idea rather than one relating to a particular object, person, or situation: Ideological abstractions are never going to attract many voters <br> 2. the state of thinking deeply about something and not paying attention to what is around you: She was gazing in abstraction at the far corner of the room <br> 3. the action of removing something from something else; the process of being removed from something else: water abstraction from rivers <br> 4. (computing) a simpler layer that hides complex details, so you can use something without knowing how it works inside: provide abstractions that allow new hardware vendors to add support"
         },
         {
           "word": "tearing apart",
@@ -6820,6 +6820,18 @@
               "phonetic": "/rɪˈflekt/",
               "mean_fa": "",
               "mean_en": "1. to show a picture of somebody or something in a mirror, water or glass: She could see herself reflected in the mirror <br> 2. to send back light, heat or sound: The windows reflected the bright morning sunshine <br> 3. to show something: His music reflects his interest in Arab culture"
+            },
+            {
+              "word": "transfer (verb)",
+              "phonetic": "/trænsˈfɜːr/",
+              "mean_fa": "",
+              "mean_en": "to move somebody or something to a different place: I want to transfer $500 to my savings account"
+            },
+            {
+              "word": "principle (noun)",
+              "phonetic": "/ˈprɪnsəpl/",
+              "mean_fa": "",
+              "mean_en": "1. a rule about how you should live: He has very strong principle - I refuse to lie about it; it's against my principles <br> 2. a rule or fact about how something happens or works: scientific principles"
             }
           ]
         }

@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1128**
+**Total words: 1130**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (663 words)](#part-1-core-pytorch-663-words)
+- [Part 1: Core PyTorch (665 words)](#part-1-core-pytorch-665-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (137 words)](#chapter-3-it-starts-with-a-tensor-137-words)
+  - [Chapter 3: It starts with a tensor (139 words)](#chapter-3-it-starts-with-a-tensor-139-words)
 
 ---
 
@@ -93,7 +93,7 @@
 - `outdated`  <br> از رده خارج شده
 - `definitive`  <br> قطعی
 - `treatise`  <br> مقاله
-- `abstractions`  <br> چکیده مفاهیم
+- `abstraction (noun)`  /æbˈstrækʃn/ <br> 1. a general idea rather than one relating to a particular object, person, or situation: Ideological abstractions are never going to attract many voters <br> 2. the state of thinking deeply about something and not paying attention to what is around you: She was gazing in abstraction at the far corner of the room <br> 3. the action of removing something from something else; the process of being removed from something else: water abstraction from rivers <br> 4. (computing) a simpler layer that hides complex details, so you can use something without knowing how it works inside: provide abstractions that allow new hardware vendors to add support
 - `tearing apart`  <br> از هم باز کردن
 - `underpinnings`  <br> زیربناها
 - `implementation`  <br> پیاده‌سازی
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (663 words)
+## Part 1: Core PyTorch (665 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1036,7 +1036,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (137 words)
+### Chapter 3: It starts with a tensor (139 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1174,4 +1174,6 @@
 - `exception (noun)`  /ɪkˈsep.ʃən/ <br> (computing) an error or unexpected event that occurs while a program is running and needs to be handled: The code crashed because of an unhandled exception
 - `shuffle (verb)`  /ˈʃʌf.əl/ <br> to move things around and change their order; to mix things together in a different way
 - `reflect (verb)`  /rɪˈflekt/ <br> 1. to show a picture of somebody or something in a mirror, water or glass: She could see herself reflected in the mirror <br> 2. to send back light, heat or sound: The windows reflected the bright morning sunshine <br> 3. to show something: His music reflects his interest in Arab culture
+- `transfer (verb)`  /trænsˈfɜːr/ <br> to move somebody or something to a different place: I want to transfer $500 to my savings account
+- `principle (noun)`  /ˈprɪnsəpl/ <br> 1. a rule about how you should live: He has very strong principle - I refuse to lie about it; it's against my principles <br> 2. a rule or fact about how something happens or works: scientific principles
 ---
