@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 808**
+**Total words: 812**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (808 words)](#section-1-808-words)
+- [SECTION 1 (812 words)](#section-1-812-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -34,11 +34,11 @@
   - [Games (20 words)](#games-20-words)
   - [Halloween (22 words)](#halloween-22-words)
   - [Marriage (17 words)](#marriage-17-words)
-  - [Hiking (30 words)](#hiking-30-words)
+  - [Hiking (34 words)](#hiking-34-words)
 
 ---
 
-## SECTION 1 (808 words)
+## SECTION 1 (812 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -876,7 +876,7 @@
 - `blame (verb)`  /bleɪm/ <br> to say that a certain person or thing made something bad happen: The other driver blamed me for the accident
 - `point (verb)`  /pɔɪnt/ <br> 1. to show where something is using your finger, a stick, etc.: I asked him where the bank was and he pointed across the road - There was a sign pointing towards the city centre <br> 2. to hold something towards somebody or something: She was pointing a gun at his head <br> `point something out` to tell or show somebody something: Eva pointed out that my bag was open
 
-### Hiking (30 words)
+### Hiking (34 words)
 - `hiking (noun)`  /ˈhaɪ.kɪŋ/ <br> walk in nature for exercise
 - `valley (noun)`  /ˈvæl.i/ <br> the low land between mountains; the land that a river flows through
 - `nowhere (adverb)`  /ˈnoʊ.wer/ <br> not anywhere; at, in or to no place: There's nowhere to stay in this village
@@ -907,4 +907,8 @@
 - `misery (noun)`  /ˈmɪzəri/ <br> great unhappiness; feeling very bad or sad: the misery of war
 - `pay (verb)`  /peɪ/ <br> to give somebody money for something, for example something they are selling you or work that they do: How much did you pay for your car? - I paid the builder for mending the roof - She has a very well-paid job <br> `pay something back` to hurt somebody who has hurt you: One day I'll pay her back for lying to me <br> `pay somebody or something back` to give back the money that somebody has lent to you: Can you lend me $10? I'll pay you back (= pay it back to you) next week <br> `pay off` (informal) to be successful and bring good results; If something you have done pays off, it is successful: All her hard work paid off in the end, and she finally passed the exam - I hope all this work pays off
 - `owl`  /aʊl/ <br> a bird that's active at night <br> <img src='images/owl.jpg' alt='owl' width='200'>
+- `else (adverb)`  /els/ <br> 1. more; extra: What else whould you like? - Is anyone else coming to the party? <br> 2. different: This cafe's full, let's go somewhere else - It's not mine _ it must be somebody else's - There was nothing else to eat so we had eggs again <br> `or else` if not, then (SAME MEANING: otherwise): Go now, or else you'll be late
+- `dusty (adjective)`  /ˈdʌsti/ <br> covered with dust: The furniture was very dusty
+- `oops`  /uːps/ <br> a word you say when something has gone wrong, for example when somebody has fallen over or has dropped something: Oops! Are you ok?
+- `steep (adjective)`  /stiːp/ <br> A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep
 ---
