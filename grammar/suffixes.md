@@ -34,6 +34,7 @@
 | **-ist** | شخص | art**ist** |
 | **-ship** | وضعیت / گروه | friend**ship** |
 | **-ure** | فرآیند یا نتیجه | depart**ure** |
+| **-th** | حالت یا کیفیت | warm**th**, grow**th** |
 
 #### ▶️ Adjective Suffixes (صفت‌ساز)
 
@@ -48,6 +49,7 @@
 | **-ic** | شبیه به | hero**ic** |
 | **-ish** | تا حدودی | child**ish** |
 | **-y** | پر از / تا حدودی | cloud**y** |
+| **-th** | اعداد ترتیبی | four**th**, six**th** |
 
 #### ▶️ Verb Suffixes (فعل‌ساز)
 
