@@ -49,7 +49,6 @@
 | **-ic** | شبیه به | hero**ic** |
 | **-ish** | تا حدودی | child**ish** |
 | **-y** | پر از / تا حدودی | cloud**y** |
-| **-th** | اعداد ترتیبی | four**th**, six**th** |
 
 #### ▶️ Verb Suffixes (فعل‌ساز)
 
@@ -68,8 +67,25 @@
 
 ---
 
+### 3. Ordinal Numeral Suffix
+
+| Suffix | Meaning | Example |
+|--------|---------|---------|
+| **-th** | ساخت عدد ترتیبی از عدد اصلی | four → fourth, six → sixth, seven → seventh, ten → tenth |
+
+> Important: **Ordinal numerals are not one single part of speech.**
+> They can be:
+>
+> - **Adjective:** the **fourth** chapter
+> - **Noun:** Today is the **fourth** of May.
+> - **Adverb:** He finished **fourth**.
+>
+> So **-th** is an **ordinal numeral suffix**, not an adjective suffix.
+
+> Note: **first**, **second**, and **third** are irregular/suppletive and do not use **-th**.
+
+---
+
 ### نکات سریع (Quick Tips)
 
-- **Inflectional suffixes** → ۸ عدد، بدون تغییر دستهٔ کلمه (مثلاً صفت می‌ماند صفت).
-- **Derivational suffixes** → می‌توانند دستهٔ کلمه را عوض کنند (مثل slow (صفت) → slowness (اسم)).
 - برای صفت‌های مقایسه‌ای و عالی: یک‌هجایی → -er / -est, دو هجایی با -y → -ier / -iest.
