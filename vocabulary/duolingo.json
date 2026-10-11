@@ -3818,7 +3818,7 @@
               "word": "weird (adjective)",
               "phonetic": "/wɪrd/",
               "mean_fa": "",
-              "mean_en": "strange"
+              "mean_en": "strange or unusual"
             },
             {
               "word": "apron",
@@ -5023,6 +5023,29 @@
               "phonetic": "/stiːp/",
               "mean_fa": "",
               "mean_en": "A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep"
+            }
+          ]
+        },
+        {
+          "heading": "Secrets",
+          "words": [
+            {
+              "word": "secret (noun)",
+              "phonetic": "/ˈsiː.krət/",
+              "mean_fa": "",
+              "mean_en": "something that you do not or must not tell other people: I can't tell you where I'm going _ It's a secret - Can you keep a secret (= not tell other people)? <br> `in secret` without other people knowing: They met in secret"
+            },
+            {
+              "word": "tip jar",
+              "phonetic": "/ˈtɪp dʒɑːr/",
+              "mean_fa": "",
+              "mean_en": "a container where customers put extra money to thank someone for good service <br> <img src='images/tip-jar.jpg' alt='tip-jar' width='200'>"
+            },
+            {
+              "word": "alley (noun)",
+              "phonetic": "/ˈæl.i/",
+              "mean_fa": "",
+              "mean_en": "a narrow road or path between buildings: She walked quickly down the alley"
             }
           ]
         }

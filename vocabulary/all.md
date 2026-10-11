@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2168**
+**Total words: 2171**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (142 words)](#chapter-3-it-starts-with-a-tensor-142-words)
-- [Duolingo - Vocabulary (812 words)](#duolingo---vocabulary-812-words)
-  - [SECTION 1 (812 words)](#section-1-812-words)
+- [Duolingo - Vocabulary (815 words)](#duolingo---vocabulary-815-words)
+  - [SECTION 1 (815 words)](#section-1-815-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -55,6 +55,7 @@
     - [Halloween (22 words)](#halloween-22-words)
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
+    - [Secrets (3 words)](#secrets-3-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1412,9 +1413,9 @@
 
 ---
 
-## Duolingo - Vocabulary (812 words)
+## Duolingo - Vocabulary (815 words)
 
-### SECTION 1 (812 words)
+### SECTION 1 (815 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2076,7 +2077,7 @@
 - `annoy (verb)`  /əˈnɔɪ/ <br> to make somebody a little angry: It really annoys me when my brother leaves his clothes all over the floor - Close the door if the noise is annoying you
 - `vendor`  /ˈvendər/ <br> a person who sells things
 - `miserable (adjective)`  /ˈmɪzrəbl/ <br> very unhappy: She's miserable living on her own
-- `weird (adjective)`  /wɪrd/ <br> strange
+- `weird (adjective)`  /wɪrd/ <br> strange or unusual
 - `apron`  /ˈeɪ.prən/ <br> a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, especially cooking <br> <img src='images/apron.jpg' alt='apron' width='200'>
 - `nervous (adjective)`  /ˈnɜːrvəs/ <br> 1. worried or afraid: I'm quite nervous about starting my new job <br> 2. connected with the nerves in your body: the nervous system
 - `mood (noun)`  /muːd/ <br> the way that you feel at a particular time: Dad is in a bad mood because he's lost his glasses - Our teacher was in a very good mood taday - I'm not in the mood for a party
@@ -2287,6 +2288,11 @@
 - `dusty (adjective)`  /ˈdʌsti/ <br> covered with dust: The furniture was very dusty
 - `oops`  /uːps/ <br> a word you say when something has gone wrong, for example when somebody has fallen over or has dropped something: Oops! Are you ok?
 - `steep (adjective)`  /stiːp/ <br> A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep
+
+#### Secrets (3 words)
+- `secret (noun)`  /ˈsiː.krət/ <br> something that you do not or must not tell other people: I can't tell you where I'm going _ It's a secret - Can you keep a secret (= not tell other people)? <br> `in secret` without other people knowing: They met in secret
+- `tip jar`  /ˈtɪp dʒɑːr/ <br> a container where customers put extra money to thank someone for good service <br> <img src='images/tip-jar.jpg' alt='tip-jar' width='200'>
+- `alley (noun)`  /ˈæl.i/ <br> a narrow road or path between buildings: She walked quickly down the alley
 ---
 
 ---
