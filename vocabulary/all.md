@@ -154,7 +154,7 @@
 - `take a gander`  <br> look at; to have a quick look: Let's take a gander at your new car
 - `bark (noun)`  /bɑːrk/ <br> the hard outer covering of a tree <br> <img src='images/bark.jpg' alt='bark' width='200'>
 - `helmet`  /ˈhel.mət/ <br> a strong, hard hat that covers and protects the head: a bicycle helmet - a war helmet <br> <img src='images/helmet.jpg' alt='helmet' width='200'>
-- `breathe`  /briːð/ <br> to move air or something else into and out of the lungs <br> <img src='images/breathe.jpg' alt='breathe' width='200'>
+- `breathe (verb)`  /briːð/ <br> to move air or something else into and out of the lungs <br> <img src='images/breathe.jpg' alt='breathe' width='200'>
 - `kid (verb)`  /kɪd/ <br> to say something that it not true as a joke: I didn't mean it. I was only kidding - Are you kidding me?
 - `fancy (adjective)`  /ˈfæn.si/ <br> not simple or ordinary; complicated or including a lot of features: I wanted a simple black dress, nothing fancy - a fancy restaurant
 - `grand tour`  /ˌɡrænd ˈtʊr/ <br> a visit to the most important countries and cities of Europe that rich young people made in the past as part of their education
