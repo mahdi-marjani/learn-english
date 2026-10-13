@@ -112,12 +112,15 @@
 It's very typical to give advice with **"If I were you, I would..."**
 
 > **A:** My neck has been killing me lately.
+>
 > **B:** If I were you, I **would see** a doctor.
 
 > **A:** My landlord wants to increase my rent.
+>
 > **B:** If I were you, I **would find** another flat. Yours is already so expensive.
 
 > **A:** My ex-boyfriend invited me to his wedding.
+>
 > **B:** If I were you, I **wouldn't go**.
 
 ### Important rule: "I **were**", not "I was"
@@ -150,11 +153,13 @@ It's very typical to give advice with **"If I were you, I would..."**
 **Excuse** = something we say to tell someone **why** we can't do something.
 
 > **A:** Are you coming to my party tomorrow?
+>
 > **B:** I **would love to, but** tomorrow I am going to London.
 
 *Why can't I go to the party? → I'm going to London. (that's my excuse)*
 
 > **A:** I need someone to drive me to the airport tomorrow. Are you free?
+>
 > **B:** I **would, but** tomorrow I'm working.
 
 *Why can't I drive my friend to the airport? → Because I'm working. (that's my excuse)*
