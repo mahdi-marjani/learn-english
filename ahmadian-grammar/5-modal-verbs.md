@@ -1,5 +1,19 @@
 # 📘 افعال کمکی وجهی (Modal Verbs)
 
+**فهرست (Contents):**
+
+- [ساختار کلی (Structure)](#ساختار-کلی-structure)
+- [1. توانایی (Ability)](#1-توانایی-ability)
+- [2. اجازه (Permission)](#2-اجازه-permission)
+- [3. درخواست (Requests)](#3-درخواست-requests)
+- [4. پیشنهاد کمک (Offers)](#4-پیشنهاد-کمک-offers)
+- [5. پیشنهاد و نصیحت (Suggestions & Advice)](#5-پیشنهاد-و-نصیحت-suggestions--advice)
+- [6. الزام و اجبار (Obligation)](#6-الزام-و-اجبار-obligation)
+- [7. نتیجه‌گیری منطقی (Logical Deductions)](#7-نتیجهگیری-منطقی-logical-deductions)
+- [💡 نکات سریع (Quick Tips)](#-نکات-سریع-quick-tips)
+
+---
+
 ## ساختار کلی (Structure)
 
 `Subject + modal + verb (base form)`

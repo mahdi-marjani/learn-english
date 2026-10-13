@@ -1,5 +1,14 @@
 # 📘 افعال دو یا چند کلمه‌ای (Phrasal Verbs)
 
+**فهرست (Contents):**
+
+- [ساختار (Structure)](#ساختار-structure)
+- [تغییر فعل (Verb Changes)](#تغییر-فعل-verb-changes)
+- [جداشدنی (Separable)](#جداشدنی-separable)
+- [افعال چند کلمه‌ای (3+ کلمه)](#افعال-چند-کلمهای-3-کلمه)
+
+---
+
 ## ساختار (Structure)
 
 `Verb + Preposition/Adverb`  
