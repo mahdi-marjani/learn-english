@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2175**
+**Total words: 2179**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (142 words)](#chapter-3-it-starts-with-a-tensor-142-words)
-- [Duolingo - Vocabulary (819 words)](#duolingo---vocabulary-819-words)
-  - [SECTION 1 (819 words)](#section-1-819-words)
+- [Duolingo - Vocabulary (823 words)](#duolingo---vocabulary-823-words)
+  - [SECTION 1 (823 words)](#section-1-823-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -55,7 +55,7 @@
     - [Halloween (22 words)](#halloween-22-words)
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
-    - [Secrets (7 words)](#secrets-7-words)
+    - [Secrets (11 words)](#secrets-11-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -266,7 +266,7 @@
 - `designations`  <br> اصطلاحات
 - `distinguish`  <br> to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister
 - `trademarks`  <br> علامت‌های تجاری
-- `appear`  <br> ظاهر شدن
+- `appear (verb)`  /əˈpɪr/ <br> 1. to seem: She appears to be very happy at her new school - It appears that I was wrong <br> 2. to suddenly be seen; to come into sight: The sun suddenly appeared from behind a cloud - We waited for an hour but he didn't appear (OPPOSITE: disappear)
 - `aware`  <br> آگاه
 - `caps`  <br> مخفف Capital letters
 - `recognizing`  <br> درک کردن
@@ -1413,9 +1413,9 @@
 
 ---
 
-## Duolingo - Vocabulary (819 words)
+## Duolingo - Vocabulary (823 words)
 
-### SECTION 1 (819 words)
+### SECTION 1 (823 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2289,7 +2289,7 @@
 - `oops`  /uːps/ <br> a word you say when something has gone wrong, for example when somebody has fallen over or has dropped something: Oops! Are you ok?
 - `steep (adjective)`  /stiːp/ <br> A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep
 
-#### Secrets (7 words)
+#### Secrets (11 words)
 - `secret (noun)`  /ˈsiː.krət/ <br> something that you do not or must not tell other people: I can't tell you where I'm going _ It's a secret - Can you keep a secret (= not tell other people)? <br> `in secret` without other people knowing: They met in secret
 - `tip jar`  /ˈtɪp dʒɑːr/ <br> a container where customers put extra money to thank someone for good service <br> <img src='images/tip-jar.jpg' alt='tip-jar' width='200'>
 - `alley (noun)`  /ˈæl.i/ <br> a narrow road or path between buildings: She walked quickly down the alley
@@ -2297,6 +2297,10 @@
 - `put (verb)`  /pʊt/ <br> 1. to move something to a place or position: She put the book on the table - He put his hand in his pocket <br> 2. to write something: Put your name at the top of the page <br> `put something away` to put something back in its usual place: She put the box away in the cupboard <br> `put something down` to stop holding something and put it on another thing, for example on the floor or a table: Let me put my bags down first <br> `put somebody off` to make somebody not like someone or something: The accident put me off driving <br> `put something off` to not do something until later (SAME MEANING: delay): He put off his holiday because the children were ill <br> `put something on` 1. to take clothes and wear them: Put on your coat - Put your shoes on (OPPOSITE: take something off) <br> 2. to make a piece of electrical equipment start to work: I put on the TV - Put the lights on - Shall we put some music on? <br> `put something out` to stop a fire or to stop a light shining: She put out the fire with a bucket of water - Put the lights out before you go <br> `put somebody through` to connect somebody on the telephone to the person they want to speak to: Can you put me through to the manager, please? <br> `put somebody up` to let somebody sleep in your home: Can you put me up for the night? <br> `put up with somebody or something` to have pain or problems without complaining: We can't change the bad weather, so we have to put up with it
 - `yawn (verb)`  /jɑːn/ <br> to open your mouth wide and breathe in deeply because you are tired: I can't stop yawning _ I must be tired
 - `well (adverb)`  /wel/ <br> 1. in a good or right way: You speak English very well - These shoes are very well made (OPPOSITE: badly) <br> 2. completely or very much: I don't know Cathy very well - Shake the bottle well before you open it <br> `as well` also (SAME MEANING: too): 'I'm going out' 'Can I come as well?' <br> `as well as` and also: She has a flat in London as well as a house in Edinburgh <br> `do well` to be successful: He did well in his exams <br> `may or might as well` words that you use to say that you will do something, often because there is nothing else to do: If you've finished your work, you may as well go home <br> `well done` words that you say to somebody who has done something good: 'I got the job!' 'Well done!'
+- `suddenly`  /ˈsʌd.ən.li/ <br> quickly and unexpectedly: He left very suddenly - Suddenly there was a loud noise
+- `past (adjective)`  /pæst/ <br> 1. connected with the time that has gone: We will forget your past mistakes <br> 2. just before now (SAME MEANING: last): He has been ill for the past week
+- `criminal (noun)`  /ˈkrɪmɪnl/ <br> a person who does something that is against the law: is the criminal still free?
+- `terrified (adjective)`  /ˈterɪfaɪd/ <br> very frightened or scared: He is terrified of dogs
 ---
 
 ---

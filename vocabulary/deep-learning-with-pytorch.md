@@ -36,7 +36,7 @@
 - `designations`  <br> اصطلاحات
 - `distinguish`  <br> to see, hear, etc. the difference between two things or people: Some people can't distinguish between me and my twin sister
 - `trademarks`  <br> علامت‌های تجاری
-- `appear`  <br> ظاهر شدن
+- `appear (verb)`  /əˈpɪr/ <br> 1. to seem: She appears to be very happy at her new school - It appears that I was wrong <br> 2. to suddenly be seen; to come into sight: The sun suddenly appeared from behind a cloud - We waited for an hour but he didn't appear (OPPOSITE: disappear)
 - `aware`  <br> آگاه
 - `caps`  <br> مخفف Capital letters
 - `recognizing`  <br> درک کردن
