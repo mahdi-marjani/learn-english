@@ -2,12 +2,12 @@
 
 **Contents:**
 
-1. The grammar basics
-2. Would like / Would you mind
-3. Hypothetical situations in the present/future (+ giving advice)
-4. Hypothetical situations in the past
-5. Giving polite excuses
-6. Past habits
+1. [The grammar basics](#1-the-grammar-basics)
+2. [Would like / Would you mind](#2-would-like--would-you-mind)
+3. [Hypothetical situations in the present/future (+ giving advice)](#3-hypothetical-situations-in-the-present--future)
+4. [Hypothetical situations in the past](#4-hypothetical-situations-in-the-past)
+5. [Giving polite excuses](#5-giving-polite-excuses)
+6. [Past habits](#6-past-habits)
 
 ---
 
