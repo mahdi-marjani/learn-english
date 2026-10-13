@@ -3795,8 +3795,8 @@
               "mean_en": "to produce or provide something, such as a result, profit, or benefit: pytorch provides accelerated computation using graphical processing units (GPUs), often yielding speedup"
             },
             {
-              "word": "speedup",
-              "phonetic": "",
+              "word": "speedup (noun)",
+              "phonetic": "/ˈspiːd.ʌp/",
               "mean_fa": "",
               "mean_en": "an increase in speed"
             },
@@ -6850,6 +6850,24 @@
               "phonetic": "/trend/",
               "mean_fa": "",
               "mean_en": "a general direction in which a situation is changing or developing; a pattern of change over time: There is a growing trend toward working from home - fashion/market trends"
+            },
+            {
+              "word": "agnostic (adjective)",
+              "phonetic": "/æɡˈnɑː.stɪk/",
+              "mean_fa": "",
+              "mean_en": "(computing) not depending on or limited to one specific system, device, or platform: This app is platform-agnostic, so it works on any device"
+            },
+            {
+              "word": "number crunching (noun)",
+              "phonetic": "/ˈnʌmbər krʌntʃɪŋ/",
+              "mean_fa": "",
+              "mean_en": "the process of doing a lot of complicated calculations with numbers, especially using a computer: the heavy number crunching is running"
+            },
+            {
+              "word": "reside (verb)",
+              "phonetic": "/rɪˈzaɪd/",
+              "mean_fa": "",
+              "mean_en": "1. to live in a particular place: The family now resides in southern France <br> 2. (of a thing, quality, or data) to be present or stored in a particular place: all storage for the tensor resides in GPU memory"
             }
           ]
         }

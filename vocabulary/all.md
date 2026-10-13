@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2179**
+**Total words: 2182**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1133 words)](#deep-learning-with-pytorch---vocabulary-1133-words)
+- [Deep Learning with PyTorch - Vocabulary (1136 words)](#deep-learning-with-pytorch---vocabulary-1136-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (668 words)](#part-1-core-pytorch-668-words)
+  - [Part 1: Core PyTorch (671 words)](#part-1-core-pytorch-671-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (142 words)](#chapter-3-it-starts-with-a-tensor-142-words)
+    - [Chapter 3: It starts with a tensor (145 words)](#chapter-3-it-starts-with-a-tensor-145-words)
 - [Duolingo - Vocabulary (823 words)](#duolingo---vocabulary-823-words)
   - [SECTION 1 (823 words)](#section-1-823-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -246,7 +246,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1133 words)
+## Deep Learning with PyTorch - Vocabulary (1136 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -734,7 +734,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (668 words)
+### Part 1: Core PyTorch (671 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -897,7 +897,7 @@
 - `similar`  /ˈsɪ.mɪ.lər/ <br> the same in some ways but not completely the same: Rats are similar to mice, but they are bigger - Jane and her sister look very similar
 - `unit`  /ˈjuː.nɪt/ <br> 1. one complete thing or group that may be part of something larger: The book has twelve units <br> 2. a measurement: A metre is a unit of length and a kilogram is a unit of weight
 - `yield`  /jiːld/ <br> to produce or provide something, such as a result, profit, or benefit: pytorch provides accelerated computation using graphical processing units (GPUs), often yielding speedup
-- `speedup`  <br> an increase in speed
+- `speedup (noun)`  /ˈspiːd.ʌp/ <br> an increase in speed
 - `driver`  /ˈdraɪ.vər/ <br> 1. someone who drives a vehicle <br> 2. a type of golf club used by players to hit the ball long distances from the tee <br> 3. a software that controls the interaction between a computer and another equipment, such as a printer or scanner <br> 4. a golfer who uses a driver club, typically for long-distance shots from the tee <br> 5. someone who drives animals that pull a vehicle <br> 6. a factor, force, or influence that initiates or causes a particular action, process, or change
 - `expressivity`  /ˌekspreˈsɪvəti/ <br> the quality of being able to express ideas effectively and clearly
 - `quality`  /ˈkwɑː.lə.t̬i/ <br> how good or bad something is: The quality of her work is excellent - This furniture isn't very good quality
@@ -1266,7 +1266,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (142 words)
+#### Chapter 3: It starts with a tensor (145 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1409,6 +1409,9 @@
 - `necessitate (verb)`  /nəˈsesɪteɪt/ <br> to make something necessary: The heavy snow necessitated closing the school
 - `growth (noun)`  /ɡroʊθ/ <br> the process of getting bigger: A good diet is important for children's growth
 - `trend (noun)`  /trend/ <br> a general direction in which a situation is changing or developing; a pattern of change over time: There is a growing trend toward working from home - fashion/market trends
+- `agnostic (adjective)`  /æɡˈnɑː.stɪk/ <br> (computing) not depending on or limited to one specific system, device, or platform: This app is platform-agnostic, so it works on any device
+- `number crunching (noun)`  /ˈnʌmbər krʌntʃɪŋ/ <br> the process of doing a lot of complicated calculations with numbers, especially using a computer: the heavy number crunching is running
+- `reside (verb)`  /rɪˈzaɪd/ <br> 1. to live in a particular place: The family now resides in southern France <br> 2. (of a thing, quality, or data) to be present or stored in a particular place: all storage for the tensor resides in GPU memory
 ---
 
 ---
