@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2185**
+**Total words: 2192**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1136 words)](#deep-learning-with-pytorch---vocabulary-1136-words)
+- [Deep Learning with PyTorch - Vocabulary (1143 words)](#deep-learning-with-pytorch---vocabulary-1143-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (671 words)](#part-1-core-pytorch-671-words)
+  - [Part 1: Core PyTorch (678 words)](#part-1-core-pytorch-678-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (145 words)](#chapter-3-it-starts-with-a-tensor-145-words)
+    - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
 - [Duolingo - Vocabulary (826 words)](#duolingo---vocabulary-826-words)
   - [SECTION 1 (826 words)](#section-1-826-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -246,7 +246,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1136 words)
+## Deep Learning with PyTorch - Vocabulary (1143 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -651,8 +651,8 @@
 - `introduction`  /ˌɪn.trəˈdʌk.ʃən/ <br> 1. (no plural) bringing in something new: the introduction of computers into schools <br> 2. (plural introductions) bringing people together to meet each other <br> 3. (plural introductions) a piece of writing at the beginning of a book that tells you about the book
 - `proficiency`  <br> skill, high level of skill or ability
 - `encourage`  /ɪnˈkɜːrɪdʒ/ <br> to give somebody hope or help so that they do something or continue doing something: We encouraged him to write a book about his adventures (OPPOSITE: discourage) <br> <img src='images/encourage.jpg' alt='encourage' width='200'>
-- `build up`  <br> ساختن، ایجاد کردن (به تدریج)
-- `intuitive`  <br> based on feelings rather than facts
+- `build up`  <br> to create or develop something gradually over time
+- `intuitive (adjective)`  /ɪnˈtuːɪtɪv/ <br> based on feelings rather than facts
 - `mental (adjective)`  /ˈmentl/ <br> related to the mind or thinking: I have a clear mental picture of my childhood home
 - `intuition`  <br> the ability to understand something without conscious reasoning
 - `conscious`  <br> aware
@@ -734,7 +734,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (671 words)
+### Part 1: Core PyTorch (678 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1266,7 +1266,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (145 words)
+#### Chapter 3: It starts with a tensor (152 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1412,6 +1412,13 @@
 - `agnostic (adjective)`  /æɡˈnɑː.stɪk/ <br> (computing) not depending on or limited to one specific system, device, or platform: This app is platform-agnostic, so it works on any device
 - `number crunching (noun)`  /ˈnʌmbər krʌntʃɪŋ/ <br> the process of doing a lot of complicated calculations with numbers, especially using a computer: the heavy number crunching is running
 - `reside (verb)`  /rɪˈzaɪd/ <br> 1. to live in a particular place: The family now resides in southern France <br> 2. (of a thing, quality, or data) to be present or stored in a particular place: all storage for the tensor resides in GPU memory
+- `flow (verb)`  /floʊ/ <br> to move in a steady, continuous way in one direction: This river flows into the North Sea
+- `simultaneous (adjective)`  /ˌsaɪ.məlˈteɪ.ni.əs/ <br> happening or being done at exactly the same time: The two events were simultaneous
+- `interoperability (noun)`  /ˌɪntərˌɑːpərəˈbɪləti/ <br> the ability of different systems, software, or devices to work together and share data: Good interoperability lets two apps share files easily
+- `ubiquity (noun)`  /juːˈbɪk.wə.t̬i/ <br> the state of being found everywhere: Because of the ubiquity of smartphones, almost everyone has one
+- `vice versa (adverb)`  /ˌvaɪs ˈvɝː.sə/ <br> used to say that the opposite of what you have just said is also true; the other way around: PyTorch tensors can be converted to NumPy arrays, and vice versa
+- `buffer protocol (noun)`  /ˈbʌfər ˈproʊtəkɔːl/ <br> a mechanism in Python that allows objects to share their internal memory buffers with other objects for direct access
+- `conversely`  /ˈkɑːnvɜːrsli/ <br> in a way that is the opposite of something: You can add the fluid to the powder, or, conversely, the powder to the fluid
 ---
 
 ---

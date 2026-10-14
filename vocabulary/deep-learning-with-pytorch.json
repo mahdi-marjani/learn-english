@@ -2367,12 +2367,12 @@
         {
           "word": "build up",
           "phonetic": "",
-          "mean_fa": "ساختن، ایجاد کردن (به تدریج)",
-          "mean_en": ""
+          "mean_fa": "",
+          "mean_en": "to create or develop something gradually over time"
         },
         {
-          "word": "intuitive",
-          "phonetic": "",
+          "word": "intuitive (adjective)",
+          "phonetic": "/ɪnˈtuːɪtɪv/",
           "mean_fa": "",
           "mean_en": "based on feelings rather than facts"
         },
@@ -6868,6 +6868,47 @@
               "phonetic": "/rɪˈzaɪd/",
               "mean_fa": "",
               "mean_en": "1. to live in a particular place: The family now resides in southern France <br> 2. (of a thing, quality, or data) to be present or stored in a particular place: all storage for the tensor resides in GPU memory"
+            },
+            {
+              "word": "flow (verb)",
+              "phonetic": "/floʊ/",
+              "mean_fa": "",
+              "mean_en": "to move in a steady, continuous way in one direction: This river flows into the North Sea"
+            },
+            {
+              "word": "simultaneous (adjective)",
+              "phonetic": "/ˌsaɪ.məlˈteɪ.ni.əs/",
+              "mean_fa": "",
+              "mean_en": "happening or being done at exactly the same time: The two events were simultaneous"
+            },
+            {
+              "word": "interoperability (noun)",
+              "phonetic": "/ˌɪntərˌɑːpərəˈbɪləti/",
+              "mean_fa": "",
+              "mean_en": "the ability of different systems, software, or devices to work together and share data: Good interoperability lets two apps share files easily"
+            },
+            {
+              "word": "ubiquity (noun)",
+              "phonetic": "/juːˈbɪk.wə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "the state of being found everywhere: Because of the ubiquity of smartphones, almost everyone has one"
+            },
+            {
+              "word": "vice versa (adverb)",
+              "phonetic": "/ˌvaɪs ˈvɝː.sə/",
+              "mean_en": "used to say that the opposite of what you have just said is also true; the other way around: PyTorch tensors can be converted to NumPy arrays, and vice versa"
+            },
+            {
+              "word": "buffer protocol (noun)",
+              "phonetic": "/ˈbʌfər ˈproʊtəkɔːl/",
+              "mean_fa": "",
+              "mean_en": "a mechanism in Python that allows objects to share their internal memory buffers with other objects for direct access"
+            },
+            {
+              "word": "conversely",
+              "phonetic": "/ˈkɑːnvɜːrsli/",
+              "mean_fa": "",
+              "mean_en": "in a way that is the opposite of something: You can add the fluid to the powder, or, conversely, the powder to the fluid"
             }
           ]
         }
