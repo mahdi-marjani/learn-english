@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 823**
+**Total words: 826**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (823 words)](#section-1-823-words)
+- [SECTION 1 (826 words)](#section-1-826-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -35,11 +35,11 @@
   - [Halloween (22 words)](#halloween-22-words)
   - [Marriage (17 words)](#marriage-17-words)
   - [Hiking (34 words)](#hiking-34-words)
-  - [Secrets (11 words)](#secrets-11-words)
+  - [Secrets (14 words)](#secrets-14-words)
 
 ---
 
-## SECTION 1 (823 words)
+## SECTION 1 (826 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -913,7 +913,7 @@
 - `oops`  /uːps/ <br> a word you say when something has gone wrong, for example when somebody has fallen over or has dropped something: Oops! Are you ok?
 - `steep (adjective)`  /stiːp/ <br> A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep
 
-### Secrets (11 words)
+### Secrets (14 words)
 - `secret (noun)`  /ˈsiː.krət/ <br> something that you do not or must not tell other people: I can't tell you where I'm going _ It's a secret - Can you keep a secret (= not tell other people)? <br> `in secret` without other people knowing: They met in secret
 - `tip jar`  /ˈtɪp dʒɑːr/ <br> a container where customers put extra money to thank someone for good service <br> <img src='images/tip-jar.jpg' alt='tip-jar' width='200'>
 - `alley (noun)`  /ˈæl.i/ <br> a narrow road or path between buildings: She walked quickly down the alley
@@ -925,4 +925,7 @@
 - `past (adjective)`  /pæst/ <br> 1. connected with the time that has gone: We will forget your past mistakes <br> 2. just before now (SAME MEANING: last): He has been ill for the past week
 - `criminal (noun)`  /ˈkrɪmɪnl/ <br> a person who does something that is against the law: is the criminal still free?
 - `terrified (adjective)`  /ˈterɪfaɪd/ <br> very frightened or scared: He is terrified of dogs
+- `oversized (adjective)`  /ˈoʊ·vərˌsɑɪzd/ <br> bigger than the usual size
+- `manual (noun)`  /ˈmæn.ju.əl/ <br> a book that tells you how to do something: Where is the instruction manual for the DVD player?
+- `tale (noun)`  /teɪl/ <br> a story, especially one that might be invented or difficult to believe: She told me/invented/concocted a tale about missing the bus to explain her lateness
 ---
