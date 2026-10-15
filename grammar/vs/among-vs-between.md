@@ -6,7 +6,7 @@ We use `among` when we are talking about more than two people or things
 **Examples:**  
 You're among friends here
 
-## 1. Between
+## 2. Between
 If there are only two people or things, we use `between`
 
 **Examples:**  
