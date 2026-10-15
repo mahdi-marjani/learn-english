@@ -3478,7 +3478,7 @@
               "word": "break (verb)",
               "phonetic": "/breɪk/",
               "mean_fa": "",
-              "mean_en": "1. to make something go into smaller pieces, for example by dropping it or hitting it: He broke the window - She has broken her arm <br> 2. to go into smaller pieces, for example by falling or hitting: I dropped the cup and it broke <br> 3. to stop working; to damage a machine so that it stops working: You've broken my watch <br> 4. to do something that is against the law or against what has been agreed or promised: People who break the law must be punished - I never break my promises <br> `break down` 1. If a machine or car breaks down, it stops working: We were late because our car broke down <br> 2. If a person breaks down, they start to cry: He broke down when he heard the news <br> `break in; break into something` to go into a place by breaking a door or window so that you can steal something: Thieves broke into the house. They broke in through a window <br> `break off` to take away a piece of something by breaking it: He broke off a piece of chocolate for me <br> `break out` 1. to start suddenly: A fire broke out last night <br> 2. to get free from a place like a prison: Four prisoners broke out of the jail last night <br> `break up` (British) to start the school holidays: We break up at the end of July <br> `break up with somebody` to end a relationship with somebody: Susy broke up with her boyfriend last week"
+              "mean_en": "1. to make something go into smaller pieces, for example by dropping it or hitting it: He broke the window - She has broken her arm <br> 2. to go into smaller pieces, for example by falling or hitting: I dropped the cup and it broke <br> 3. to stop working; to damage a machine so that it stops working: You've broken my watch <br> 4. to do something that is against the law or against what has been agreed or promised: People who break the law must be punished - I never break my promises <br> `break down` 1. If a machine or car breaks down, it stops working: We were late because our car broke down <br> 2. If a person breaks down, they start to cry: He broke down when he heard the news <br> `break in` to go into a place by breaking a door or window so that you can steal something: They broke in through a window <br> `break into something` 1. to go into a place by breaking a door or window so that you can steal something: Thieves broke into the house <br> 2. to suddenly begin to do something: He was so happy that he broke into song - He broke into a run and we couldn't catch him <br> `break off` to take away a piece of something by breaking it: He broke off a piece of chocolate for me <br> `break out` 1. to start suddenly: A fire broke out last night <br> 2. to get free from a place like a prison: Four prisoners broke out of the jail last night <br> `break up` (British) to start the school holidays: We break up at the end of July <br> `break up with somebody` to end a relationship with somebody: Susy broke up with her boyfriend last week"
             },
             {
               "word": "upset (adjective)",
@@ -5112,6 +5112,24 @@
               "phonetic": "/teɪl/",
               "mean_fa": "",
               "mean_en": "a story, especially one that might be invented or difficult to believe: She told me/invented/concocted a tale about missing the bus to explain her lateness"
+            },
+            {
+              "word": "scream (verb)",
+              "phonetic": "/skriːm/",
+              "mean_fa": "",
+              "mean_en": "to make a loud high cry that shows you are afraid or hurt: She saw the snake and screamed - He screamed for help"
+            },
+            {
+              "word": "lock (verb)",
+              "phonetic": "/lɑːk/",
+              "mean_fa": "",
+              "mean_en": "to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave"
+            },
+            {
+              "word": "panic (verb)",
+              "phonetic": "/ˈpænɪk/",
+              "mean_fa": "",
+              "mean_en": "to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine"
             }
           ]
         }

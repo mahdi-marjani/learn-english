@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2192**
+**Total words: 2195**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (826 words)](#duolingo---vocabulary-826-words)
-  - [SECTION 1 (826 words)](#section-1-826-words)
+- [Duolingo - Vocabulary (829 words)](#duolingo---vocabulary-829-words)
+  - [SECTION 1 (829 words)](#section-1-829-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -55,7 +55,7 @@
     - [Halloween (22 words)](#halloween-22-words)
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
-    - [Secrets (14 words)](#secrets-14-words)
+    - [Secrets (17 words)](#secrets-17-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1423,9 +1423,9 @@
 
 ---
 
-## Duolingo - Vocabulary (826 words)
+## Duolingo - Vocabulary (829 words)
 
-### SECTION 1 (826 words)
+### SECTION 1 (829 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2028,7 +2028,7 @@
 - `tear 2 (noun)`  /tɪr/ <br> a drop of water that comes from your eye when you cry: I was in tears (= crying) at the end of the film - She read the letter and burst into tears (= suddenly started to cry)
 - `nightclub`  /ˈnaɪt.klʌb/ <br> a place where you can go late in the evening to drink and dance (SAME MEANING: club)
 - `social`  /ˈsoʊ.ʃəl/ <br> connected with people together in society; connected with being with other people: the social problems of big cities - Anne has a busy social life (= she goes out with friends a lot)
-- `break (verb)`  /breɪk/ <br> 1. to make something go into smaller pieces, for example by dropping it or hitting it: He broke the window - She has broken her arm <br> 2. to go into smaller pieces, for example by falling or hitting: I dropped the cup and it broke <br> 3. to stop working; to damage a machine so that it stops working: You've broken my watch <br> 4. to do something that is against the law or against what has been agreed or promised: People who break the law must be punished - I never break my promises <br> `break down` 1. If a machine or car breaks down, it stops working: We were late because our car broke down <br> 2. If a person breaks down, they start to cry: He broke down when he heard the news <br> `break in; break into something` to go into a place by breaking a door or window so that you can steal something: Thieves broke into the house. They broke in through a window <br> `break off` to take away a piece of something by breaking it: He broke off a piece of chocolate for me <br> `break out` 1. to start suddenly: A fire broke out last night <br> 2. to get free from a place like a prison: Four prisoners broke out of the jail last night <br> `break up` (British) to start the school holidays: We break up at the end of July <br> `break up with somebody` to end a relationship with somebody: Susy broke up with her boyfriend last week
+- `break (verb)`  /breɪk/ <br> 1. to make something go into smaller pieces, for example by dropping it or hitting it: He broke the window - She has broken her arm <br> 2. to go into smaller pieces, for example by falling or hitting: I dropped the cup and it broke <br> 3. to stop working; to damage a machine so that it stops working: You've broken my watch <br> 4. to do something that is against the law or against what has been agreed or promised: People who break the law must be punished - I never break my promises <br> `break down` 1. If a machine or car breaks down, it stops working: We were late because our car broke down <br> 2. If a person breaks down, they start to cry: He broke down when he heard the news <br> `break in` to go into a place by breaking a door or window so that you can steal something: They broke in through a window <br> `break into something` 1. to go into a place by breaking a door or window so that you can steal something: Thieves broke into the house <br> 2. to suddenly begin to do something: He was so happy that he broke into song - He broke into a run and we couldn't catch him <br> `break off` to take away a piece of something by breaking it: He broke off a piece of chocolate for me <br> `break out` 1. to start suddenly: A fire broke out last night <br> 2. to get free from a place like a prison: Four prisoners broke out of the jail last night <br> `break up` (British) to start the school holidays: We break up at the end of July <br> `break up with somebody` to end a relationship with somebody: Susy broke up with her boyfriend last week
 - `upset (adjective)`  /ʌpˈset/ <br> 1. unhappy or worried: The children were very upset when their dog died <br> 2. ill: I've got an upset stomach
 - `nap`  /næp/ <br> a short sleep
 - `point (noun)`  /pɔɪnt/ <br> 1. a fact, an idea or an opinion: You made some interesting points (= said some interesting things) in your essay <br> 2. the purpose of, or the reason for, doing something: The point of going to school is to learn - What's the point of going to her house? She's not at home - There's no point in waiting for Julie _ she isn't coming <br> 3. a particular moment in time: It started to rain and at that point we decided to go home <br> 4. a particular place: No parking beyond this point <br> 5. a small round mark (.) that we use when writing part of a number (called a decimal): 2.5 (= two point five) <br> 6. the sharp end of something: the point of a needle <br> 7. a mark that you win in a game or sport: Our team scored six points <br> `be on the point of doing something` If you are on the point of doing something, you are going to do it very soon: I was on the point of leaving when he turned up
@@ -2299,7 +2299,7 @@
 - `oops`  /uːps/ <br> a word you say when something has gone wrong, for example when somebody has fallen over or has dropped something: Oops! Are you ok?
 - `steep (adjective)`  /stiːp/ <br> A steep hill, mountain or road goes up quickly from a low place to a high place: I can't cycle up the hill _ it's too steep
 
-#### Secrets (14 words)
+#### Secrets (17 words)
 - `secret (noun)`  /ˈsiː.krət/ <br> something that you do not or must not tell other people: I can't tell you where I'm going _ It's a secret - Can you keep a secret (= not tell other people)? <br> `in secret` without other people knowing: They met in secret
 - `tip jar`  /ˈtɪp dʒɑːr/ <br> a container where customers put extra money to thank someone for good service <br> <img src='images/tip-jar.jpg' alt='tip-jar' width='200'>
 - `alley (noun)`  /ˈæl.i/ <br> a narrow road or path between buildings: She walked quickly down the alley
@@ -2314,6 +2314,9 @@
 - `oversized (adjective)`  /ˈoʊ·vərˌsɑɪzd/ <br> bigger than the usual size
 - `manual (noun)`  /ˈmæn.ju.əl/ <br> a book that tells you how to do something: Where is the instruction manual for the DVD player?
 - `tale (noun)`  /teɪl/ <br> a story, especially one that might be invented or difficult to believe: She told me/invented/concocted a tale about missing the bus to explain her lateness
+- `scream (verb)`  /skriːm/ <br> to make a loud high cry that shows you are afraid or hurt: She saw the snake and screamed - He screamed for help
+- `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
+- `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 ---
 
 ---
