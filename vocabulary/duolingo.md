@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 829**
+**Total words: 831**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (829 words)](#section-1-829-words)
+- [SECTION 1 (831 words)](#section-1-831-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -36,10 +36,11 @@
   - [Marriage (17 words)](#marriage-17-words)
   - [Hiking (34 words)](#hiking-34-words)
   - [Secrets (17 words)](#secrets-17-words)
+  - [Doctor (2 words)](#doctor-2-words)
 
 ---
 
-## SECTION 1 (829 words)
+## SECTION 1 (831 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -931,4 +932,8 @@
 - `scream (verb)`  /skriːm/ <br> to make a loud high cry that shows you are afraid or hurt: She saw the snake and screamed - He screamed for help
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
+
+### Doctor (2 words)
+- `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
+- `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
 ---
