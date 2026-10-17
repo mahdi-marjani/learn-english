@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 831**
+**Total words: 835**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (831 words)](#section-1-831-words)
+- [SECTION 1 (835 words)](#section-1-835-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -36,11 +36,11 @@
   - [Marriage (17 words)](#marriage-17-words)
   - [Hiking (34 words)](#hiking-34-words)
   - [Secrets (17 words)](#secrets-17-words)
-  - [Doctor (2 words)](#doctor-2-words)
+  - [Doctor (6 words)](#doctor-6-words)
 
 ---
 
-## SECTION 1 (831 words)
+## SECTION 1 (835 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -832,7 +832,7 @@
 - `bitter (adjective)`  /ˈbɪtər/ <br> (of food, etc.) having a strong, unpleasant taste; not sweet: Black coffee leaves a bitter taste in the mouth
 - `palate (noun)`  /ˈpæl.ət/ <br> 1. the top part of the inside of the mouth <br> <img src='images/palate.jpg' alt='palate' width='200'> <br> 2. the ability to recognize and/or enjoy good food and drink; sense of taste
 - `challenging (adjective)`  /ˈtʃæl.ɪn.dʒɪŋ/ <br> difficult: This has been a challenging time for us all
-- `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
+- `quit (verb)`  /kwɪt/ <br> 1. to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now <br> 2. to stop doing something: I've quit smoking
 - `marker (noun)`  /ˈmɑːrkər/ <br> a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>
 
 ### Halloween (22 words)
@@ -933,7 +933,11 @@
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 
-### Doctor (2 words)
+### Doctor (6 words)
 - `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
 - `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
+- `bone (noun)`  /boʊn/ <br> one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>
+- `bandage (noun)`  /ˈbæn.dɪdʒ/ <br> a long piece of white cloth that you tie around a part of the body that is hurt <br> <img src='images/bandage.jpg' alt='bandage' width='200'>
+- `medical (adjective)`  /ˈmed.ɪ.kəl/ <br> connected with medicine, hospitals or doctors: a medical student - medical treatment
+- `scrape (noun)`  /skreɪp/ <br> 1. the action or unpleasant sound of one thing rubbing roughly against another: the scrape of chairs being moved <br> 2. an injury or a mark caused by rubbing against something rough
 ---

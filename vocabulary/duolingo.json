@@ -4563,7 +4563,7 @@
               "word": "quit (verb)",
               "phonetic": "/kwɪt/",
               "mean_fa": "",
-              "mean_en": "to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now"
+              "mean_en": "1. to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now <br> 2. to stop doing something: I've quit smoking"
             },
             {
               "word": "marker (noun)",
@@ -5147,6 +5147,30 @@
               "phonetic": "/hæm/",
               "mean_fa": "",
               "mean_en": "meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it"
+            },
+            {
+              "word": "bone (noun)",
+              "phonetic": "/boʊn/",
+              "mean_fa": "",
+              "mean_en": "one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>"
+            },
+            {
+              "word": "bandage (noun)",
+              "phonetic": "/ˈbæn.dɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "a long piece of white cloth that you tie around a part of the body that is hurt <br> <img src='images/bandage.jpg' alt='bandage' width='200'>"
+            },
+            {
+              "word": "medical (adjective)",
+              "phonetic": "/ˈmed.ɪ.kəl/",
+              "mean_fa": "",
+              "mean_en": "connected with medicine, hospitals or doctors: a medical student - medical treatment"
+            },
+            {
+              "word": "scrape (noun)",
+              "phonetic": "/skreɪp/",
+              "mean_fa": "",
+              "mean_en": "1. the action or unpleasant sound of one thing rubbing roughly against another: the scrape of chairs being moved <br> 2. an injury or a mark caused by rubbing against something rough"
             }
           ]
         }

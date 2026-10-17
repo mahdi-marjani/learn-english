@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2197**
+**Total words: 2201**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (831 words)](#duolingo---vocabulary-831-words)
-  - [SECTION 1 (831 words)](#section-1-831-words)
+- [Duolingo - Vocabulary (835 words)](#duolingo---vocabulary-835-words)
+  - [SECTION 1 (835 words)](#section-1-835-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -56,7 +56,7 @@
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
     - [Secrets (17 words)](#secrets-17-words)
-    - [Doctor (2 words)](#doctor-2-words)
+    - [Doctor (6 words)](#doctor-6-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -106,7 +106,7 @@
 - `cube`  /kjuːb/ <br> 1. a shape like a box with six square sides all the same size <br> 2. the number that you get if you multiply a number by itself twice: The cube of 5 (= 5³) is 125 (= 5 * 5 * 5)
 - `hurry (verb)`  /ˈhʌri/ <br> to move or do something quickly: We hurried home after school <br> `hurry up` to move or do something more quickly because there is not much time: Hurry up or we'll be late!
 - `to come aboard`  /tuː kʌm əˈbɔːrd/ <br> to get on a ship, plane, train, or other vehicle: We need to come aboard before the ship leaves
-- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180 <br> `get along` If two or more people get along, they like each other and are friendly to each other: I don't really get along with my sister's husband
+- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180 <br> `get along` If two or more people get along, they like each other and are friendly to each other: I don't really get along with my sister's husband <br> `get worse` to become more ill or less good (OPPOSITE: get better, get well): The weather got worse in the afternoon - If your cough gets worse, see a doctor
 - `train (verb)`  /treɪn/ <br> 1. to teach a person or an animal to do something: He was trained as a pilot <br> 2. to make yourself ready for something by studying or doing something a lot: Ann is training to be a doctor - She's training for the Olympics
 - `crew`  /kruː/ <br> all the people who work on a ship or a plane
 - `lad`  /læd/ <br> a boy or young man
@@ -1424,9 +1424,9 @@
 
 ---
 
-## Duolingo - Vocabulary (831 words)
+## Duolingo - Vocabulary (835 words)
 
-### SECTION 1 (831 words)
+### SECTION 1 (835 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2218,7 +2218,7 @@
 - `bitter (adjective)`  /ˈbɪtər/ <br> (of food, etc.) having a strong, unpleasant taste; not sweet: Black coffee leaves a bitter taste in the mouth
 - `palate (noun)`  /ˈpæl.ət/ <br> 1. the top part of the inside of the mouth <br> <img src='images/palate.jpg' alt='palate' width='200'> <br> 2. the ability to recognize and/or enjoy good food and drink; sense of taste
 - `challenging (adjective)`  /ˈtʃæl.ɪn.dʒɪŋ/ <br> difficult: This has been a challenging time for us all
-- `quit (verb)`  /kwɪt/ <br> to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now
+- `quit (verb)`  /kwɪt/ <br> 1. to leave a job or place; to stop doing something: She quit as coach - We've nearly finished _ we're not going to quit now <br> 2. to stop doing something: I've quit smoking
 - `marker (noun)`  /ˈmɑːrkər/ <br> a pen with a thick writing point for writing or drawing <br> <img src='images/marker.jpg' alt='marker' width='200'>
 
 #### Halloween (22 words)
@@ -2319,9 +2319,13 @@
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 
-#### Doctor (2 words)
+#### Doctor (6 words)
 - `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
 - `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
+- `bone (noun)`  /boʊn/ <br> one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>
+- `bandage (noun)`  /ˈbæn.dɪdʒ/ <br> a long piece of white cloth that you tie around a part of the body that is hurt <br> <img src='images/bandage.jpg' alt='bandage' width='200'>
+- `medical (adjective)`  /ˈmed.ɪ.kəl/ <br> connected with medicine, hospitals or doctors: a medical student - medical treatment
+- `scrape (noun)`  /skreɪp/ <br> 1. the action or unpleasant sound of one thing rubbing roughly against another: the scrape of chairs being moved <br> 2. an injury or a mark caused by rubbing against something rough
 ---
 
 ---
