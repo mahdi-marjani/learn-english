@@ -2047,10 +2047,10 @@
           "mean_en": "identification of disease"
         },
         {
-          "word": "disease",
-          "phonetic": "",
-          "mean_fa": "بیماری",
-          "mean_en": ""
+          "word": "disease (noun)",
+          "phonetic": "/dɪˈziːz/",
+          "mean_fa": "",
+          "mean_en": "an illness, especially one that you can catch from another person: Malaria and measles are diseases"
         },
         {
           "word": "patient (noun)",

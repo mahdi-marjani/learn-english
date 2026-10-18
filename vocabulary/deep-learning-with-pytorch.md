@@ -368,7 +368,7 @@
 - `nodule`  <br> توده کوچک در ریه
 - `entire`  <br> all of something; whole
 - `diagnosis`  <br> identification of disease
-- `disease`  <br> بیماری
+- `disease (noun)`  /dɪˈziːz/ <br> an illness, especially one that you can catch from another person: Malaria and measles are diseases
 - `patient (noun)`  /ˈpeɪ.ʃənt/ <br> a person who is receiving medical treatment; a sick person that a doctor is looking after
 - `patient (adjective)`  /ˈpeɪ.ʃənt/ <br> able to stay calm and not get angry when you are waiting for something or when you have problems: Just sit there and be patient. Your mum will be here soon (OPPOSITE: impatient)
 - `treatment`  <br> درمان

@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2201**
+**Total words: 2210**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (835 words)](#duolingo---vocabulary-835-words)
-  - [SECTION 1 (835 words)](#section-1-835-words)
+- [Duolingo - Vocabulary (844 words)](#duolingo---vocabulary-844-words)
+  - [SECTION 1 (844 words)](#section-1-844-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -56,7 +56,7 @@
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
     - [Secrets (17 words)](#secrets-17-words)
-    - [Doctor (6 words)](#doctor-6-words)
+    - [Doctor (15 words)](#doctor-15-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -599,7 +599,7 @@
 - `nodule`  <br> توده کوچک در ریه
 - `entire`  <br> all of something; whole
 - `diagnosis`  <br> identification of disease
-- `disease`  <br> بیماری
+- `disease (noun)`  /dɪˈziːz/ <br> an illness, especially one that you can catch from another person: Malaria and measles are diseases
 - `patient (noun)`  /ˈpeɪ.ʃənt/ <br> a person who is receiving medical treatment; a sick person that a doctor is looking after
 - `patient (adjective)`  /ˈpeɪ.ʃənt/ <br> able to stay calm and not get angry when you are waiting for something or when you have problems: Just sit there and be patient. Your mum will be here soon (OPPOSITE: impatient)
 - `treatment`  <br> درمان
@@ -1424,9 +1424,9 @@
 
 ---
 
-## Duolingo - Vocabulary (835 words)
+## Duolingo - Vocabulary (844 words)
 
-### SECTION 1 (835 words)
+### SECTION 1 (844 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2319,13 +2319,22 @@
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 
-#### Doctor (6 words)
+#### Doctor (15 words)
 - `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
 - `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
 - `bone (noun)`  /boʊn/ <br> one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>
 - `bandage (noun)`  /ˈbæn.dɪdʒ/ <br> a long piece of white cloth that you tie around a part of the body that is hurt <br> <img src='images/bandage.jpg' alt='bandage' width='200'>
 - `medical (adjective)`  /ˈmed.ɪ.kəl/ <br> connected with medicine, hospitals or doctors: a medical student - medical treatment
 - `scrape (noun)`  /skreɪp/ <br> 1. the action or unpleasant sound of one thing rubbing roughly against another: the scrape of chairs being moved <br> 2. an injury or a mark caused by rubbing against something rough
+- `advise (verb)`  /ədˈvaɪz/ <br> to tell somebody what you think they should do: The doctor advised him to lose weight
+- `advice (noun)`  /ədˈvaɪs/ <br> words that you say to help somebody decide what to do: The book gives some good advice on travelling abroad - I took the doctor's advice (= I did what the doctor told me to do) and stayed in bed
+- `drug (noun)`  /drʌɡ/ <br> 1. an illegal chemical substance that people take because it makes them feel happy or excited: He doesn't smoke or take drugs - Her daughter is on drugs (= regularly using illegal drugs) - Heroin is a dangerous drug <br> 2. a chemical substance used as a medicine, that you take when you are ill to make you better: drug companies - Some drugs can only be obtained with a prescription from a doctor
+- `barely (adverb)`  /ˈberli/ <br> almost not; only just (SAME MEANING: hardly): She barely ate anything
+- `high-end (adjective)`  /ˌhaɪ ˈend/ <br> expensive and of high quality
+- `herbal (adjective)`  /ˈɜːrbl/ <br> relating to or made from herbs/plants: herbal medicine - herbal tea
+- `gorgeous (adjective)`  /ˈɡɔːr.dʒəs/ <br> very beautiful or attractive (SAME MEANING: lovely): The weather was gorgeous - What a gorgeous dress
+- `ache (noun)`  /eɪk/ <br> a continuous feeling of pain in a part of the body: If you eat all those sweets, you'll get stomach ache - She's got earache - headache
+- `ill (adjective)`  /ɪl/ <br> not well; not in good health: Mark is in bed because he is ill - I feel too ill to go to work - Josie was taken ill (= became ill) on holiday (The noun is `illness`)
 ---
 
 ---
