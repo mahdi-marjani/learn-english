@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 844**
+**Total words: 847**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (844 words)](#section-1-844-words)
+- [SECTION 1 (847 words)](#section-1-847-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -36,11 +36,11 @@
   - [Marriage (17 words)](#marriage-17-words)
   - [Hiking (34 words)](#hiking-34-words)
   - [Secrets (17 words)](#secrets-17-words)
-  - [Doctor (15 words)](#doctor-15-words)
+  - [Doctor (18 words)](#doctor-18-words)
 
 ---
 
-## SECTION 1 (844 words)
+## SECTION 1 (847 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -933,7 +933,7 @@
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 
-### Doctor (15 words)
+### Doctor (18 words)
 - `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
 - `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
 - `bone (noun)`  /boʊn/ <br> one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>
@@ -949,4 +949,7 @@
 - `gorgeous (adjective)`  /ˈɡɔːr.dʒəs/ <br> very beautiful or attractive (SAME MEANING: lovely): The weather was gorgeous - What a gorgeous dress
 - `ache (noun)`  /eɪk/ <br> a continuous feeling of pain in a part of the body: If you eat all those sweets, you'll get stomach ache - She's got earache - headache
 - `ill (adjective)`  /ɪl/ <br> not well; not in good health: Mark is in bed because he is ill - I feel too ill to go to work - Josie was taken ill (= became ill) on holiday (The noun is `illness`)
+- `pill (noun)`  /pɪl/ <br> a small round hard piece of medicine that you swallow (SAME MEANING: tablet): Take one of these pills before every meal <br> <img src='images/pill.jpg' alt='pill' width='200'>
+- `drugstore (noun)`  /ˈdrʌɡ.stɔːr/ <br> a shop in the US where you can buy medicines and a lot of other things
+- `postpone (verb)`  /poʊstˈpoʊn/ <br> to delay an event and plan or decide that it should happen at a later date or time: The match was postponed because of the weather
 ---
