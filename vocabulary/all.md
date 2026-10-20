@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2213**
+**Total words: 2218**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (847 words)](#duolingo---vocabulary-847-words)
-  - [SECTION 1 (847 words)](#section-1-847-words)
+- [Duolingo - Vocabulary (852 words)](#duolingo---vocabulary-852-words)
+  - [SECTION 1 (852 words)](#section-1-852-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -56,7 +56,7 @@
     - [Marriage (17 words)](#marriage-17-words)
     - [Hiking (34 words)](#hiking-34-words)
     - [Secrets (17 words)](#secrets-17-words)
-    - [Doctor (18 words)](#doctor-18-words)
+    - [Doctor (23 words)](#doctor-23-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1424,9 +1424,9 @@
 
 ---
 
-## Duolingo - Vocabulary (847 words)
+## Duolingo - Vocabulary (852 words)
 
-### SECTION 1 (847 words)
+### SECTION 1 (852 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2319,7 +2319,7 @@
 - `lock (verb)`  /lɑːk/ <br> to close something with a key: Don't forget to lock the door when you leave (OPPOSITE: unlock) <br> `lock something away` to put something in a place that you close with a key: The paintings are locked away at night <br> `lock somebody in` to lock a door so that somebody cannot get out: The prisoners are locked in <br> `lock somebody out` to lock a door so that somebody cannot get in <br> `lock up` to lock all the doors and windows of a building: Make sure you lock up before you leave
 - `panic (verb)`  /ˈpænɪk/ <br> to suddenly feel so worried or frightened that you cannot think or behave calmly or reasonably: Don't panic! Everything will be okay - I panicked when I saw smoke coming out of the engine
 
-#### Doctor (18 words)
+#### Doctor (23 words)
 - `painful (adjective)`  /ˈpeɪn.fəl/ <br> giving pain: I've cut my leg _ it's very painful (OPPOSITE: painless)
 - `ham (noun)`  /hæm/ <br> meat from a pig's leg that you can keep for a long time because salt or smokewas used to prepare it
 - `bone (noun)`  /boʊn/ <br> one of the hard white parts inside the body of a person or an animal: She broke a bone in her foot - This fish has a lot of bones in it <br> <img src='images/bone.jpg' alt='bone' width='200'>
@@ -2338,6 +2338,11 @@
 - `pill (noun)`  /pɪl/ <br> a small round hard piece of medicine that you swallow (SAME MEANING: tablet): Take one of these pills before every meal <br> <img src='images/pill.jpg' alt='pill' width='200'>
 - `drugstore (noun)`  /ˈdrʌɡ.stɔːr/ <br> a shop in the US where you can buy medicines and a lot of other things
 - `postpone (verb)`  /poʊstˈpoʊn/ <br> to delay an event and plan or decide that it should happen at a later date or time: The match was postponed because of the weather
+- `sleepy (adjective)`  /ˈsliː.pi/ <br> tired and wanting to sleep
+- `bless (verb)`  /bles/ <br> to ask for God's help for somebody or something: God bless you
+- `deny (verb)`  /dɪˈnaɪ/ <br> to say that something is not true: He denied that he had stolen the car - They denied breaking the window (OPPOSITE: admit)
+- `pharmacist (noun)`  /ˈfɑːr.mə.sɪst/ <br> a person who prepares medicine
+- `nonstop (adjective, adverb)`  /ˌnɒnˈstɒp/ <br> without stopping
 ---
 
 ---
