@@ -5275,6 +5275,23 @@
               "mean_en": "without stopping"
             }
           ]
+        },
+        {
+          "heading": "Studies",
+          "words": [
+            {
+              "word": "plenty (pronoun)",
+              "phonetic": "/ˈplenti/",
+              "mean_fa": "",
+              "mean_en": "as much or as many as you need; a lot: 'Do we need more chairs?' 'No, there are plenty' - We've got plenty of time to get there"
+            },
+            {
+              "word": "average (adjective)",
+              "phonetic": "/ˈævərɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "1. calculated by adding several amounts together, finding a total, and dividing the total by the number of amounts: The average age of the students is 19 <br> 2. normal or usual: The average student gets around 5 hours of homework a week"
+            }
+          ]
         }
       ]
     }

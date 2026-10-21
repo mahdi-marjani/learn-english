@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 852**
+**Total words: 854**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (852 words)](#section-1-852-words)
+- [SECTION 1 (854 words)](#section-1-854-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -37,10 +37,11 @@
   - [Hiking (34 words)](#hiking-34-words)
   - [Secrets (17 words)](#secrets-17-words)
   - [Doctor (23 words)](#doctor-23-words)
+  - [Studies (2 words)](#studies-2-words)
 
 ---
 
-## SECTION 1 (852 words)
+## SECTION 1 (854 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -957,4 +958,8 @@
 - `deny (verb)`  /dɪˈnaɪ/ <br> to say that something is not true: He denied that he had stolen the car - They denied breaking the window (OPPOSITE: admit)
 - `pharmacist (noun)`  /ˈfɑːr.mə.sɪst/ <br> a person who prepares medicine
 - `nonstop (adjective, adverb)`  /ˌnɒnˈstɒp/ <br> without stopping
+
+### Studies (2 words)
+- `plenty (pronoun)`  /ˈplenti/ <br> as much or as many as you need; a lot: 'Do we need more chairs?' 'No, there are plenty' - We've got plenty of time to get there
+- `average (adjective)`  /ˈævərɪdʒ/ <br> 1. calculated by adding several amounts together, finding a total, and dividing the total by the number of amounts: The average age of the students is 19 <br> 2. normal or usual: The average student gets around 5 hours of homework a week
 ---
