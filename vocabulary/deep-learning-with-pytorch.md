@@ -214,7 +214,7 @@
 - `indebted`  <br> مدیون
 - `grew`  <br> past of grow
 - `organically`  <br> به‌صورت طبیعی
-- `internship`  <br> دوره کارآموزی
+- `internship`  /ˈɪntɜːrnʃɪp/ <br> when a student works for a company or organization to get experience; a job that begins a career
 - `mention (verb)`  /ˈmen.ʃən/ <br> to speak or write about something without giving much information: Liz mentioned that she was going to buy a new car - He didn't mention Anna in his letter
 - `addition`  <br> افزودن
 - `excellence`  <br> عالی بودن

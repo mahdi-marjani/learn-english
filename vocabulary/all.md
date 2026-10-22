@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2220**
+**Total words: 2224**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (854 words)](#duolingo---vocabulary-854-words)
-  - [SECTION 1 (854 words)](#section-1-854-words)
+- [Duolingo - Vocabulary (858 words)](#duolingo---vocabulary-858-words)
+  - [SECTION 1 (858 words)](#section-1-858-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -57,7 +57,7 @@
     - [Hiking (34 words)](#hiking-34-words)
     - [Secrets (17 words)](#secrets-17-words)
     - [Doctor (23 words)](#doctor-23-words)
-    - [Studies (2 words)](#studies-2-words)
+    - [Studies (6 words)](#studies-6-words)
 - [General - Vocabulary (59 words)](#general---vocabulary-59-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -446,7 +446,7 @@
 - `indebted`  <br> مدیون
 - `grew`  <br> past of grow
 - `organically`  <br> به‌صورت طبیعی
-- `internship`  <br> دوره کارآموزی
+- `internship`  /ˈɪntɜːrnʃɪp/ <br> when a student works for a company or organization to get experience; a job that begins a career
 - `mention (verb)`  /ˈmen.ʃən/ <br> to speak or write about something without giving much information: Liz mentioned that she was going to buy a new car - He didn't mention Anna in his letter
 - `addition`  <br> افزودن
 - `excellence`  <br> عالی بودن
@@ -1425,9 +1425,9 @@
 
 ---
 
-## Duolingo - Vocabulary (854 words)
+## Duolingo - Vocabulary (858 words)
 
-### SECTION 1 (854 words)
+### SECTION 1 (858 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2345,9 +2345,13 @@
 - `pharmacist (noun)`  /ˈfɑːr.mə.sɪst/ <br> a person who prepares medicine
 - `nonstop (adjective, adverb)`  /ˌnɒnˈstɒp/ <br> without stopping
 
-#### Studies (2 words)
+#### Studies (6 words)
 - `plenty (pronoun)`  /ˈplenti/ <br> as much or as many as you need; a lot: 'Do we need more chairs?' 'No, there are plenty' - We've got plenty of time to get there
 - `average (adjective)`  /ˈævərɪdʒ/ <br> 1. calculated by adding several amounts together, finding a total, and dividing the total by the number of amounts: The average age of the students is 19 <br> 2. normal or usual: The average student gets around 5 hours of homework a week
+- `instructor (noun)`  /ɪnˈstrʌktər/ <br> a person who teaches you how to do something: a driving instructor
+- `flyer`  /ˈflaɪər/ <br> 1. a person or thing that flies <br> 2. paper with information or ads
+- `intense (adjective)`  /ɪnˈtens/ <br> very great or strong: intense pain - The heat from the fire was intense
+- `handout (noun)`  /ˈhændaʊt/ <br> 1. food, money, or clothes that are given to a person who is poor <br> 2. money that is given to a person or an organization by the government, etc., for example to encourage commercial activity <br> 3. a free document that gives information about an event or a matter of public interest, or that states the views of a political party, etc <br> 4. a document that is given to students in class and that contains a summary of the lesson, a set of exercises, etc
 ---
 
 ---
