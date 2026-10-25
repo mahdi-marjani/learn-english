@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2230**
+**Total words: 2235**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (863 words)](#duolingo---vocabulary-863-words)
-  - [SECTION 1 (863 words)](#section-1-863-words)
+- [Duolingo - Vocabulary (868 words)](#duolingo---vocabulary-868-words)
+  - [SECTION 1 (868 words)](#section-1-868-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -57,7 +57,7 @@
     - [Hiking (34 words)](#hiking-34-words)
     - [Secrets (17 words)](#secrets-17-words)
     - [Doctor (23 words)](#doctor-23-words)
-    - [Studies (11 words)](#studies-11-words)
+    - [Studies (16 words)](#studies-16-words)
 - [General - Vocabulary (60 words)](#general---vocabulary-60-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1425,9 +1425,9 @@
 
 ---
 
-## Duolingo - Vocabulary (863 words)
+## Duolingo - Vocabulary (868 words)
 
-### SECTION 1 (863 words)
+### SECTION 1 (868 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2345,7 +2345,7 @@
 - `pharmacist (noun)`  /ˈfɑːr.mə.sɪst/ <br> a person who prepares medicine
 - `nonstop (adjective, adverb)`  /ˌnɒnˈstɒp/ <br> without stopping
 
-#### Studies (11 words)
+#### Studies (16 words)
 - `plenty (pronoun)`  /ˈplenti/ <br> as much or as many as you need; a lot: 'Do we need more chairs?' 'No, there are plenty' - We've got plenty of time to get there
 - `average (adjective)`  /ˈævərɪdʒ/ <br> 1. calculated by adding several amounts together, finding a total, and dividing the total by the number of amounts: The average age of the students is 19 <br> 2. normal or usual: The average student gets around 5 hours of homework a week
 - `instructor (noun)`  /ɪnˈstrʌktər/ <br> a person who teaches you how to do something: a driving instructor
@@ -2357,6 +2357,11 @@
 - `register (verb)`  /ˈredʒɪstər/ <br> 1. to put a name on an official list: I would like to register for the English course <br> 2. to show a number or amount: The thermometer registered 30°C
 - `beeper (noun)`  /ˈbiːpər/ <br> a portable device that makes a beeping noise, usually to tell you to phone someone or to remind you to do something
 - `toe (noun)`  /toʊ/ <br> 1. one of the five parts at the end of your foot <br> <img src='images/toe.jpg' alt='toe' width='200'> <br> 2. the part of a shoe or sock that covers the end of your foot
+- `drama (noun)`  /ˈdrɑː.mə/ <br> 1. (plural dramas) a story that you watch in the theatre or on television, or listen to on the radio: a TV drama <br> 2. (no plural) the study of plays and acting: She went to drama school <br> 3. (plural dramas) an exciting thing that happens: There was a big drama at school when one of the teachers fell in the swimming pool
+- `muffin (noun)`  /ˈmʌf.ɪn/ <br> a small sweet cake that often has fruit inside it <br> <img src='images/muffin.jpg' alt='muffin' width='200'>
+- `mishap (noun)`  /ˈmɪs.hæp/ <br> a small accident or mistake or piece of bad luck that does not have serious results
+- `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
+- `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 ---
 
 ---
