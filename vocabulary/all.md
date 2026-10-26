@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2235**
+**Total words: 2238**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (868 words)](#duolingo---vocabulary-868-words)
-  - [SECTION 1 (868 words)](#section-1-868-words)
+- [Duolingo - Vocabulary (871 words)](#duolingo---vocabulary-871-words)
+  - [SECTION 1 (871 words)](#section-1-871-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -58,6 +58,7 @@
     - [Secrets (17 words)](#secrets-17-words)
     - [Doctor (23 words)](#doctor-23-words)
     - [Studies (16 words)](#studies-16-words)
+    - [Moving (3 words)](#moving-3-words)
 - [General - Vocabulary (60 words)](#general---vocabulary-60-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -107,7 +108,7 @@
 - `cube`  /kjuːb/ <br> 1. a shape like a box with six square sides all the same size <br> 2. the number that you get if you multiply a number by itself twice: The cube of 5 (= 5³) is 125 (= 5 * 5 * 5)
 - `hurry (verb)`  /ˈhʌri/ <br> to move or do something quickly: We hurried home after school <br> `hurry up` to move or do something more quickly because there is not much time: Hurry up or we'll be late!
 - `to come aboard`  /tuː kʌm əˈbɔːrd/ <br> to get on a ship, plane, train, or other vehicle: We need to come aboard before the ship leaves
-- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180 <br> `get along` If two or more people get along, they like each other and are friendly to each other: I don't really get along with my sister's husband <br> `get worse` to become more ill or less good (OPPOSITE: get better, get well): The weather got worse in the afternoon - If your cough gets worse, see a doctor <br> `get something wrong` to make a mistake in the way you answer or understand something: I got number three wrong - I must have got one of these answers wrong - Sometimes you get it right and sometimes you get it wrong and that's life - I'm only human and sometimes I get it wrong
+- `get`  <br> 1. to buy or take something: Will you get some bread when you go shopping? <br> 2. to receive something: I got a lot of presents for my birthday <br> 3. to go and bring back somebody or something (SAME MEANING: fetch): Jenny will get the children from school <br> 4. to become: He is getting fat - Mum got angry - It's getting cold <br> 5. to arrive somewhere: We got to London at ten o'clock <br> 6. a word that you use with part of another verb to show that something happens to somebody or something: She got caught by the police <br> 7. to make somebody do something: I got Peter to help me <br> 8. to start to have an illness: I think I'm getting a cold <br> 9. to travel on something such as a train or a bus: I didn't walk _ I got the bus <br> 10. to undersatand or hear something: I don't get the joke <br> `get away with something` to do something bad and not be punished for it: He lied but he got away with it <br> `get back` to return: When did you get back from your holiday? <br> `get in` to reach a place (SAME MEANING: arrive): My train got in at 7.15 <br> `get in; get into something` to climb into a car: Tom got into the car <br> `get off; get off something` to leave something such as train, bus, or bycycle: Where did you get off the bus? <br> `get on` 1. words that you use to say or ask how well somebody does something: Patrick is getting on well at school - How did you get on in the exam? <br> 2. to become old: My grandfather is getting on _ he's nearly 80 <br> `get on; get onto something` to climb onto a bus, train, or bycycle: I got on the train <br> `get on with somebody` to live or work in a friendly way with somebody: We get on well with our neighbours <br> `get out; get out of something` to leave a car: I opened the door and got out <br> `get out of something` to not do something that you do not like: I'll come swimming with you if I can get out of cleaning my room <br> `get something out` to take something from the place where it was: She opened her bag and got out a pen <br> `get over something` to become well or happy again after you have been ill or sad: He still hasn't got over his wife's death <br> `get through` to be able to speak to somebody on the telephone: I tried to ring Kate but I couldn't get through <br> `get through something` to use or finish a certain amount of something: I got through a lot of work today <br> `get together` to meet; to come together in a group: The whole family got together for Christmas <br> `get up` 1. to stand up: He got up to let an elderly lady sit down <br> 2. to get out of bed: What time do you usually get up? <br> `get up to something` 1. to do something, usually something bad: I must go and see what the children are getting up to <br> 2. to reach a particular place, for example in a book: I've got up to page 180 <br> `get along` If two or more people get along, they like each other and are friendly to each other: I don't really get along with my sister's husband <br> `get worse` to become more ill or less good (OPPOSITE: get better, get well): The weather got worse in the afternoon - If your cough gets worse, see a doctor <br> `get something wrong` to make a mistake in the way you answer or understand something: I got number three wrong - I must have got one of these answers wrong - Sometimes you get it right and sometimes you get it wrong and that's life - I'm only human and sometimes I get it wrong <br> `get rid of something` to remove or throw away something unwanted: Tom wants to get rid of all the old furniture
 - `train (verb)`  /treɪn/ <br> 1. to teach a person or an animal to do something: He was trained as a pilot <br> 2. to make yourself ready for something by studying or doing something a lot: Ann is training to be a doctor - She's training for the Olympics
 - `crew`  /kruː/ <br> all the people who work on a ship or a plane
 - `lad`  /læd/ <br> a boy or young man
@@ -1425,9 +1426,9 @@
 
 ---
 
-## Duolingo - Vocabulary (868 words)
+## Duolingo - Vocabulary (871 words)
 
-### SECTION 1 (868 words)
+### SECTION 1 (871 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2362,6 +2363,11 @@
 - `mishap (noun)`  /ˈmɪs.hæp/ <br> a small accident or mistake or piece of bad luck that does not have serious results
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
+
+#### Moving (3 words)
+- `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
+- `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
+- `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
 ---
 
 ---

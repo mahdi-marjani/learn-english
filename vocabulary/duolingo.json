@@ -5376,6 +5376,29 @@
               "mean_en": "a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>"
             }
           ]
+        },
+        {
+          "heading": "Moving",
+          "words": [
+            {
+              "word": "decorate (verb)",
+              "phonetic": "/ˈdek.ər.eɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen"
+            },
+            {
+              "word": "move (verb)",
+              "phonetic": "/muːv/",
+              "mean_fa": "",
+              "mean_en": "1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living"
+            },
+            {
+              "word": "vintage (adjective)",
+              "phonetic": "/ˈvɪntɪdʒ/",
+              "mean_fa": "",
+              "mean_en": "old and valuable"
+            }
+          ]
         }
       ]
     }
