@@ -811,7 +811,7 @@
               "word": "garbage",
               "phonetic": "/ˈɡɑːr.bɪdʒ/",
               "mean_fa": "زباله",
-              "mean_en": "(Brithis: rubbish)"
+              "mean_en": "(British: rubbish)"
             },
             {
               "word": "messy",
@@ -5397,6 +5397,42 @@
               "phonetic": "/ˈvɪntɪdʒ/",
               "mean_fa": "",
               "mean_en": "old and valuable"
+            },
+            {
+              "word": "mail (noun)",
+              "phonetic": "/meɪl/",
+              "mean_fa": "",
+              "mean_en": "1. the way of sending and receiving letters and packages: to send a letter by airmail <br> 2. letters and packages that you send or receive: Is there any mail for me?"
+            },
+            {
+              "word": "mail (verb)",
+              "phonetic": "/meɪl/",
+              "mean_fa": "",
+              "mean_en": "to send something in the mail: I'll mail the money to you"
+            },
+            {
+              "word": "backyard (noun)",
+              "phonetic": "/ˌbækˈjɑːrd/",
+              "mean_fa": "",
+              "mean_en": "the area behind and around a house, including the garden"
+            },
+            {
+              "word": "around (preposition, adverb)",
+              "phonetic": "/əˈraʊnd/",
+              "mean_fa": "",
+              "mean_en": "1. (also round) in or to different places or in different directions: Her clothes were lying around the room - We walked around for an hour looking for a restaurant - The children were running around the house <br> 2. (also round) in the opposite direction or in another direction: Turn around and go back the way you came <br> 3. (also round) on or to all sides of something, often in a circle: We sat around the table - He ran around the track - There is a wall around the garden <br> 4. in a place; near here: Is there a bank around here? - Is Helen around? I want to speak to her <br> 5. (also about) a little more or less than; a little before or after: I'll see you around seven (= at about 7 o'clock)"
+            },
+            {
+              "word": "sip (verb)",
+              "phonetic": "/sɪp/",
+              "mean_fa": "",
+              "mean_en": "to drink something slowly, taking only a little each time: She sipped her coffee"
+            },
+            {
+              "word": "cozy (adjective)",
+              "phonetic": "/ˈkoʊ.zi/",
+              "mean_fa": "",
+              "mean_en": "(British: cosy) comfortable and pleasant, especially (of a building) because of being small and warm: a cozy little room"
             }
           ]
         }

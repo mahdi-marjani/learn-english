@@ -253,7 +253,7 @@
 - `eye for detail`  <br> توجه به جزئیات
 - `mistake`  <br> اشتباه
 - `proofreader`  <br> ویراستار نهایی که اشتباهات تایپی، نگارشی و علائم را اصلاح می‌کند
-- `behind`  <br> پشتِ
+- `behind (preposition, adverb)`  /bɪˈhaɪnd/ <br> 1. at or to the back of somebody or something: I hid behind the wall - I drove off and Jim followed behind <br> 2. slower or less good than somebody or something; slower or less good than you should be: She is behind with her work because she is often ill <br> 3. in the place where somebody or something was before: I got off the train and left my bag behind (= on the train)
 - `glimpse (verb)`  /ɡlɪmps/ <br> to see something or someone for a very short time or only partly - نگاهی گذرا کردن
 - `cc`  <br> Carbon Copy افرادی که ایمیل برایشان «کپی» می‌شود تا فقط در جریان باشند
 - `threads`  <br> زنجیره پیام‌ها
