@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2244**
+**Total words: 2248**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
-- [Duolingo - Vocabulary (877 words)](#duolingo---vocabulary-877-words)
-  - [SECTION 1 (877 words)](#section-1-877-words)
+- [Duolingo - Vocabulary (880 words)](#duolingo---vocabulary-880-words)
+  - [SECTION 1 (880 words)](#section-1-880-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -58,12 +58,12 @@
     - [Secrets (17 words)](#secrets-17-words)
     - [Doctor (23 words)](#doctor-23-words)
     - [Studies (16 words)](#studies-16-words)
-    - [Moving (9 words)](#moving-9-words)
-- [General - Vocabulary (60 words)](#general---vocabulary-60-words)
+    - [Moving (12 words)](#moving-12-words)
+- [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
   - [social media (26 words)](#social-media-26-words)
-  - [other (16 words)](#other-16-words)
+  - [other (17 words)](#other-17-words)
   - [Wow! Words (7 words)](#wow-words-7-words)
 
 ---
@@ -1426,9 +1426,9 @@
 
 ---
 
-## Duolingo - Vocabulary (877 words)
+## Duolingo - Vocabulary (880 words)
 
-### SECTION 1 (877 words)
+### SECTION 1 (880 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2364,7 +2364,7 @@
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 
-#### Moving (9 words)
+#### Moving (12 words)
 - `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
 - `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
 - `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
@@ -2374,11 +2374,14 @@
 - `around (preposition, adverb)`  /əˈraʊnd/ <br> 1. (also round) in or to different places or in different directions: Her clothes were lying around the room - We walked around for an hour looking for a restaurant - The children were running around the house <br> 2. (also round) in the opposite direction or in another direction: Turn around and go back the way you came <br> 3. (also round) on or to all sides of something, often in a circle: We sat around the table - He ran around the track - There is a wall around the garden <br> 4. in a place; near here: Is there a bank around here? - Is Helen around? I want to speak to her <br> 5. (also about) a little more or less than; a little before or after: I'll see you around seven (= at about 7 o'clock)
 - `sip (verb)`  /sɪp/ <br> to drink something slowly, taking only a little each time: She sipped her coffee
 - `cozy (adjective)`  /ˈkoʊ.zi/ <br> (British: cosy) comfortable and pleasant, especially (of a building) because of being small and warm: a cozy little room
+- `bathtub (noun)`  /ˈbæθ.tʌb/ <br> a large, long container that you put water in and then get into to wash your whole body <br> <img src='images/bathtub.jpg' alt='bathtub' width='200'>
+- `grill (noun)`  /ɡrɪl/ <br> a frame of metal bars over a fire on which food can be put to be cooked <br> <img src='images/grill.jpg' alt='grill' width='200'>
+- `grill (verb)`  /ɡrɪl/ <br> to cook food such as meat and fish on metal bars under or over heat: grilled steak
 ---
 
 ---
 
-## General - Vocabulary (60 words)
+## General - Vocabulary (61 words)
 
 ### game (5 words)
 - `swipe`  /swaɪp/ <br> 1. to hit or try to hit something by swinging your arm: he swiped at the ball and missed <br> 2. to steal something
@@ -2426,8 +2429,9 @@
 - `omni-`  /ɑːm.nɪ-/ <br> everywhere or everything: omnipresent - omniscient
 ---
 
-### other (16 words)
+### other (17 words)
 - `benefit (verb)`  /ˈbenɪfɪt/ <br> to be good or helpful for somebody: The new law will benefit families with children <br> `benefit from something` to get something good or useful from something: She will benefit from a holiday
+- `benefit (noun)`  /ˈbenɪfɪt/ <br> (plural benefits) something that is good or helpful: What are the benefits of having a computer? - I did it for your benefit (= to help you)
 - `purpose`  /ˈpɜːrpəs/ <br> the reason for doing something: What is the purpose of your visit?
 - `reason`  /ˈriːzn/ <br> a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
 - `cause (noun)`  /kɔːz/ <br> 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital

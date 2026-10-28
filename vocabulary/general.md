@@ -1,13 +1,13 @@
 # General - Vocabulary
 
-**Total words: 60**
+**Total words: 61**
 
 ## 📑 Table of Contents
 
 - [game (5 words)](#game-5-words)
 - [news (6 words)](#news-6-words)
 - [social media (26 words)](#social-media-26-words)
-- [other (16 words)](#other-16-words)
+- [other (17 words)](#other-17-words)
 - [Wow! Words (7 words)](#wow-words-7-words)
 
 ---
@@ -58,8 +58,9 @@
 - `omni-`  /ɑːm.nɪ-/ <br> everywhere or everything: omnipresent - omniscient
 ---
 
-## other (16 words)
+## other (17 words)
 - `benefit (verb)`  /ˈbenɪfɪt/ <br> to be good or helpful for somebody: The new law will benefit families with children <br> `benefit from something` to get something good or useful from something: She will benefit from a holiday
+- `benefit (noun)`  /ˈbenɪfɪt/ <br> (plural benefits) something that is good or helpful: What are the benefits of having a computer? - I did it for your benefit (= to help you)
 - `purpose`  /ˈpɜːrpəs/ <br> the reason for doing something: What is the purpose of your visit?
 - `reason`  /ˈriːzn/ <br> a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
 - `cause (noun)`  /kɔːz/ <br> 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital

@@ -5433,6 +5433,24 @@
               "phonetic": "/ˈkoʊ.zi/",
               "mean_fa": "",
               "mean_en": "(British: cosy) comfortable and pleasant, especially (of a building) because of being small and warm: a cozy little room"
+            },
+            {
+              "word": "bathtub (noun)",
+              "phonetic": "/ˈbæθ.tʌb/",
+              "mean_fa": "",
+              "mean_en": "a large, long container that you put water in and then get into to wash your whole body <br> <img src='images/bathtub.jpg' alt='bathtub' width='200'>"
+            },
+            {
+              "word": "grill (noun)",
+              "phonetic": "/ɡrɪl/",
+              "mean_fa": "",
+              "mean_en": "a frame of metal bars over a fire on which food can be put to be cooked <br> <img src='images/grill.jpg' alt='grill' width='200'>"
+            },
+            {
+              "word": "grill (verb)",
+              "phonetic": "/ɡrɪl/",
+              "mean_fa": "",
+              "mean_en": "to cook food such as meat and fish on metal bars under or over heat: grilled steak"
             }
           ]
         }

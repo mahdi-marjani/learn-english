@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 877**
+**Total words: 880**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (877 words)](#section-1-877-words)
+- [SECTION 1 (880 words)](#section-1-880-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -38,11 +38,11 @@
   - [Secrets (17 words)](#secrets-17-words)
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
-  - [Moving (9 words)](#moving-9-words)
+  - [Moving (12 words)](#moving-12-words)
 
 ---
 
-## SECTION 1 (877 words)
+## SECTION 1 (880 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -978,7 +978,7 @@
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 
-### Moving (9 words)
+### Moving (12 words)
 - `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
 - `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
 - `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
@@ -988,4 +988,7 @@
 - `around (preposition, adverb)`  /əˈraʊnd/ <br> 1. (also round) in or to different places or in different directions: Her clothes were lying around the room - We walked around for an hour looking for a restaurant - The children were running around the house <br> 2. (also round) in the opposite direction or in another direction: Turn around and go back the way you came <br> 3. (also round) on or to all sides of something, often in a circle: We sat around the table - He ran around the track - There is a wall around the garden <br> 4. in a place; near here: Is there a bank around here? - Is Helen around? I want to speak to her <br> 5. (also about) a little more or less than; a little before or after: I'll see you around seven (= at about 7 o'clock)
 - `sip (verb)`  /sɪp/ <br> to drink something slowly, taking only a little each time: She sipped her coffee
 - `cozy (adjective)`  /ˈkoʊ.zi/ <br> (British: cosy) comfortable and pleasant, especially (of a building) because of being small and warm: a cozy little room
+- `bathtub (noun)`  /ˈbæθ.tʌb/ <br> a large, long container that you put water in and then get into to wash your whole body <br> <img src='images/bathtub.jpg' alt='bathtub' width='200'>
+- `grill (noun)`  /ɡrɪl/ <br> a frame of metal bars over a fire on which food can be put to be cooked <br> <img src='images/grill.jpg' alt='grill' width='200'>
+- `grill (verb)`  /ɡrɪl/ <br> to cook food such as meat and fish on metal bars under or over heat: grilled steak
 ---
