@@ -15,7 +15,7 @@
 
 **Meaning:** to say that something **exists** (or doesn't exist).
 
-**Key:** `be verb` · <kbd>noun</kbd> · **there** · <ins>time expression</ins>
+**Key:** `be verb` · **noun** · $\boxed{\text{there / how many}}$ · <ins>time expression</ins>
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Structure | Example |
 | :--- | :--- |
-| **There** `is` + <kbd>singular noun</kbd> | **There** `is` a <kbd>book</kbd> on the desk. |
-| **There** `are` + <kbd>plural noun</kbd> | **There** `are` <kbd>books</kbd> on the desk. |
-| **There** `is` + <kbd>uncountable noun</kbd> | **There** `is` some <kbd>milk</kbd> in the fridge. |
+| $\boxed{\text{There}}$ `is` + **singular noun** | $\boxed{\text{There}}$ `is` a **book** on the desk. |
+| $\boxed{\text{There}}$ `are` + **plural noun** | $\boxed{\text{There}}$ `are` **books** on the desk. |
+| $\boxed{\text{There}}$ `is` + **uncountable noun** | $\boxed{\text{There}}$ `is` some **milk** in the fridge. |
 
 ---
 
@@ -33,20 +33,20 @@
 
 | Structure | Example |
 | :--- | :--- |
-| **There** `isn't` + <kbd>singular noun</kbd> | **There** `isn't` a <kbd>pen</kbd> on the table. |
-| **There** `aren't` + <kbd>plural noun</kbd> | **There** `aren't` any <kbd>pens</kbd> here. |
-| **There** `isn't` + <kbd>uncountable noun</kbd> | **There** `isn't` any <kbd>juice</kbd> in the fridge. |
+| $\boxed{\text{There}}$ `isn't` + **singular noun** | $\boxed{\text{There}}$ `isn't` a **pen** on the table. |
+| $\boxed{\text{There}}$ `aren't` + **plural noun** | $\boxed{\text{There}}$ `aren't` any **pens** here. |
+| $\boxed{\text{There}}$ `isn't` + **uncountable noun** | $\boxed{\text{There}}$ `isn't` any **juice** in the fridge. |
 
 ---
 
 ## 3. Questions
 
-To make a question, **swap** the places of **there** and the `be verb`.
+To make a question, **swap** the places of $\boxed{\text{there}}$ and the `be verb`.
 
 | Statement | Question |
 | :--- | :--- |
-| **There** `is` a <kbd>cat</kbd> on the chair. | `Is` **there** a <kbd>cat</kbd> on the chair`?` |
-| **There** `are` <kbd>cats</kbd> on the sofa. | `Are` **there** <kbd>cats</kbd> on the sofa`?` |
+| $\boxed{\text{There}}$ `is` a **cat** on the chair. | `Is` $\boxed{\text{there}}$ a **cat** on the chair`?` |
+| $\boxed{\text{There}}$ `are` **cats** on the sofa. | `Are` $\boxed{\text{there}}$ **cats** on the sofa`?` |
 
 ```text
   There    is     a cat on the chair.
@@ -78,48 +78,48 @@ To make a question, **swap** the places of **there** and the `be verb`.
 
 ## 4. Asking About Quantity
 
-To ask **how many** things exist, use:
+To ask $\boxed{\text{how many}}$ things exist, use:
 
-**How many** + <kbd>plural noun</kbd> + `are` **there** ...?
+$\boxed{\text{How many}}$ + **plural noun** + `are` $\boxed{\text{there}}$ ...?
 
-- **How many** <kbd>students</kbd> `are` **there** in your class?
-- **How many** <kbd>days</kbd> `are` **there** in February?
+- $\boxed{\text{How many}}$ **students** `are` $\boxed{\text{there}}$ in your class?
+- $\boxed{\text{How many}}$ **days** `are` $\boxed{\text{there}}$ in February?
 
 ---
 
 ## 5. There Was / There Were (Past)
 
-- **There** `is` a <kbd>train</kbd> <ins>every hour</ins>.
-- The time now is 11.15. **There** `was` a <kbd>train</kbd> <ins>at 11 o'clock</ins>.
+- $\boxed{\text{There}}$ `is` a **train** <ins>every hour</ins>.
+- The time now is 11.15. $\boxed{\text{There}}$ `was` a **train** <ins>at 11 o'clock</ins>.
 
 **Compare** there is / there are (present) and there was / there were (past):
 
 | Present | Past |
 | :--- | :--- |
-| **There** `is` a good <kbd>film</kbd> on TV <ins>tonight</ins>. | **There** `was` a good <kbd>film</kbd> on TV <ins>last night</ins>. |
-| We are staying at a very big hotel. **There** `are` 550 <kbd>rooms</kbd>. | We stayed at a very big hotel. **There** `were` 550 <kbd>rooms</kbd>. |
-| `Are` **there** any phone <kbd>messages</kbd> for me <ins>this morning</ins>? | `Were` **there** any phone <kbd>messages</kbd> for me <ins>yesterday</ins>? |
-| I'm hungry, but **there** `isn't` anything to eat. | I was hungry when I got home, but **there** `wasn't` anything to eat. |
+| $\boxed{\text{There}}$ `is` a good **film** on TV <ins>tonight</ins>. | $\boxed{\text{There}}$ `was` a good **film** on TV <ins>last night</ins>. |
+| We are staying at a very big hotel. $\boxed{\text{There}}$ `are` 550 **rooms**. | We stayed at a very big hotel. $\boxed{\text{There}}$ `were` 550 **rooms**. |
+| `Are` $\boxed{\text{there}}$ any phone **messages** for me <ins>this morning</ins>? | `Were` $\boxed{\text{there}}$ any phone **messages** for me <ins>yesterday</ins>? |
+| I'm hungry, but $\boxed{\text{there}}$ `isn't` anything to eat. | I was hungry when I got home, but $\boxed{\text{there}}$ `wasn't` anything to eat. |
 
 ---
 
 ## 6. There Has Been / There Have Been (Present Perfect)
 
-- Look! **There**`'s been` an <kbd>accident</kbd>. (`there's been` = there `has` been)
-- This road is very dangerous. **There** `have been` many <kbd>accidents</kbd>.
+- Look! $\boxed{\text{There}}$`'s been` an **accident**. (`there's been` = there `has` been)
+- This road is very dangerous. $\boxed{\text{There}}$ `have been` many **accidents**.
 
 **Compare** there was (past):
 
-- ✅ **There** `was` an <kbd>accident</kbd> <ins>last night</ins>.
-- ❌ **There** `has been` an <kbd>accident</kbd> <ins>last night</ins>.
+- ✅ $\boxed{\text{There}}$ `was` an **accident** <ins>last night</ins>.
+- ❌ $\boxed{\text{There}}$ `has been` an **accident** <ins>last night</ins>.
 
 ---
 
 ## 7. There Will Be (Future)
 
-- Do you think **there** `will be` a lot of <kbd>people</kbd> at the party <ins>on Saturday</ins>?
-- The manager of the company is leaving, so **there** `will be` a new <kbd>manager</kbd> <ins>soon</ins>.
-- I'm going away <ins>tomorrow</ins>. I'll do my packing <ins>today</ins> because **there** `won't be` <kbd>time</kbd> <ins>tomorrow</ins>. (`there won't be` = there `will not` be)
+- Do you think $\boxed{\text{there}}$ `will be` a lot of **people** at the party <ins>on Saturday</ins>?
+- The manager of the company is leaving, so $\boxed{\text{there}}$ `will be` a new **manager** <ins>soon</ins>.
+- I'm going away <ins>tomorrow</ins>. I'll do my packing <ins>today</ins> because $\boxed{\text{there}}$ `won't be` **time** <ins>tomorrow</ins>. (`there won't be` = there `will not` be)
 
 ---
 
