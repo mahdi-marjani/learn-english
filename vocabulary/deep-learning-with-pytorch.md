@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1143**
+**Total words: 1146**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (678 words)](#part-1-core-pytorch-678-words)
-  - [Chapter 1: Introducing deep learning and the PyTorch Library (289 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-289-words)
+- [Part 1: Core PyTorch (681 words)](#part-1-core-pytorch-681-words)
+  - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (152 words)](#chapter-3-it-starts-with-a-tensor-152-words)
+  - [Chapter 3: It starts with a tensor (154 words)](#chapter-3-it-starts-with-a-tensor-154-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (678 words)
+## Part 1: Core PyTorch (681 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -519,7 +519,7 @@
 - `much (adverb)`  /mʌtʃ/ <br> a lot: I don't like him very much - Your flat is much bigger than mine - 'Do you like it?' 'No, not much'
 - `by`  <br> 1. very near (SAME MEANING: beside): The telephone is by the door - They live by the sea <br> 2. a word that shows who or what did something: a painting by Matisse - She was caught by the police <br> 3. using or doing something: I go to work by train - He paid by cheque - You turn the computer on by pressing this button <br> 4. as a result of something: I got on the wrong bus by mistake - We met by chance <br> 5. not later than: I must finish this work by six o'clock <br> 6. from one side of somebody or something to the other (SAME MEANING: past): He walked by me without speaking <br> 7. used for showing the measurements of an area: The table is six feet by three feet (= six feet long and three feet wide)
 
-### Chapter 1: Introducing deep learning and the PyTorch Library (289 words)
+### Chapter 1: Introducing deep learning and the PyTorch Library (290 words)
 - `poor`  /pʊr/ <br> not good enough; of low quality
 - `term`  /tɜːrm/ <br> a word or group of words used to describe something
 - `set (noun)`  /set/ <br> a group of things of the same kind, or a group of things that you use together: a set of six glasses - a tool set
@@ -752,7 +752,8 @@
 - `component`  /kəmˈpoʊ.nənt/ <br> a single part or element of something larger, especially a part of a machine or system
 - `parallelism`  /ˈper.ə.le.lɪ.zəm/ <br> the state of being parallel; (in computing) the ability to perform many operations or calculations at the same time using multiple processors or cores
 - `indeed`  /ɪnˈdiːd/ <br> in fact; without any doubt; used to emphasize a statement or to confirm that something is true
-- `peek (verb)`  /piːk/ <br> a quick and often secret look
+- `peek (verb)`  /piːk/ <br> to look, especially for a short time or while trying to avoid being seen: Close your eyes. Don't peek. I've got a surprise for you - I peeked out the window to see who was there
+- `peek (noun)`  /piːk/ <br> a quick and often secret look: I took a quick peek inside
 - `parlance`  /ˈpɑːr.ləns/ <br> a group of words or style of speaking used by a particular group of people: business/legal parlance
 - `analytical`  /ˌanəˈlɪtɪkl/ <br> relating to or using analysis or logical reasoning
 - `derivative`  /dɪˈrɪv.ə.t̬ɪv/ <br> مشتق
@@ -1036,7 +1037,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (152 words)
+### Chapter 3: It starts with a tensor (154 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1189,4 +1190,6 @@
 - `vice versa (adverb)`  /ˌvaɪs ˈvɝː.sə/ <br> used to say that the opposite of what you have just said is also true; the other way around: PyTorch tensors can be converted to NumPy arrays, and vice versa
 - `buffer protocol (noun)`  /ˈbʌfər ˈproʊtəkɔːl/ <br> a mechanism in Python that allows objects to share their internal memory buffers with other objects for direct access
 - `conversely`  /ˈkɑːnvɜːrsli/ <br> in a way that is the opposite of something: You can add the fluid to the powder, or, conversely, the powder to the fluid
+- `risk (verb)`  /rɪsk/ <br> 1. to put something or yourself in danger: He risked his life to save the child from the burning house <br> 2. to do something when you know that something bad may happen because of it: If you don't work harder, you risk failing the exam
+- `twist (noun)`  /twɪst/ <br> 1. the action of turning something with your hand, or of turning a part of your body: One twist of the key and the car started - He gave a shy smile and a little twist of his head <br> 2. an unexpected change or development in a story or situation: The movie has a surprising twist at the end <br> 3. a sudden turn in a road or river: The road up the mountain has many twists and turns <br> 4. a thing that has been twisted into a particular shape: a glass of water with a twist of lemon
 ---

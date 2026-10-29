@@ -4308,7 +4308,13 @@
               "word": "peek (verb)",
               "phonetic": "/piːk/",
               "mean_fa": "",
-              "mean_en": "a quick and often secret look"
+              "mean_en": "to look, especially for a short time or while trying to avoid being seen: Close your eyes. Don't peek. I've got a surprise for you - I peeked out the window to see who was there"
+            },
+            {
+              "word": "peek (noun)",
+              "phonetic": "/piːk/",
+              "mean_fa": "",
+              "mean_en": "a quick and often secret look: I took a quick peek inside"
             },
             {
               "word": "parlance",
@@ -6909,6 +6915,18 @@
               "phonetic": "/ˈkɑːnvɜːrsli/",
               "mean_fa": "",
               "mean_en": "in a way that is the opposite of something: You can add the fluid to the powder, or, conversely, the powder to the fluid"
+            },
+            {
+              "word": "risk (verb)",
+              "phonetic": "/rɪsk/",
+              "mean_fa": "",
+              "mean_en": "1. to put something or yourself in danger: He risked his life to save the child from the burning house <br> 2. to do something when you know that something bad may happen because of it: If you don't work harder, you risk failing the exam"
+            },
+            {
+              "word": "twist (noun)",
+              "phonetic": "/twɪst/",
+              "mean_fa": "",
+              "mean_en": "1. the action of turning something with your hand, or of turning a part of your body: One twist of the key and the car started - He gave a shy smile and a little twist of his head <br> 2. an unexpected change or development in a story or situation: The movie has a surprising twist at the end <br> 3. a sudden turn in a road or river: The road up the mountain has many twists and turns <br> 4. a thing that has been twisted into a particular shape: a glass of water with a twist of lemon"
             }
           ]
         }
