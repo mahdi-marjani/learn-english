@@ -31,14 +31,14 @@
 
 ## social media (26 words)
 - `teenager`  /ˈtiːneɪdʒər/ <br> a person who is between 13 and 19 years old
-- `genuinely`  /ˈdʒɛnjuɪnli/ <br> realy: Do you think he's genuinely sorry?
-- `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have somethong: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
+- `genuinely`  /ˈdʒɛnjuɪnli/ <br> really: Do you think he's genuinely sorry?
+- `deserve`  /dɪˈzɜːrv/ <br> to be good or bad enough to have something: You have worked very hard and you deserve a rest - They stole money from old people, so they deserve to go to prison
 - `wear (verb)`  /wer/ <br> to have clothes, jewellery, etc. on your body: She was wearing a red dress - I wear glasses
 - `even (adverb)`  /ˈiːvən/ <br> 1. a word that you use to say that something is surprising: The game is so easy that even a child can play it - He didn't laugh _ he didn't even smile <br> 2. a word that you use to make another word stronger: Their house is even smaller than ours <br> `even if` it does not change anything if: Even if you run, you won't catch the bus <br> `even so` although that is true: I didn't have any lunch, but even so I'm not hungry <br> `even though` although: I went to the party, even though I was tired
 - `pretty (adverb)`  /ˈprɪti/ <br> quite; fairly: It's pretty cold today
-- `quite`  /kwaɪt/ <br> 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitor quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
+- `quite`  /kwaɪt/ <br> 1. not very; rather (SAME MEANING: fairly): it's quite warm today, but it's not hot - He plays the guitar quite well - We waited quite a long time <br> 2. completely: Dinner is not quite ready
 - `fairly`  /ˈferli/ <br> 1. quite; not very : She speaks French fairly well - I'm fairly certain it was him <br> 2. in a way that is right and honest: This company treats its workers fairly (OPPOSITE: unfairly)
-- `worried`  /ˈwɜːrid/ <br> unhappy because you think that something bad will happen or has happened: Fiana is worried that she's going to fail the exam - I'm worried about my brother _ he looks ill
+- `worried`  /ˈwɜːrid/ <br> unhappy because you think that something bad will happen or has happened: Fiona is worried that she's going to fail the exam - I'm worried about my brother _ he looks ill
 - `stupid`  /ˈstuːpɪd/ <br> not intelligent; silly: Don't be so stupid! - What a stupid question!
 - `silly`  /ˈsɪli/ <br> not sensible or clever; stupid: Don't be so silly - It was silly of you to leave the door open when you went out
 - `sensible`  /ˈsensəbl/ <br> able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
@@ -64,7 +64,7 @@
 - `purpose`  /ˈpɜːrpəs/ <br> the reason for doing something: What is the purpose of your visit?
 - `reason`  /ˈriːzn/ <br> a cause or an explanation for why you do something or why something happens: The reason I didn't come to the party was that I was ill - Is there any reason why you were late? - She gave no reasons for her decision
 - `cause (noun)`  /kɔːz/ <br> 1. a thing or person that makes something happen: Bad driving is the cause of most road accidents <br> 2. something that people care about and want to help: They gave the money to a good cause _ it was used to build a new hospital
-- `against`  /əˈɡenst/ <br> 1. on the other side in a game, fight, etc.: They played against a football team from another vilage <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
+- `against`  /əˈɡenst/ <br> 1. on the other side in a game, fight, etc.: They played against a football team from another village <br> 2. if you are against something, you do not agree with it: Many people are against the plan <br> 3. touching somebody or something for support: I put the ladder against the wall <br> 4. to stop something: Have you had an injection against the disease?
 - `vehicle`  /ˈviːəkl/ <br> a car, bus, lorry, bicycle, etc.; a thing that takes people or things from place to place: Are you the owner of this vehicle?
 - `vacation`  /veɪˈkeɪʃən/ <br> (British holiday) a period of time when you are not working or studying: They're on vacation in Hawaii
 - `to`  <br> 1. a word that shows direction: She went to Italy - James has gone to school - this bus goes to the city center <br> 2. a word that shows the person or thing that receives something: I gave the book to Paula - He sent a letter to his parents - Be kind to animals <br> 3. a word that shows the end or limit of something: The museum is open from 9:30 to 5:30 - Jeans cost from $20 to $45 <br> 4. on or against something: He put his hands to his ears - They were sitting back to back <br> 5. a word that shows how something changes: The sky changed from blue to grey <br> 6. a word that shows why: I came to help <br> 7. a word that you use for comparing things: I prefer football to tennis <br> 8. a word that shows how many minutes it is before the hour: It's two minutes to six <br> 9. a word that you use before verbs to make the infinitive (= the simple from of a verb): I want to go home - Don't forget to write - She asked me to go but I didn't want to (= to go)

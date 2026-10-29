@@ -1,0 +1,20 @@
+{
+  "version": "0.2",
+  "language": "en,en-GB",
+  "files": ["vocabulary/**/*.json"],
+  "maxNumberOfProblems": 1000,
+  "maxDuplicateProblems": 1000,
+  "ignoreRegExpList": [
+    "\"phonetic\"\\s*:\\s*\"(?:[^\"\\\\]|\\\\.)*\"",
+    "\"mean_fa\"\\s*:\\s*\"(?:[^\"\\\\]|\\\\.)*\"",
+    "<[^>]+>",
+    "[\\u0600-\\u06FF\\u200c]+"
+  ],
+  "words": [
+    "numpy", "keras", "pretrained", "multimodal", "inpainting",
+    "denoising", "subtensor", "PyTorch", "mindshare", "cofounder",
+    "luca", "shoutout", "fearmongering", "Duolingo", "Jania",
+    "Glowstone", "pickleball", "Susy", "grandkid", "Inga",
+    "krusty", "krab", "krabby", "squidward", "treedome"
+  ]
+}
