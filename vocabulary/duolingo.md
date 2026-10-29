@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 880**
+**Total words: 883**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (880 words)](#section-1-880-words)
+- [SECTION 1 (883 words)](#section-1-883-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -38,11 +38,11 @@
   - [Secrets (17 words)](#secrets-17-words)
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
-  - [Moving (12 words)](#moving-12-words)
+  - [Moving (15 words)](#moving-15-words)
 
 ---
 
-## SECTION 1 (880 words)
+## SECTION 1 (883 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -978,7 +978,7 @@
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 
-### Moving (12 words)
+### Moving (15 words)
 - `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
 - `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
 - `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
@@ -991,4 +991,7 @@
 - `bathtub (noun)`  /ˈbæθ.tʌb/ <br> a large, long container that you put water in and then get into to wash your whole body <br> <img src='images/bathtub.jpg' alt='bathtub' width='200'>
 - `grill (noun)`  /ɡrɪl/ <br> a frame of metal bars over a fire on which food can be put to be cooked <br> <img src='images/grill.jpg' alt='grill' width='200'>
 - `grill (verb)`  /ɡrɪl/ <br> to cook food such as meat and fish on metal bars under or over heat: grilled steak
+- `eco-friendly (adjective)`  /ˌiːkəʊ ˈfrendli/ <br> good for the environment
+- `tablecloth (noun)`  /ˈteɪblklɔːθ/ <br> cloth used to cover a table
+- `pillowcase (noun)`  /ˈpɪl.oʊ.keɪs/ <br> a cloth cover for a pillow, that can be removed
 ---
