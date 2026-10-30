@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2254**
+**Total words: 2261**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (154 words)](#chapter-3-it-starts-with-a-tensor-154-words)
-- [Duolingo - Vocabulary (883 words)](#duolingo---vocabulary-883-words)
-  - [SECTION 1 (883 words)](#section-1-883-words)
+- [Duolingo - Vocabulary (890 words)](#duolingo---vocabulary-890-words)
+  - [SECTION 1 (890 words)](#section-1-890-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -58,7 +58,7 @@
     - [Secrets (17 words)](#secrets-17-words)
     - [Doctor (23 words)](#doctor-23-words)
     - [Studies (16 words)](#studies-16-words)
-    - [Moving (15 words)](#moving-15-words)
+    - [Moving (22 words)](#moving-22-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1429,9 +1429,9 @@
 
 ---
 
-## Duolingo - Vocabulary (883 words)
+## Duolingo - Vocabulary (890 words)
 
-### SECTION 1 (883 words)
+### SECTION 1 (890 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2367,7 +2367,7 @@
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 
-#### Moving (15 words)
+#### Moving (22 words)
 - `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
 - `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
 - `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
@@ -2383,6 +2383,13 @@
 - `eco-friendly (adjective)`  /ˌiːkəʊ ˈfrendli/ <br> good for the environment
 - `tablecloth (noun)`  /ˈteɪblklɔːθ/ <br> cloth used to cover a table
 - `pillowcase (noun)`  /ˈpɪl.oʊ.keɪs/ <br> a cloth cover for a pillow, that can be removed
+- `switch (noun)`  /swɪtʃ/ <br> a small thing that you press to turn electricity on or off: Where is the light switch? <br> <img src='images/plug1.jpg' alt='switch' width='200'>
+- `power (noun)`  /ˈpaʊər/ <br> 1. (no plural) the ability to control people or things; the ability to do things: The president has a lot of power - I did everything in my power (= everything I could do) to help her <br> 2. (plural powers) the right to do something: Police officers have the power to arrest people <br> 3. (plural powers) a strong person or country: There is a meeting of world powers in Rome next week <br> 4. (no plural) the energy or strength that somebody or something has: The ship was helpless against the power of the storm <br> 5. (no plural) energy that can be collected and used for making machines work, making electricity, etc.: nuclear power
+- `trap (verb)`  /træp/ <br> 1. to keep somebody in a place that they cannot escape from: They were trapped in the burning building <br> 2. to catch or trick somebody or something: Police are hoping this new evidence could help trap the killer
+- `escape (verb)`  /ɪˈskeɪp/ <br> 1. to get free from somebody or something: The bird escaped from its cage - Two prisoners escaped, but were later caught <br> 2. to manage to avoid something dangerous or unpleasant: The pilot escaped death by seconds
+- `corridor (noun)`  /ˈkɔːrɪdɔːr/ <br> hallway; a long narrow part inside a building with rooms on each side of it
+- `side door`  <br> a door at the side of a building
+- `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 ---
 
 ---
