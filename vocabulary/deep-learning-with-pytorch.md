@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1146**
+**Total words: 1148**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (681 words)](#part-1-core-pytorch-681-words)
+- [Part 1: Core PyTorch (683 words)](#part-1-core-pytorch-683-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (154 words)](#chapter-3-it-starts-with-a-tensor-154-words)
+  - [Chapter 3: It starts with a tensor (156 words)](#chapter-3-it-starts-with-a-tensor-156-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (681 words)
+## Part 1: Core PyTorch (683 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1037,7 +1037,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (154 words)
+### Chapter 3: It starts with a tensor (156 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1192,4 +1192,6 @@
 - `conversely`  /ˈkɑːnvɜːrsli/ <br> in a way that is the opposite of something: You can add the fluid to the powder, or, conversely, the powder to the fluid
 - `risk (verb)`  /rɪsk/ <br> 1. to put something or yourself in danger: He risked his life to save the child from the burning house <br> 2. to do something when you know that something bad may happen because of it: If you don't work harder, you risk failing the exam
 - `twist (noun)`  /twɪst/ <br> 1. the action of turning something with your hand, or of turning a part of your body: One twist of the key and the car started - He gave a shy smile and a little twist of his head <br> 2. an unexpected change or development in a story or situation: The movie has a surprising twist at the end <br> 3. a sudden turn in a road or river: The road up the mountain has many twists and turns <br> 4. a thing that has been twisted into a particular shape: a glass of water with a twist of lemon
+- `meet (verb)`  /miːt/ <br> 1. to come together by chance or because you have planned it: I met Kate in the library today - Let's meet outside the cinema at eight o'clock <br> 2. to see and speak to somebody for the first time: Have you met Anne? <br> 3. to go to a place and wait for somebody to arrive: Can you meet me at the airport? <br> 4. to join together with something: The two rivers meet in Oxford <br> 5. to satisfy a requirement or condition: We haven't yet been able to find a house that meets our needs/requirements
+- `contract (noun)`  /ˈkɑːn.trækt/ <br> 1. an official piece of paper that says that somebody agrees to do something: The company has signed a contract to build the new road <br> 2. (programming) a set of rules that a function, interface, or API must follow, such as what it takes in and what it returns: The function's contract says it always returns a list
 ---
