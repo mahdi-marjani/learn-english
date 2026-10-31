@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 890**
+**Total words: 891**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (890 words)](#section-1-890-words)
+- [SECTION 1 (891 words)](#section-1-891-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -38,11 +38,11 @@
   - [Secrets (17 words)](#secrets-17-words)
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
-  - [Moving (22 words)](#moving-22-words)
+  - [Moving (23 words)](#moving-23-words)
 
 ---
 
-## SECTION 1 (890 words)
+## SECTION 1 (891 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -978,7 +978,7 @@
 - `cinnamon (noun)`  /ˈsɪn.ə.mən/ <br> دارچین <br> <img src='images/cinnamon.jpg' alt='cinnamon' width='200'>
 - `handprint (noun)`  /ˈhændprɪnt/ <br> a mark left by the flat part of somebody’s hand on a surface <br> <img src='images/handprint.jpg' alt='handprint' width='200'>
 
-### Moving (22 words)
+### Moving (23 words)
 - `decorate (verb)`  /ˈdek.ər.eɪt/ <br> 1. to make something look nicer by adding beautiful things to it: We decorated the room with flowers <br> 2. to put paint or paper on the walls of a room: I am decorating the kitchen
 - `move (verb)`  /muːv/ <br> 1. to go from one place to another; to change the way you are standing or sitting: Don't get off the bus while it's moving - We moved to the front of the cinema <br> 2. to put something in another place or another way: Can you move your car, please? <br> 3. to go to live in another place: They sold their house in London and moved to Liverpool - We are moving house soon <br> `move in` to go to live in a house or flat: I've got a new flat _ I'm moving in next week <br> `move out` to leave a house or flat where you were living
 - `vintage (adjective)`  /ˈvɪntɪdʒ/ <br> old and valuable
@@ -1001,4 +1001,5 @@
 - `corridor (noun)`  /ˈkɔːrɪdɔːr/ <br> hallway; a long narrow part inside a building with rooms on each side of it
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
+- `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
 ---
