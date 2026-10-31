@@ -4350,7 +4350,7 @@
               "word": "dispatch",
               "phonetic": "/dɪˈspætʃ/",
               "mean_fa": "",
-              "mean_en": "1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (in computer) Dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU"
+              "mean_en": "1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (programming) to send a task, request or operation to the correct handler or system: PyTorch dispatches the operation to the CPU or GPU function"
             },
             {
               "word": "under the hood",
@@ -6939,6 +6939,12 @@
               "phonetic": "/ˈkɑːn.trækt/",
               "mean_fa": "",
               "mean_en": "1. an official piece of paper that says that somebody agrees to do something: The company has signed a contract to build the new road <br> 2. (programming) a set of rules that a function, interface, or API must follow, such as what it takes in and what it returns: The function's contract says it always returns a list"
+            },
+            {
+              "word": "cater (verb)",
+              "phonetic": "/ˈkeɪtər/",
+              "mean_fa": "",
+              "mean_en": "to provide food and drinks for a social event: Who will be catering the wedding? <br> `cater to` to provide what someone or something needs or wants: This restaurant caters to people who don’t eat meat"
             }
           ]
         }

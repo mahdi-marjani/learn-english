@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1148**
+**Total words: 1149**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (683 words)](#part-1-core-pytorch-683-words)
+- [Part 1: Core PyTorch (684 words)](#part-1-core-pytorch-684-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (156 words)](#chapter-3-it-starts-with-a-tensor-156-words)
+  - [Chapter 3: It starts with a tensor (157 words)](#chapter-3-it-starts-with-a-tensor-157-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (683 words)
+## Part 1: Core PyTorch (684 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -759,7 +759,7 @@
 - `derivative`  /dɪˈrɪv.ə.t̬ɪv/ <br> مشتق
 - `with respect to`  <br> You use with respect to to say what something relates to: Parents often have little choice with respect to the way their child is medically treated
 - `by virtue of`  /ˌbʌɪ ˈvɜːr.tʃuː əv/ <br> because or as a result of
-- `dispatch`  /dɪˈspætʃ/ <br> 1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (in computer) Dispatch is the act of sending something somewhere. In computer science, this term is used to indicate the same concept in different contexts, like to dispatch a call to a function, dispatch an event to a listener, dispatch an interrupt to a handler or dispatch a process to the CPU
+- `dispatch`  /dɪˈspætʃ/ <br> 1. to send a person or thing somewhere for a specific purpose <br> <img src='images/dispatch.jpg' alt='dispatch' width='200'> <br> 2. (programming) to send a task, request or operation to the correct handler or system: PyTorch dispatches the operation to the CPU or GPU function
 - `under the hood`  <br> the hidden or internal working parts of a system; the complex details that are not visible to the user
 - `throughout (preposition, adverb)`  /θruːˈaʊt/ <br> 1. in every part of something: We painted the house throughout - She is famous throughout the world <br> 2. from the beginning to the end of something: They talked throughout the film
 - `spectrum`  /ˈspek.trəm/ <br> 1. the set of colours into which a beam of light can be separated, or a range of waves, such as light waves or radio waves: The colours of the spectrum _ red, orange, yellow, green, blue, indigo, and violet _ can be seen in a rainbow <br> <img src='images/spectrum.jpg' alt='spectrum' width='200'> <br> 2. a complete or wide range of related things, ideas, or qualities that covers many different kinds, from one type to a very different type: The spectrum of scientific applications includes everything from simple data analysis to advanced AI models
@@ -1037,7 +1037,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (156 words)
+### Chapter 3: It starts with a tensor (157 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1194,4 +1194,5 @@
 - `twist (noun)`  /twɪst/ <br> 1. the action of turning something with your hand, or of turning a part of your body: One twist of the key and the car started - He gave a shy smile and a little twist of his head <br> 2. an unexpected change or development in a story or situation: The movie has a surprising twist at the end <br> 3. a sudden turn in a road or river: The road up the mountain has many twists and turns <br> 4. a thing that has been twisted into a particular shape: a glass of water with a twist of lemon
 - `meet (verb)`  /miːt/ <br> 1. to come together by chance or because you have planned it: I met Kate in the library today - Let's meet outside the cinema at eight o'clock <br> 2. to see and speak to somebody for the first time: Have you met Anne? <br> 3. to go to a place and wait for somebody to arrive: Can you meet me at the airport? <br> 4. to join together with something: The two rivers meet in Oxford <br> 5. to satisfy a requirement or condition: We haven't yet been able to find a house that meets our needs/requirements
 - `contract (noun)`  /ˈkɑːn.trækt/ <br> 1. an official piece of paper that says that somebody agrees to do something: The company has signed a contract to build the new road <br> 2. (programming) a set of rules that a function, interface, or API must follow, such as what it takes in and what it returns: The function's contract says it always returns a list
+- `cater (verb)`  /ˈkeɪtər/ <br> to provide food and drinks for a social event: Who will be catering the wedding? <br> `cater to` to provide what someone or something needs or wants: This restaurant caters to people who don’t eat meat
 ---
