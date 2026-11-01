@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2266**
+**Total words: 2269**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (157 words)](#chapter-3-it-starts-with-a-tensor-157-words)
-- [Duolingo - Vocabulary (892 words)](#duolingo---vocabulary-892-words)
-  - [SECTION 1 (892 words)](#section-1-892-words)
+- [Duolingo - Vocabulary (895 words)](#duolingo---vocabulary-895-words)
+  - [SECTION 1 (895 words)](#section-1-895-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -59,7 +59,7 @@
     - [Doctor (23 words)](#doctor-23-words)
     - [Studies (16 words)](#studies-16-words)
     - [Moving (22 words)](#moving-22-words)
-    - [Transit (2 words)](#transit-2-words)
+    - [Transit (5 words)](#transit-5-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -82,7 +82,7 @@
 - `sail (verb)`  /seɪl/ <br> 1. to travel on the water: The ship sailed along the coast <br> 2. to control a boat with sails: We sailed the yacht down the river
 - `sailor`  /ˈseɪlər/ <br> a person who sails ships or boats as their job or as a sport
 - `nonsense`  /ˈnɑːnsens/ <br> words or ideas that have no meaning or that are not true: It's nonsense to say that Jackie is lazy
-- `drop (verb)`  /drɑːp/ <br> 1. to let something fall: I dropped my watch and it broke <br> 2. to fall: The glass dropped from her hands <br> 3. to become lower or less: The temperature has dropped <br> 4. (also drop somebody off) to stop your car and let somebody get out: Could you drop me at the station? - He dropped me off at the bus stop <br> 5. to stop doing something: I'm going to drop geography (= stop studying it) at school next year <br> `drop in` to visit somebody who does not know that you are coming: We were in the area so we thought we'd drop in and see you <br> `drop off` to fall asleep: She dropped off in front of the TV <br> `drop out` to stop doing something with a group of people: I dropped out of the football team after I hurt my leg
+- `drop (verb)`  /drɑːp/ <br> 1. to let something fall: I dropped my watch and it broke <br> 2. to fall: The glass dropped from her hands <br> 3. to become lower or less: The temperature has dropped <br> 4. (also drop somebody off) to stop your car and let somebody get out: Could you drop me at the station? - He dropped me off at the bus stop <br> 5. to stop doing something: I'm going to drop geography (= stop studying it) at school next year <br> `drop in` to visit somebody who does not know that you are coming: We were in the area so we thought we'd drop in and see you <br> `drop off` to fall asleep: She dropped off in front of the TV <br> `drop someone/something off` to take someone or something to a place, usually by car: I dropped off Ryan at the library because he needed to study. Then I drove to the grocery store <br> `drop out` to stop doing something with a group of people: I dropped out of the football team after I hurt my leg
 - `deck`  /dek/ <br> 1. one of the floors of a ship, plane or bus: He stood on the lower deck of the ship and looked out to sea <br> 2. (American) (British pack) a set of 52 cards for playing games
 - `flop`  /flɑːp/ <br> to fall or drop heavily
 - `laugh (verb)`  /læf/ <br> to make sounds to show that you are happy or that you think something is funny: His jokes always make me laugh <br> `laugh at somebody or something` to laugh to show that you think somebody or something is funny or silly: The children laughed at the clown - They all laughed at me when I said I was afraid of dogs
@@ -1433,9 +1433,9 @@
 
 ---
 
-## Duolingo - Vocabulary (892 words)
+## Duolingo - Vocabulary (895 words)
 
-### SECTION 1 (892 words)
+### SECTION 1 (895 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2395,9 +2395,12 @@
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 
-#### Transit (2 words)
+#### Transit (5 words)
 - `transit (noun)`  /ˈtræn.zɪt/ <br> the movement of goods or people from one place to another: The question is whether road transit is cheaper than rail
 - `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
+- `lane (noun)`  /leɪn/ <br> 1. a narrow road in the country <br> 2. one part of a wide road: We were driving in the middle lane of the motorway
+- `rush hour (noun)`   /ˈrʌʃ ˌɑʊər/ <br> the time when the roads are busy because a lot of people are going to or coming from work
+- `packed (adjective)`  /pækt/ <br> full: The train was packed
 ---
 
 ---

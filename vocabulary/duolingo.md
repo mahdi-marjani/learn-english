@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 892**
+**Total words: 895**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (892 words)](#section-1-892-words)
+- [SECTION 1 (895 words)](#section-1-895-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -39,11 +39,11 @@
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
   - [Moving (22 words)](#moving-22-words)
-  - [Transit (2 words)](#transit-2-words)
+  - [Transit (5 words)](#transit-5-words)
 
 ---
 
-## SECTION 1 (892 words)
+## SECTION 1 (895 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1003,7 +1003,10 @@
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 
-### Transit (2 words)
+### Transit (5 words)
 - `transit (noun)`  /ˈtræn.zɪt/ <br> the movement of goods or people from one place to another: The question is whether road transit is cheaper than rail
 - `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
+- `lane (noun)`  /leɪn/ <br> 1. a narrow road in the country <br> 2. one part of a wide road: We were driving in the middle lane of the motorway
+- `rush hour (noun)`   /ˈrʌʃ ˌɑʊər/ <br> the time when the roads are busy because a lot of people are going to or coming from work
+- `packed (adjective)`  /pækt/ <br> full: The train was packed
 ---
