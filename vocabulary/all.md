@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2272**
+**Total words: 2276**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (160 words)](#chapter-3-it-starts-with-a-tensor-160-words)
-- [Duolingo - Vocabulary (895 words)](#duolingo---vocabulary-895-words)
-  - [SECTION 1 (895 words)](#section-1-895-words)
+- [Duolingo - Vocabulary (899 words)](#duolingo---vocabulary-899-words)
+  - [SECTION 1 (899 words)](#section-1-899-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -59,7 +59,7 @@
     - [Doctor (23 words)](#doctor-23-words)
     - [Studies (16 words)](#studies-16-words)
     - [Moving (22 words)](#moving-22-words)
-    - [Transit (5 words)](#transit-5-words)
+    - [Transit (9 words)](#transit-9-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -742,7 +742,7 @@
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
-- `give`  /ɡɪv/ <br> 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give something away` <br> 1. to give something to somebody without getting money for it: I've given all my old clothes away <br> 2. to let someone else have something (a place, slot, ticket, or opportunity) that was previously held for another person: We waited an hour, but he never showed up, so we gave his table away <br> `give up` to stop trying to do something: I give up _ what's the answer?
+- `give`  /ɡɪv/ <br> 1. to let somebody have something: She gave me a watch for my birthday - I gave my ticket to the man at the door - Give the letter to your mother when you've read it <br> 2. to make a sound or movement: Jo have me an angry look - He gave a shout - She gave him a kiss <br> 3. to make somebody have or feel something: That noise is giving me a headache - whatever gave you that idea? <br> `give something away` <br> 1. to give something to somebody without getting money for it: I've given all my old clothes away <br> 2. to let someone else have something (a place, slot, ticket, or opportunity) that was previously held for another person: We waited an hour, but he never showed up, so we gave his table away <br> `give somebody back something; give something back to somebody` to return something to somebody: Can you give me back that book I lent you? <br> `give in` to accept or agree to something that you did not want to accept or agree to: My parents finally gave in and said I could go to the party <br> `give something out` to give something to a lot of people: Could you give out these books to the class, please? <br> `give up` to stop trying to do something: I give up _ what's the answer? <br> `give something up` to stop doing or having something: He's trying to give up smoking <br> `give someone a ride` to take someone somewhere in your car or other vehicle: Can you give me a ride to the station? - Lin is giving her grandmother Lucy a ride on her motorcycle through the city
 - `chance`  /tʃæns/ <br> 1. a possibility that something may happen: There's no chance that she'll come now - She has a good chance of becoming team captain - He doesn't stand (= have) a chance of passing the exam <br> 2. a time when you can do something (SAME MEANING: opportunity): it was their last chance to escape - Be quiet and give her a chance to explain <br> 3. when something happens that you cannot control or that you have not planned (SAME MEANING: luck): We must plan this carefully. I don't want to leave anything to chance - We met by chance at the station
 - `serious`  /ˈsɪriəs/ <br> 1. very bad: That was a serious mistake <br> 2. important: a serious decision <br> 3. not funny: a serious film <br> 4. if you are serious, you are not joking or playing: Are you serious about going to live in Spain? - You look very serious. Is something wrong?
 - `across`  /əˈkrɔːs/ <br> over, 1. from one side to the other side of something: We walked across the field - A smile spread across her face - The river was about twenty metres across <br> 2. on the other side of something: There is a bank just across the road
@@ -932,7 +932,7 @@
 - `expensive`  /ɪkˈspensɪv/ <br> costing a lot of money or requiring a lot of resources
 - `overhead`  /ˈoʊvərhed/ <br> extra
 - `claim (noun)`  /kleɪm/ <br> 1. saying that something is true: Nobody believed his claim that he had found the money on the street <br> 2. something that you ask for because you think you have a right to it: The workers are making a claim for better pay
-- `trivial`  /ˈtrɪvi.əl/ <br> not important: She gets angry about trivial things
+- `trivial (adjective)`  /ˈtrɪviəl/ <br> not important: She gets angry about trivial things
 - `in the thick of it`  <br> deeply involved in a particular activity or situation: We hope that by the time you are in the thick of this book, you’ll agree with us that our claims here are well founded
 - `competitive`  /kəmˈpetətɪv/ <br> involving competition
 - `analogy`  /əˈnæl.ə.dʒi/ <br> comparison
@@ -1436,9 +1436,9 @@
 
 ---
 
-## Duolingo - Vocabulary (895 words)
+## Duolingo - Vocabulary (899 words)
 
-### SECTION 1 (895 words)
+### SECTION 1 (899 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2398,12 +2398,16 @@
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 
-#### Transit (5 words)
+#### Transit (9 words)
 - `transit (noun)`  /ˈtræn.zɪt/ <br> the movement of goods or people from one place to another: The question is whether road transit is cheaper than rail
 - `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
 - `lane (noun)`  /leɪn/ <br> 1. a narrow road in the country <br> 2. one part of a wide road: We were driving in the middle lane of the motorway
 - `rush hour (noun)`   /ˈrʌʃ ˌɑʊər/ <br> the time when the roads are busy because a lot of people are going to or coming from work
 - `packed (adjective)`  /pækt/ <br> full: The train was packed
+- `slow (verb)`  /sloʊ/ <br> `slow down; slow somebody or something down` to start to go more slowly; to make somebody or something start to go more slowly: The train slowed down as it came into the station - Don't talk to me when I'm working _ it slows me down
+- `traffic jam (noun)`  /ˈtræf.ɪk ˌdʒæm/ <br> a long line of cars and other vehicles that cannot move or can only move slowly <br> <img src='images/traffic-jam.jpg' alt='traffic-jam' width='200'>
+- `watch (verb)`  /wɑːtʃ/ <br> 1. to look at somebody or something for some time: We watched television all evening - Watch how I do this <br> 2. to look after something or somebody: Could you watch my bags while I buy a ticket? <br> `watch out` to be careful because of somebody or something dangerous (SAME MEANING: look out): Watch out! There's a car coming <br> `watch out for somebody or something` to look carefully and be ready for somebody or something dangerous (SAME MEANING: look out for somebody or something): Watch out for ice on the roads
+- `trivia (noun)`  /ˈtrɪviə/ <br> details or information that are not important: we fill our days with meaningless trivia
 ---
 
 ---
