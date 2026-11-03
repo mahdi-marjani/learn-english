@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 899**
+**Total words: 903**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (899 words)](#section-1-899-words)
+- [SECTION 1 (903 words)](#section-1-903-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -39,11 +39,11 @@
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
   - [Moving (22 words)](#moving-22-words)
-  - [Transit (9 words)](#transit-9-words)
+  - [Transit (13 words)](#transit-13-words)
 
 ---
 
-## SECTION 1 (899 words)
+## SECTION 1 (903 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1003,7 +1003,7 @@
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 
-### Transit (9 words)
+### Transit (13 words)
 - `transit (noun)`  /ˈtræn.zɪt/ <br> the movement of goods or people from one place to another: The question is whether road transit is cheaper than rail
 - `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
 - `lane (noun)`  /leɪn/ <br> 1. a narrow road in the country <br> 2. one part of a wide road: We were driving in the middle lane of the motorway
@@ -1013,4 +1013,8 @@
 - `traffic jam (noun)`  /ˈtræf.ɪk ˌdʒæm/ <br> a long line of cars and other vehicles that cannot move or can only move slowly <br> <img src='images/traffic-jam.jpg' alt='traffic-jam' width='200'>
 - `watch (verb)`  /wɑːtʃ/ <br> 1. to look at somebody or something for some time: We watched television all evening - Watch how I do this <br> 2. to look after something or somebody: Could you watch my bags while I buy a ticket? <br> `watch out` to be careful because of somebody or something dangerous (SAME MEANING: look out): Watch out! There's a car coming <br> `watch out for somebody or something` to look carefully and be ready for somebody or something dangerous (SAME MEANING: look out for somebody or something): Watch out for ice on the roads
 - `trivia (noun)`  /ˈtrɪviə/ <br> details or information that are not important: we fill our days with meaningless trivia
+- `speed (verb)`  /spiːd/ <br> 1. to go or move very quickly: He sped past me on his bike <br> 2. to drive too fast: The police stopped me because I was speeding <br> `speed up; speed something up` to go faster; to make something go faster: What can we do to speed up the process?
+- `crosswalk (noun)`  /ˈkrɑːs.wɑːk/ <br> where you cross the street <br> <img src='images/crosswalk.jpg' alt='crosswalk' width='200'>
+- `jerk (verb)`  /dʒɜːrk/ <br> to move quickly or suddenly; to pull or make something move like this: The car jerked forward - She jerked the door open
+- `exit (noun)`  /ˈek.sɪt/ <br> where you leave a place (like a building, a road, or a highway): Where is the exit? - an emergency exit - Take the next exit to get off the highway
 ---
