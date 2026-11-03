@@ -6963,6 +6963,18 @@
               "phonetic": "/dens/",
               "mean_fa": "",
               "mean_en": "1. with a lot of things or people close together: dense forest <br> 2. thick and difficult to see through: The accident happened in dense fog <br> `dense array/matrix` (programming/mathematics) an array or matrix that stores every value, including all the zeros: A dense matrix with 3 rows and 3 columns stores all 9 numbers, even if most of them are 0 <br> <img src='images/dense.gif' alt='dense' width='600'>"
+            },
+            {
+              "word": "sparse (adjective)",
+              "phonetic": "/spɑːrs/",
+              "mean_fa": "",
+              "mean_en": "small in numbers or amount, often spread over a large area: sparse hair <br> `sparse array/matrix` (programming/mathematics) an array or matrix that stores only the values that are not zero, skipping all the zeros: A sparse matrix with 3 rows and 3 columns stores only the few numbers that are not 0, saving memory"
+            },
+            {
+              "word": "entry (noun)",
+              "phonetic": "/ˈen.tri/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) the act of going into a place: The thieves gained entry (= got in) through a window <br> 2. (no plural) the right to go into a place: There's a sign that says 'No Entry' - They were refused entry into the country <br> 3. (plural entries) a person or thing that is entered in a competition: The standard of the entries was very high <br> 4. (plural entries) (programming/mathematics) an item in a list, table, array or matrix: A 3×3 matrix has 9 entries - Each entry in the array holds one number"
             }
           ]
         }

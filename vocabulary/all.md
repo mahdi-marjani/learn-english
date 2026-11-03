@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2280**
+**Total words: 2282**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1152 words)](#deep-learning-with-pytorch---vocabulary-1152-words)
+- [Deep Learning with PyTorch - Vocabulary (1154 words)](#deep-learning-with-pytorch---vocabulary-1154-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (687 words)](#part-1-core-pytorch-687-words)
+  - [Part 1: Core PyTorch (689 words)](#part-1-core-pytorch-689-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (160 words)](#chapter-3-it-starts-with-a-tensor-160-words)
+    - [Chapter 3: It starts with a tensor (162 words)](#chapter-3-it-starts-with-a-tensor-162-words)
 - [Duolingo - Vocabulary (903 words)](#duolingo---vocabulary-903-words)
   - [SECTION 1 (903 words)](#section-1-903-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -250,7 +250,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1152 words)
+## Deep Learning with PyTorch - Vocabulary (1154 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -738,7 +738,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (687 words)
+### Part 1: Core PyTorch (689 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1271,7 +1271,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (160 words)
+#### Chapter 3: It starts with a tensor (162 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1432,6 +1432,8 @@
 - `hook (noun)`  /hʊk/ <br> a curved piece of metal or plastic for hanging things on, or for catching fish with: Hang your coat on that hook - a fish hook <br> <img src='images/hook.jpg' alt='hook' width='200'>
 - `hook (verb)`  /hʊk/ <br> to connect or attach one thing to another: He hooked the trailer to his car <br> `hook up (to something) | hook somebody/something ↔ up (to something)` to connect somebody/something to a piece of equipment, to a power supply or to the internet: hook the computer up to the printer - hook up the computer to the printer
 - `dense (adjective)`  /dens/ <br> 1. with a lot of things or people close together: dense forest <br> 2. thick and difficult to see through: The accident happened in dense fog <br> `dense array/matrix` (programming/mathematics) an array or matrix that stores every value, including all the zeros: A dense matrix with 3 rows and 3 columns stores all 9 numbers, even if most of them are 0 <br> <img src='images/dense.gif' alt='dense' width='600'>
+- `sparse (adjective)`  /spɑːrs/ <br> small in numbers or amount, often spread over a large area: sparse hair <br> `sparse array/matrix` (programming/mathematics) an array or matrix that stores only the values that are not zero, skipping all the zeros: A sparse matrix with 3 rows and 3 columns stores only the few numbers that are not 0, saving memory
+- `entry (noun)`  /ˈen.tri/ <br> 1. (no plural) the act of going into a place: The thieves gained entry (= got in) through a window <br> 2. (no plural) the right to go into a place: There's a sign that says 'No Entry' - They were refused entry into the country <br> 3. (plural entries) a person or thing that is entered in a competition: The standard of the entries was very high <br> 4. (plural entries) (programming/mathematics) an item in a list, table, array or matrix: A 3×3 matrix has 9 entries - Each entry in the array holds one number
 ---
 
 ---
