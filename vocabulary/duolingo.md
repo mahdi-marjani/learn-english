@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 903**
+**Total words: 906**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (903 words)](#section-1-903-words)
+- [SECTION 1 (906 words)](#section-1-906-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -39,11 +39,11 @@
   - [Doctor (23 words)](#doctor-23-words)
   - [Studies (16 words)](#studies-16-words)
   - [Moving (22 words)](#moving-22-words)
-  - [Transit (13 words)](#transit-13-words)
+  - [Transit (16 words)](#transit-16-words)
 
 ---
 
-## SECTION 1 (903 words)
+## SECTION 1 (906 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1003,7 +1003,7 @@
 - `side door`  <br> a door at the side of a building
 - `disappointing (adjective)`  /ˌdɪsəˈpɔɪntɪŋ/ <br> If something is disappointing, it makes you feel sad because it is not as good as you hoped: disappointing exam result
 
-### Transit (13 words)
+### Transit (16 words)
 - `transit (noun)`  /ˈtræn.zɪt/ <br> the movement of goods or people from one place to another: The question is whether road transit is cheaper than rail
 - `hurtful (adjective)`  /ˈhɜːrtfl/ <br> making somebody feel upset (SAME MEANING: unkind): hurtful remarks - I cannot forget the hurtful things he said
 - `lane (noun)`  /leɪn/ <br> 1. a narrow road in the country <br> 2. one part of a wide road: We were driving in the middle lane of the motorway
@@ -1017,4 +1017,7 @@
 - `crosswalk (noun)`  /ˈkrɑːs.wɑːk/ <br> where you cross the street <br> <img src='images/crosswalk.jpg' alt='crosswalk' width='200'>
 - `jerk (verb)`  /dʒɜːrk/ <br> to move quickly or suddenly; to pull or make something move like this: The car jerked forward - She jerked the door open
 - `exit (noun)`  /ˈek.sɪt/ <br> where you leave a place (like a building, a road, or a highway): Where is the exit? - an emergency exit - Take the next exit to get off the highway
+- `back (adjective)`  /bæk/ <br> (only before noun) furthest from the front: the back door - back teeth
+- `back (adverb)`  /bæk/ <br> 1. in or to the place where somebody or something was before: I'll be back (= I will return) at six o'clock - Go back to sleep - We walked to the shops and back <br> 2. away from the front: I looked back to see if she was coming - Could everyone move back a bit, please? (OPPOSITE: forward) <br> 3. as a way of returning or answering something: He paid me the money back - I wrote her a letter, but she didn't write back - I was out when she rang, so I phoned her back <br> `back and forth` from one place to another and back again, many times: She travels back and forth between London and Glasgow
+- `wheel (noun)`  /wiːl/ <br> a thing like a circle that turns round to move something such as a car or a bicycle: His favorite toy is a dog on wheels
 ---
