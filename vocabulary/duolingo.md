@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 906**
+**Total words: 909**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (906 words)](#section-1-906-words)
+- [SECTION 1 (909 words)](#section-1-909-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -40,10 +40,11 @@
   - [Studies (16 words)](#studies-16-words)
   - [Moving (22 words)](#moving-22-words)
   - [Transit (16 words)](#transit-16-words)
+  - [Surprise (3 words)](#surprise-3-words)
 
 ---
 
-## SECTION 1 (906 words)
+## SECTION 1 (909 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1020,4 +1021,9 @@
 - `back (adjective)`  /bæk/ <br> (only before noun) furthest from the front: the back door - back teeth
 - `back (adverb)`  /bæk/ <br> 1. in or to the place where somebody or something was before: I'll be back (= I will return) at six o'clock - Go back to sleep - We walked to the shops and back <br> 2. away from the front: I looked back to see if she was coming - Could everyone move back a bit, please? (OPPOSITE: forward) <br> 3. as a way of returning or answering something: He paid me the money back - I wrote her a letter, but she didn't write back - I was out when she rang, so I phoned her back <br> `back and forth` from one place to another and back again, many times: She travels back and forth between London and Glasgow
 - `wheel (noun)`  /wiːl/ <br> a thing like a circle that turns round to move something such as a car or a bicycle: His favorite toy is a dog on wheels
+
+### Surprise (3 words)
+- `powerful (adjective)`  /ˈpaʊərfl/ <br> 1. having a lot of strength or power: The car has a very powerful engine - The president is very powerful <br> 2. having a strong effect: a powerful drug
+- `cigarette (noun)`  /ˈsɪɡəret/ <br> a thin tube of white paper filled with dried leaves (called tobacco), that some people smoke: He smokes two packets of cigarettes a day <br> <img src='images/cigarette.jpg' alt='cigarette' width='200'>
+- `tobacco (noun)`  /təˈbæk.oʊ/ <br> special dried leaves that people smoke in cigarettes and pipes <br> <img src='images/tobacco.jpg' alt='tobacco' width='200'>
 ---

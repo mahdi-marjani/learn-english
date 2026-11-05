@@ -5614,6 +5614,29 @@
               "mean_en": "a thing like a circle that turns round to move something such as a car or a bicycle: His favorite toy is a dog on wheels"
             }
           ]
+        },
+        {
+          "heading": "Surprise",
+          "words": [
+            {
+              "word": "powerful (adjective)",
+              "phonetic": "/ˈpaʊərfl/",
+              "mean_fa": "",
+              "mean_en": "1. having a lot of strength or power: The car has a very powerful engine - The president is very powerful <br> 2. having a strong effect: a powerful drug"
+            },
+            {
+              "word": "cigarette (noun)",
+              "phonetic": "/ˈsɪɡəret/",
+              "mean_fa": "",
+              "mean_en": "a thin tube of white paper filled with dried leaves (called tobacco), that some people smoke: He smokes two packets of cigarettes a day <br> <img src='images/cigarette.jpg' alt='cigarette' width='200'>"
+            },
+            {
+              "word": "tobacco (noun)",
+              "phonetic": "/təˈbæk.oʊ/",
+              "mean_fa": "",
+              "mean_en": "special dried leaves that people smoke in cigarettes and pipes <br> <img src='images/tobacco.jpg' alt='tobacco' width='200'>"
+            }
+          ]
         }
       ]
     }
