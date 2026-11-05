@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1154**
+**Total words: 1157**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (689 words)](#part-1-core-pytorch-689-words)
+- [Part 1: Core PyTorch (692 words)](#part-1-core-pytorch-692-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (162 words)](#chapter-3-it-starts-with-a-tensor-162-words)
+  - [Chapter 3: It starts with a tensor (165 words)](#chapter-3-it-starts-with-a-tensor-165-words)
 
 ---
 
@@ -348,7 +348,7 @@
 - `troubleshooting`  <br> debugging
 - `describe`  <br> explain
 - `tomography`  <br> imaging method that shows slices of the body
-- `along (adverb)`  /əˈlɔːŋ/ <br> 1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?
+- `along (adverb)`  /əˈlɔːŋ/ <br> 1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too? <br> `along with somebody/something` in addition to somebody/something; in the same way as somebody/something: California, along with Florida and Hawaii, is among the most popular US tourist destinations - She lost her job when the factory closed, along with hundreds of others
 - `relevant`  /ˈreləvənt/ <br> related; connected with what you are talking or writing about; important: We need somebody who can do the job well _ your age is not relevant (OPPOSITE: irrelevant)
 - `consume`  <br> to use fuel, energy, time, or a product, especially in large amounts: The software consumes huge amounts of internet bandwidth
 - `metric`  <br> a standard for measuring performance - معیار، سنجه
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (689 words)
+## Part 1: Core PyTorch (692 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1037,7 +1037,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (162 words)
+### Chapter 3: It starts with a tensor (165 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1200,4 +1200,7 @@
 - `dense (adjective)`  /dens/ <br> 1. with a lot of things or people close together: dense forest <br> 2. thick and difficult to see through: The accident happened in dense fog <br> `dense array/matrix` (programming/mathematics) an array or matrix that stores every value, including all the zeros: A dense matrix with 3 rows and 3 columns stores all 9 numbers, even if most of them are 0 <br> <img src='images/dense.gif' alt='dense' width='600'>
 - `sparse (adjective)`  /spɑːrs/ <br> small in numbers or amount, often spread over a large area: sparse hair <br> `sparse array/matrix` (programming/mathematics) an array or matrix that stores only the values that are not zero, skipping all the zeros: A sparse matrix with 3 rows and 3 columns stores only the few numbers that are not 0, saving memory
 - `entry (noun)`  /ˈen.tri/ <br> 1. (no plural) the act of going into a place: The thieves gained entry (= got in) through a window <br> 2. (no plural) the right to go into a place: There's a sign that says 'No Entry' - They were refused entry into the country <br> 3. (plural entries) a person or thing that is entered in a competition: The standard of the entries was very high <br> 4. (plural entries) (programming/mathematics) an item in a list, table, array or matrix: A 3×3 matrix has 9 entries - Each entry in the array holds one number
+- `extensible (adjective)`  /ɪkˈstensɪbl/ <br> able to be extended or added to; used to describe a computer program or language that can be changed by the people who use it in order to make it suitable for what they need to do
+- `subsequent (adjective)`  /ˈsʌb.sə.kwənt/ <br> happening or coming after something in time or order: Subsequent chapters cover more advanced topics
+- `accommodate (verb)`  /əˈkɑː.mə.deɪt/ <br> 1. to have or provide enough space for someone or something: The hotel can accommodate 200 guests <br> 2. to change or adjust in order to fit a situation or requirement: The software was updated to accommodate new file types
 ---

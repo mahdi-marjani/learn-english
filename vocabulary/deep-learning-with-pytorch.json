@@ -1930,7 +1930,7 @@
           "word": "along (adverb)",
           "phonetic": "/əˈlɔːŋ/",
           "mean_fa": "",
-          "mean_en": "1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too?"
+          "mean_en": "1. forward: He drove along very slowly <br> 2. (informal) with somebody: We're going for a walk. Why don't you come along too? <br> `along with somebody/something` in addition to somebody/something; in the same way as somebody/something: California, along with Florida and Hawaii, is among the most popular US tourist destinations - She lost her job when the factory closed, along with hundreds of others"
         },
         {
           "word": "relevant",
@@ -6975,6 +6975,24 @@
               "phonetic": "/ˈen.tri/",
               "mean_fa": "",
               "mean_en": "1. (no plural) the act of going into a place: The thieves gained entry (= got in) through a window <br> 2. (no plural) the right to go into a place: There's a sign that says 'No Entry' - They were refused entry into the country <br> 3. (plural entries) a person or thing that is entered in a competition: The standard of the entries was very high <br> 4. (plural entries) (programming/mathematics) an item in a list, table, array or matrix: A 3×3 matrix has 9 entries - Each entry in the array holds one number"
+            },
+            {
+              "word": "extensible (adjective)",
+              "phonetic": "/ɪkˈstensɪbl/",
+              "mean_fa": "",
+              "mean_en": "able to be extended or added to; used to describe a computer program or language that can be changed by the people who use it in order to make it suitable for what they need to do"
+            },
+            {
+              "word": "subsequent (adjective)",
+              "phonetic": "/ˈsʌb.sə.kwənt/",
+              "mean_fa": "",
+              "mean_en": "happening or coming after something in time or order: Subsequent chapters cover more advanced topics"
+            },
+            {
+              "word": "accommodate (verb)",
+              "phonetic": "/əˈkɑː.mə.deɪt/",
+              "mean_fa": "",
+              "mean_en": "1. to have or provide enough space for someone or something: The hotel can accommodate 200 guests <br> 2. to change or adjust in order to fit a situation or requirement: The software was updated to accommodate new file types"
             }
           ]
         }
