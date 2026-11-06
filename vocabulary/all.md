@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2292**
+**Total words: 2295**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1157 words)](#deep-learning-with-pytorch---vocabulary-1157-words)
+- [Deep Learning with PyTorch - Vocabulary (1160 words)](#deep-learning-with-pytorch---vocabulary-1160-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (692 words)](#part-1-core-pytorch-692-words)
+  - [Part 1: Core PyTorch (695 words)](#part-1-core-pytorch-695-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (165 words)](#chapter-3-it-starts-with-a-tensor-165-words)
+    - [Chapter 3: It starts with a tensor (168 words)](#chapter-3-it-starts-with-a-tensor-168-words)
 - [Duolingo - Vocabulary (910 words)](#duolingo---vocabulary-910-words)
   - [SECTION 1 (910 words)](#section-1-910-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -251,7 +251,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1157 words)
+## Deep Learning with PyTorch - Vocabulary (1160 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -739,7 +739,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (692 words)
+### Part 1: Core PyTorch (695 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1272,7 +1272,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (165 words)
+#### Chapter 3: It starts with a tensor (168 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1438,6 +1438,9 @@
 - `extensible (adjective)`  /ɪkˈstensɪbl/ <br> able to be extended or added to; used to describe a computer program or language that can be changed by the people who use it in order to make it suitable for what they need to do
 - `subsequent (adjective)`  /ˈsʌb.sə.kwənt/ <br> happening or coming after something in time or order: Subsequent chapters cover more advanced topics
 - `accommodate (verb)`  /əˈkɑː.mə.deɪt/ <br> 1. to have or provide enough space for someone or something: The hotel can accommodate 200 guests <br> 2. to change or adjust in order to fit a situation or requirement: The software was updated to accommodate new file types
+- `code (verb)`  /koʊd/ <br> to write instructions for a computer using a programming language: She coded a small game in one weekend
+- `differentiate (verb)`  /ˌdɪf.əˈren.ʃi.eɪt/ <br> to show or see the difference between things: Different colors help us differentiate the two lines on the graph - children can differentiate the past from the present
+- `arise (verb)`  /əˈraɪz/ <br> (formal) If a problem or difficult situation arises, it happens or starts to exist: A problem arose during the meeting
 ---
 
 ---
@@ -1571,7 +1574,7 @@
 - `actor`  /ˈæktər/ <br> a man or woman who acts in plays, films or television programmes - بازیگر
 - `act (verb)`  /ækt/ <br> 1. to do something, or to behave in a certain way: Doctors acted quickly to save the boy's life after the accident - Stop acting like a child <br> 2. to pretend to be somebody else in a play film or television programme (SAME MEANING: perform) <br> `act as something` to do the job of another person, usually for a short time: He acted as a manager while his boss was ill
 - `adult`  /ˈædʌlt/ <br> a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
-- `as`  <br> 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school
+- `as`  <br> 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school <br> `as with` in the same way as: As with most sports, you need practice to get better - As with his earlier movies, the special effects in his latest film are brilliant
 - `airline`  <br> a company that takes people or things to different places by plane: Which airline are you flying with?
 - `lie (verb)`  /laɪ/ <br> 1. to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar) <br> 2. (of a person or animal) to be in a resting position on a flat surface, not standing or sitting: Lin is lying on Bea's couch
 - `salary`  /ˈsæləri/ <br> money that you receive every month for the work that you do
@@ -2465,7 +2468,7 @@
 - `sensible`  /ˈsensəbl/ <br> able to think carefully about something and to do the right thing: It wasn't very sensible of you to run away - a sensible answer (OPPOSITE: silly)
 - `clever (adjective)`  /ˈklevər/ <br> smart; quick at learning and understanding things (SAME MEANING: intelligent): a clever student (OPPOSITE: stupid)
 - `crazy`  /ˈkreɪzi/ <br> 1. stupid; not sensible: You must be crazy to ride a bike at night with no lights <br> 2. very angry: My mum will go crazy if I get home late <br> 3. if you are crazy about something or somebody, you like them very much: She's crazy about football - He's crazy about her (SAME MEANING: mad)
-- `comfortable`  /ˈkʌm.fɚ.t̬ə.bəl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
+- `comfortable`  /ˈkʌmftəbl/, /ˈkʌmfərtəbl/ <br> 1. nice to sit in, to be in, or to wear: This is a very comfortable bed - comfortable shoes <br> 2. physically relaxed; with no pain or worry: Sit down and make yourself comfortable (OPPOSITE: uncomfortable) - راحت
 - `whistle (verb)`  /ˈwɪsl/ <br> to make a long high sound by blowing air out between your lips or through a whistle: He whistled a tune to himself <br> <img src='images/whistle.jpg' alt='whistle' width='200'>
 - `attract`  /əˈtrækt/ <br> 1. to make somebody like somebody or something: He was attracted her - I had always been attracted by the idea of working abroad <br> 2. to make somebody or something come somewhere: Moths are attracted to light - The new film has attracted a lot of publicity
 - `moth`  /mɑːθ/ <br> an insect with big wings that flies at night and is attracted to light <br> <img src='images/butterfly-vs-moth.jpg' alt='butterfly-vs-moth' width='200'> <img src='images/moth.jpg' alt='moth' width='200'>
