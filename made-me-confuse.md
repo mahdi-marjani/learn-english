@@ -16,6 +16,7 @@ A running list of words, sounds, and grammar points that tripped me up while lea
 - **soup** vs **soap** vs **swap**
 - **module** vs **nodule** — just one letter apart, but their phonetics are completely different
 - **until** vs **Intel** — sound alike, mean nothing alike
+- **emphasis** vs **emphasize**
 
 ---
 
