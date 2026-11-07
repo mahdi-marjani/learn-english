@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2295**
+**Total words: 2305**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (168 words)](#chapter-3-it-starts-with-a-tensor-168-words)
-- [Duolingo - Vocabulary (910 words)](#duolingo---vocabulary-910-words)
-  - [SECTION 1 (910 words)](#section-1-910-words)
+- [Duolingo - Vocabulary (920 words)](#duolingo---vocabulary-920-words)
+  - [SECTION 1 (920 words)](#section-1-920-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -60,7 +60,7 @@
     - [Studies (16 words)](#studies-16-words)
     - [Moving (22 words)](#moving-22-words)
     - [Transit (16 words)](#transit-16-words)
-    - [Surprise (4 words)](#surprise-4-words)
+    - [Surprise (14 words)](#surprise-14-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1445,9 +1445,9 @@
 
 ---
 
-## Duolingo - Vocabulary (910 words)
+## Duolingo - Vocabulary (920 words)
 
-### SECTION 1 (910 words)
+### SECTION 1 (920 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1495,8 +1495,8 @@
 - `taste (noun)`  /teɪst/ <br> 1. the feeling that a certain food or drink gives in your mouth: Sugar has a sweet taste and lemons have a sour taste - I don't like the taste of this cheese <br> 2. the power to know about food and drink with your mouth: When you have a cold, you often lose your sense of taste <br> 3. a little bit of food or drink: Have a taste of the fish to see if you like it <br> 4. being able to choose nice things: She has good taste in clothes
 - `taste (verb)`  /teɪst/ <br> 1. to have a certain flavour: This tastes of oranges - Honey tastes sweet <br> 2. to feel or know a certain food or drink in your mouth: Can you taste onions in this soup? <br> 3. to eat or drink a little of something, to test its flavour: Taste this cheese to see if you like it
 - `actually`  /ˈæktʃuəli/ <br> 1. really; in fact: You don't actually believe her, do you? - I can't believe I'm actually going to Australia <br> 2. a word that you use to disagree politely or when you say something new: I don't agree. I thought the film was very good, actually - 'Let's go out tonight' 'Actually, I'd like to stay in and watch a film'
-- `different`  /ˈdɪfərənt/ <br> is an adjective. It often goes before a noun (I have a different coat than her) or after the verb 'to be' (This test is different than last week's)
-- `difference`  /ˈdɪfərəns/ <br> is a noun. It can be a subject (The difference is noticeable in their results) or object (I can't find a difference in the photographs)
+- `different (adjective)`  /ˈdɪfərənt/ <br> is an adjective. It often goes before a noun (I have a different coat than her) or after the verb 'to be' (This test is different than last week's)
+- `difference (noun)`  /ˈdɪfərəns/ <br> is a noun. It can be a subject (The difference is noticeable in their results) or object (I can't find a difference in the photographs)
 - `delicious`  /dɪˈlɪʃəs/ <br> tasting very good; very good to eat: This soup is delicious
 - `sweet (adjective)`  /swiːt/ <br> 1. containing or tasting of sugar: Honey is sweet <br> 2. with a good smell: the sweet smell of roses <br> 3. attractive; pretty (SAME MEANING: cute): What a sweet little girl <br> 4. having or showing a kind character: It was sweet of you to help me
 - `sausage`  /ˈsɔːsɪdʒ/ <br> <br> <img src='images/sausage.jpg' alt='sausage' width='200'>
@@ -2425,11 +2425,21 @@
 - `back (adverb)`  /bæk/ <br> 1. in or to the place where somebody or something was before: I'll be back (= I will return) at six o'clock - Go back to sleep - We walked to the shops and back <br> 2. away from the front: I looked back to see if she was coming - Could everyone move back a bit, please? (OPPOSITE: forward) <br> 3. as a way of returning or answering something: He paid me the money back - I wrote her a letter, but she didn't write back - I was out when she rang, so I phoned her back <br> `back and forth` from one place to another and back again, many times: She travels back and forth between London and Glasgow
 - `wheel (noun)`  /wiːl/ <br> a thing like a circle that turns round to move something such as a car or a bicycle: His favorite toy is a dog on wheels
 
-#### Surprise (4 words)
+#### Surprise (14 words)
 - `powerful (adjective)`  /ˈpaʊərfl/ <br> 1. having a lot of strength or power: The car has a very powerful engine - The president is very powerful <br> 2. having a strong effect: a powerful drug
 - `cigarette (noun)`  /ˈsɪɡəret/ <br> a thin tube of white paper filled with dried leaves (called tobacco), that some people smoke: He smokes two packets of cigarettes a day <br> <img src='images/cigarette.jpg' alt='cigarette' width='200'>
 - `tobacco (noun)`  /təˈbæk.oʊ/ <br> special dried leaves that people smoke in cigarettes and pipes <br> <img src='images/tobacco.jpg' alt='tobacco' width='200'>
 - `mix (verb)`  /mɪks/ <br> 1. to put different things together to make something new: Mix yellow and blue paint together to make green <br> 2. to join together to make something new: Oil and water don't mix <br> 3. to be with and talk to other people: In my job, I mix with a lot of different people <br> `mix somebody or something up` to think that one person or thing is a different person or thing; to fail to recognize two people or things correctly by thinking that one person or thing is the other person or thing: People often mix us up because we look so similar - I think you're mixing me up with my sister <br> `mix something up` to make things untidy: Don't mix up my papers
+- `who cares`  <br> used to stress that something is not important: Who cares what she says? We'll do it our way - 'It looks as if we are going to lose.' 'Who cares?'
+- `lie (noun)`  /laɪ/ <br> something you say that you know is not true: She told me a lie
+- `guess what`  <br> used before telling someone something interesting or surprising; I have news: Guess what? We won the game 4–0
+- `embarrassed (adjective)`  /ɪmˈbærəst/ <br> If you are embarrassed, you feel shy or worried about what other people think of you: He felt embarrassed at being the centre of attention
+- `not at all`  <br> 1. definitely not; used to say 'no' or 'not' strongly: 'Are you tired?' 'Not at all' - I'm not at all happy about it <br> 2. used as a polite reply after someone has thanked you: 'Thanks for helping.' 'Not at all.'
+- `right now`  /raɪt naʊ/ <br> 1. at the present time: We're very busy right now <br> 2. immediately: Stop that right now!
+- `just now`  /dʒʌst naʊ/ <br> 1. at the present time: I'm not ready to talk about it just now <br> 2. a little time ago: she was talking to me just now - Who was that at the door just now?
+- `go (verb)`  /ɡoʊ/ <br> 1. to move from one place to another: I went to London by train - Her new car goes very fast <br> 2. to travel to a place to do something: Paul has gone shopping - Are you going to Dave's party? - I'll go and make some coffee <br> 3. to leave a place: I must go now _ it's four o'clock - What time does the train go? <br> 4. to become: Her hair has gone gray <br> 5. to have as its place: 'Where do these plates go?' 'In that cupboard' <br> 6. to lead to a place: Does this road go to the station? <br> 7. (used about a machine, etc.) to work: Jane dropped the clock and now it doesn't go <br> 8. to happen in a certain way: How is your new job going? - The week went very quickly <br> 9. to disappear: My headache has gone <br> 10. to be or look good with something else (SAME MEANING: match): Does this jumper go with my skirt? <br> 11. to make a certain sound: Cows go 'moo' <br> `be going to` 1. words that show what you plan to do in the future: Joe's going to cook the dinner tonight <br> 2. words that you use when you are sure that something will happen in the future: It's going to rain <br> `go ahead` to begin or continue to do something: 'Can I borrow your pen?' 'Sure, go ahead' <br> `go away` to leave a person or place; to leave the place where you live for at least one night: Go away! I'm doing my homework - They have gone away for the weekend <br> `go back` to return to a place where you were before: We're going back to school tomorrow <br> `go by` to pass: The holidays went by very quickly <br> `go down well` to be something that people like: The film went down very well in the US <br> `go off` 1. to explode: A bomb went off in the station today <br> 2. When food or drink goes off, it becomes too old to eat or drink: This milk has gone off _ it smells horrible <br> `go off somebody or something` to stop liking somebody or something: I've really gone off meat lately <br> `go on` 1. to happen: What's going on? <br> 2. to continue: I went on working <br> 3. words that you use when you want somebody to do something: Oh, go on! Come to the party with me! <br> `go out` 1. to leave the place where you live or work for a short time, returning on the same day: I went out for a walk - We're going out tonight <br> 2. to stop shining or burning: The fire has gone out <br> `go out with somebody` to have somebody as a boyfriend or girlfriend: She's going out with a boy at school <br> `go over something` to look at or explain something carefully from the beginning to the end (SAME MEANING: go through something): Go over your work before you give it to the teacher <br> `go round` 1. to be enough for everybody: Are there enough cakes to go round? <br> 2. to go to somebody's home: We're going round to Jo's this evening <br> `go through something` 1. to look at or explain something carefully from the beginning to the end (SAME MEANING: go over something): The teacher went through our homework <br> 2. to have a bad experience: She went through a difficult time when her mother was ill <br> `go up` to become higher or more (SAME MEANING: rise): The price of petrol has gone up again
+- `seriously (adverb)`  /ˈsɪr.i.əs.li/ <br> in a serious way: She's seriously ill - You're not seriously expecting me to believe that? - Smoking can seriously damage your health <br> `take somebody or something seriously` to show that you know somebody or something is important: Don't take what he says too seriously _ he's always joking
+- `forgive (verb)`  /fərˈɡɪv/ <br> to stop being angry with somebody for a bad thing that they did: I can't forgive him for behaving like that
 ---
 
 ---
