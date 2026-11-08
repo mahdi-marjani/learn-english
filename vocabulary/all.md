@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2305**
+**Total words: 2311**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (168 words)](#chapter-3-it-starts-with-a-tensor-168-words)
-- [Duolingo - Vocabulary (920 words)](#duolingo---vocabulary-920-words)
-  - [SECTION 1 (920 words)](#section-1-920-words)
+- [Duolingo - Vocabulary (926 words)](#duolingo---vocabulary-926-words)
+  - [SECTION 1 (926 words)](#section-1-926-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -60,7 +60,7 @@
     - [Studies (16 words)](#studies-16-words)
     - [Moving (22 words)](#moving-22-words)
     - [Transit (16 words)](#transit-16-words)
-    - [Surprise (14 words)](#surprise-14-words)
+    - [Surprise (20 words)](#surprise-20-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1445,9 +1445,9 @@
 
 ---
 
-## Duolingo - Vocabulary (920 words)
+## Duolingo - Vocabulary (926 words)
 
-### SECTION 1 (920 words)
+### SECTION 1 (926 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2425,7 +2425,7 @@
 - `back (adverb)`  /bæk/ <br> 1. in or to the place where somebody or something was before: I'll be back (= I will return) at six o'clock - Go back to sleep - We walked to the shops and back <br> 2. away from the front: I looked back to see if she was coming - Could everyone move back a bit, please? (OPPOSITE: forward) <br> 3. as a way of returning or answering something: He paid me the money back - I wrote her a letter, but she didn't write back - I was out when she rang, so I phoned her back <br> `back and forth` from one place to another and back again, many times: She travels back and forth between London and Glasgow
 - `wheel (noun)`  /wiːl/ <br> a thing like a circle that turns round to move something such as a car or a bicycle: His favorite toy is a dog on wheels
 
-#### Surprise (14 words)
+#### Surprise (20 words)
 - `powerful (adjective)`  /ˈpaʊərfl/ <br> 1. having a lot of strength or power: The car has a very powerful engine - The president is very powerful <br> 2. having a strong effect: a powerful drug
 - `cigarette (noun)`  /ˈsɪɡəret/ <br> a thin tube of white paper filled with dried leaves (called tobacco), that some people smoke: He smokes two packets of cigarettes a day <br> <img src='images/cigarette.jpg' alt='cigarette' width='200'>
 - `tobacco (noun)`  /təˈbæk.oʊ/ <br> special dried leaves that people smoke in cigarettes and pipes <br> <img src='images/tobacco.jpg' alt='tobacco' width='200'>
@@ -2440,6 +2440,12 @@
 - `go (verb)`  /ɡoʊ/ <br> 1. to move from one place to another: I went to London by train - Her new car goes very fast <br> 2. to travel to a place to do something: Paul has gone shopping - Are you going to Dave's party? - I'll go and make some coffee <br> 3. to leave a place: I must go now _ it's four o'clock - What time does the train go? <br> 4. to become: Her hair has gone gray <br> 5. to have as its place: 'Where do these plates go?' 'In that cupboard' <br> 6. to lead to a place: Does this road go to the station? <br> 7. (used about a machine, etc.) to work: Jane dropped the clock and now it doesn't go <br> 8. to happen in a certain way: How is your new job going? - The week went very quickly <br> 9. to disappear: My headache has gone <br> 10. to be or look good with something else (SAME MEANING: match): Does this jumper go with my skirt? <br> 11. to make a certain sound: Cows go 'moo' <br> `be going to` 1. words that show what you plan to do in the future: Joe's going to cook the dinner tonight <br> 2. words that you use when you are sure that something will happen in the future: It's going to rain <br> `go ahead` to begin or continue to do something: 'Can I borrow your pen?' 'Sure, go ahead' <br> `go away` to leave a person or place; to leave the place where you live for at least one night: Go away! I'm doing my homework - They have gone away for the weekend <br> `go back` to return to a place where you were before: We're going back to school tomorrow <br> `go by` to pass: The holidays went by very quickly <br> `go down well` to be something that people like: The film went down very well in the US <br> `go off` 1. to explode: A bomb went off in the station today <br> 2. When food or drink goes off, it becomes too old to eat or drink: This milk has gone off _ it smells horrible <br> `go off somebody or something` to stop liking somebody or something: I've really gone off meat lately <br> `go on` 1. to happen: What's going on? <br> 2. to continue: I went on working <br> 3. words that you use when you want somebody to do something: Oh, go on! Come to the party with me! <br> `go out` 1. to leave the place where you live or work for a short time, returning on the same day: I went out for a walk - We're going out tonight <br> 2. to stop shining or burning: The fire has gone out <br> `go out with somebody` to have somebody as a boyfriend or girlfriend: She's going out with a boy at school <br> `go over something` to look at or explain something carefully from the beginning to the end (SAME MEANING: go through something): Go over your work before you give it to the teacher <br> `go round` 1. to be enough for everybody: Are there enough cakes to go round? <br> 2. to go to somebody's home: We're going round to Jo's this evening <br> `go through something` 1. to look at or explain something carefully from the beginning to the end (SAME MEANING: go over something): The teacher went through our homework <br> 2. to have a bad experience: She went through a difficult time when her mother was ill <br> `go up` to become higher or more (SAME MEANING: rise): The price of petrol has gone up again
 - `seriously (adverb)`  /ˈsɪr.i.əs.li/ <br> in a serious way: She's seriously ill - You're not seriously expecting me to believe that? - Smoking can seriously damage your health <br> `take somebody or something seriously` to show that you know somebody or something is important: Don't take what he says too seriously _ he's always joking
 - `forgive (verb)`  /fərˈɡɪv/ <br> to stop being angry with somebody for a bad thing that they did: I can't forgive him for behaving like that
+- `glue (verb)`  /ɡluː/ <br> to stick one thing to another thing with glue: Glue the two pieces of wood together
+- `glue (noun)`  /ɡluː/ <br> a thick liquid that you use for sticking things together
+- `fair (adjective)`  /fer/ <br> 1. treating people equally or in the right way: They didn't get a fair trial - It's not fair! I have to go to bed before my sister! (OPPOSITE: unfair) <br> 2. quite good or quite large: They have a fair chance of winning - They've invited a fair number of people to their party <br> 3. (used about a person's skin or hair) light in color: He's got fair hair (OPPOSITE: dark) <br> 4. (used about the weather) bright and not raining
+- `treat (verb)`  /triːt/ <br> 1. to behave in a certain way towards somebody or something: How does your boss treat you? - Treat these glasses with care <br> 2. to think about something in a certain way: They treated my idea as a joke <br> 3. to try to make a sick person well again: Several people are being treated for burns <br> 4. to give yourself or another person something special or enjoyable: I treated the children to an ice cream
+- `equally (adverb)`  /ˈiː.kwə.li/ <br> 1. in the same way: Diet and exercise are equally important <br> 2. in equal parts or amounts: The money was divided equally among her four children
+- `juggle (verb)`  /ˈdʒʌɡl/ <br> to keep two or more things in the air by throwing and catching them quickly: you learn to juggle five balls
 ---
 
 ---
