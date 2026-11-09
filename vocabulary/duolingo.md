@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 926**
+**Total words: 929**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (926 words)](#section-1-926-words)
+- [SECTION 1 (929 words)](#section-1-929-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -41,10 +41,11 @@
   - [Moving (22 words)](#moving-22-words)
   - [Transit (16 words)](#transit-16-words)
   - [Surprise (20 words)](#surprise-20-words)
+  - [Technology (3 words)](#technology-3-words)
 
 ---
 
-## SECTION 1 (926 words)
+## SECTION 1 (929 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1043,4 +1044,9 @@
 - `treat (verb)`  /triːt/ <br> 1. to behave in a certain way towards somebody or something: How does your boss treat you? - Treat these glasses with care <br> 2. to think about something in a certain way: They treated my idea as a joke <br> 3. to try to make a sick person well again: Several people are being treated for burns <br> 4. to give yourself or another person something special or enjoyable: I treated the children to an ice cream
 - `equally (adverb)`  /ˈiː.kwə.li/ <br> 1. in the same way: Diet and exercise are equally important <br> 2. in equal parts or amounts: The money was divided equally among her four children
 - `juggle (verb)`  /ˈdʒʌɡl/ <br> to keep two or more things in the air by throwing and catching them quickly: you learn to juggle five balls
+
+### Technology (3 words)
+- `update (verb)`  /ˌʌpˈdeɪt/ <br> 1. `update something` to make something more modern by adding new parts, etc.: an updated version of the app <br> 2. to give somebody the most recent information about something; to add the most recent information to something: I'll be updating you shortly - Our records are regularly updated
+- `volume (noun)`  /ˈvɑːl.juːm/ <br> 1. (no plural) the amount of space that something fills, or the amount of space inside something: What is the volume of this box? <br> 2. (no plural) the amount of sound that something makes: I can't hear the radio. Can you turn the volume up? <br> 3. (plural volumes) a book, especially one of a set: The dictionary is in two volumes
+- `peace (noun)`  /piːs/ <br> 1. a time when there is no war or fighting between people or countries: The two countries eventually made peace (= agreed to stop fighting) <br> 2. the state of being quiet and calm: the peace and quiet of the countryside - Go away and leave me in peace
 ---
