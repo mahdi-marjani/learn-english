@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 929**
+**Total words: 935**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (929 words)](#section-1-929-words)
+- [SECTION 1 (935 words)](#section-1-935-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -41,11 +41,11 @@
   - [Moving (22 words)](#moving-22-words)
   - [Transit (16 words)](#transit-16-words)
   - [Surprise (20 words)](#surprise-20-words)
-  - [Technology (3 words)](#technology-3-words)
+  - [Technology (9 words)](#technology-9-words)
 
 ---
 
-## SECTION 1 (929 words)
+## SECTION 1 (935 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1045,8 +1045,14 @@
 - `equally (adverb)`  /ˈiː.kwə.li/ <br> 1. in the same way: Diet and exercise are equally important <br> 2. in equal parts or amounts: The money was divided equally among her four children
 - `juggle (verb)`  /ˈdʒʌɡl/ <br> to keep two or more things in the air by throwing and catching them quickly: you learn to juggle five balls
 
-### Technology (3 words)
+### Technology (9 words)
 - `update (verb)`  /ˌʌpˈdeɪt/ <br> 1. `update something` to make something more modern by adding new parts, etc.: an updated version of the app <br> 2. to give somebody the most recent information about something; to add the most recent information to something: I'll be updating you shortly - Our records are regularly updated
 - `volume (noun)`  /ˈvɑːl.juːm/ <br> 1. (no plural) the amount of space that something fills, or the amount of space inside something: What is the volume of this box? <br> 2. (no plural) the amount of sound that something makes: I can't hear the radio. Can you turn the volume up? <br> 3. (plural volumes) a book, especially one of a set: The dictionary is in two volumes
 - `peace (noun)`  /piːs/ <br> 1. a time when there is no war or fighting between people or countries: The two countries eventually made peace (= agreed to stop fighting) <br> 2. the state of being quiet and calm: the peace and quiet of the countryside - Go away and leave me in peace
+- `voicemail (noun)`  /ˈvɔɪ.s.meɪl/ <br> a spoken phone message
+- `attach (verb)`  /əˈtætʃ/ <br> to join or fix one thing to another thing: I attached the photo to the letter
+- `plug (verb)`  /plʌɡ/ <br> to fill a hole, so that nothing can get out: He plugged the hole in the pipe with an old rag <br> `plug something in` to join a lamp, machine, etc. to the electricity, using a plug: Can you plug in the television, please? (OPPOSITE: unplug)
+- `dial (verb)`  /ˈdaɪ.əl/ <br> to use a telephone by pushing buttons or turning the dial to call a number: You have dialled the wrong number
+- `dial (noun)`  /ˈdaɪ.əl/ <br> 1. a round part of a clock or other piece of equipment with numbers or letters on it which shows the time, speed, temperature, etc.: Check the tyre pressure on the dial <br> <img src='images/dial1.jpg' alt='dial1' width='200'> <br> 2. a device on an instrument that you move in order to control it or make changes to it: You turn this dial to find a different radio station <br> <img src='images/dial2.jpg' alt='dial2' width='200'> <br> 3. the disc with numbers on old-fashioned phones that you turn when you make a call <br> <img src='images/dial3.jpg' alt='dial3' width='200'>
+- `pocket dial (noun)`  /ˈpɑː.kɪt ˌdaɪ.əl/ <br> a phone call that someone makes accidentally, usually by pressing buttons on the phone while it is in their pocket or bag: I didn't mean to call you _ it was just a pocket dial
 ---
