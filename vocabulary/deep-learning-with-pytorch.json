@@ -7011,6 +7011,18 @@
               "phonetic": "/əˈraɪz/",
               "mean_fa": "",
               "mean_en": "(formal) If a problem or difficult situation arises, it happens or starts to exist: A problem arose during the meeting"
+            },
+            {
+              "word": "file descriptor (noun)",
+              "phonetic": "/faɪl dɪˈskrɪptər/",
+              "mean_fa": "",
+              "mean_en": "a number or handle that the operating system gives to a program when it opens a file, used to read from or write to that file: The program opened the file and used its file descriptor to write the data"
+            },
+            {
+              "word": "lieu (noun)",
+              "phonetic": "/luː/",
+              "mean_fa": "",
+              "mean_en": "`in lieu (of something)` instead of: They took cash in lieu of the prize they had won"
             }
           ]
         }
