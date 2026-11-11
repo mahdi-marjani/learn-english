@@ -307,7 +307,7 @@
 - `introduce`  /ˌɪn.trəˈduːs/ <br> 1. to tell someone our name so they can know us, or to tell them someone else's name so they can know each other, normally happening in the first meeting: She introduced me to her brother - He introduced himself to me (= told me his name) <br> 2. to bring in something new: This law was introduced in 2002
 - `rounds`  <br> بخش‌های پایانی
 - `tour`  /tʊr/ <br> 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
-- `notice`  <br> متوجه شدن
+- `notice (verb)`  /ˈnəʊtɪs/ <br> to see or pay attention to somebody or something: Did you notice what she was wearing? - I noticed that he was driving a new car
 - `among (preposition)`  /əˈmʌŋ/ <br> 1. in the middle of a group of people or things: I often feel nervous when I'm among strangers <br> 2. in a particular group of people or things: There is a lot of anger among students about the new law <br> 3. for or by more than two things or people: He divided the money among his six children
 - `although`  /ɑːlˈðoʊ/ <br> 1. used for introducing a statement that makes the main statement in a sentence seem surprising: Although she was ill, she went to work <br> 2. but (SAME MEANING: though): I love dogs, although I wouldn't have one as a pet
 - `collaborative`  <br> مشارکتی

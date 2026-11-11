@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2322**
+**Total words: 2328**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (170 words)](#chapter-3-it-starts-with-a-tensor-170-words)
-- [Duolingo - Vocabulary (935 words)](#duolingo---vocabulary-935-words)
-  - [SECTION 1 (935 words)](#section-1-935-words)
+- [Duolingo - Vocabulary (941 words)](#duolingo---vocabulary-941-words)
+  - [SECTION 1 (941 words)](#section-1-941-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -61,7 +61,7 @@
     - [Moving (22 words)](#moving-22-words)
     - [Transit (16 words)](#transit-16-words)
     - [Surprise (20 words)](#surprise-20-words)
-    - [Technology (9 words)](#technology-9-words)
+    - [Technology (15 words)](#technology-15-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -543,7 +543,7 @@
 - `introduce`  /ˌɪn.trəˈduːs/ <br> 1. to tell someone our name so they can know us, or to tell them someone else's name so they can know each other, normally happening in the first meeting: She introduced me to her brother - He introduced himself to me (= told me his name) <br> 2. to bring in something new: This law was introduced in 2002
 - `rounds`  <br> بخش‌های پایانی
 - `tour`  /tʊr/ <br> 1. a journey to see a lot of different places: We went on a tour of Scotland <br> 2. a short visit to see a building or city: They gave us a tour of the house
-- `notice`  <br> متوجه شدن
+- `notice (verb)`  /ˈnəʊtɪs/ <br> to see or pay attention to somebody or something: Did you notice what she was wearing? - I noticed that he was driving a new car
 - `among (preposition)`  /əˈmʌŋ/ <br> 1. in the middle of a group of people or things: I often feel nervous when I'm among strangers <br> 2. in a particular group of people or things: There is a lot of anger among students about the new law <br> 3. for or by more than two things or people: He divided the money among his six children
 - `although`  /ɑːlˈðoʊ/ <br> 1. used for introducing a statement that makes the main statement in a sentence seem surprising: Although she was ill, she went to work <br> 2. but (SAME MEANING: though): I love dogs, although I wouldn't have one as a pet
 - `collaborative`  <br> مشارکتی
@@ -1448,9 +1448,9 @@
 
 ---
 
-## Duolingo - Vocabulary (935 words)
+## Duolingo - Vocabulary (941 words)
 
-### SECTION 1 (935 words)
+### SECTION 1 (941 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1583,7 +1583,7 @@
 - `salary`  /ˈsæləri/ <br> money that you receive every month for the work that you do
 - `confident`  /ˈkɑːnfɪdənt/ <br> sure that you can do something well, or that something will happen: I'm confident that our team will win
 - `airport`  <br> a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
-- `sign (verb)`  /saɪn/ <br> to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature)
+- `sign (verb)`  /saɪn/ <br> to write your name in your own way on something: Sign here, please - I signed the cheque (The noun is signature) <br> `sign up` register
 - `strange`  /streɪndʒ/ <br> 1. unusual or surprising: Did you hear that strange noise? <br> 2. that you do not know: We were lost in a strange town
 - `mystery`  /ˈmɪstəri/ <br> something strange that you cannot understand or explain: The police say that the man's death is still a mystery
 - `keep`  <br> 1. to stay in a particular state or condition: Keep still (= don't move) _ while I take your photo - We tried to keep warm <br> 2. to make somebody or something stay in a particular state or condition: Keep this door closed - I'm sorry to keep you waiting <br> 3. to continue to have something: You can keep that book _ I don't need it <br> 4. to put or store something in a particular place: Where do you keep the coffee? <br> 5. to continue doing something; to do something many times: Keep driving until you see the cinema, then turn left - She keeps forgetting my name <br> 6. to look after and buy food and other things for a person or an animal: It costs a lot to keep a family of four - They keep sheep and pigs on their farm <br> 7. to stay fresh: Will this fish keep until tomorrow? <br> `keep away from somebody or something` to not go near somebody or something: Keep away from the river, children <br> `keep somebody from doing something` to stop somebody from doing something: You can't keep me from going out <br> `keep going` to continue: I was very tired but I kept going to the end of the race <br> `keep off something` to not go on something: Keep off the grass <br> `keep on doing something` to continue doing something; to do something many times: We kept on driving all night - That man keeps on looking at me <br> `keep out` to stay outside: The sign on the door said 'Danger, Keep out!' <br> `keep somebody or something out` to stop somebody or something from going in: We put a fence round the garden to keep the sheep out <br> `keep up with somebody or something` to go as fast as another person or thing so that you are together: Don't walk so quickly _ I can't keep up with you
@@ -2450,7 +2450,7 @@
 - `equally (adverb)`  /ˈiː.kwə.li/ <br> 1. in the same way: Diet and exercise are equally important <br> 2. in equal parts or amounts: The money was divided equally among her four children
 - `juggle (verb)`  /ˈdʒʌɡl/ <br> to keep two or more things in the air by throwing and catching them quickly: you learn to juggle five balls
 
-#### Technology (9 words)
+#### Technology (15 words)
 - `update (verb)`  /ˌʌpˈdeɪt/ <br> 1. `update something` to make something more modern by adding new parts, etc.: an updated version of the app <br> 2. to give somebody the most recent information about something; to add the most recent information to something: I'll be updating you shortly - Our records are regularly updated
 - `volume (noun)`  /ˈvɑːl.juːm/ <br> 1. (no plural) the amount of space that something fills, or the amount of space inside something: What is the volume of this box? <br> 2. (no plural) the amount of sound that something makes: I can't hear the radio. Can you turn the volume up? <br> 3. (plural volumes) a book, especially one of a set: The dictionary is in two volumes
 - `peace (noun)`  /piːs/ <br> 1. a time when there is no war or fighting between people or countries: The two countries eventually made peace (= agreed to stop fighting) <br> 2. the state of being quiet and calm: the peace and quiet of the countryside - Go away and leave me in peace
@@ -2460,6 +2460,12 @@
 - `dial (verb)`  /ˈdaɪ.əl/ <br> to use a telephone by pushing buttons or turning the dial to call a number: You have dialled the wrong number
 - `dial (noun)`  /ˈdaɪ.əl/ <br> 1. a round part of a clock or other piece of equipment with numbers or letters on it which shows the time, speed, temperature, etc.: Check the tyre pressure on the dial <br> <img src='images/dial1.jpg' alt='dial1' width='200'> <br> 2. a device on an instrument that you move in order to control it or make changes to it: You turn this dial to find a different radio station <br> <img src='images/dial2.jpg' alt='dial2' width='200'> <br> 3. the disc with numbers on old-fashioned phones that you turn when you make a call <br> <img src='images/dial3.jpg' alt='dial3' width='200'>
 - `pocket dial (noun)`  /ˈpɑː.kɪt ˌdaɪ.əl/ <br> a phone call that someone makes accidentally, usually by pressing buttons on the phone while it is in their pocket or bag: I didn't mean to call you _ it was just a pocket dial
+- `notice (noun)`  /ˈnəʊtɪs/ <br> 1. (plural notices) a piece of writing that tells people something: The notice on the wall says 'NO SMOKING' <br> 2. (no plural) a warning that something will happen; the amount of time before it happens: We only had two weeks' notice of the exam - We left for Scotland at very short notice and I forgot my coat - He's handed in his notice (= he has said officially that he will leave his job) <br> `take no notice` to not pay attention to something (SAME MEANING: ignore): Take no notice of what she said
+- `awesome (adjective)`  /ˈɑː.səm/ <br> 1. very impressive and perhaps rather frightening: an awesome sight <br> 2. (American, informal) very good, enjoyable, etc. (SAME MEANING: great): I just bought this awesome new CD - Wow! That's totally awesome
+- `affordable (adjective)`  /əˈfɔːrdəbl/ <br> not expensive; reasonably priced: affordable homes - nice clothes at affordable prices
+- `back (verb)`  /bæk/ <br> 1. to move backwards or to make something move backwards: She backed the car out of the garage <br> 2. to give help or support to somebody or something: They're backing their school team <br> `back away` to move away backwards: Sally backed away from the big dog <br> `back out` to not do something that you promised or agreed to do: You promised you would come with me. You can't back out of it now <br> `back something up` 1. to say or show that something is true: All the evidence backed up what the woman had said <br> 2. (computers) to make a copy of information in your computer that you do not want to lose
+- `connect (verb)`  /kəˈnekt/ <br> to join one thing to another thing; make a link between: This wire connects the DVD player to the television - The two cities are connected by a motorway
+- `text (noun)`  /tekst/ <br> 1. (no plural) the words in a book, newspaper or magazine: This book has a lot of pictures but not much text <br> 2. (plural texts) another word for text message <br> 3. (plural texts) a book or a short piece of writing that you study: Read the text and answer the questions
 ---
 
 ---
