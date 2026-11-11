@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1162**
+**Total words: 1167**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,10 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (697 words)](#part-1-core-pytorch-697-words)
+- [Part 1: Core PyTorch (702 words)](#part-1-core-pytorch-702-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-  - [Chapter 3: It starts with a tensor (170 words)](#chapter-3-it-starts-with-a-tensor-170-words)
+  - [Chapter 3: It starts with a tensor (175 words)](#chapter-3-it-starts-with-a-tensor-175-words)
 
 ---
 
@@ -504,7 +504,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (697 words)
+## Part 1: Core PyTorch (702 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1037,7 +1037,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-### Chapter 3: It starts with a tensor (170 words)
+### Chapter 3: It starts with a tensor (175 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1208,4 +1208,9 @@
 - `arise (verb)`  /əˈraɪz/ <br> (formal) If a problem or difficult situation arises, it happens or starts to exist: A problem arose during the meeting
 - `file descriptor (noun)`  /faɪl dɪˈskrɪptər/ <br> a number or handle that the operating system gives to a program when it opens a file, used to read from or write to that file: The program opened the file and used its file descriptor to write the data
 - `lieu (noun)`  /luː/ <br> `in lieu (of something)` instead of: They took cash in lieu of the prize they had won
+- `equivalently (adverb)`  /ɪˈkwɪv.əl.ənt.li/ <br> in a way that has the same amount, value, purpose, qualities, etc. as something else: The two groups of students performed equivalently in the test - You can write 10% or, equivalently, 0.1
+- `interoperable (adjective)`  /ˌɪntərˈɑːpərəbl/ <br> If two systems or pieces of equipment are interoperable, they can both work together: A CSV file is interoperable because almost every program can open it
+- `use case (noun)`  /ˈjuːs keɪs/ <br> a particular situation or purpose for which something is used: Different users have different use cases for the same tool - A laptop is the best choice for this use case, because I travel a lot
+- `to do so`  <br> to act in the way mentioned: We made every effort to contact her but were unable to do so - She's young enough to train as a doctor if she chooses to do so
+- `suspect (verb)`  /səˈspekt/ <br> 1. to think that something is true, but not be certain: John wasn't at college today _ I suspect that he's ill <br> 2. to think that somebody has done something wrong but not be certain: They suspect Helen of stealing the money
 ---
