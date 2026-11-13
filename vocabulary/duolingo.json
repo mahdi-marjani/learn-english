@@ -5846,6 +5846,77 @@
               "mean_en": "a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>"
             }
           ]
+        },
+        {
+          "heading": "Politics",
+          "words": [
+            {
+              "word": "politics (noun)",
+              "phonetic": "/ˈpɑːlətɪks/",
+              "mean_fa": "",
+              "mean_en": "1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university"
+            },
+            {
+              "word": "politician (noun)",
+              "phonetic": "/ˌpɑːləˈtɪʃn/",
+              "mean_fa": "",
+              "mean_en": "a person who works in politics: Politician of all parties supported us"
+            },
+            {
+              "word": "state (noun)",
+              "phonetic": "/steɪt/",
+              "mean_fa": "",
+              "mean_en": "1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America"
+            },
+            {
+              "word": "democracy (noun)",
+              "phonetic": "/dɪˈmɑː.krə.si/",
+              "mean_fa": "",
+              "mean_en": "1. a system of government where the people choose their leader by voting <br> 2. a country with a government that the people choose"
+            },
+            {
+              "word": "jaw (noun)",
+              "phonetic": "/dʒɑː/",
+              "mean_fa": "",
+              "mean_en": "one of the two bones in the head of a person or animal that hold the teeth; the lower part of your face that moves when you open your mouth: a broken jaw - He has a strong/square jaw <br> <img src='images/jaw.jpg' alt='jaw' width='200'>"
+            },
+            {
+              "word": "volunteer (noun)",
+              "phonetic": "/ˌvɑːlənˈtɪr/",
+              "mean_fa": "",
+              "mean_en": "person who helps for free; a person who says that they will do a job without being forced or without being paid: They're asking for volunteers to help at the village fête"
+            },
+            {
+              "word": "senator (noun)",
+              "phonetic": "/ˈsenətər/",
+              "mean_fa": "",
+              "mean_en": "a member of the Senate"
+            },
+            {
+              "word": "senate (noun)",
+              "phonetic": "/ˈsenət/",
+              "mean_fa": "",
+              "mean_en": "(usually the Senate) one of the parts of the government in some countries, for example the US"
+            },
+            {
+              "word": "funding (noun)",
+              "phonetic": "/ˈfʌn.dɪŋ/",
+              "mean_fa": "",
+              "mean_en": "money given by a government or organization for an event or activity: They received state funding for the project"
+            },
+            {
+              "word": "fund (noun)",
+              "phonetic": "/fʌnd/",
+              "mean_fa": "",
+              "mean_en": "money that will be used for something special: a fund to help homeless people - The school wants to raise funds for new computers"
+            },
+            {
+              "word": "economy (noun)",
+              "phonetic": "/iˈkɑː.nə.mi/",
+              "mean_fa": "",
+              "mean_en": "1. the way that a country spends its money and makes, buys and sells things: the economies of Qatar and Kuwait <br> 2. using money or things well and carefully: We need to make some economies"
+            }
+          ]
         }
       ]
     }

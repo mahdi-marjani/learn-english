@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 943**
+**Total words: 954**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (943 words)](#section-1-943-words)
+- [SECTION 1 (954 words)](#section-1-954-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -42,10 +42,11 @@
   - [Transit (16 words)](#transit-16-words)
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
+  - [Politics (11 words)](#politics-11-words)
 
 ---
 
-## SECTION 1 (943 words)
+## SECTION 1 (954 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1063,4 +1064,17 @@
 - `text (noun)`  /tekst/ <br> 1. (no plural) the words in a book, newspaper or magazine: This book has a lot of pictures but not much text <br> 2. (plural texts) another word for text message <br> 3. (plural texts) a book or a short piece of writing that you study: Read the text and answer the questions
 - `upgrade (verb)`  /ʌpˈɡreɪd/ <br> improve; to change something so that it is better: I've just upgraded my PC
 - `wire (noun)`  /waɪr/ <br> a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>
+
+### Politics (11 words)
+- `politics (noun)`  /ˈpɑːlətɪks/ <br> 1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university
+- `politician (noun)`  /ˌpɑːləˈtɪʃn/ <br> a person who works in politics: Politician of all parties supported us
+- `state (noun)`  /steɪt/ <br> 1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America
+- `democracy (noun)`  /dɪˈmɑː.krə.si/ <br> 1. a system of government where the people choose their leader by voting <br> 2. a country with a government that the people choose
+- `jaw (noun)`  /dʒɑː/ <br> one of the two bones in the head of a person or animal that hold the teeth; the lower part of your face that moves when you open your mouth: a broken jaw - He has a strong/square jaw <br> <img src='images/jaw.jpg' alt='jaw' width='200'>
+- `volunteer (noun)`  /ˌvɑːlənˈtɪr/ <br> person who helps for free; a person who says that they will do a job without being forced or without being paid: They're asking for volunteers to help at the village fête
+- `senator (noun)`  /ˈsenətər/ <br> a member of the Senate
+- `senate (noun)`  /ˈsenət/ <br> (usually the Senate) one of the parts of the government in some countries, for example the US
+- `funding (noun)`  /ˈfʌn.dɪŋ/ <br> money given by a government or organization for an event or activity: They received state funding for the project
+- `fund (noun)`  /fʌnd/ <br> money that will be used for something special: a fund to help homeless people - The school wants to raise funds for new computers
+- `economy (noun)`  /iˈkɑː.nə.mi/ <br> 1. the way that a country spends its money and makes, buys and sells things: the economies of Qatar and Kuwait <br> 2. using money or things well and carefully: We need to make some economies
 ---
