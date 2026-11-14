@@ -7071,6 +7071,24 @@
               "phonetic": "/ˈoʊ.ɪŋ tuː/",
               "mean_fa": "",
               "mean_en": "because of: The flight was late owing to bad weather"
+            },
+            {
+              "word": "square root (noun)",
+              "phonetic": "/ˌskwer ˈruːt/",
+              "mean_fa": "",
+              "mean_en": "(math) a number that gives a certain number when you multiply it by itself: The square root of 9 is 3, because 3 × 3 = 9 <br> <img src='images/square-root.webp' alt='square-root' width='200'>"
+            },
+            {
+              "word": "interpretable (adjective)",
+              "phonetic": "/ɪnˈtɜːrprətəbl/",
+              "mean_fa": "",
+              "mean_en": "capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision"
+            },
+            {
+              "word": "utilize (verb)",
+              "phonetic": "/ˈjuːtəlaɪz/",
+              "mean_fa": "",
+              "mean_en": "(formal) use"
             }
           ]
         }

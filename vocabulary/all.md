@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2360**
+**Total words: 2363**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (19 words)](#e4-19-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1170 words)](#deep-learning-with-pytorch---vocabulary-1170-words)
+- [Deep Learning with PyTorch - Vocabulary (1173 words)](#deep-learning-with-pytorch---vocabulary-1173-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,10 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (705 words)](#part-1-core-pytorch-705-words)
+  - [Part 1: Core PyTorch (708 words)](#part-1-core-pytorch-708-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
-    - [Chapter 3: It starts with a tensor (178 words)](#chapter-3-it-starts-with-a-tensor-178-words)
+    - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
 - [Duolingo - Vocabulary (965 words)](#duolingo---vocabulary-965-words)
   - [SECTION 1 (965 words)](#section-1-965-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -253,7 +253,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1170 words)
+## Deep Learning with PyTorch - Vocabulary (1173 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -741,7 +741,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (705 words)
+### Part 1: Core PyTorch (708 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1274,7 +1274,7 @@
 - `numerous (adjective)`  /ˈnuː.mɚ.əs/ <br> many; existing in large numbers: There were numerous mistakes in the report - when the data points are not particularly numerous
 - `confine (verb)`  /kənˈfaɪn/ <br> to keep something within limits or restrict it to a particular area: an optional mask confines changes to selected regions - Please confine your comments to the topic at hand
 
-#### Chapter 3: It starts with a tensor (178 words)
+#### Chapter 3: It starts with a tensor (181 words)
 - `index (verb)`  /ˈɪn.deks/ <br> to select or access an element within a data structure using a position or key: You can index a list in Python using square brackets.
 - `interoperate`  /ˌɪntərˈɑːpəreɪt/ <br> If two or more systems interoperate, each system is able to work when the other system is working: We provide a mechanism that allows software applications in different languages to interoperate
 - `invariably (adverb)`  /ɪnˈver.i.ə.bli/ <br> always: He invariably arrives late to meetings
@@ -1453,6 +1453,9 @@
 - `portable (adjective)`  /ˈpɔːrtəbl/ <br> 1. able to be moved or carried easily: a portable television <br> 2. (computing) able to be used on different systems or programs: A PDF is portable because you can open it on any device
 - `encapsulate (verb)`  /ɪnˈkæpsjuleɪt/ <br> `encapsulate something (in something)` to express the most important parts of something in a few words, a small space or a single object (SAME MEANING: sum up): The movie title encapsulates the whole story
 - `owing to (preposition)`  /ˈoʊ.ɪŋ tuː/ <br> because of: The flight was late owing to bad weather
+- `square root (noun)`  /ˌskwer ˈruːt/ <br> (math) a number that gives a certain number when you multiply it by itself: The square root of 9 is 3, because 3 × 3 = 9 <br> <img src='images/square-root.webp' alt='square-root' width='200'>
+- `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
+- `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 ---
 
 ---
