@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2349**
+**Total words: 2360**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (178 words)](#chapter-3-it-starts-with-a-tensor-178-words)
-- [Duolingo - Vocabulary (954 words)](#duolingo---vocabulary-954-words)
-  - [SECTION 1 (954 words)](#section-1-954-words)
+- [Duolingo - Vocabulary (965 words)](#duolingo---vocabulary-965-words)
+  - [SECTION 1 (965 words)](#section-1-965-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -62,7 +62,7 @@
     - [Transit (16 words)](#transit-16-words)
     - [Surprise (20 words)](#surprise-20-words)
     - [Technology (17 words)](#technology-17-words)
-    - [Politics (11 words)](#politics-11-words)
+    - [Politics (22 words)](#politics-22-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1457,9 +1457,9 @@
 
 ---
 
-## Duolingo - Vocabulary (954 words)
+## Duolingo - Vocabulary (965 words)
 
-### SECTION 1 (954 words)
+### SECTION 1 (965 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1690,7 +1690,7 @@
 - `festival`  /ˈfes.tə.vəl/ <br> 1. a series of public events, for example concerts and shows, in one place: the Cannes Film Festival <br> 2. a time when people celebrate something, especially a religious event: Christmas is an important Christian festival
 - `graduation`  /ˌɡrædʒ.uˈeɪ.ʃən/ <br> finishing a degree or other course of study at a university or school
 - `hair`  /her/ <br> <br> <img src='images/hair.jpg' alt='hair' width='200'>
-- `tie (noun)`  /taɪ/ <br> a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'>
+- `tie (noun)`  /taɪ/ <br> 1. a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'> <br> 2. when two teams or players have the same number of points at the end of a game or competition: The match ended in a tie <br> 3. ties (plural) a connection between people or organizations: Our school has ties with a school in France
 - `impress`  /ɪmˈpres/ <br> to make somebody admire and respect you: We were very impressed by your work
 - `admire`  /ədˈmaɪr/ <br> to think or say that somebody or something is very good: I really admire you for doing such a difficult job - They were admiring the view from the top of the tower
 - `cartwheel`  /ˈkɑːrt.wiːl/ <br> a fast, skilful movement like a wheel turning, in which you throw yourself sideways onto one hand, then onto both hands with your legs and arms straight and your legs pointing up, before landing on your feet again <br> <img src='images/cartwheel.jpg' alt='cartwheel' width='200'>
@@ -1940,7 +1940,7 @@
 - `spare (adjective)`  /sper/ <br> 1. extra; if something is spare, you do not use or need it all the time: a spare key/tyre - Do you have a spare pen? - You can stay with us tonight. We've got a spare room <br> 2. Spare time is time when you are not working: What do you do in your spare time?
 - `literally`  /ˈlɪtərəli/ <br> 1. in a literal way (SAME MEANING: exactly): The word ‘planet’ literally means ‘wandering body’ <br> 2. used to emphasize the truth of something that may seem surprising: There are literally hundreds of prizes to win <br> 3. (informal) used to emphasize a word or phrase, even if it is not actually true in a literal sense: I literally jumped out of my skin
 - `literal (adjective)`  /ˈlɪtərəl/ <br> The literal meaning of a word is its original, basic meaning: The literal meaning of 'television' is 'seeing from a distance'
-- `truth`  /truːθ/ <br> being true; what is true: We need to find out the truth about what happened - Are you telling me the truth?
+- `truth (noun)`  /truːθ/ <br> being true; what is true: We need to find out the truth about what happened - Are you telling me the truth?
 - `crime`  /kraɪm/ <br> something that somebody does that is against the law: Murder and robbery are serious crimes - They had committed a crime
 - `sneeze (verb)`  /sniːz/ <br> to make air come out of your nose and mouth with a sudden loud noise, for example because you have a cold: Pepper makes you sneeze
 - `pass (noun)`  /pæs/ <br> 1. doing well enough in an exam: How many passes did you get in your exams? (OPPOSITE: fail) <br> 2. a special piece of paper or card that says you can go somewhere or do something: You need a pass to get into the factory <br> 3. kicking, throwing or hitting a ball to somebody in a game <br> 4. a road or way through mountains: the Brenner Pass
@@ -2454,7 +2454,7 @@
 - `forgive (verb)`  /fərˈɡɪv/ <br> to stop being angry with somebody for a bad thing that they did: I can't forgive him for behaving like that
 - `glue (verb)`  /ɡluː/ <br> to stick one thing to another thing with glue: Glue the two pieces of wood together
 - `glue (noun)`  /ɡluː/ <br> a thick liquid that you use for sticking things together
-- `fair (adjective)`  /fer/ <br> 1. treating people equally or in the right way: They didn't get a fair trial - It's not fair! I have to go to bed before my sister! (OPPOSITE: unfair) <br> 2. quite good or quite large: They have a fair chance of winning - They've invited a fair number of people to their party <br> 3. (used about a person's skin or hair) light in color: He's got fair hair (OPPOSITE: dark) <br> 4. (used about the weather) bright and not raining
+- `fair (adjective)`  /fer/ <br> 1. If something is fair, it is reasonable and is what you expect or deserve; acceptable and appropriate in a particular situation: a fair deal/wage/price - The punishment was very fair <br> 2. treating people equally or in the right way: They didn't get a fair trial - It's not fair! I have to go to bed before my sister! (OPPOSITE: unfair) <br> 3. quite good or quite large: They have a fair chance of winning - They've invited a fair number of people to their party <br> 4. (used about a person's skin or hair) light in color: He's got fair hair (OPPOSITE: dark) <br> 5. (used about the weather) bright and not raining
 - `treat (verb)`  /triːt/ <br> 1. to behave in a certain way towards somebody or something: How does your boss treat you? - Treat these glasses with care <br> 2. to think about something in a certain way: They treated my idea as a joke <br> 3. to try to make a sick person well again: Several people are being treated for burns <br> 4. to give yourself or another person something special or enjoyable: I treated the children to an ice cream
 - `equally (adverb)`  /ˈiː.kwə.li/ <br> 1. in the same way: Diet and exercise are equally important <br> 2. in equal parts or amounts: The money was divided equally among her four children
 - `juggle (verb)`  /ˈdʒʌɡl/ <br> to keep two or more things in the air by throwing and catching them quickly: you learn to juggle five balls
@@ -2478,7 +2478,7 @@
 - `upgrade (verb)`  /ʌpˈɡreɪd/ <br> improve; to change something so that it is better: I've just upgraded my PC
 - `wire (noun)`  /waɪr/ <br> a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>
 
-#### Politics (11 words)
+#### Politics (22 words)
 - `politics (noun)`  /ˈpɑːlətɪks/ <br> 1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university
 - `politician (noun)`  /ˌpɑːləˈtɪʃn/ <br> a person who works in politics: Politician of all parties supported us
 - `state (noun)`  /steɪt/ <br> 1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America
@@ -2490,6 +2490,17 @@
 - `funding (noun)`  /ˈfʌn.dɪŋ/ <br> money given by a government or organization for an event or activity: They received state funding for the project
 - `fund (noun)`  /fʌnd/ <br> money that will be used for something special: a fund to help homeless people - The school wants to raise funds for new computers
 - `economy (noun)`  /iˈkɑː.nə.mi/ <br> 1. the way that a country spends its money and makes, buys and sells things: the economies of Qatar and Kuwait <br> 2. using money or things well and carefully: We need to make some economies
+- `currency (noun)`  /ˈkɜːrənsi/ <br> the money that a country uses: The currency of the United State is the dollar
+- `election (noun)`  /ɪˈlekʃn/ <br> a time when people choose somebody to be a leader by voting for him or her: The election will be held on Wednesday
+- `speech (noun)`  /spiːtʃ/ <br> 1. (plural speeches) a talk that you give to a group of people: The president made a speech <br> 2. (no plural) the power to speak, or the way that you speak: He has problems with his speech
+- `local (adjective)`  /ˈləʊkl/ <br> of a place near you: Her children go to the local school - a local newspaper - local government
+- `convincing (adjective)`  /kənˈvɪn.sɪŋ/ <br> able to make you believe that something is true or right: a convincing argument/explanation - She sounded very convincing to me (= I believed what she said)
+- `vice- (prefix)`  /vaɪs/ <br> next in rank to somebody and able to represent them or act for them: vice-captain
+- `engaging (adjective)`  /ɪnˈɡeɪdʒɪŋ/ <br> interesting or pleasant in a way that attracts your attention: an engaging smile/manner/person
+- `candidate (noun)`  /ˈkæn.dɪ.dət/ <br> a person who wants to be chosen for something: a presidential candidate - There were a lot of candidates for the job
+- `stand (verb)`  /stænd/ <br> 1. to be on your feet: She was standing by the door - Stand still while I take your photograph <br> 2. (also stand up) to get up on your feet: The teacher asked us all to stand up <br> 3. to be in a place: The castle stands on a hill <br> 4. to put something somewhere: I stood the ladder against the wall <br> `can't stand somebody or something` to hate somebody or something: I can't stand this music <br> `stand by` 1. to watch but not do anything: How can you stand by while those boys kick the cat? <br> 2. to be ready to do something: Stand by until I call you <br> `stand by somebody` to help somebody when they need it: Julie's parents stood by her when she was in trouble <br> `stand for something` to be a short way of saying or writing something: USA stands for 'the United States of America' <br> `stand out` to be easy to see: Joe stands out in a crowd because of his red hair <br> `stand up for somebody or something` to say that somebody or something is right; to support somebody or something: Everyone else said I was wrong, but my sister stood up for me <br> `stand up to somebody` to argue or fight with a more powerful person who is attacking you
+- `fair and square`  <br> in an honest way and without any doubt: He won the election for president fair and square - If I lose fair and square, I don't have a problem with it
+- `ballot (noun)`  /ˈbæl.ət/ <br> when people choose somebody or something by writing secretly on a piece of paper: We held a ballot to choose a new president <br> <img src='images/ballot.jpg' alt='ballot' width='200'>
 ---
 
 ---

@@ -1337,7 +1337,7 @@
               "word": "tie (noun)",
               "phonetic": "/taɪ/",
               "mean_fa": "",
-              "mean_en": "a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'>"
+              "mean_en": "1. a piece of cloth worn around the neck <br> <img src='images/tie.jpg' alt='tie' width='200'> <br> 2. when two teams or players have the same number of points at the end of a game or competition: The match ended in a tie <br> 3. ties (plural) a connection between people or organizations: Our school has ties with a school in France"
             },
             {
               "word": "impress",
@@ -2771,7 +2771,7 @@
               "mean_en": "The literal meaning of a word is its original, basic meaning: The literal meaning of 'television' is 'seeing from a distance'"
             },
             {
-              "word": "truth",
+              "word": "truth (noun)",
               "phonetic": "/truːθ/",
               "mean_fa": "",
               "mean_en": "being true; what is true: We need to find out the truth about what happened - Are you telling me the truth?"
@@ -5718,7 +5718,7 @@
               "word": "fair (adjective)",
               "phonetic": "/fer/",
               "mean_fa": "",
-              "mean_en": "1. treating people equally or in the right way: They didn't get a fair trial - It's not fair! I have to go to bed before my sister! (OPPOSITE: unfair) <br> 2. quite good or quite large: They have a fair chance of winning - They've invited a fair number of people to their party <br> 3. (used about a person's skin or hair) light in color: He's got fair hair (OPPOSITE: dark) <br> 4. (used about the weather) bright and not raining"
+              "mean_en": "1. If something is fair, it is reasonable and is what you expect or deserve; acceptable and appropriate in a particular situation: a fair deal/wage/price - The punishment was very fair <br> 2. treating people equally or in the right way: They didn't get a fair trial - It's not fair! I have to go to bed before my sister! (OPPOSITE: unfair) <br> 3. quite good or quite large: They have a fair chance of winning - They've invited a fair number of people to their party <br> 4. (used about a person's skin or hair) light in color: He's got fair hair (OPPOSITE: dark) <br> 5. (used about the weather) bright and not raining"
             },
             {
               "word": "treat (verb)",
@@ -5915,6 +5915,72 @@
               "phonetic": "/iˈkɑː.nə.mi/",
               "mean_fa": "",
               "mean_en": "1. the way that a country spends its money and makes, buys and sells things: the economies of Qatar and Kuwait <br> 2. using money or things well and carefully: We need to make some economies"
+            },
+            {
+              "word": "currency (noun)",
+              "phonetic": "/ˈkɜːrənsi/",
+              "mean_fa": "",
+              "mean_en": "the money that a country uses: The currency of the United State is the dollar"
+            },
+            {
+              "word": "election (noun)",
+              "phonetic": "/ɪˈlekʃn/",
+              "mean_fa": "",
+              "mean_en": "a time when people choose somebody to be a leader by voting for him or her: The election will be held on Wednesday"
+            },
+            {
+              "word": "speech (noun)",
+              "phonetic": "/spiːtʃ/",
+              "mean_fa": "",
+              "mean_en": "1. (plural speeches) a talk that you give to a group of people: The president made a speech <br> 2. (no plural) the power to speak, or the way that you speak: He has problems with his speech"
+            },
+            {
+              "word": "local (adjective)",
+              "phonetic": "/ˈləʊkl/",
+              "mean_fa": "",
+              "mean_en": "of a place near you: Her children go to the local school - a local newspaper - local government"
+            },
+            {
+              "word": "convincing (adjective)",
+              "phonetic": "/kənˈvɪn.sɪŋ/",
+              "mean_fa": "",
+              "mean_en": "able to make you believe that something is true or right: a convincing argument/explanation - She sounded very convincing to me (= I believed what she said)"
+            },
+            {
+              "word": "vice- (prefix)",
+              "phonetic": "/vaɪs/",
+              "mean_fa": "",
+              "mean_en": "next in rank to somebody and able to represent them or act for them: vice-captain"
+            },
+            {
+              "word": "engaging (adjective)",
+              "phonetic": "/ɪnˈɡeɪdʒɪŋ/",
+              "mean_fa": "",
+              "mean_en": "interesting or pleasant in a way that attracts your attention: an engaging smile/manner/person"
+            },
+            {
+              "word": "candidate (noun)",
+              "phonetic": "/ˈkæn.dɪ.dət/",
+              "mean_fa": "",
+              "mean_en": "a person who wants to be chosen for something: a presidential candidate - There were a lot of candidates for the job"
+            },
+            {
+              "word": "stand (verb)",
+              "phonetic": "/stænd/",
+              "mean_fa": "",
+              "mean_en": "1. to be on your feet: She was standing by the door - Stand still while I take your photograph <br> 2. (also stand up) to get up on your feet: The teacher asked us all to stand up <br> 3. to be in a place: The castle stands on a hill <br> 4. to put something somewhere: I stood the ladder against the wall <br> `can't stand somebody or something` to hate somebody or something: I can't stand this music <br> `stand by` 1. to watch but not do anything: How can you stand by while those boys kick the cat? <br> 2. to be ready to do something: Stand by until I call you <br> `stand by somebody` to help somebody when they need it: Julie's parents stood by her when she was in trouble <br> `stand for something` to be a short way of saying or writing something: USA stands for 'the United States of America' <br> `stand out` to be easy to see: Joe stands out in a crowd because of his red hair <br> `stand up for somebody or something` to say that somebody or something is right; to support somebody or something: Everyone else said I was wrong, but my sister stood up for me <br> `stand up to somebody` to argue or fight with a more powerful person who is attacking you"
+            },
+            {
+              "word": "fair and square",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "in an honest way and without any doubt: He won the election for president fair and square - If I lose fair and square, I don't have a problem with it"
+            },
+            {
+              "word": "ballot (noun)",
+              "phonetic": "/ˈbæl.ət/",
+              "mean_fa": "",
+              "mean_en": "when people choose somebody or something by writing secretly on a piece of paper: We held a ballot to choose a new president <br> <img src='images/ballot.jpg' alt='ballot' width='200'>"
             }
           ]
         }
