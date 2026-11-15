@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 965**
+**Total words: 968**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (965 words)](#section-1-965-words)
+- [SECTION 1 (968 words)](#section-1-968-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -42,11 +42,11 @@
   - [Transit (16 words)](#transit-16-words)
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
-  - [Politics (22 words)](#politics-22-words)
+  - [Politics (25 words)](#politics-25-words)
 
 ---
 
-## SECTION 1 (965 words)
+## SECTION 1 (968 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1065,7 +1065,7 @@
 - `upgrade (verb)`  /ʌpˈɡreɪd/ <br> improve; to change something so that it is better: I've just upgraded my PC
 - `wire (noun)`  /waɪr/ <br> a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>
 
-### Politics (22 words)
+### Politics (25 words)
 - `politics (noun)`  /ˈpɑːlətɪks/ <br> 1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university
 - `politician (noun)`  /ˌpɑːləˈtɪʃn/ <br> a person who works in politics: Politician of all parties supported us
 - `state (noun)`  /steɪt/ <br> 1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America
@@ -1088,4 +1088,7 @@
 - `stand (verb)`  /stænd/ <br> 1. to be on your feet: She was standing by the door - Stand still while I take your photograph <br> 2. (also stand up) to get up on your feet: The teacher asked us all to stand up <br> 3. to be in a place: The castle stands on a hill <br> 4. to put something somewhere: I stood the ladder against the wall <br> `can't stand somebody or something` to hate somebody or something: I can't stand this music <br> `stand by` 1. to watch but not do anything: How can you stand by while those boys kick the cat? <br> 2. to be ready to do something: Stand by until I call you <br> `stand by somebody` to help somebody when they need it: Julie's parents stood by her when she was in trouble <br> `stand for something` to be a short way of saying or writing something: USA stands for 'the United States of America' <br> `stand out` to be easy to see: Joe stands out in a crowd because of his red hair <br> `stand up for somebody or something` to say that somebody or something is right; to support somebody or something: Everyone else said I was wrong, but my sister stood up for me <br> `stand up to somebody` to argue or fight with a more powerful person who is attacking you
 - `fair and square`  <br> in an honest way and without any doubt: He won the election for president fair and square - If I lose fair and square, I don't have a problem with it
 - `ballot (noun)`  /ˈbæl.ət/ <br> when people choose somebody or something by writing secretly on a piece of paper: We held a ballot to choose a new president <br> <img src='images/ballot.jpg' alt='ballot' width='200'>
+- `fresh (adjective)`  /freʃ/ <br> 1. (used especially about food) made or picked not long ago; not frozen or in a tin: I'll make some fresh coffee - Eat plenty of fresh fruit and vegetables <br> 2. new or different: fresh ideas <br> 3. clean and cool: Open the window and let some fresh air in <br> 4. (used about water) not containing salt; not from the sea
+- `crunchy (adjective)`  /ˈkrʌn.tʃi/ <br> If something is crunchy, it is firm and makes a short loud noise when it is eaten, pressed, etc. : I tried fried grasshoppers yesterday, they were crunchy and salty like chips
+- `misconception (noun)`  /ˌmɪskənˈsepʃn/ <br> a belief or an idea that is not based on correct information, or that is not understood by people: a popular misconception (= one that a lot of people have) - Let me deal with some common misconceptions
 ---
