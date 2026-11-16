@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2366**
+**Total words: 2371**
 
 ## 📑 Table of Contents
 
@@ -23,8 +23,8 @@
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-- [Duolingo - Vocabulary (968 words)](#duolingo---vocabulary-968-words)
-  - [SECTION 1 (968 words)](#section-1-968-words)
+- [Duolingo - Vocabulary (973 words)](#duolingo---vocabulary-973-words)
+  - [SECTION 1 (973 words)](#section-1-973-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -62,7 +62,7 @@
     - [Transit (16 words)](#transit-16-words)
     - [Surprise (20 words)](#surprise-20-words)
     - [Technology (17 words)](#technology-17-words)
-    - [Politics (25 words)](#politics-25-words)
+    - [Politics (30 words)](#politics-30-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1460,9 +1460,9 @@
 
 ---
 
-## Duolingo - Vocabulary (968 words)
+## Duolingo - Vocabulary (973 words)
 
-### SECTION 1 (968 words)
+### SECTION 1 (973 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2481,7 +2481,7 @@
 - `upgrade (verb)`  /ʌpˈɡreɪd/ <br> improve; to change something so that it is better: I've just upgraded my PC
 - `wire (noun)`  /waɪr/ <br> a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>
 
-#### Politics (25 words)
+#### Politics (30 words)
 - `politics (noun)`  /ˈpɑːlətɪks/ <br> 1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university
 - `politician (noun)`  /ˌpɑːləˈtɪʃn/ <br> a person who works in politics: Politician of all parties supported us
 - `state (noun)`  /steɪt/ <br> 1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America
@@ -2507,6 +2507,11 @@
 - `fresh (adjective)`  /freʃ/ <br> 1. (used especially about food) made or picked not long ago; not frozen or in a tin: I'll make some fresh coffee - Eat plenty of fresh fruit and vegetables <br> 2. new or different: fresh ideas <br> 3. clean and cool: Open the window and let some fresh air in <br> 4. (used about water) not containing salt; not from the sea
 - `crunchy (adjective)`  /ˈkrʌn.tʃi/ <br> If something is crunchy, it is firm and makes a short loud noise when it is eaten, pressed, etc. : I tried fried grasshoppers yesterday, they were crunchy and salty like chips
 - `misconception (noun)`  /ˌmɪskənˈsepʃn/ <br> a belief or an idea that is not based on correct information, or that is not understood by people: a popular misconception (= one that a lot of people have) - Let me deal with some common misconceptions
+- `mean (verb)`  /miːn/ <br> 1. to have as a meaning: What does 'medicine' mean? - The red light means that you have to stop here <br> 2. to plan or want to say something: She said 'yes' but she really meant 'no' - I don't understand what you mean - We're going on Tuesday, I mean Thursday <br> 3. to plan or want to do something (SAME MEANING: intend): I didn't mean to hurt you - I meant to phone you, but I forgot <br> 4. to make something happen: This snow means there will be no sport today <br> 5. to be important to somebody: My family means a lot to me <br> `be meant to` 1. If you are meant to do something, you should do it: You're not meant to smoke on the train <br> 2. If something is meant to be true, people say it is true: This is meant to be a good film
+- `immigration (noun)`  /ˌɪmɪˈɡreɪʃn/ <br> coming to another country to live there: The government is trying to control immigration
+- `lend (verb)`  /lend/ <br> to give something to somebody for a short time: I lent the book to Jo - Rick lent me his car for an hour
+- `permit (verb)`  /pərˈmɪt/ <br> to let somebody do something (SAME MEANING: allow) You are not permitted to smoke in the hospital
+- `permit (noun)`  /ˈpɜːrmɪt/ <br> a piece of paper that says you can do something or go somewhere: Have you got a work permit?
 ---
 
 ---
