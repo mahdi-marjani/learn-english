@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1173**
+**Total words: 1184**
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,11 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (708 words)](#part-1-core-pytorch-708-words)
+- [Part 1: Core PyTorch (719 words)](#part-1-core-pytorch-719-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
   - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
+  - [Chapter 4: Real-world data representation using tensors (11 words)](#chapter-4-real-world-data-representation-using-tensors-11-words)
 
 ---
 
@@ -504,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (708 words)
+## Part 1: Core PyTorch (719 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1219,4 +1220,17 @@
 - `square root (noun)`  /ˌskwer ˈruːt/ <br> (math) a number that gives a certain number when you multiply it by itself: The square root of 9 is 3, because 3 × 3 = 9 <br> <img src='images/square-root.webp' alt='square-root' width='200'>
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
+
+### Chapter 4: Real-world data representation using tensors (11 words)
+- `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
+- `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
+- `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
+- `structure (verb)`  /ˈstrʌktʃər/ <br> to arrange or organize something into a system or pattern: How well does the teacher structure the lessons?
+- `inclined (adjective)`  /ɪnˈklaɪnd/ <br> 1. wanting to do something: I'm inclined to agree with you <br> 2. likely to do something: She's inclined to change her mind a lot
+- `volumetric (adjective)`  /ˌvɑːl.jəˈmet.rɪk/ <br> 1. relating to the measuring of volume (the amount of space something takes up): The volumetric measurement tells us how much space the box takes up <br> 2. (computing) describing 3D data that has width, height, and depth: A CT scan gives volumetric data of the inside of the body
+- `anatomy (noun)`  /əˈnætəmi/ <br> the physical structure of a human, animal or plant: the female anatomy - the anatomy of a leaf
+- `spreadsheet (noun)`  /ˈspred.ʃiːt/ <br> a computer file or program that keeps data in a table of rows and columns, like Excel: I keep my monthly costs in a spreadsheet
+- `share (verb)`  /ʃer/ <br> 1. to divide something between two or more people: Share these sweets with your friends - We shared a large pizza between three of us <br> 2. to have or use something with another person: I share a bedroom with my sister
+- `retain (verb)`  /rɪˈteɪn/ <br> (formal) to keep or continue to have something: The old building retains its original doors
+- `constitute (verb)`  /ˈkɑːn.stə.tuːt/ <br> 1. (formal) to be something, or to be seen as something: they will constitute excellent material for when we start learning how to train neural network models - Lying to the police can constitute a crime <br> 2. (formal) to form or make up a part of something: Women constitute half of the team
 ---

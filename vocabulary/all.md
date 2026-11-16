@@ -1,17 +1,17 @@
 # All Vocabulary
 
-**Total words: 2371**
+**Total words: 2383**
 
 ## 📑 Table of Contents
 
-- [SpongeBob SquarePants - Vocabulary (164 words)](#spongebob-squarepants---vocabulary-164-words)
-  - [S1 (164 words)](#s1-164-words)
+- [SpongeBob SquarePants - Vocabulary (165 words)](#spongebob-squarepants---vocabulary-165-words)
+  - [S1 (165 words)](#s1-165-words)
     - [E1 (68 words)](#e1-68-words)
     - [E3 (29 words)](#e3-29-words)
-    - [E4 (19 words)](#e4-19-words)
+    - [E4 (20 words)](#e4-20-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1173 words)](#deep-learning-with-pytorch---vocabulary-1173-words)
+- [Deep Learning with PyTorch - Vocabulary (1184 words)](#deep-learning-with-pytorch---vocabulary-1184-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,10 +19,11 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (708 words)](#part-1-core-pytorch-708-words)
+  - [Part 1: Core PyTorch (719 words)](#part-1-core-pytorch-719-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
+    - [Chapter 4: Real-world data representation using tensors (11 words)](#chapter-4-real-world-data-representation-using-tensors-11-words)
 - [Duolingo - Vocabulary (973 words)](#duolingo---vocabulary-973-words)
   - [SECTION 1 (973 words)](#section-1-973-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -72,9 +73,9 @@
 
 ---
 
-## SpongeBob SquarePants - Vocabulary (164 words)
+## SpongeBob SquarePants - Vocabulary (165 words)
 
-### S1 (164 words)
+### S1 (165 words)
 
 #### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -177,7 +178,7 @@
 - `buddy`  /ˈbʌd.i/ <br> (American, informal) (British mate) a friend: Hey buddy, how are you? - Don't worry buddy, You're doing fine
 - `ask`  <br> 1. to try to get an answer by using a question: I asked him what the time was - 'What's your name?' she asked - Liz asked the teacher a question <br> 2. to say that you would like somebody to do something for you: I asked Sara to drive me to the station <br> 3. to try to get permission to do something: I asked my teacher if I could go home - I asked if I could go home early <br> 4. to invite somebody to go somewhere with you: Mark has asked me to a party on Saturday <br> `ask for somebody` to say that you want to speak to somebody: Phone this number and ask for Mrs Green <br> `ask for something` to say that you want somebody to give you something: He asked for a new bike for his birthday
 
-#### E4 (19 words)
+#### E4 (20 words)
 - `shimmering`  /ˈʃɪ.mɜ.rɪng/ <br> درخشان
 - `scallop`  /ˈskæl.əp/ <br> a sea creature that lives inside two joined flat, round shells and can be eaten <br> <img src='images/scallop.jpg' alt='scallop' width='200'>
 - `chirp`  /ʧɜrp/ <br> to make the short high sound that small birds make
@@ -189,6 +190,7 @@
 - `booming (adjective)`  <br> 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
 - `bubble wand`  <br> <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
 - `dip`  /dɪp/ <br> to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil
+- `dip your toes (idiom)`  /dɪp jɔːr toʊz/ <br> to try something new in a small, careful way before doing more: I want to dip my toes into painting before buying expensive tools
 - `giraffe`  /dʒɪˈræf/ <br> <br> <img src='images/giraffe.jpg' alt='giraffe' width='200'>
 - `carefully`  <br> with great attention: Drive carefully on those icy roads
 - `annoying`  /əˈnɔɪ.ɪŋ/ <br> if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
@@ -253,7 +255,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1173 words)
+## Deep Learning with PyTorch - Vocabulary (1184 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -741,7 +743,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (708 words)
+### Part 1: Core PyTorch (719 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1456,6 +1458,19 @@
 - `square root (noun)`  /ˌskwer ˈruːt/ <br> (math) a number that gives a certain number when you multiply it by itself: The square root of 9 is 3, because 3 × 3 = 9 <br> <img src='images/square-root.webp' alt='square-root' width='200'>
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
+
+#### Chapter 4: Real-world data representation using tensors (11 words)
+- `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
+- `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
+- `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
+- `structure (verb)`  /ˈstrʌktʃər/ <br> to arrange or organize something into a system or pattern: How well does the teacher structure the lessons?
+- `inclined (adjective)`  /ɪnˈklaɪnd/ <br> 1. wanting to do something: I'm inclined to agree with you <br> 2. likely to do something: She's inclined to change her mind a lot
+- `volumetric (adjective)`  /ˌvɑːl.jəˈmet.rɪk/ <br> 1. relating to the measuring of volume (the amount of space something takes up): The volumetric measurement tells us how much space the box takes up <br> 2. (computing) describing 3D data that has width, height, and depth: A CT scan gives volumetric data of the inside of the body
+- `anatomy (noun)`  /əˈnætəmi/ <br> the physical structure of a human, animal or plant: the female anatomy - the anatomy of a leaf
+- `spreadsheet (noun)`  /ˈspred.ʃiːt/ <br> a computer file or program that keeps data in a table of rows and columns, like Excel: I keep my monthly costs in a spreadsheet
+- `share (verb)`  /ʃer/ <br> 1. to divide something between two or more people: Share these sweets with your friends - We shared a large pizza between three of us <br> 2. to have or use something with another person: I share a bedroom with my sister
+- `retain (verb)`  /rɪˈteɪn/ <br> (formal) to keep or continue to have something: The old building retains its original doors
+- `constitute (verb)`  /ˈkɑːn.stə.tuːt/ <br> 1. (formal) to be something, or to be seen as something: they will constitute excellent material for when we start learning how to train neural network models - Lying to the police can constitute a crime <br> 2. (formal) to form or make up a part of something: Women constitute half of the team
 ---
 
 ---

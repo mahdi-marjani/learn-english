@@ -7091,6 +7091,77 @@
               "mean_en": "(formal) use"
             }
           ]
+        },
+        {
+          "heading": "Chapter 4: Real-world data representation using tensors",
+          "words": [
+            {
+              "word": "central (adjective)",
+              "phonetic": "/ˈsentrəl/",
+              "mean_fa": "",
+              "mean_en": "1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra"
+            },
+            {
+              "word": "dexterity (noun)",
+              "phonetic": "/dekˈster.ə.t̬i/",
+              "mean_fa": "",
+              "mean_en": "skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist"
+            },
+            {
+              "word": "appropriate (adjective)",
+              "phonetic": "/əˈproʊ.pri.ət/",
+              "mean_fa": "",
+              "mean_en": "suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)"
+            },
+            {
+              "word": "structure (verb)",
+              "phonetic": "/ˈstrʌktʃər/",
+              "mean_fa": "",
+              "mean_en": "to arrange or organize something into a system or pattern: How well does the teacher structure the lessons?"
+            },
+            {
+              "word": "inclined (adjective)",
+              "phonetic": "/ɪnˈklaɪnd/",
+              "mean_fa": "",
+              "mean_en": "1. wanting to do something: I'm inclined to agree with you <br> 2. likely to do something: She's inclined to change her mind a lot"
+            },
+            {
+              "word": "volumetric (adjective)",
+              "phonetic": "/ˌvɑːl.jəˈmet.rɪk/",
+              "mean_fa": "",
+              "mean_en": "1. relating to the measuring of volume (the amount of space something takes up): The volumetric measurement tells us how much space the box takes up <br> 2. (computing) describing 3D data that has width, height, and depth: A CT scan gives volumetric data of the inside of the body"
+            },
+            {
+              "word": "anatomy (noun)",
+              "phonetic": "/əˈnætəmi/",
+              "mean_fa": "",
+              "mean_en": "the physical structure of a human, animal or plant: the female anatomy - the anatomy of a leaf"
+            },
+            {
+              "word": "spreadsheet (noun)",
+              "phonetic": "/ˈspred.ʃiːt/",
+              "mean_fa": "",
+              "mean_en": "a computer file or program that keeps data in a table of rows and columns, like Excel: I keep my monthly costs in a spreadsheet"
+            },
+            {
+              "word": "share (verb)",
+              "phonetic": "/ʃer/",
+              "mean_fa": "",
+              "mean_en": "1. to divide something between two or more people: Share these sweets with your friends - We shared a large pizza between three of us <br> 2. to have or use something with another person: I share a bedroom with my sister"
+            },
+            {
+              "word": "retain (verb)",
+              "phonetic": "/rɪˈteɪn/",
+              "mean_fa": "",
+              "mean_en": "(formal) to keep or continue to have something: The old building retains its original doors"
+            },
+            {
+              "word": "constitute (verb)",
+              "phonetic": "/ˈkɑːn.stə.tuːt/",
+              "mean_fa": "",
+              "mean_en": "1. (formal) to be something, or to be seen as something: they will constitute excellent material for when we start learning how to train neural network models - Lying to the police can constitute a crime <br> 2. (formal) to form or make up a part of something: Women constitute half of the team"
+            }
+          ]
         }
       ]
     }

@@ -1,19 +1,19 @@
 # SpongeBob SquarePants - Vocabulary
 
-**Total words: 164**
+**Total words: 165**
 
 ## 📑 Table of Contents
 
-- [S1 (164 words)](#s1-164-words)
+- [S1 (165 words)](#s1-165-words)
   - [E1 (68 words)](#e1-68-words)
   - [E3 (29 words)](#e3-29-words)
-  - [E4 (19 words)](#e4-19-words)
+  - [E4 (20 words)](#e4-20-words)
   - [E5 (36 words)](#e5-36-words)
   - [E6 (12 words)](#e6-12-words)
 
 ---
 
-## S1 (164 words)
+## S1 (165 words)
 
 ### E1 (68 words)
 - `aye`  /aɪ/ <br> another word for 'yes'
@@ -116,7 +116,7 @@
 - `buddy`  /ˈbʌd.i/ <br> (American, informal) (British mate) a friend: Hey buddy, how are you? - Don't worry buddy, You're doing fine
 - `ask`  <br> 1. to try to get an answer by using a question: I asked him what the time was - 'What's your name?' she asked - Liz asked the teacher a question <br> 2. to say that you would like somebody to do something for you: I asked Sara to drive me to the station <br> 3. to try to get permission to do something: I asked my teacher if I could go home - I asked if I could go home early <br> 4. to invite somebody to go somewhere with you: Mark has asked me to a party on Saturday <br> `ask for somebody` to say that you want to speak to somebody: Phone this number and ask for Mrs Green <br> `ask for something` to say that you want somebody to give you something: He asked for a new bike for his birthday
 
-### E4 (19 words)
+### E4 (20 words)
 - `shimmering`  /ˈʃɪ.mɜ.rɪng/ <br> درخشان
 - `scallop`  /ˈskæl.əp/ <br> a sea creature that lives inside two joined flat, round shells and can be eaten <br> <img src='images/scallop.jpg' alt='scallop' width='200'>
 - `chirp`  /ʧɜrp/ <br> to make the short high sound that small birds make
@@ -128,6 +128,7 @@
 - `booming (adjective)`  <br> 1. making a deep and loud hollow sound: a booming voice <br> 2. increasing or becoming successful and producing a lot of money very quickly: Business is booming at the moment
 - `bubble wand`  <br> <br> <img src='images/bubble-wand.jpg' alt='bubble wand' width='200'>
 - `dip`  /dɪp/ <br> to put something into a liquid for a short time: She dipped her toe into the pool to see how cold it was - Dip the fish in the batter, then drop it into the hot oil
+- `dip your toes (idiom)`  /dɪp jɔːr toʊz/ <br> to try something new in a small, careful way before doing more: I want to dip my toes into painting before buying expensive tools
 - `giraffe`  /dʒɪˈræf/ <br> <br> <img src='images/giraffe.jpg' alt='giraffe' width='200'>
 - `carefully`  <br> with great attention: Drive carefully on those icy roads
 - `annoying`  /əˈnɔɪ.ɪŋ/ <br> if a person or thing is annoying, they make you a little angry: It's annoying when people don't listen to you
