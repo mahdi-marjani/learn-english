@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1184**
+**Total words: 1191**
 
 ## 📑 Table of Contents
 
@@ -11,11 +11,11 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (719 words)](#part-1-core-pytorch-719-words)
+- [Part 1: Core PyTorch (726 words)](#part-1-core-pytorch-726-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
   - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-  - [Chapter 4: Real-world data representation using tensors (11 words)](#chapter-4-real-world-data-representation-using-tensors-11-words)
+  - [Chapter 4: Real-world data representation using tensors (18 words)](#chapter-4-real-world-data-representation-using-tensors-18-words)
 
 ---
 
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (719 words)
+## Part 1: Core PyTorch (726 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1221,7 +1221,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-### Chapter 4: Real-world data representation using tensors (11 words)
+### Chapter 4: Real-world data representation using tensors (18 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1233,4 +1233,11 @@
 - `share (verb)`  /ʃer/ <br> 1. to divide something between two or more people: Share these sweets with your friends - We shared a large pizza between three of us <br> 2. to have or use something with another person: I share a bedroom with my sister
 - `retain (verb)`  /rɪˈteɪn/ <br> (formal) to keep or continue to have something: The old building retains its original doors
 - `constitute (verb)`  /ˈkɑːn.stə.tuːt/ <br> 1. (formal) to be something, or to be seen as something: they will constitute excellent material for when we start learning how to train neural network models - Lying to the police can constitute a crime <br> 2. (formal) to form or make up a part of something: Women constitute half of the team
+- `tune (verb)`  /tuːn/ <br> 1. to make small changes to a musical instrument so that it makes the right sounds: He tuned his guitar before the concert <br> 2. to adjust something carefully so it works as well as possible: The engineer tuned the engine to make the car faster
+- `harness (verb)`  /ˈhɑːrnɪs/ <br> `harness something` to collect and control something so that it can be used effectively: The town harnesses the wind to make electricity
+- `grid (noun)`  /ɡrɪd/ <br> a pattern or structure made from horizontal and vertical lines crossing each other to form squares <br> <img src='images/grid.jpg' alt='grid' width='200'>
+- `consumer (noun)`  /kənˈsuːmər/ <br> a person who buys or uses something: Consumers want more information about the food they buy
+- `consumer electronics (noun)`  /kənˌsuːmər ɪˌlekˈtrɑːnɪks/ <br> electronic devices that ordinary people buy for themselves, not companies: TVs, laptops, and phones are consumer electronics
+- `industrial (adjective)`  /ɪnˈdʌs.tri.əl/ <br> 1. connected with making things in factories: industrial machine <br> 2. with a lot of factories: Leeds is an industrial city
+- `sensitivity (noun)`  /ˌsensəˈtɪvəti/ <br> the ability to notice or measure very small changes or differences: A good thermometer has high sensitivity to small changes in temperature - the sensitivity of the test
 ---
