@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 973**
+**Total words: 980**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (973 words)](#section-1-973-words)
+- [SECTION 1 (980 words)](#section-1-980-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -42,11 +42,11 @@
   - [Transit (16 words)](#transit-16-words)
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
-  - [Politics (30 words)](#politics-30-words)
+  - [Politics (37 words)](#politics-37-words)
 
 ---
 
-## SECTION 1 (973 words)
+## SECTION 1 (980 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1065,7 +1065,7 @@
 - `upgrade (verb)`  /ʌpˈɡreɪd/ <br> improve; to change something so that it is better: I've just upgraded my PC
 - `wire (noun)`  /waɪr/ <br> a long piece of very thin metal: The box was fastened with a piece of wire - The telephone wires had been cut <br> <img src='images/wire.webp' alt='wire' width='400'>
 
-### Politics (30 words)
+### Politics (37 words)
 - `politics (noun)`  /ˈpɑːlətɪks/ <br> 1. the work and ideas that are connected with government: Are you interested in politics? <br> 2. the study of government: She studied Politics at university
 - `politician (noun)`  /ˌpɑːləˈtɪʃn/ <br> a person who works in politics: Politician of all parties supported us
 - `state (noun)`  /steɪt/ <br> 1. how somebody or something is: The house was in a terrible state - What state of mind is he in? <br> 2. a country and its government: Many schools are owned by the state <br> 3. (also State) a part of a country: Texas is a state in the USA <br> 4. `the States` (plural) (informal) the United State of America
@@ -1096,4 +1096,11 @@
 - `lend (verb)`  /lend/ <br> to give something to somebody for a short time: I lent the book to Jo - Rick lent me his car for an hour
 - `permit (verb)`  /pərˈmɪt/ <br> to let somebody do something (SAME MEANING: allow) You are not permitted to smoke in the hospital
 - `permit (noun)`  /ˈpɜːrmɪt/ <br> a piece of paper that says you can do something or go somewhere: Have you got a work permit?
+- `shocking (adjective)`  /ˈʃɑː.kɪŋ/ <br> making you feel upset, angry, or surprised in a very bad way: a shocking crime
+- `north (noun)`  /nɔːrθ/ <br> the direction that goes towards the part of the earth above the equator, opposite to the south, or the part of an area or country that is in this direction <br> <img src='images/directions.jpg' alt='directions' width='200'>
+- `east (noun)`  /iːst/ <br> the direction from which the sun rises in the morning, opposite to the west, or the part of an area or country that is in this direction <br> <img src='images/directions.jpg' alt='directions' width='200'>
+- `south (noun)`  /saʊθ/ <br> the direction that goes towards the part of the earth below the equator, opposite to the north, or the part of an area or country that is in this direction <br> <img src='images/directions.jpg' alt='directions' width='200'>
+- `west (noun)`  /west/ <br> the direction in which the sun goes down in the evening, opposite to the east, or the part of an area or country that is in this direction <br> <img src='images/directions.jpg' alt='directions' width='200'>
+- `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
+- `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
 ---
