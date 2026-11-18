@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 980**
+**Total words: 983**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (980 words)](#section-1-980-words)
+- [SECTION 1 (983 words)](#section-1-983-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -43,10 +43,11 @@
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
+  - [Fears (3 words)](#fears-3-words)
 
 ---
 
-## SECTION 1 (980 words)
+## SECTION 1 (983 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1103,4 +1104,9 @@
 - `west (noun)`  /west/ <br> the direction in which the sun goes down in the evening, opposite to the east, or the part of an area or country that is in this direction <br> <img src='images/directions.jpg' alt='directions' width='200'>
 - `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
 - `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
+
+### Fears (3 words)
+- `shark (noun)`  /ʃɑːrk/ <br> a big fish that lives in the sea. Some sharks have sharp teeth and are dangerous <br> <img src='images/shark.jpg' alt='shark' width='200'>
+- `anxious (adjective)`  /ˈæŋk.ʃəs/ <br> 1. worried and afraid: She's anxious because her daughter hasn't arrived yet <br> 2. If you are anxious to do something, you want to do it very much: My family are anxious to meet you
+- `lounge (noun)`  /laʊndʒ/ <br> a room in a house where people sit together and watch television or talk, for example (SAME MEANING: living room, sitting room)
 ---

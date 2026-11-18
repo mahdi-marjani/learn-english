@@ -532,7 +532,7 @@
 - `hype`  /haɪp/ <br> هیاهوی تبلیغاتی، بزرگنمایی
 - `sci-fi`  /ˈsaɪ faɪ/ <br> science fiction - علمی-تخیلی
 - `fearmongering`  /ˈfɪrˌmʌŋɡərɪŋ/ <br> ترس‌افکنی، وحشت پراکنی
-- `fear`  /fɪr/ <br> ترس
+- `fear (noun)`  /fɪr/ <br> the feeling that you have when you think that something bad might happen: I have a terrible fear of dogs - He was shaking with fear - My fears for his safety were unnecessary - ترس
 - `sanguine`  /ˈsæŋɡwɪn/ <br> hopeful - خوش‌بین، امیدوار
 - `disingenuous`  /ˌdɪsɪnˈdʒenjuəs/ <br> دورو، غیرصادقانه
 - `assert`  /əˈsɜːrt/ <br> ادعا کردن، به طور قاطع گفتن
