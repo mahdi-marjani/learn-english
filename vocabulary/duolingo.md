@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 983**
+**Total words: 992**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (983 words)](#section-1-983-words)
+- [SECTION 1 (992 words)](#section-1-992-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -43,11 +43,11 @@
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
-  - [Fears (3 words)](#fears-3-words)
+  - [Fears (12 words)](#fears-12-words)
 
 ---
 
-## SECTION 1 (983 words)
+## SECTION 1 (992 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -101,8 +101,8 @@
 - `sweet (adjective)`  /swiːt/ <br> 1. containing or tasting of sugar: Honey is sweet <br> 2. with a good smell: the sweet smell of roses <br> 3. attractive; pretty (SAME MEANING: cute): What a sweet little girl <br> 4. having or showing a kind character: It was sweet of you to help me
 - `sausage`  /ˈsɔːsɪdʒ/ <br> <br> <img src='images/sausage.jpg' alt='sausage' width='200'>
 - `downtown`  /ˌdaʊnˈtaʊn/ <br> in or towards the centre of a city, especially its main business area: She works downtown
-- `pull`  /pʊl/ <br> 1. to move somebody or something strongly towards you: She pulled the drawer open <br> 2. to go forward, moving something behind you: The cart was pulled by two horses <br> 3. to move something somewhere: He pulled up his trousers <br> `pull down` to destroy a building: The old school has been pulled down <br> `pull in` to drive a car to the side of the road and stop: I pulled in to look at the map <br> `pull somebody's leg` (informal) to try to make somebody believe something that is not true, for fun: I didn't really see on elephant _ I was only pulling your leg <br> `pull yourself together` to control your feelings after being upset: Pull yourself together and stop crying <br> `pull up` to stop a car: The driver pulled up at the traffic lights <br> <img src='images/pull.jpg' alt='pull' width='200'>
-- `push`  /pʊʃ/ <br> 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> 2. to press something with your finger: Push the red button to stop the bus <br> <img src='images/push.jpg' alt='push' width='200'>
+- `pull`  /pʊl/ <br> 1. to move somebody or something strongly towards you: She pulled the drawer open <br> <img src='images/pull.jpg' alt='pull' width='200'> <br> 2. to go forward, moving something behind you: The cart was pulled by two horses <br> 3. to move something somewhere: He pulled up his trousers <br> `pull down` to destroy a building: The old school has been pulled down <br> `pull in` to drive a car to the side of the road and stop: I pulled in to look at the map <br> `pull somebody's leg` (informal) to try to make somebody believe something that is not true, for fun: I didn't really see on elephant _ I was only pulling your leg <br> `pull yourself together` to control your feelings after being upset: Pull yourself together and stop crying <br> `pull up` to stop a car: The driver pulled up at the traffic lights
+- `push`  /pʊʃ/ <br> 1. to use force to move somebody or something forward or away from you: The car broke down so we had to push it to a garage - He pushed me over <br> <img src='images/push.jpg' alt='push' width='200'> <br> 2. to press something with your finger: Push the red button to stop the bus <br> `push through` If you push through things that are blocking your way or push your way through them, you use force in order to move past them: Lin pushes through some thick bushes - She pushed through the crowd to get to the front - The crowd was so dense that it took her a while to push through <br> <img src='images/push-through.jpg' alt='push-through' width='200'>
 - `dessert`  /dɪˈzɜːrt/ <br> sweet food eaten at the end of a meal: We had ice cream for dessert - dessert spoon
 - `sour`  /ˈsaʊər/ <br> 1. with a sharp taste like a lemon: If it's too sour, put some sugar in it <br> 2. Sour milk tastes bad because it is not fresh: This milk has gone sour
 - `flavor`  /ˈfleɪvər/ <br> (American) (British flavour) the taste of food: They sell 20 different flavors of ice cream <br> <img src='images/flavor.jpg' alt='flavor' width='200'>
@@ -1105,8 +1105,17 @@
 - `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
 - `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
 
-### Fears (3 words)
+### Fears (12 words)
 - `shark (noun)`  /ʃɑːrk/ <br> a big fish that lives in the sea. Some sharks have sharp teeth and are dangerous <br> <img src='images/shark.jpg' alt='shark' width='200'>
 - `anxious (adjective)`  /ˈæŋk.ʃəs/ <br> 1. worried and afraid: She's anxious because her daughter hasn't arrived yet <br> 2. If you are anxious to do something, you want to do it very much: My family are anxious to meet you
 - `lounge (noun)`  /laʊndʒ/ <br> a room in a house where people sit together and watch television or talk, for example (SAME MEANING: living room, sitting room)
+- `earthquake (noun)`  /ˈɜːrθkweɪk/ <br> a sudden strong shaking of the ground
+- `cliff (noun)`  /klɪf/ <br> a high area of rock with a very steep side, often at the edge of the sea or ocean <br> <img src='images/cliff.jpg' alt='cliff' width='200'>
+- `folks (noun)`  /foʊks/ <br> (plural) used when speaking informally to a group of people: All right, folks, dinner's ready - Hey, folks, are you good to go? - Hello, folks, and welcome to our annual conference
+- `overlook (noun)`  /ˈoʊvərˌlʊk/ <br> a place from which you can look down at a view: Come on, Lin! Keep walking! The cliff overlook is only thirty minutes away!
+- `shade (noun)`  /ʃeɪd/ <br> 1. (no plural) a place where it is dark and cool because the sun doesn't shine there: We sat in the shade of a big tree <br> 2. (plural shades) a thing that keeps strong light from your eyes: I bought a new shade for the lamp <br> 3. (plural shades) how light or dark a color is: I'm looking for a shirt in a darker shade of green <br> 4. `shades` (plural) (informal) = sunglasses
+- `bush (noun)`  /bʊʃ/ <br> 1. (plural bushes) a plant like a small tree with a lot of branches: a rose bush <br> <img src='images/bush.jpg' alt='bush' width='200'> <br> 2. `the bush` (no plural) wild country with a lot of small trees in Africa or Australia
+- `call (verb)`  /kɑːl/ <br> 1. to give a name to somebody or something: They called the baby Sophie <br> 2. to speak loudly and clearly so that somebody who is far away can hear you: 'Breakfast is ready,' she called - She called out the names of the winners <br> 3. to telephone somebody: I'll call you later - Who's calling, please? <br> 4. to ask somebody to come: He was so ill that we had to call the doctor <br> 5. to make a short visit: I'll call in to see you this evening - Can you call round later? I've got something for you <br> `be called` to have as a name: 'What is your teacher called?' 'She's called Mrs Gray' <br> `call somebody back` to telephone somebody again: I can't talk now _ I'll call you back later <br> `call collect` American English for `reverse the charges` <br> `call for somebody` (British) to go to somebody's house on your way to a place so that they can come with you: Rosie usually calls for me in the morning and we walk to school together <br> `call something off` to say that a planned activity or event will not happen (SAME MEANING: cancel): The football match was called off because of the bad weather <br> `call something out` to say something in a loud voice: Don't just call the answers out _ raise your hand - “Dinner is ready!” my mom called out from the kitchen - If you need help, just call out - He used to call out in his sleep
+- `gap (noun)`  /ɡæp/ <br> a space between two things
+- `park ranger (noun)`  /ˈpɑrk ˌreɪndʒər/ <br> a person whose job is to take care of and protect a national park: She is a park ranger at Yellowstone
 ---
