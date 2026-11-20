@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2423**
+**Total words: 2427**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (20 words)](#e4-20-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1200 words)](#deep-learning-with-pytorch---vocabulary-1200-words)
+- [Deep Learning with PyTorch - Vocabulary (1204 words)](#deep-learning-with-pytorch---vocabulary-1204-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,11 +19,11 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (735 words)](#part-1-core-pytorch-735-words)
+  - [Part 1: Core PyTorch (739 words)](#part-1-core-pytorch-739-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-    - [Chapter 4: Real-world data representation using tensors (27 words)](#chapter-4-real-world-data-representation-using-tensors-27-words)
+    - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
 - [Duolingo - Vocabulary (997 words)](#duolingo---vocabulary-997-words)
   - [SECTION 1 (997 words)](#section-1-997-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -256,7 +256,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1200 words)
+## Deep Learning with PyTorch - Vocabulary (1204 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -744,7 +744,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (735 words)
+### Part 1: Core PyTorch (739 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1460,7 +1460,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-#### Chapter 4: Real-world data representation using tensors (27 words)
+#### Chapter 4: Real-world data representation using tensors (31 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1488,6 +1488,10 @@
 - `pros and cons (noun phrase)`  /ˌproʊz ən ˈkɑːnz/ <br> the good points and bad points of something: Living in a big city has pros and cons
 - `standpoint (noun)`  /ˈstænd.pɔɪnt/ <br> a particular way of thinking about something; a point of view: From a safety standpoint, this car is a good choice
 - `concern (noun)`  /kənˈsɜːrn/ <br> 1. (no plural) worry: There is a lot of concern about this problem <br> 2. (plural concerns) something that is important or interesting to somebody: Her problems are not my concern - Our main concern is to ensure the safety of the children - What are your biggest concerns as a writer? - The government's primary concern is to reduce crime
+- `photographic (adjective)`  /ˌfoʊ.t̬əˈɡræf.ɪk/ <br> relating to photographs or taking photographs: photographic equipment/film/materials/formats
+- `photograph (noun)`  /ˈfoʊ.t̬oʊ.ɡræf/ <br> a picture produced using a camera
+- `transparency (noun)`  /trænˈsper.ən.si/ <br> 1. the quality of being able to be seen through: Sometimes images also have an alpha channel indicating transparency - Glass has a high level of transparency <br> 2. the quality of being open and honest, with nothing hidden: We want more transparency in government
+- `exhibit (verb)`  /ɪɡˈzɪbɪt/ <br> 1. to show something in a public place for people to look at: Her photographs have been exhibited all over the world - The museum exhibits ancient coins <br> 2. (formal) to clearly show a quality, feeling, or behavior (SAME MEANING: display): The patient exhibited signs of tiredness
 ---
 
 ---
