@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2427**
+**Total words: 2432**
 
 ## 📑 Table of Contents
 
@@ -24,8 +24,8 @@
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
     - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
-- [Duolingo - Vocabulary (997 words)](#duolingo---vocabulary-997-words)
-  - [SECTION 1 (997 words)](#section-1-997-words)
+- [Duolingo - Vocabulary (1002 words)](#duolingo---vocabulary-1002-words)
+  - [SECTION 1 (1002 words)](#section-1-1002-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -64,7 +64,7 @@
     - [Surprise (20 words)](#surprise-20-words)
     - [Technology (17 words)](#technology-17-words)
     - [Politics (37 words)](#politics-37-words)
-    - [Fears (17 words)](#fears-17-words)
+    - [Fears (22 words)](#fears-22-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -882,7 +882,7 @@
 - `accessible`  /əkˈses.ə.bəl/ <br> able to be reached or easily obtained
 - `reach (verb)`  /riːtʃ/ <br> 1. to arrive somewhere: It was dark when we reached Paris - Have you reached the end of the book yet? <br> 2. to put out your hand to do or get something: I reached for the telephone <br> 3. to be able to touch something: Can you get that book from the top shelf for me? I can't reach
 - `hands-on`  /hændz-ɑ:n/ <br> عملی، تجربی، مبتنی بر انجام کار با دست
-- `stress`  /stres/ <br> 1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy' - تأکید کردن
+- `stress (verb)`  /stres/ <br> 1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy' <br> `stress out` become very worried: Don't stress out about the test - تأکید کردن
 - `acquisition`  /ˌækwɪˈzɪʃən/ <br> the process of getting or learning something, such as skills, knowledge, or assets
 - `equip`  /ɪˈkwɪp/ <br> to get all the things that are needed for doing something: Before setting out, they equipped themselves with a map - The kitchen is well equipped
 - `backbone`  /ˈbæk.ˌboʊn/ <br> a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>
@@ -1496,9 +1496,9 @@
 
 ---
 
-## Duolingo - Vocabulary (997 words)
+## Duolingo - Vocabulary (1002 words)
 
-### SECTION 1 (997 words)
+### SECTION 1 (1002 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2556,7 +2556,7 @@
 - `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
 - `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
 
-#### Fears (17 words)
+#### Fears (22 words)
 - `shark (noun)`  /ʃɑːrk/ <br> a big fish that lives in the sea. Some sharks have sharp teeth and are dangerous <br> <img src='images/shark.jpg' alt='shark' width='200'>
 - `anxious (adjective)`  /ˈæŋk.ʃəs/ <br> 1. worried and afraid: She's anxious because her daughter hasn't arrived yet <br> 2. If you are anxious to do something, you want to do it very much: My family are anxious to meet you
 - `lounge (noun)`  /laʊndʒ/ <br> a room in a house where people sit together and watch television or talk, for example (SAME MEANING: living room, sitting room)
@@ -2574,6 +2574,11 @@
 - `still (adverb)`  /stɪl/ <br> 1. a word that you use to show that something has not changed: Do you still live in London? - Is it still raining? <br> 2. although that is true: She felt ill, but she still went to the party <br> 3. a word that you use to make another word stronger: It was cold yesterday, but today it's colder still
 - `wave (verb)`  /weɪv/ <br> 1. to move your hand from side to side in the air to say hello or goodbye, or to make a sign to somebody: She waved to me as the train left the station - Who are you waving at? <br> 2. to move something quickly from side to side in the air: The children waved flags as the President's car drove past <br> 3. to move up and down or from side to side: The flags were waving in the wind
 - `run (verb)`  /rʌn/ <br> 1. to move very quickly on your legs: I was late, so I ran to the bus stop <br> 2. to control something and make it work: Who runs the business? <br> 3. to work: The car had stopped but the engine was still running <br> 4. to go; to make a journey: The buses don't run on Sundays <br> 5. to move something somewhere: He ran his fingers through his hair <br> 6. to pass or go somewhere: The road runs across the fields <br> 7. to flow: The river runs into the North Sea <br> `run after somebody or something` to try to catch a person or an animal (SAME MEANING: chase): The dog ran after a rabbit <br> `run away` to go quickly away from a place (SAME MEANING: escape): She ran away from home when she was 14 <br> `run into somebody` to meet somebody by chance: Guess who I ran into today? <br> `run into somebody or something` to crash into somebody or something: The bus went out of control and ran into a line of people <br> `run out of something` to have no more of something: We've run out of coffee. Will you go and buy some? <br> `run over somebody or something` to hit a person or an animal with your car or other vehicle: The dog was run over by a bus
+- `yikes`  /jaɪks/ <br> oh no; used to show that you are worried, surprised, or shocked: I start my new job tomorrow. Yikes!
+- `buzz (noun)`  /bʌz/ <br> a continuous, low sound: I heard a buzz and then saw the plane in the distance
+- `buzz (verb)`  /bʌz/ <br> to make a continuous, low sound such as the one a bee makes: I can hear an insect buzzing - My phone buzzed at five in the morning and woke me
+- `fault (noun)`  /fɑːlt/ <br> 1. (no plural) If something bad is your fault, you made it happen: It's her fault that we are late - It's my fault for being careless <br> 2. (plural faults) something that is wrong or bad in person or thing: There is serious fault in the machine
+- `vibrate (verb)`  /ˈvaɪ.breɪt/ <br> to move or make something move from side to side very quickly and with small movements: The house vibrates every time a train goes past
 ---
 
 ---

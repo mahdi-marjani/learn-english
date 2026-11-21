@@ -643,7 +643,7 @@
 - `accessible`  /əkˈses.ə.bəl/ <br> able to be reached or easily obtained
 - `reach (verb)`  /riːtʃ/ <br> 1. to arrive somewhere: It was dark when we reached Paris - Have you reached the end of the book yet? <br> 2. to put out your hand to do or get something: I reached for the telephone <br> 3. to be able to touch something: Can you get that book from the top shelf for me? I can't reach
 - `hands-on`  /hændz-ɑ:n/ <br> عملی، تجربی، مبتنی بر انجام کار با دست
-- `stress`  /stres/ <br> 1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy' - تأکید کردن
+- `stress (verb)`  /stres/ <br> 1. to say something strongly to show that it is important: I must stress how important this meeting is <br> 2. to say one word or part of a word more strongly than another: You should stress the first part of the word 'happy' <br> `stress out` become very worried: Don't stress out about the test - تأکید کردن
 - `acquisition`  /ˌækwɪˈzɪʃən/ <br> the process of getting or learning something, such as skills, knowledge, or assets
 - `equip`  /ɪˈkwɪp/ <br> to get all the things that are needed for doing something: Before setting out, they equipped themselves with a map - The kitchen is well equipped
 - `backbone`  /ˈbæk.ˌboʊn/ <br> a line of connected bones going down from your neck to tail bone in the middle of the back <br> <img src='images/backbone.jpg' alt='backbone' width='200'>
