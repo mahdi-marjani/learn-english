@@ -645,10 +645,10 @@
           "mean_en": ""
         },
         {
-          "word": "facing",
-          "phonetic": "",
-          "mean_fa": "رو به رو شدن",
-          "mean_en": ""
+          "word": "face (verb)",
+          "phonetic": "/feɪs/",
+          "mean_fa": "",
+          "mean_en": "1. to be opposite somebody/something; to have your face or front pointing towards somebody/something or in a particular direction: She turned and faced him - Most of the rooms face the sea <br> 2. to deal with an unfriendly person or a difficult situation: I can't face going to work today _ I feel too ill - How can I face Tom? He'll be so disappointed - Many farmers are facing a hard year"
         },
         {
           "word": "kind",
@@ -921,7 +921,7 @@
           "mean_en": "not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday"
         },
         {
-          "word": "calm",
+          "word": "calm (adjective)",
           "phonetic": "/kɑːm/",
           "mean_fa": "",
           "mean_en": "1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather"

@@ -131,7 +131,7 @@
 - `during`  <br> حین
 - `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent
 - `ourselves`  <br> خودمون
-- `facing`  <br> رو به رو شدن
+- `face (verb)`  /feɪs/ <br> 1. to be opposite somebody/something; to have your face or front pointing towards somebody/something or in a particular direction: She turned and faced him - Most of the rooms face the sea <br> 2. to deal with an unfriendly person or a difficult situation: I can't face going to work today _ I feel too ill - How can I face Tom? He'll be so disappointed - Many farmers are facing a hard year
 - `kind`  <br> نوع
 - `struggle`  /ˈstrʌɡl/ <br> 1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker
 - `variability`  <br> تغییرپذیری
@@ -177,7 +177,7 @@
 - `enthusiastic`  <br> مشتاق
 - `hobby`  <br> سرگرمی
 - `excited`  /ɪkˈsaɪtɪd/ <br> not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
-- `calm`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
+- `calm (adjective)`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
 - `odd`  <br> گاهی
 - `eventually`  /ɪˈven.tʃu.ə.li/ <br> in the end, especially after a long time or a lot of effort, problems, etc.: It might take him ages but he'll do it eventually - در نهایت
 - `complexity`  <br> پیچیدگی

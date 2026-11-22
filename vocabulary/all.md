@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2432**
+**Total words: 2436**
 
 ## 📑 Table of Contents
 
@@ -24,8 +24,8 @@
     - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
     - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
-- [Duolingo - Vocabulary (1002 words)](#duolingo---vocabulary-1002-words)
-  - [SECTION 1 (1002 words)](#section-1-1002-words)
+- [Duolingo - Vocabulary (1006 words)](#duolingo---vocabulary-1006-words)
+  - [SECTION 1 (1006 words)](#section-1-1006-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -64,7 +64,7 @@
     - [Surprise (20 words)](#surprise-20-words)
     - [Technology (17 words)](#technology-17-words)
     - [Politics (37 words)](#politics-37-words)
-    - [Fears (22 words)](#fears-22-words)
+    - [Fears (26 words)](#fears-26-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -370,7 +370,7 @@
 - `during`  <br> حین
 - `independent`  /ˌɪn.dɪˈpen.dənt/ <br> 1. not controlled by another person, thing or country: Mozambique became independent in 1975 <br> 2. not needing or wanting help: She lives alone now and she is very independent
 - `ourselves`  <br> خودمون
-- `facing`  <br> رو به رو شدن
+- `face (verb)`  /feɪs/ <br> 1. to be opposite somebody/something; to have your face or front pointing towards somebody/something or in a particular direction: She turned and faced him - Most of the rooms face the sea <br> 2. to deal with an unfriendly person or a difficult situation: I can't face going to work today _ I feel too ill - How can I face Tom? He'll be so disappointed - Many farmers are facing a hard year
 - `kind`  <br> نوع
 - `struggle`  /ˈstrʌɡl/ <br> 1. to try very hard to do something that is not easy: we struggled to lift the heavy box <br> 2. to move your arms and legs a lot when you are fighting or trying to get free: She struggled with her attacker
 - `variability`  <br> تغییرپذیری
@@ -416,7 +416,7 @@
 - `enthusiastic`  <br> مشتاق
 - `hobby`  <br> سرگرمی
 - `excited`  /ɪkˈsaɪtɪd/ <br> not calm, for example because you are happy about something that is going to happen: He's getting very excited about his holiday
-- `calm`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
+- `calm (adjective)`  /kɑːm/ <br> 1. quiet, and not excited or afraid: Try to keep calm _ there's no danger <br> 2. without big waves: a calm sea <br> 3. without much wind: calm weather
 - `odd`  <br> گاهی
 - `eventually`  /ɪˈven.tʃu.ə.li/ <br> in the end, especially after a long time or a lot of effort, problems, etc.: It might take him ages but he'll do it eventually - در نهایت
 - `complexity`  <br> پیچیدگی
@@ -1496,9 +1496,9 @@
 
 ---
 
-## Duolingo - Vocabulary (1002 words)
+## Duolingo - Vocabulary (1006 words)
 
-### SECTION 1 (1002 words)
+### SECTION 1 (1006 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2556,7 +2556,7 @@
 - `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
 - `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
 
-#### Fears (22 words)
+#### Fears (26 words)
 - `shark (noun)`  /ʃɑːrk/ <br> a big fish that lives in the sea. Some sharks have sharp teeth and are dangerous <br> <img src='images/shark.jpg' alt='shark' width='200'>
 - `anxious (adjective)`  /ˈæŋk.ʃəs/ <br> 1. worried and afraid: She's anxious because her daughter hasn't arrived yet <br> 2. If you are anxious to do something, you want to do it very much: My family are anxious to meet you
 - `lounge (noun)`  /laʊndʒ/ <br> a room in a house where people sit together and watch television or talk, for example (SAME MEANING: living room, sitting room)
@@ -2579,6 +2579,10 @@
 - `buzz (verb)`  /bʌz/ <br> to make a continuous, low sound such as the one a bee makes: I can hear an insect buzzing - My phone buzzed at five in the morning and woke me
 - `fault (noun)`  /fɑːlt/ <br> 1. (no plural) If something bad is your fault, you made it happen: It's her fault that we are late - It's my fault for being careless <br> 2. (plural faults) something that is wrong or bad in person or thing: There is serious fault in the machine
 - `vibrate (verb)`  /ˈvaɪ.breɪt/ <br> to move or make something move from side to side very quickly and with small movements: The house vibrates every time a train goes past
+- `calm (verb)`  /kɑːm/ <br> `calm down` relax; to become less afraid or excited; to make somebody less afraid or excited: Calm down and tell me what happened
+- `thank goodness`  <br> It's a good thing; said to express happiness that something bad has been avoided or has finished: Thank goodness you're safe - Thank goodness the snake didn't attack me - That was the most boring Halloween party of my life. Thank goodness it's over!
+- `thank God`  <br> thank goodness
+- `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 ---
 
 ---

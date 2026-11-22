@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 1002**
+**Total words: 1006**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (1002 words)](#section-1-1002-words)
+- [SECTION 1 (1006 words)](#section-1-1006-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -43,11 +43,11 @@
   - [Surprise (20 words)](#surprise-20-words)
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
-  - [Fears (22 words)](#fears-22-words)
+  - [Fears (26 words)](#fears-26-words)
 
 ---
 
-## SECTION 1 (1002 words)
+## SECTION 1 (1006 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1105,7 +1105,7 @@
 - `orchid (noun)`  /ˈɔːr.kɪd/ <br> a type of flower <br> <img src='images/orchid.jpg' alt='orchid' width='200'>
 - `tap (noun)`  /tæp/ <br> 1. (British) (American faucet) a thing that you turn to make something like water or gas come out of a pipe: Turn the tap off <br> <img src='images/faucet.jpg' alt='faucet' width='200'> <br> 2. a light hit with your hand or fingers: They heard a tap at the door
 
-### Fears (22 words)
+### Fears (26 words)
 - `shark (noun)`  /ʃɑːrk/ <br> a big fish that lives in the sea. Some sharks have sharp teeth and are dangerous <br> <img src='images/shark.jpg' alt='shark' width='200'>
 - `anxious (adjective)`  /ˈæŋk.ʃəs/ <br> 1. worried and afraid: She's anxious because her daughter hasn't arrived yet <br> 2. If you are anxious to do something, you want to do it very much: My family are anxious to meet you
 - `lounge (noun)`  /laʊndʒ/ <br> a room in a house where people sit together and watch television or talk, for example (SAME MEANING: living room, sitting room)
@@ -1128,4 +1128,8 @@
 - `buzz (verb)`  /bʌz/ <br> to make a continuous, low sound such as the one a bee makes: I can hear an insect buzzing - My phone buzzed at five in the morning and woke me
 - `fault (noun)`  /fɑːlt/ <br> 1. (no plural) If something bad is your fault, you made it happen: It's her fault that we are late - It's my fault for being careless <br> 2. (plural faults) something that is wrong or bad in person or thing: There is serious fault in the machine
 - `vibrate (verb)`  /ˈvaɪ.breɪt/ <br> to move or make something move from side to side very quickly and with small movements: The house vibrates every time a train goes past
+- `calm (verb)`  /kɑːm/ <br> `calm down` relax; to become less afraid or excited; to make somebody less afraid or excited: Calm down and tell me what happened
+- `thank goodness`  <br> It's a good thing; said to express happiness that something bad has been avoided or has finished: Thank goodness you're safe - Thank goodness the snake didn't attack me - That was the most boring Halloween party of my life. Thank goodness it's over!
+- `thank God`  <br> thank goodness
+- `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 ---
