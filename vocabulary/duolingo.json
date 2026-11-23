@@ -6234,6 +6234,47 @@
               "mean_en": "a very big sea: the Atlantic Ocean"
             }
           ]
+        },
+        {
+          "heading": "Cinema",
+          "words": [
+            {
+              "word": "character (noun)",
+              "phonetic": "/ˈkærəktər/",
+              "mean_fa": "",
+              "mean_en": "1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character"
+            },
+            {
+              "word": "animated movie (noun)",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "cartoon"
+            },
+            {
+              "word": "director (noun)",
+              "phonetic": "/daɪˈrektər/",
+              "mean_fa": "",
+              "mean_en": "1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do"
+            },
+            {
+              "word": "walk (verb)",
+              "phonetic": "/wɑːk/",
+              "mean_fa": "",
+              "mean_en": "to move on your legs, but not run: I usually walk to work - We walked 20 kilometres today <br> `walk out` to leave suddenly because you are angry: He walked out of the meeting <br> `walk up (to somebody/something)` to walk toward someone or something, especially in a confident way: She just walked up to the desk and asked to see the manager"
+            },
+            {
+              "word": "documentary (noun)",
+              "phonetic": "/ˌdɑːkjuˈmentri/",
+              "mean_fa": "",
+              "mean_en": "a film or a radio or television programme giving facts about something: The documentary took a fresh look at the life of Darwin"
+            },
+            {
+              "word": "original (adjective)",
+              "phonetic": "/əˈrɪdʒənl/",
+              "mean_fa": "",
+              "mean_en": "1. first; earliest: I have the car now, but my sister was the original owner <br> 2. new and different: His poems are very original <br> 3. real, not copied: original paintings"
+            }
+          ]
         }
       ]
     }

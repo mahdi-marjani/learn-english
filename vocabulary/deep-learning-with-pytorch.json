@@ -4961,7 +4961,13 @@
               "word": "favor (noun)",
               "phonetic": "/ˈfeɪ·vər/",
               "mean_fa": "",
-              "mean_en": "approval, support, or popularity that someone or something has; a positive feeling toward something: neural networks had fallen out of favor"
+              "mean_en": "1. something kind that you do to help someone: Can you do me a favor and close the door? <br> 2. approval or support for someone or something: The teacher's new plan found favor with the students"
+            },
+            {
+              "word": "fall out of favor",
+              "phonetic": "/ˌfɔːl ˈaʊt əv ˈfeɪvər/",
+              "mean_fa": "",
+              "mean_en": "to stop being popular or liked by people: neural networks had fallen out of favor due to limited computational resources - Long skirts fell out of favor in the 1920s"
             },
             {
               "word": "lackluster",

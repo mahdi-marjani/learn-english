@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2436**
+**Total words: 2443**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (20 words)](#e4-20-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1204 words)](#deep-learning-with-pytorch---vocabulary-1204-words)
+- [Deep Learning with PyTorch - Vocabulary (1205 words)](#deep-learning-with-pytorch---vocabulary-1205-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,13 +19,13 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (739 words)](#part-1-core-pytorch-739-words)
+  - [Part 1: Core PyTorch (740 words)](#part-1-core-pytorch-740-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
-    - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
+    - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
     - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
-- [Duolingo - Vocabulary (1006 words)](#duolingo---vocabulary-1006-words)
-  - [SECTION 1 (1006 words)](#section-1-1006-words)
+- [Duolingo - Vocabulary (1012 words)](#duolingo---vocabulary-1012-words)
+  - [SECTION 1 (1012 words)](#section-1-1012-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -65,6 +65,7 @@
     - [Technology (17 words)](#technology-17-words)
     - [Politics (37 words)](#politics-37-words)
     - [Fears (26 words)](#fears-26-words)
+    - [Cinema (6 words)](#cinema-6-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -256,7 +257,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1204 words)
+## Deep Learning with PyTorch - Vocabulary (1205 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -744,7 +745,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (739 words)
+### Part 1: Core PyTorch (740 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1051,7 +1052,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-#### Chapter 2: Pretrained networks (224 words)
+#### Chapter 2: Pretrained networks (225 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -1102,7 +1103,8 @@
 - `ignite`  /ɪɡˈnaɪt/ <br> to start burning or to make something start burning: The gas ignited and caused an explosion
 - `explosion`  /ɪkˈsploʊ.ʒən/ <br> <br> <img src='images/explosion.jpg' alt='explosion' width='200'>
 - `mainstream`  /ˈmeɪn.striːm/ <br> the way of thinking or doing things that is most common or accepted by the majority of people; being ordinary or normal
-- `favor (noun)`  /ˈfeɪ·vər/ <br> approval, support, or popularity that someone or something has; a positive feeling toward something: neural networks had fallen out of favor
+- `favor (noun)`  /ˈfeɪ·vər/ <br> 1. something kind that you do to help someone: Can you do me a favor and close the door? <br> 2. approval or support for someone or something: The teacher's new plan found favor with the students
+- `fall out of favor`  /ˌfɔːl ˈaʊt əv ˈfeɪvər/ <br> to stop being popular or liked by people: neural networks had fallen out of favor due to limited computational resources - Long skirts fell out of favor in the 1920s
 - `lackluster`  /ˈlækˌlʌs.tɚ/ <br> not exciting, interesting, or good; without energy and effort: lackluster results
 - `submission`  /səbˈmɪʃ.ən/ <br> something presented for consideration, judgment, or evaluation, such as a manuscript, design, proposal, or work of art: By comparison, the second-best submission, which wasn’t based on a deep network, trailed at 26.2%
 - `trail (verb)`  /treɪl/ <br> to be behind someone in a competition or race; to move or happen more slowly or later than others: trailed at 26.2%
@@ -1496,9 +1498,9 @@
 
 ---
 
-## Duolingo - Vocabulary (1006 words)
+## Duolingo - Vocabulary (1012 words)
 
-### SECTION 1 (1006 words)
+### SECTION 1 (1012 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2583,6 +2585,14 @@
 - `thank goodness`  <br> It's a good thing; said to express happiness that something bad has been avoided or has finished: Thank goodness you're safe - Thank goodness the snake didn't attack me - That was the most boring Halloween party of my life. Thank goodness it's over!
 - `thank God`  <br> thank goodness
 - `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
+
+#### Cinema (6 words)
+- `character (noun)`  /ˈkærəktər/ <br> 1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character
+- `animated movie (noun)`  <br> cartoon
+- `director (noun)`  /daɪˈrektər/ <br> 1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do
+- `walk (verb)`  /wɑːk/ <br> to move on your legs, but not run: I usually walk to work - We walked 20 kilometres today <br> `walk out` to leave suddenly because you are angry: He walked out of the meeting <br> `walk up (to somebody/something)` to walk toward someone or something, especially in a confident way: She just walked up to the desk and asked to see the manager
+- `documentary (noun)`  /ˌdɑːkjuˈmentri/ <br> a film or a radio or television programme giving facts about something: The documentary took a fresh look at the life of Darwin
+- `original (adjective)`  /əˈrɪdʒənl/ <br> 1. first; earliest: I have the car now, but my sister was the original owner <br> 2. new and different: His poems are very original <br> 3. real, not copied: original paintings
 ---
 
 ---

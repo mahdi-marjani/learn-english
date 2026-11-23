@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1204**
+**Total words: 1205**
 
 ## 📑 Table of Contents
 
@@ -11,9 +11,9 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (739 words)](#part-1-core-pytorch-739-words)
+- [Part 1: Core PyTorch (740 words)](#part-1-core-pytorch-740-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
-  - [Chapter 2: Pretrained networks (224 words)](#chapter-2-pretrained-networks-224-words)
+  - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
   - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
   - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
 
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (739 words)
+## Part 1: Core PyTorch (740 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -812,7 +812,7 @@
 - `friction`  /ˈfrɪk.ʃən/ <br> the resistance or difficulty you face when doing something
 - `utility (noun)`  /juːˈtɪl.ə.t̬i/ <br> a tool, program, or piece of software that performs a specific, common task (often to help the main system)
 
-### Chapter 2: Pretrained networks (224 words)
+### Chapter 2: Pretrained networks (225 words)
 - `caption`  /ˈkæp.ʃən/ <br> the words above or below a picture in a book or newspaper, that tell you about it
 - `deliver`  /dɪ.ˈlɪ.vər/ <br> to take something to the place where it must go: The postman delivered two letters this morning
 - `impacted`  /ɪmˈpæk.tɪd/ <br> 1. pressed firmly together <br> 2. strongly affected by something
@@ -863,7 +863,8 @@
 - `ignite`  /ɪɡˈnaɪt/ <br> to start burning or to make something start burning: The gas ignited and caused an explosion
 - `explosion`  /ɪkˈsploʊ.ʒən/ <br> <br> <img src='images/explosion.jpg' alt='explosion' width='200'>
 - `mainstream`  /ˈmeɪn.striːm/ <br> the way of thinking or doing things that is most common or accepted by the majority of people; being ordinary or normal
-- `favor (noun)`  /ˈfeɪ·vər/ <br> approval, support, or popularity that someone or something has; a positive feeling toward something: neural networks had fallen out of favor
+- `favor (noun)`  /ˈfeɪ·vər/ <br> 1. something kind that you do to help someone: Can you do me a favor and close the door? <br> 2. approval or support for someone or something: The teacher's new plan found favor with the students
+- `fall out of favor`  /ˌfɔːl ˈaʊt əv ˈfeɪvər/ <br> to stop being popular or liked by people: neural networks had fallen out of favor due to limited computational resources - Long skirts fell out of favor in the 1920s
 - `lackluster`  /ˈlækˌlʌs.tɚ/ <br> not exciting, interesting, or good; without energy and effort: lackluster results
 - `submission`  /səbˈmɪʃ.ən/ <br> something presented for consideration, judgment, or evaluation, such as a manuscript, design, proposal, or work of art: By comparison, the second-best submission, which wasn’t based on a deep network, trailed at 26.2%
 - `trail (verb)`  /treɪl/ <br> to be behind someone in a competition or race; to move or happen more slowly or later than others: trailed at 26.2%
