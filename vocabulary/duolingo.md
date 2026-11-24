@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 1012**
+**Total words: 1015**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (1012 words)](#section-1-1012-words)
+- [SECTION 1 (1015 words)](#section-1-1015-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -44,11 +44,11 @@
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
   - [Fears (26 words)](#fears-26-words)
-  - [Cinema (6 words)](#cinema-6-words)
+  - [Cinema (9 words)](#cinema-9-words)
 
 ---
 
-## SECTION 1 (1012 words)
+## SECTION 1 (1015 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1134,11 +1134,14 @@
 - `thank God`  <br> thank goodness
 - `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 
-### Cinema (6 words)
+### Cinema (9 words)
 - `character (noun)`  /ˈkærəktər/ <br> 1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character
 - `animated movie (noun)`  <br> cartoon
 - `director (noun)`  /daɪˈrektər/ <br> 1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do
 - `walk (verb)`  /wɑːk/ <br> to move on your legs, but not run: I usually walk to work - We walked 20 kilometres today <br> `walk out` to leave suddenly because you are angry: He walked out of the meeting <br> `walk up (to somebody/something)` to walk toward someone or something, especially in a confident way: She just walked up to the desk and asked to see the manager
 - `documentary (noun)`  /ˌdɑːkjuˈmentri/ <br> a film or a radio or television programme giving facts about something: The documentary took a fresh look at the life of Darwin
 - `original (adjective)`  /əˈrɪdʒənl/ <br> 1. first; earliest: I have the car now, but my sister was the original owner <br> 2. new and different: His poems are very original <br> 3. real, not copied: original paintings
+- `romantic (adjective)`  /roʊˈmæn.t̬ɪk/ <br> about love; full of feelings of love: a romantic film
+- `audience (noun)`  /ˈɑː.di.əns/ <br> the people who are watching or listening to a film, play, concert, programme, etc.: The audience clapped
+- `motivational (adjective)`  /ˌməʊtɪˈveɪʃənl/ <br> making somebody want to do something, especially something that involves hard work and effort: a motivational speaker/speech
 ---
