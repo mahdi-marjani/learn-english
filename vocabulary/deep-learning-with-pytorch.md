@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1205**
+**Total words: 1210**
 
 ## 📑 Table of Contents
 
@@ -11,11 +11,11 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (740 words)](#part-1-core-pytorch-740-words)
+- [Part 1: Core PyTorch (745 words)](#part-1-core-pytorch-745-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
   - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-  - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
+  - [Chapter 4: Real-world data representation using tensors (36 words)](#chapter-4-real-world-data-representation-using-tensors-36-words)
 
 ---
 
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (740 words)
+## Part 1: Core PyTorch (745 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1222,7 +1222,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-### Chapter 4: Real-world data representation using tensors (31 words)
+### Chapter 4: Real-world data representation using tensors (36 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1254,4 +1254,9 @@
 - `photograph (noun)`  /ˈfoʊ.t̬oʊ.ɡræf/ <br> a picture produced using a camera
 - `transparency (noun)`  /trænˈsper.ən.si/ <br> 1. the quality of being able to be seen through: Sometimes images also have an alpha channel indicating transparency - Glass has a high level of transparency <br> 2. the quality of being open and honest, with nothing hidden: We want more transparency in government
 - `exhibit (verb)`  /ɪɡˈzɪbɪt/ <br> 1. to show something in a public place for people to look at: Her photographs have been exhibited all over the world - The museum exhibits ancient coins <br> 2. (formal) to clearly show a quality, feeling, or behavior (SAME MEANING: display): The patient exhibited signs of tiredness
+- `tricky (adjective)`  /ˈtrɪk.i/ <br> difficult; hard to do: a tricky question
+- `lie 1 (verb)`  /laɪ/ <br> to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- `lie 2 (verb)`  /laɪ/ <br> 1. to put your body flat on something so that you are not sitting or standing: He lay on the bed <br> 2. to have your body flat on something: The baby was lying on its back <br> 3. to be or stay in a position or state: The hills lie to the north of the town <br> `lie down` to put or have your body flat so that you can rest: She lay down on the bed
+- `advance (noun)`  /ədˈvæns/ <br> progress or a new development in something: major advances in computer technology <br> `in advance` before something happens: Please tell me in advance if you can't come to the meeting
+- `subtract (verb)`  /səbˈtrækt/ <br> to calculate the difference between two numbers (SAME MEANING: take away): If you subtract 3 from 10, you get 7 (OPPOSITE: add)
 ---

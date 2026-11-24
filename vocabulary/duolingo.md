@@ -1,14 +1,14 @@
 # Duolingo - Vocabulary
 
-**Total words: 1015**
+**Total words: 1014**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (1015 words)](#section-1-1015-words)
+- [SECTION 1 (1014 words)](#section-1-1014-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
-  - [Interview (26 words)](#interview-26-words)
+  - [Interview (25 words)](#interview-25-words)
   - [Chores (39 words)](#chores-39-words)
   - [Meeting (41 words)](#meeting-41-words)
   - [Reunion (34 words)](#reunion-34-words)
@@ -48,7 +48,7 @@
 
 ---
 
-## SECTION 1 (1015 words)
+## SECTION 1 (1014 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -158,7 +158,7 @@
 - `tasty`  /ˈteɪsti/ <br> good to eat: The soup was very tasty
 - `blender`  /ˈblen.dər/ <br> an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-### Interview (26 words)
+### Interview (25 words)
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
@@ -177,7 +177,6 @@
 - `adult`  /ˈædʌlt/ <br> a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
 - `as`  <br> 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school <br> `as with` in the same way as: As with most sports, you need practice to get better - As with his earlier movies, the special effects in his latest film are brilliant
 - `airline`  <br> a company that takes people or things to different places by plane: Which airline are you flying with?
-- `lie (verb)`  /laɪ/ <br> 1. to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar) <br> 2. (of a person or animal) to be in a resting position on a flat surface, not standing or sitting: Lin is lying on Bea's couch
 - `salary`  /ˈsæləri/ <br> money that you receive every month for the work that you do
 - `confident`  /ˈkɑːnfɪdənt/ <br> sure that you can do something well, or that something will happen: I'm confident that our team will win
 - `airport`  <br> a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport

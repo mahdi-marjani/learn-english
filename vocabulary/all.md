@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2446**
+**Total words: 2450**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (20 words)](#e4-20-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1205 words)](#deep-learning-with-pytorch---vocabulary-1205-words)
+- [Deep Learning with PyTorch - Vocabulary (1210 words)](#deep-learning-with-pytorch---vocabulary-1210-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,17 +19,17 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (740 words)](#part-1-core-pytorch-740-words)
+  - [Part 1: Core PyTorch (745 words)](#part-1-core-pytorch-745-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-    - [Chapter 4: Real-world data representation using tensors (31 words)](#chapter-4-real-world-data-representation-using-tensors-31-words)
-- [Duolingo - Vocabulary (1015 words)](#duolingo---vocabulary-1015-words)
-  - [SECTION 1 (1015 words)](#section-1-1015-words)
+    - [Chapter 4: Real-world data representation using tensors (36 words)](#chapter-4-real-world-data-representation-using-tensors-36-words)
+- [Duolingo - Vocabulary (1014 words)](#duolingo---vocabulary-1014-words)
+  - [SECTION 1 (1014 words)](#section-1-1014-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
-    - [Interview (26 words)](#interview-26-words)
+    - [Interview (25 words)](#interview-25-words)
     - [Chores (39 words)](#chores-39-words)
     - [Meeting (41 words)](#meeting-41-words)
     - [Reunion (34 words)](#reunion-34-words)
@@ -257,7 +257,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1205 words)
+## Deep Learning with PyTorch - Vocabulary (1210 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -745,7 +745,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (740 words)
+### Part 1: Core PyTorch (745 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1462,7 +1462,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-#### Chapter 4: Real-world data representation using tensors (31 words)
+#### Chapter 4: Real-world data representation using tensors (36 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1494,13 +1494,18 @@
 - `photograph (noun)`  /ˈfoʊ.t̬oʊ.ɡræf/ <br> a picture produced using a camera
 - `transparency (noun)`  /trænˈsper.ən.si/ <br> 1. the quality of being able to be seen through: Sometimes images also have an alpha channel indicating transparency - Glass has a high level of transparency <br> 2. the quality of being open and honest, with nothing hidden: We want more transparency in government
 - `exhibit (verb)`  /ɪɡˈzɪbɪt/ <br> 1. to show something in a public place for people to look at: Her photographs have been exhibited all over the world - The museum exhibits ancient coins <br> 2. (formal) to clearly show a quality, feeling, or behavior (SAME MEANING: display): The patient exhibited signs of tiredness
+- `tricky (adjective)`  /ˈtrɪk.i/ <br> difficult; hard to do: a tricky question
+- `lie 1 (verb)`  /laɪ/ <br> to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar)
+- `lie 2 (verb)`  /laɪ/ <br> 1. to put your body flat on something so that you are not sitting or standing: He lay on the bed <br> 2. to have your body flat on something: The baby was lying on its back <br> 3. to be or stay in a position or state: The hills lie to the north of the town <br> `lie down` to put or have your body flat so that you can rest: She lay down on the bed
+- `advance (noun)`  /ədˈvæns/ <br> progress or a new development in something: major advances in computer technology <br> `in advance` before something happens: Please tell me in advance if you can't come to the meeting
+- `subtract (verb)`  /səbˈtrækt/ <br> to calculate the difference between two numbers (SAME MEANING: take away): If you subtract 3 from 10, you get 7 (OPPOSITE: add)
 ---
 
 ---
 
-## Duolingo - Vocabulary (1015 words)
+## Duolingo - Vocabulary (1014 words)
 
-### SECTION 1 (1015 words)
+### SECTION 1 (1014 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1610,7 +1615,7 @@
 - `tasty`  /ˈteɪsti/ <br> good to eat: The soup was very tasty
 - `blender`  /ˈblen.dər/ <br> an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids <br> <img src='images/blender.jpg' alt='blender' width='200'>
 
-#### Interview (26 words)
+#### Interview (25 words)
 - `interview`  /ˈɪntərvjuː/ <br> a meeting in which someone asks you questions to see if you are suitable for a job or course: a job interview
 - `dispute`  /ˈdɪspjuːt/ <br> an argument or disagreement between people with different ideas: There was a dispute about which driver caused the accident - اختلاف نظر
 - `crowd`  /kraʊd/ <br> a large group of people who have come together: A crowd of about 15,000 attended the concert
@@ -1629,7 +1634,6 @@
 - `adult`  /ˈædʌlt/ <br> a person or an animal that has grown to the full size; not a child: Adults as well as children will enjoy this film
 - `as`  <br> 1. while something else is happening: just as I was leaving the house, the phone rang <br> 2. `as ... as` words that you use to compare people or things; the same amount: Paul is as tall as his father - I haven't got as many clothes as you have - I'd like it done as soon as possible <br> 3. used to say that somebody or something has a particular job or purpose: She works as a secretary for a big company - I used my shoe as a hammer <br> 4. in the same way: Please do as I tell you <br> 5. because: As she was ill, she didn't go to school <br> `as with` in the same way as: As with most sports, you need practice to get better - As with his earlier movies, the special effects in his latest film are brilliant
 - `airline`  <br> a company that takes people or things to different places by plane: Which airline are you flying with?
-- `lie (verb)`  /laɪ/ <br> 1. to say something that you know is not true: He lied about his age. He said he was 16 but really he's 14 - Don't ever lie to me again (A person who lies is a liar) <br> 2. (of a person or animal) to be in a resting position on a flat surface, not standing or sitting: Lin is lying on Bea's couch
 - `salary`  /ˈsæləri/ <br> money that you receive every month for the work that you do
 - `confident`  /ˈkɑːnfɪdənt/ <br> sure that you can do something well, or that something will happen: I'm confident that our team will win
 - `airport`  <br> a place where people get on and off planes, with buildings where passengers can wait: I'll meet you at the airport
