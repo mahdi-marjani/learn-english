@@ -6135,7 +6135,7 @@
               "word": "arbitrary (adjective)",
               "phonetic": "/ˈɑːr.bɪ.trer.i/",
               "mean_fa": "",
-              "mean_en": "not based on a fixed rule or system; chosen or decided randomly or freely: the generalization of vectors and matrices to an arbitrary number of dimensions - He picked a number at random, with no real reason _ it was completely arbitrary"
+              "mean_en": "1. based on chance rather than being planned or based on reason: He picked a number at random, with no real reason _ it was completely arbitrary <br> 2. (technical/mathematics/computing) any, not limited to one specific kind or size: The function works with an arbitrary number of items"
             },
             {
               "word": "coincide (verb)",
@@ -7316,6 +7316,12 @@
               "phonetic": "/səbˈtrækt/",
               "mean_fa": "",
               "mean_en": "to calculate the difference between two numbers (SAME MEANING: take away): If you subtract 3 from 10, you get 7 (OPPOSITE: add)"
+            },
+            {
+              "word": "scale (verb)",
+              "phonetic": "/skeɪl/",
+              "mean_fa": "",
+              "mean_en": "1. (formal) to climb to the top of something very high and steep: He scaled a steep cliff beside the river - the first woman to scale the world's five highest peaks <br> 2. to remove the small, flat, hard pieces of skin from a fish <br> 3. to remove tartar from the teeth by scraping: The dentist scaled and polished my teeth <br> 4. to change the size of something: She scaled the photo to fit inside the frame <br> `scale down` to reduce the number, size or extent of something: I scaled the photo down so it fits on the page <br> `scale up` to increase the size or number of something"
             }
           ]
         }

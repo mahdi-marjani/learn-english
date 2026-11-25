@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2457**
+**Total words: 2458**
 
 ## 📑 Table of Contents
 
@@ -11,7 +11,7 @@
     - [E4 (20 words)](#e4-20-words)
     - [E5 (36 words)](#e5-36-words)
     - [E6 (12 words)](#e6-12-words)
-- [Deep Learning with PyTorch - Vocabulary (1210 words)](#deep-learning-with-pytorch---vocabulary-1210-words)
+- [Deep Learning with PyTorch - Vocabulary (1211 words)](#deep-learning-with-pytorch---vocabulary-1211-words)
   - [Deep Learning with PyTorch (38 words)](#deep-learning-with-pytorch-38-words)
   - [foreword (52 words)](#foreword-52-words)
   - [preface (91 words)](#preface-91-words)
@@ -19,11 +19,11 @@
   - [about this book (162 words)](#about-this-book-162-words)
   - [about the authors (22 words)](#about-the-authors-22-words)
   - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-  - [Part 1: Core PyTorch (745 words)](#part-1-core-pytorch-745-words)
+  - [Part 1: Core PyTorch (746 words)](#part-1-core-pytorch-746-words)
     - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
     - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-    - [Chapter 4: Real-world data representation using tensors (36 words)](#chapter-4-real-world-data-representation-using-tensors-36-words)
+    - [Chapter 4: Real-world data representation using tensors (37 words)](#chapter-4-real-world-data-representation-using-tensors-37-words)
 - [Duolingo - Vocabulary (1021 words)](#duolingo---vocabulary-1021-words)
   - [SECTION 1 (1021 words)](#section-1-1021-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
@@ -257,7 +257,7 @@
 
 ---
 
-## Deep Learning with PyTorch - Vocabulary (1210 words)
+## Deep Learning with PyTorch - Vocabulary (1211 words)
 
 ### Deep Learning with PyTorch (38 words)
 - `foreword`  <br> پیش‌گفتار (معمولاً توسط متخصص یا فرد مشهور غیر از نویسنده)
@@ -745,7 +745,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-### Part 1: Core PyTorch (745 words)
+### Part 1: Core PyTorch (746 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1300,7 +1300,7 @@
 - `precede (verb)`  /priːˈsiːd/ <br> to come before something in time or order: Spring precedes summer
 - `precisely (adverb)`  /prɪˈsaɪs.li/ <br> exactly; in an exact and accurate way: The train arrived precisely on time
 - `bump (verb)`  /bʌmp/ <br> 1. to hit somebody or something when you are moving: She bumped into a chair <br> 2. to hit a part of your body against something hard: I bumped my knee on the table <br> `bump into somebody or something` to meet somebody or something by chance: I bumped into David today - We already bumped into tensors in chapter 2, when we ran inference on pretrained networks
-- `arbitrary (adjective)`  /ˈɑːr.bɪ.trer.i/ <br> not based on a fixed rule or system; chosen or decided randomly or freely: the generalization of vectors and matrices to an arbitrary number of dimensions - He picked a number at random, with no real reason _ it was completely arbitrary
+- `arbitrary (adjective)`  /ˈɑːr.bɪ.trer.i/ <br> 1. based on chance rather than being planned or based on reason: He picked a number at random, with no real reason _ it was completely arbitrary <br> 2. (technical/mathematics/computing) any, not limited to one specific kind or size: The function works with an arbitrary number of items
 - `coincide (verb)`  /ˌkoʊ.ɪnˈsaɪd/ <br> to happen at the same time as something else, or to match/correspond exactly: Her birthday coincides with mine; we're both born on May 1st
 - `scalar (noun)`  /ˈskeɪlər/ <br> (math/physics) a single number, as opposed to a vector or array of numbers: Temperature is a scalar, but velocity is a vector because it has direction
 - `opposed (adjective)`  /əˈpoʊzd/ <br> completely different: His view of the situation is diametrically (= very strongly) opposed to mine
@@ -1462,7 +1462,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-#### Chapter 4: Real-world data representation using tensors (36 words)
+#### Chapter 4: Real-world data representation using tensors (37 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1499,6 +1499,7 @@
 - `lie 2 (verb)`  /laɪ/ <br> 1. to put your body flat on something so that you are not sitting or standing: He lay on the bed <br> 2. to have your body flat on something: The baby was lying on its back <br> 3. to be or stay in a position or state: The hills lie to the north of the town <br> `lie down` to put or have your body flat so that you can rest: She lay down on the bed
 - `advance (noun)`  /ədˈvæns/ <br> progress or a new development in something: major advances in computer technology <br> `in advance` before something happens: Please tell me in advance if you can't come to the meeting
 - `subtract (verb)`  /səbˈtrækt/ <br> to calculate the difference between two numbers (SAME MEANING: take away): If you subtract 3 from 10, you get 7 (OPPOSITE: add)
+- `scale (verb)`  /skeɪl/ <br> 1. (formal) to climb to the top of something very high and steep: He scaled a steep cliff beside the river - the first woman to scale the world's five highest peaks <br> 2. to remove the small, flat, hard pieces of skin from a fish <br> 3. to remove tartar from the teeth by scraping: The dentist scaled and polished my teeth <br> 4. to change the size of something: She scaled the photo to fit inside the frame <br> `scale down` to reduce the number, size or extent of something: I scaled the photo down so it fits on the page <br> `scale up` to increase the size or number of something
 ---
 
 ---
