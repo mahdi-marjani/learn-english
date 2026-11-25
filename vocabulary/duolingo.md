@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 1014**
+**Total words: 1021**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (1014 words)](#section-1-1014-words)
+- [SECTION 1 (1021 words)](#section-1-1021-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -44,11 +44,11 @@
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
   - [Fears (26 words)](#fears-26-words)
-  - [Cinema (9 words)](#cinema-9-words)
+  - [Cinema (16 words)](#cinema-16-words)
 
 ---
 
-## SECTION 1 (1014 words)
+## SECTION 1 (1021 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -402,7 +402,7 @@
 - `mad`  /mæd/ <br> 1. ill in your mind (SAME MEANING: crazy) <br> 2. (British, informal) very stupid (SAME MEANING: crazy): I think you're mad to go out in this snow <br> 3. (American, informal) very angry: He was mad at me for losing his watch <br> `mad about somebody or something` (informal) liking somebody or something very much: Mina is mad about computer games - He's mad about her <br> `drive somebody mad` to make somebody very angry: This noise is driving me mad <br> `go mad` (British, informal) 1. to become ill in your mind: He went mad and killed himself <br> 2. to become very angry: He went mad and killed himself - Mum will go mad when she finds out what you did at school <br> `like mad` (informal) very hard, fast, much, etc.: I had to run like mad to catch the bus
 - `bakery`  /ˈbeɪ.kɜ.ri/ <br> a place where bread and cakes are made and often sold <br> <img src='images/bakery.jpg' alt='bakery' width='200'>
 - `burn (verb)`  /bɜrn/ <br> 1. to make flames and heat; to be on fire: Paper burns easily - She escaped from the burning building <br> 2. to harm or destroy somebody or something with fire or heat: I burnt my fingers on a match - We burned the wood on the fire <br> `burn down; burn something down` to burn, or to make a building burn, until there is nothing left: Their house burnt down
-- `garden`  /ˈɡɑːr.dən/ <br> 1. (British) (American yard) a piece of land by your house where you can grow flowers, fruit, and vegetables: Let's have lunch in the garden <br> <img src='images/garden.jpg' alt='garden' width='200'> <br> 2. gardens (plural) a public park: Kensington Gardens
+- `garden (noun)`  /ˈɡɑːr.dən/ <br> 1. (British) (American yard) a piece of land by your house where you can grow flowers, fruit, and vegetables: Let's have lunch in the garden <br> <img src='images/garden.jpg' alt='garden' width='200'> <br> 2. gardens (plural) a public park: Kensington Gardens
 - `fountain`  /ˈfaʊn.tən/ <br> a structure, often placed in gardens and parks, that shoots up water into the air and then it falls down again <br> <img src='images/fountain.jpg' alt='fountain' width='200'>
 - `shiny`  /ˈʃaɪ.ni/ <br> bright and smooth in a way that reflects light <br> <img src='images/shiny.jpg' alt='shiny' width='200'>
 - `jewelry`  /ˈdʒuːl.ri/ <br> objects such as necklaces, bracelets or rings, typically made from valuable metals such as gold and silver, that we wear as decoration <br> <img src='images/jewelry.jpg' alt='jewelry' width='200'>
@@ -1133,7 +1133,7 @@
 - `thank God`  <br> thank goodness
 - `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 
-### Cinema (9 words)
+### Cinema (16 words)
 - `character (noun)`  /ˈkærəktər/ <br> 1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character
 - `animated movie (noun)`  <br> cartoon
 - `director (noun)`  /daɪˈrektər/ <br> 1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do
@@ -1143,4 +1143,11 @@
 - `romantic (adjective)`  /roʊˈmæn.t̬ɪk/ <br> about love; full of feelings of love: a romantic film
 - `audience (noun)`  /ˈɑː.di.əns/ <br> the people who are watching or listening to a film, play, concert, programme, etc.: The audience clapped
 - `motivational (adjective)`  /ˌməʊtɪˈveɪʃənl/ <br> making somebody want to do something, especially something that involves hard work and effort: a motivational speaker/speech
+- `plot (noun)`  /plɑːt/ <br> 1. what happens in a story, play or film: This book has a very exciting plot <br> 2. a secret plan to do something bad: a plot to kill the President <br> 3. a small piece of land that you use or you plan to use for a special purpose: She bought a small plot of land to build a house on - a vegetable plot
+- `garden (verb)`  /ˈɡɑːrdn/ <br> to work in a garden: My mother was gardening all weekend
+- `herb (noun)`  /ɜːrb/ /hɜːrb/ <br> plant used for flavor or medicine; a plant whose leaves, seeds, etc. are used in medicine or in cooking
+- `weed (noun)`  /wiːd/ <br> unwanted plant; a wild plant that grows where you do not want it: The garden of the old house was full of weeds
+- `go to waste`  <br> If something goes to waste, it remains unused or has to be thrown away: It's a shame to see all that food go to waste - So much effort and talent will go to waste if we are forced to drop the film
+- `talented (adjective)`  /ˈtæləntɪd/ <br> having a natural ability to do something well: a talented player/musician/artist
+- `actress (noun)`  /ˈæk.trəs/ <br> a woman who acts in plays, films or television programmes
 ---

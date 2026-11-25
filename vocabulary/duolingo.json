@@ -2044,7 +2044,7 @@
               "mean_en": "1. to make flames and heat; to be on fire: Paper burns easily - She escaped from the burning building <br> 2. to harm or destroy somebody or something with fire or heat: I burnt my fingers on a match - We burned the wood on the fire <br> `burn down; burn something down` to burn, or to make a building burn, until there is nothing left: Their house burnt down"
             },
             {
-              "word": "garden",
+              "word": "garden (noun)",
               "phonetic": "/ˈɡɑːr.dən/",
               "mean_fa": "",
               "mean_en": "1. (British) (American yard) a piece of land by your house where you can grow flowers, fruit, and vegetables: Let's have lunch in the garden <br> <img src='images/garden.jpg' alt='garden' width='200'> <br> 2. gardens (plural) a public park: Kensington Gardens"
@@ -6285,6 +6285,48 @@
               "phonetic": "/ˌməʊtɪˈveɪʃənl/",
               "mean_fa": "",
               "mean_en": "making somebody want to do something, especially something that involves hard work and effort: a motivational speaker/speech"
+            },
+            {
+              "word": "plot (noun)",
+              "phonetic": "/plɑːt/",
+              "mean_fa": "",
+              "mean_en": "1. what happens in a story, play or film: This book has a very exciting plot <br> 2. a secret plan to do something bad: a plot to kill the President <br> 3. a small piece of land that you use or you plan to use for a special purpose: She bought a small plot of land to build a house on - a vegetable plot"
+            },
+            {
+              "word": "garden (verb)",
+              "phonetic": "/ˈɡɑːrdn/",
+              "mean_fa": "",
+              "mean_en": "to work in a garden: My mother was gardening all weekend"
+            },
+            {
+              "word": "herb (noun)",
+              "phonetic": "/ɜːrb/ /hɜːrb/",
+              "mean_fa": "",
+              "mean_en": "plant used for flavor or medicine; a plant whose leaves, seeds, etc. are used in medicine or in cooking"
+            },
+            {
+              "word": "weed (noun)",
+              "phonetic": "/wiːd/",
+              "mean_fa": "",
+              "mean_en": "unwanted plant; a wild plant that grows where you do not want it: The garden of the old house was full of weeds"
+            },
+            {
+              "word": "go to waste",
+              "phonetic": "",
+              "mean_fa": "",
+              "mean_en": "If something goes to waste, it remains unused or has to be thrown away: It's a shame to see all that food go to waste - So much effort and talent will go to waste if we are forced to drop the film"
+            },
+            {
+              "word": "talented (adjective)",
+              "phonetic": "/ˈtæləntɪd/",
+              "mean_fa": "",
+              "mean_en": "having a natural ability to do something well: a talented player/musician/artist"
+            },
+            {
+              "word": "actress (noun)",
+              "phonetic": "/ˈæk.trəs/",
+              "mean_fa": "",
+              "mean_en": "a woman who acts in plays, films or television programmes"
             }
           ]
         }
