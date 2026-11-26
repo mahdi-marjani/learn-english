@@ -5248,7 +5248,7 @@
               "word": "bless (verb)",
               "phonetic": "/bles/",
               "mean_fa": "",
-              "mean_en": "to ask for God's help for somebody or something: God bless you"
+              "mean_en": "to ask for God's help for somebody or something: God bless you <br> `Bless you!` said after someone sneezes; words that you say to somebody when they sneeze: Achoo! _ Bless you"
             },
             {
               "word": "deny (verb)",
@@ -6327,6 +6327,42 @@
               "phonetic": "/ˈæk.trəs/",
               "mean_fa": "",
               "mean_en": "a woman who acts in plays, films or television programmes"
+            },
+            {
+              "word": "kick (verb)",
+              "phonetic": "/kɪk/",
+              "mean_fa": "",
+              "mean_en": "1. to hit somebody or something with your foot: I kicked the ball to to Chris <br> 2. to move your foot or feet up and down quickly: The child was kicking and screaming <br> `kick off` to start a game of football <br> `kick somebody out` (informal) to make somebody leave a place: The boys were kicked out of the cinema because they were noisy"
+            },
+            {
+              "word": "projector (noun)",
+              "phonetic": "/prəˈdʒektər/",
+              "mean_fa": "",
+              "mean_en": "a machine that shows films or pictures on a wall or screen"
+            },
+            {
+              "word": "gourmet (adjective)",
+              "phonetic": "/ˈɡʊrmeɪ/",
+              "mean_fa": "",
+              "mean_en": "(of food, drink, etc.) of high quality and often expensive; relating to food or drink of this type: gourmet food/coffee"
+            },
+            {
+              "word": "customer (noun)",
+              "phonetic": "/ˈkʌstəmər/",
+              "mean_fa": "",
+              "mean_en": "a person who buys things from a shop"
+            },
+            {
+              "word": "handful (noun)",
+              "phonetic": "/ˈhændfʊl/",
+              "mean_fa": "",
+              "mean_en": "1. as much as you can hold in one hand: a handful of stones <br> 2. a small number: Only a handful of people came to the meeting"
+            },
+            {
+              "word": "garlic (noun)",
+              "phonetic": "/ˈɡɑːrlɪk/",
+              "mean_fa": "",
+              "mean_en": "<br> <img src='images/garlic.jpg' alt='garlic' width='200'>"
             }
           ]
         }

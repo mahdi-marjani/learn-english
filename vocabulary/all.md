@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2458**
+**Total words: 2464**
 
 ## 📑 Table of Contents
 
@@ -24,8 +24,8 @@
     - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
     - [Chapter 4: Real-world data representation using tensors (37 words)](#chapter-4-real-world-data-representation-using-tensors-37-words)
-- [Duolingo - Vocabulary (1021 words)](#duolingo---vocabulary-1021-words)
-  - [SECTION 1 (1021 words)](#section-1-1021-words)
+- [Duolingo - Vocabulary (1027 words)](#duolingo---vocabulary-1027-words)
+  - [SECTION 1 (1027 words)](#section-1-1027-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -65,7 +65,7 @@
     - [Technology (17 words)](#technology-17-words)
     - [Politics (37 words)](#politics-37-words)
     - [Fears (26 words)](#fears-26-words)
-    - [Cinema (16 words)](#cinema-16-words)
+    - [Cinema (22 words)](#cinema-22-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1504,9 +1504,9 @@
 
 ---
 
-## Duolingo - Vocabulary (1021 words)
+## Duolingo - Vocabulary (1027 words)
 
-### SECTION 1 (1021 words)
+### SECTION 1 (1027 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -2418,7 +2418,7 @@
 - `drugstore (noun)`  /ˈdrʌɡ.stɔːr/ <br> a shop in the US where you can buy medicines and a lot of other things
 - `postpone (verb)`  /poʊstˈpoʊn/ <br> to delay an event and plan or decide that it should happen at a later date or time: The match was postponed because of the weather
 - `sleepy (adjective)`  /ˈsliː.pi/ <br> tired and wanting to sleep
-- `bless (verb)`  /bles/ <br> to ask for God's help for somebody or something: God bless you
+- `bless (verb)`  /bles/ <br> to ask for God's help for somebody or something: God bless you <br> `Bless you!` said after someone sneezes; words that you say to somebody when they sneeze: Achoo! _ Bless you
 - `deny (verb)`  /dɪˈnaɪ/ <br> to say that something is not true: He denied that he had stolen the car - They denied breaking the window (OPPOSITE: admit)
 - `pharmacist (noun)`  /ˈfɑːr.mə.sɪst/ <br> a person who prepares medicine
 - `nonstop (adjective, adverb)`  /ˌnɒnˈstɒp/ <br> without stopping
@@ -2591,7 +2591,7 @@
 - `thank God`  <br> thank goodness
 - `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 
-#### Cinema (16 words)
+#### Cinema (22 words)
 - `character (noun)`  /ˈkærəktər/ <br> 1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character
 - `animated movie (noun)`  <br> cartoon
 - `director (noun)`  /daɪˈrektər/ <br> 1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do
@@ -2608,6 +2608,12 @@
 - `go to waste`  <br> If something goes to waste, it remains unused or has to be thrown away: It's a shame to see all that food go to waste - So much effort and talent will go to waste if we are forced to drop the film
 - `talented (adjective)`  /ˈtæləntɪd/ <br> having a natural ability to do something well: a talented player/musician/artist
 - `actress (noun)`  /ˈæk.trəs/ <br> a woman who acts in plays, films or television programmes
+- `kick (verb)`  /kɪk/ <br> 1. to hit somebody or something with your foot: I kicked the ball to to Chris <br> 2. to move your foot or feet up and down quickly: The child was kicking and screaming <br> `kick off` to start a game of football <br> `kick somebody out` (informal) to make somebody leave a place: The boys were kicked out of the cinema because they were noisy
+- `projector (noun)`  /prəˈdʒektər/ <br> a machine that shows films or pictures on a wall or screen
+- `gourmet (adjective)`  /ˈɡʊrmeɪ/ <br> (of food, drink, etc.) of high quality and often expensive; relating to food or drink of this type: gourmet food/coffee
+- `customer (noun)`  /ˈkʌstəmər/ <br> a person who buys things from a shop
+- `handful (noun)`  /ˈhændfʊl/ <br> 1. as much as you can hold in one hand: a handful of stones <br> 2. a small number: Only a handful of people came to the meeting
+- `garlic (noun)`  /ˈɡɑːrlɪk/ <br> <br> <img src='images/garlic.jpg' alt='garlic' width='200'>
 ---
 
 ---
