@@ -1,6 +1,6 @@
 # Deep Learning with PyTorch - Vocabulary
 
-**Total words: 1211**
+**Total words: 1213**
 
 ## 📑 Table of Contents
 
@@ -11,11 +11,11 @@
 - [about this book (162 words)](#about-this-book-162-words)
 - [about the authors (22 words)](#about-the-authors-22-words)
 - [about the cover illustration (42 words)](#about-the-cover-illustration-42-words)
-- [Part 1: Core PyTorch (746 words)](#part-1-core-pytorch-746-words)
+- [Part 1: Core PyTorch (748 words)](#part-1-core-pytorch-748-words)
   - [Chapter 1: Introducing deep learning and the PyTorch Library (290 words)](#chapter-1-introducing-deep-learning-and-the-pytorch-library-290-words)
   - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
   - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
-  - [Chapter 4: Real-world data representation using tensors (37 words)](#chapter-4-real-world-data-representation-using-tensors-37-words)
+  - [Chapter 4: Real-world data representation using tensors (39 words)](#chapter-4-real-world-data-representation-using-tensors-39-words)
 
 ---
 
@@ -505,7 +505,7 @@
 - `brought back`  <br> دوباره زنده کردن، احیا کردن
 ---
 
-## Part 1: Core PyTorch (746 words)
+## Part 1: Core PyTorch (748 words)
 - `gain`  /ɡeɪn/ <br> 1. to get something that you want or need: I gained useful experience from that job <br> 2. to get more of something: I have gained weight recently
 - `work out`  <br> to find a solution to a problem or understand how something works
 - `relate`  /rɪˈleɪt/ <br> 1. to show or to make a connection between two or more things: I found it difficult to relate the two ideas in my mind <br> 2. relate to somebody or something to be connected to somebody or something: We don't need to listen to this, as it doesn't relate to our situation
@@ -1222,7 +1222,7 @@
 - `interpretable (adjective)`  /ɪnˈtɜːrprətəbl/ <br> capable of being understood; If something is interpretable, it is possible to find its meaning or possible to find a particular meaning in it: interpretable data - A simple model is more interpretable because people can see why it made a decision
 - `utilize (verb)`  /ˈjuːtəlaɪz/ <br> (formal) use
 
-### Chapter 4: Real-world data representation using tensors (37 words)
+### Chapter 4: Real-world data representation using tensors (39 words)
 - `central (adjective)`  /ˈsentrəl/ <br> 1. in or near the middle of a place: I live in central Berlin <br> 2. most important; main: Honesty is central to any friendship - She plays the central character Alexandra
 - `dexterity (noun)`  /dekˈster.ə.t̬i/ <br> skill in doing something, especially with your hands: Playing the piano needs a lot of finger dexterity - You need good manual dexterity to be a dentist
 - `appropriate (adjective)`  /əˈproʊ.pri.ət/ <br> suitable or right for a particular situation, person, etc.: Jeans and T-shirts are not appropriate for a job interview (OPPOSITE: inappropriate)
@@ -1260,4 +1260,6 @@
 - `advance (noun)`  /ədˈvæns/ <br> progress or a new development in something: major advances in computer technology <br> `in advance` before something happens: Please tell me in advance if you can't come to the meeting
 - `subtract (verb)`  /səbˈtrækt/ <br> to calculate the difference between two numbers (SAME MEANING: take away): If you subtract 3 from 10, you get 7 (OPPOSITE: add)
 - `scale (verb)`  /skeɪl/ <br> 1. (formal) to climb to the top of something very high and steep: He scaled a steep cliff beside the river - the first woman to scale the world's five highest peaks <br> 2. to remove the small, flat, hard pieces of skin from a fish <br> 3. to remove tartar from the teeth by scraping: The dentist scaled and polished my teeth <br> 4. to change the size of something: She scaled the photo to fit inside the frame <br> `scale down` to reduce the number, size or extent of something: I scaled the photo down so it fits on the page <br> `scale up` to increase the size or number of something
+- `conform (verb)`  /kənˈfɔːrm/ <br> to follow a rule, or to fit a standard: All new buildings must conform to the safety rules
+- `stumble (verb)`  /ˈstʌm.bəl/ <br> to hit your foot against something while you are walking or running and almost fall: The child stumbled and fell - The old lady stumbled as she was going upstairs <br> `stumble on/across/upon something/somebody` to find something/somebody by chance; to discover something/somebody unexpectedly: I stumbled on an old photo in a book - I stumbled across Thompson outside the hotel
 ---
