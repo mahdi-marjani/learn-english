@@ -1,108 +1,90 @@
-# 📘 افعال کمکی وجهی (Modal Verbs)
+# 📘 Modal Verbs (Cheat Sheet)
 
-**فهرست (Contents):**
+Modal verbs are **helper verbs** (*can, should, must...*) that add a meaning like ability, possibility, permission, advice or obligation to the main verb.
 
-- [ساختار کلی (Structure)](#ساختار-کلی-structure)
-- [1. توانایی (Ability)](#1-توانایی-ability)
-- [2. اجازه (Permission)](#2-اجازه-permission)
-- [3. درخواست (Requests)](#3-درخواست-requests)
-- [4. پیشنهاد کمک (Offers)](#4-پیشنهاد-کمک-offers)
-- [5. پیشنهاد و نصیحت (Suggestions & Advice)](#5-پیشنهاد-و-نصیحت-suggestions--advice)
-- [6. الزام و اجبار (Obligation)](#6-الزام-و-اجبار-obligation)
-- [7. نتیجه‌گیری منطقی (Logical Deductions)](#7-نتیجهگیری-منطقی-logical-deductions)
-- [💡 نکات سریع (Quick Tips)](#-نکات-سریع-quick-tips)
+## 📑 Contents
 
----
-
-## ساختار کلی (Structure)
-
-`Subject + modal + verb (base form)`
-
-**نکات مهم:**
-
-- بعد از modal **هرگز** `to` نمی‌آید.
-- بعد از modal فعل **بدون s** می‌آید (حتی برای he/she/it).
-
-✅ He **can go**.  
-❌ He **cans go**  
-❌ He **can to go**
+1. [What are modal verbs?](#1-what-are-modal-verbs)
+2. [3 Golden Rules](#2-3-golden-rules)
+3. [Meanings](#3-meanings)
+4. [Questions and Negatives](#4-questions-and-negatives)
+5. [Modals and Time](#5-modals-and-time)
+6. [Semi-Modals](#6-semi-modals)
+7. [Quick Tips](#7-quick-tips)
 
 ---
 
-## 1. توانایی (Ability)
+## 1. What are modal verbs?
+**Main modals:** `can` · `could` · `may` · `might` · `should` · `would` · `will` · `must`
 
-| Modal | مثال |
-|-------|------|
-| **can** (حال) | I **can** speak three languages. |
-| **can't / cannot** (منفی) | You **can't** read Latin. |
-| **could** (گذشته) | I **couldn't** study it when I was at school. |
+**Rare:** `shall` · `ought to`
+
+They change the meaning of the main verb:
+- I **swim** every Tuesday. *(a fact)*
+- I **can swim** every Tuesday. *(I'm able to / it's possible)*
+
+## 2. 3 Golden Rules
+1. **Modal + base verb** — no *to*, no *-s*, no *-ing*.
+   - ✅ She **can swim**. → ❌ She cans swim / She can to swim / She can swims.
+2. **Same form for every subject** — I / he / they **can**.
+3. A modal can't stand alone, unless the verb is already understood.
+   - **Can** you swim? — Yes, I **can**.
+
+## 3. Meanings
+
+| Meaning | Modals | Example |
+| :--- | :--- | :--- |
+| **Ability** | can, could | She **can** speak three languages. |
+| **Permission** | can, could, may | **May** I come in? *(may = more formal)* |
+| **Request** | can, could, will, would | **Could** you help me? |
+| **Possibility** | may, might, could | It **might** rain today. |
+| **Likelihood** | should, must | He **should** be home by now. *(probably)* / She **must** be tired. *(almost sure)* |
+| **Advice** | should, ought to | You **should** try the lasagna. |
+| **Obligation** | must, have to, need to | You **must** wash your hands. |
+| **Habit (past)** | would, used to | I **would** walk to school every day. |
+
+## 4. Questions and Negatives
+- **Question:** modal + subject + base verb → **Can** you swim?
+- **Negative:** modal + **not** → You **shouldn't** go. / I **can't** (**cannot**) swim.
+- **Short answer:** Yes, I **can**. / No, I **can't**.
+
+⚠️ *have to* and *need to* are not true modals — they use **do**:
+- **Do** you **have to** go? / You **don't need to** come.
+
+## 5. Modals and Time
+
+| Time | Pattern | Example |
+| :--- | :--- | :--- |
+| Present / future | modal + V | I **can help** tomorrow. |
+| Continuous | modal + **be** + V-ing | I **should be going**. |
+| Past | modal + **have** + V₃ | I **should have called** earlier. |
+| Past continuous | modal + **have been** + V-ing | She **must have been sleeping**. |
+| Simple past | could / would + V | I **could run** fast as a kid. |
+
+⚠️ Always **have** — even with he / she:
+
+✅ She should **have** gone.
+
+❌ She should ~~has~~ gone.
+
+## 6. Semi-Modals
+They work like modals but have normal verb forms.
+
+| Semi-modal | Meaning | Example |
+| :--- | :--- | :--- |
+| **have to** | obligation | She **has to** wait. |
+| **need to** | necessity | You **need to** be here at 8. |
+| **ought to** | advice (like *should*) | You **ought to** apply. |
+| **used to** | past habit / state | I **used to** live there. |
+| **shall** | offer (rare) | **Shall** I open the window? |
+
+## 7. Quick Tips
+- ✅ modal + **base verb**, always.
+- **may** is more formal than **can** for permission.
+- **must not** = forbidden. **don't have to** = not necessary.
+- **must** has no past form → use **had to**.
+- **should** / **must** can also mean *probably* / *surely* (likelihood).
 
 ---
 
-## 2. اجازه (Permission)
-
-| Modal | مثال | توضیح |
-|-------|------|-------|
-| **can** | You **can** have more cake. | غیررسمی، رایج |
-| **may** | You **may** take as much as you like. | رسمی‌تر |
-| **could** | **Could** I have another slice? | مودبانه (در سوال) |
-
----
-
-## 3. درخواست (Requests)
-
-| Modal | مثال | درجه ادب |
-|-------|------|-----------|
-| **can** | **Can** you give me a ride? | معمولی |
-| **could** | **Could** you give me a ride? | مودبانه‌تر |
-| **will** | **Will** you open the window? | مستقیم (برای نزدیکان) |
-| **would** | **Would** you email James for me? | بسیار مودبانه و رسمی |
-
----
-
-## 4. پیشنهاد کمک (Offers)
-
-| Modal | مثال |
-|-------|------|
-| **can** | **Can** I do anything for you? |
-| **may** | **May** I open the door for you? (رسمی) |
-| **shall** | **Shall** I carry one of those for you? |
-
----
-
-## 5. پیشنهاد و نصیحت (Suggestions & Advice)
-
-- **should** = باید، توصیه قوی  
-  *You **should** go to the doctor.*  
-  *You **should** read this book.*
-
-- **could** = می‌توانی (یک پیشنهاد ملایم)  
-  *You **could** go to the doctor.*  
-  *You **could** try this book.*
-
----
-
-## 6. الزام و اجبار (Obligation)
-
-| Modal | مثال |
-|-------|------|
-| **must** (مثبت) | You **must** do your homework. |
-| **must not / mustn't** (منفی) | You **must not** do that. |
-
-> **must** برای اجبار از طرف گوینده (خیلی قوی)
-
----
-
-## 7. نتیجه‌گیری منطقی (Logical Deductions)
-
-| Modal | معنی | مثال |
-|-------|------|------|
-| **can't** | نمی‌تواند باشد که | It **can't** be Jane because she's on vacation. |
-| **could / may** | شاید، ممکن است | It **could** be Dave. / It **may** be Dave. |
-
----
-
-## 💡 نکات سریع (Quick Tips)
-
-- **منفی کردن:** مستقیماً `modal + not` اضافه کنید (cannot, must not, should not).
-- **سوالی کردن:** modal را به اول جمله ببرید: *Can you help me?*
+*Based on: [Grammarly — Modal Verbs](https://www.grammarly.com/blog/parts-of-speech/modal-verbs/)*
