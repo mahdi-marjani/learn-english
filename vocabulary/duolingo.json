@@ -6363,6 +6363,65 @@
               "phonetic": "/ˈɡɑːrlɪk/",
               "mean_fa": "",
               "mean_en": "<br> <img src='images/garlic.jpg' alt='garlic' width='200'>"
+            },
+            {
+              "word": "thriller (noun)",
+              "phonetic": "/ˈθrɪlər/",
+              "mean_fa": "",
+              "mean_en": "a book, play or film with an exciting story, especially one about crime or spying: a spy thriller - a thriller writer"
+            },
+            {
+              "word": "show (noun)",
+              "phonetic": "/ʃoʊ/",
+              "mean_fa": "",
+              "mean_en": "1. something that you watch at the theatre or on television: a comedy show - Did you enjoy the show? <br> 2. a group of things in one place that people go to see: a flower show - The paintings are on show at National Gallery until 15 May"
+            }
+          ]
+        },
+        {
+          "heading": "Tournament",
+          "words": [
+            {
+              "word": "tournament (noun)",
+              "phonetic": "/ˈtʊrnəmənt/",
+              "mean_fa": "",
+              "mean_en": "a competition for teams or single players in which a series of games is played, and the winners of each game play against each other until only one winner is left: a tennis/chess/golf tournament"
+            },
+            {
+              "word": "World Cup (noun)",
+              "phonetic": "/ˌwɜːrld ˈkʌp/",
+              "mean_fa": "",
+              "mean_en": "a sports competition between national teams from many countries, held every four years, especially in football (soccer): Brazil has won the World Cup five times"
+            },
+            {
+              "word": "champion (noun)",
+              "phonetic": "/ˈtʃæmpiən/",
+              "mean_fa": "",
+              "mean_en": "a winner of a competition: a chess champion - the world champion"
+            },
+            {
+              "word": "root (verb)",
+              "phonetic": "/ruːt/",
+              "mean_fa": "",
+              "mean_en": "1. to grow roots; to cause or encourage a plant to grow roots <br> 2. to search for something by moving things or turning things over: pigs rooting for food - Who's been rooting around in my desk? <br> `root for somebody` (informal) to support or encourage someone in a sports competition or when they are in a difficult situation: We're rooting for the Bulls - Good luck _ I'm rooting for you!"
+            },
+            {
+              "word": "elegance (noun)",
+              "phonetic": "/ˈel.ə.ɡəns/",
+              "mean_fa": "",
+              "mean_en": "the quality of being attractive and showing a good sense of style: the elegance of her clothes"
+            },
+            {
+              "word": "shot (verb)",
+              "phonetic": "/ʃɑːt/",
+              "mean_fa": "",
+              "mean_en": "past simple and past participle of shoot"
+            },
+            {
+              "word": "spin (noun)",
+              "phonetic": "/spɪn/",
+              "mean_fa": "",
+              "mean_en": "the movement of something turning round very quickly"
             }
           ]
         }

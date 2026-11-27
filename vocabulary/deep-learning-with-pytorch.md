@@ -341,7 +341,7 @@
 - `to be shaped`  <br> شکل گرفتن
 - `moves us closer`  <br> ما را به هدف نزدیک‌تر می‌کند
 - `comprehensive (adjective)`  /ˌkɑːm.prəˈhen.sɪv/ <br> complete and including everything that is necessary: comprehensive guide
-- `solution`  <br> راه‌حل
+- `solution (noun)`  /səˈluːʃn/ <br> the answer to a question or problem: I can't find a solution to this problem
 - `lung`  /lʌŋ/ <br> ریه
 - `difficult`  <br> hard
 - `motivation`  /ˌmoʊ.t̬ɪˈveɪ.ʃən/ <br> a reason or reasons for doing something

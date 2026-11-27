@@ -1,10 +1,10 @@
 # Duolingo - Vocabulary
 
-**Total words: 1027**
+**Total words: 1036**
 
 ## 📑 Table of Contents
 
-- [SECTION 1 (1027 words)](#section-1-1027-words)
+- [SECTION 1 (1036 words)](#section-1-1036-words)
   - [Solo trip (36 words)](#solo-trip-36-words)
   - [Delivery (30 words)](#delivery-30-words)
   - [At School (36 words)](#at-school-36-words)
@@ -44,11 +44,12 @@
   - [Technology (17 words)](#technology-17-words)
   - [Politics (37 words)](#politics-37-words)
   - [Fears (26 words)](#fears-26-words)
-  - [Cinema (22 words)](#cinema-22-words)
+  - [Cinema (24 words)](#cinema-24-words)
+  - [Tournament (7 words)](#tournament-7-words)
 
 ---
 
-## SECTION 1 (1027 words)
+## SECTION 1 (1036 words)
 
 ### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1133,7 +1134,7 @@
 - `thank God`  <br> thank goodness
 - `ocean (noun)`  /ˈoʊ.ʃən/ <br> a very big sea: the Atlantic Ocean
 
-### Cinema (22 words)
+### Cinema (24 words)
 - `character (noun)`  /ˈkærəktər/ <br> 1. (no plural) the qualities that make somebody or something different from other people or things: He has a strong character - The new factory will change the character of the village <br> 2. (plural characters) a person in a book, play or film: Homer Simpson is a famous cartoon character
 - `animated movie (noun)`  <br> cartoon
 - `director (noun)`  /daɪˈrektər/ <br> 1. a person who controls a business or a group of people <br> 2. a person in charge of a film or play who tells the actors what to do
@@ -1156,4 +1157,15 @@
 - `customer (noun)`  /ˈkʌstəmər/ <br> a person who buys things from a shop
 - `handful (noun)`  /ˈhændfʊl/ <br> 1. as much as you can hold in one hand: a handful of stones <br> 2. a small number: Only a handful of people came to the meeting
 - `garlic (noun)`  /ˈɡɑːrlɪk/ <br> <br> <img src='images/garlic.jpg' alt='garlic' width='200'>
+- `thriller (noun)`  /ˈθrɪlər/ <br> a book, play or film with an exciting story, especially one about crime or spying: a spy thriller - a thriller writer
+- `show (noun)`  /ʃoʊ/ <br> 1. something that you watch at the theatre or on television: a comedy show - Did you enjoy the show? <br> 2. a group of things in one place that people go to see: a flower show - The paintings are on show at National Gallery until 15 May
+
+### Tournament (7 words)
+- `tournament (noun)`  /ˈtʊrnəmənt/ <br> a competition for teams or single players in which a series of games is played, and the winners of each game play against each other until only one winner is left: a tennis/chess/golf tournament
+- `World Cup (noun)`  /ˌwɜːrld ˈkʌp/ <br> a sports competition between national teams from many countries, held every four years, especially in football (soccer): Brazil has won the World Cup five times
+- `champion (noun)`  /ˈtʃæmpiən/ <br> a winner of a competition: a chess champion - the world champion
+- `root (verb)`  /ruːt/ <br> 1. to grow roots; to cause or encourage a plant to grow roots <br> 2. to search for something by moving things or turning things over: pigs rooting for food - Who's been rooting around in my desk? <br> `root for somebody` (informal) to support or encourage someone in a sports competition or when they are in a difficult situation: We're rooting for the Bulls - Good luck _ I'm rooting for you!
+- `elegance (noun)`  /ˈel.ə.ɡəns/ <br> the quality of being attractive and showing a good sense of style: the elegance of her clothes
+- `shot (verb)`  /ʃɑːt/ <br> past simple and past participle of shoot
+- `spin (noun)`  /spɪn/ <br> the movement of something turning round very quickly
 ---
