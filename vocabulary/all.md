@@ -1,6 +1,6 @@
 # All Vocabulary
 
-**Total words: 2475**
+**Total words: 2478**
 
 ## 📑 Table of Contents
 
@@ -24,8 +24,8 @@
     - [Chapter 2: Pretrained networks (225 words)](#chapter-2-pretrained-networks-225-words)
     - [Chapter 3: It starts with a tensor (181 words)](#chapter-3-it-starts-with-a-tensor-181-words)
     - [Chapter 4: Real-world data representation using tensors (39 words)](#chapter-4-real-world-data-representation-using-tensors-39-words)
-- [Duolingo - Vocabulary (1036 words)](#duolingo---vocabulary-1036-words)
-  - [SECTION 1 (1036 words)](#section-1-1036-words)
+- [Duolingo - Vocabulary (1039 words)](#duolingo---vocabulary-1039-words)
+  - [SECTION 1 (1039 words)](#section-1-1039-words)
     - [Solo trip (36 words)](#solo-trip-36-words)
     - [Delivery (30 words)](#delivery-30-words)
     - [At School (36 words)](#at-school-36-words)
@@ -66,7 +66,7 @@
     - [Politics (37 words)](#politics-37-words)
     - [Fears (26 words)](#fears-26-words)
     - [Cinema (24 words)](#cinema-24-words)
-    - [Tournament (7 words)](#tournament-7-words)
+    - [Tournament (10 words)](#tournament-10-words)
 - [General - Vocabulary (61 words)](#general---vocabulary-61-words)
   - [game (5 words)](#game-5-words)
   - [news (6 words)](#news-6-words)
@@ -1507,9 +1507,9 @@
 
 ---
 
-## Duolingo - Vocabulary (1036 words)
+## Duolingo - Vocabulary (1039 words)
 
-### SECTION 1 (1036 words)
+### SECTION 1 (1039 words)
 
 #### Solo trip (36 words)
 - `fare`  /fer/ <br> the money that you pay to travel by bus, train, plane, etc.: My bus fare has gone up
@@ -1542,7 +1542,7 @@
 - `in (preposition)`  <br> 1. a word that shows where somebody or something is: a country in Africa - He put his hand in the water - She was lying in bed <br> 2. making all or part of something: There are 100 centimetres in a metre <br> 3. a word that shows when something happens: My birthday is in May - He started school in 1987 <br> 4. a word that shows how long something takes: I'll be ready in ten minutes <br> 5. a word that shows what clothes somebody is wearing: He was dressed in a suit <br> 6. a word that shows how somebody or something is: This room is in a mess - Jenny was in tears (= she was crying) - Sit in a circle <br> 7. a word that shows somebody's job: He's in the army <br> 8. a word that shows in what way or in what language: Write your name in capital letters - They were speaking in French
 - `in (adverb)`  <br> 1. to a place, from outside: I opened the door and went in (OPPOSITE: out) <br> 2. at home or at work: Nobody was in when we called (OPPOSITE: out)
 - `on (preposition, adverb)`  <br> 1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> `on and on` without stopping: He went (= talked) on and on about his girlfriend
-- `couch`  <br> a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
+- `couch (noun)`  /kaʊtʃ/ <br> a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>
 - `snack`  /snæk/ <br> a small quick meal: We had a snack on the train
 - `staff`  /stæf/ <br> the people who work in a place: The hotel staff were very friendly
 - `homesick`  /ˈhoʊmsɪk/ <br> sad because you are away from home
@@ -2620,7 +2620,7 @@
 - `thriller (noun)`  /ˈθrɪlər/ <br> a book, play or film with an exciting story, especially one about crime or spying: a spy thriller - a thriller writer
 - `show (noun)`  /ʃoʊ/ <br> 1. something that you watch at the theatre or on television: a comedy show - Did you enjoy the show? <br> 2. a group of things in one place that people go to see: a flower show - The paintings are on show at National Gallery until 15 May
 
-#### Tournament (7 words)
+#### Tournament (10 words)
 - `tournament (noun)`  /ˈtʊrnəmənt/ <br> a competition for teams or single players in which a series of games is played, and the winners of each game play against each other until only one winner is left: a tennis/chess/golf tournament
 - `World Cup (noun)`  /ˌwɜːrld ˈkʌp/ <br> a sports competition between national teams from many countries, held every four years, especially in football (soccer): Brazil has won the World Cup five times
 - `champion (noun)`  /ˈtʃæmpiən/ <br> a winner of a competition: a chess champion - the world champion
@@ -2628,6 +2628,9 @@
 - `elegance (noun)`  /ˈel.ə.ɡəns/ <br> the quality of being attractive and showing a good sense of style: the elegance of her clothes
 - `shot (verb)`  /ʃɑːt/ <br> past simple and past participle of shoot
 - `spin (noun)`  /spɪn/ <br> the movement of something turning round very quickly
+- `athlete (noun)`  /ˈæθliːt/ <br> a person who is good at sports like running or jumping, especially one who takes part in sports competitions: Athletes from all over the world go to the Olympic Games
+- `skip (verb)`  /skɪp/ <br> 1. to move along quickly with little jumps from one foot to the other: The children were skipping along the road <br> 2. to jump many times over a rope that is turning <br> 3. to not do or have something that you should do or have: I skipped my class today and went swimming
+- `Olympics (noun)`  /oʊˈlɪm.pɪks/ <br> an international sports competition that is organized every four years in a different country
 ---
 
 ---

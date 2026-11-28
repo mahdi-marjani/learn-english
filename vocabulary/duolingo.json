@@ -188,8 +188,8 @@
               "mean_en": "1. used for showing where something is: Your book is on the table - The number is on the door - There is a good film on TV tonight - I've got a cut on my hand <br> 2. used for showing when: My birthday is on 6 May - I'll see you on Monday <br> 3. used with ways of travelling and types of travel: He got on the train - I came here on foot (= walking) <br> 4. used for showing that somebody or something continues: You can't stop here _ drive on <br> 5. working; being used: All the lights were on (OPPOSITE: off) <br> 6. using something: I bought it on the Internet - I was on the phone to Jania - He saw it on TV <br> 7. about: a book on cars <br> 8. covering your body: Put your hat on <br> 9. happening: What's on at the cinema? <br> 10. When somethings happens: She telephoned me on her return from New York <br> `on and on` without stopping: He went (= talked) on and on about his girlfriend"
             },
             {
-              "word": "couch",
-              "phonetic": "",
+              "word": "couch (noun)",
+              "phonetic": "/kaʊtʃ/",
               "mean_fa": "",
               "mean_en": "a sofa <br> <img src='images/couch.jpg' alt='couch' width='200'>"
             },
@@ -6422,6 +6422,24 @@
               "phonetic": "/spɪn/",
               "mean_fa": "",
               "mean_en": "the movement of something turning round very quickly"
+            },
+            {
+              "word": "athlete (noun)",
+              "phonetic": "/ˈæθliːt/",
+              "mean_fa": "",
+              "mean_en": "a person who is good at sports like running or jumping, especially one who takes part in sports competitions: Athletes from all over the world go to the Olympic Games"
+            },
+            {
+              "word": "skip (verb)",
+              "phonetic": "/skɪp/",
+              "mean_fa": "",
+              "mean_en": "1. to move along quickly with little jumps from one foot to the other: The children were skipping along the road <br> 2. to jump many times over a rope that is turning <br> 3. to not do or have something that you should do or have: I skipped my class today and went swimming"
+            },
+            {
+              "word": "Olympics (noun)",
+              "phonetic": "/oʊˈlɪm.pɪks/",
+              "mean_fa": "",
+              "mean_en": "an international sports competition that is organized every four years in a different country"
             }
           ]
         }
